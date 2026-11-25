@@ -1,0 +1,25 @@
+name: Validate pull request
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Validate person files
+        run: node scripts/validate.mjs
+      - name: Fetch prices
+        run: python scripts/fetch_prices.py
+      - name: Build every life (fails if the model throws)
+        run: node scripts/daily.mjs

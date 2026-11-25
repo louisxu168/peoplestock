@@ -1,0 +1,82 @@
+name: Daily update and deploy
+
+# Every weekday after the US market closes: fetch fresh prices, rebuild, publish the site,
+# and open an issue for each new big move that no sourced event explains.
+on:
+  schedule:
+    - cron: "30 22 * * 1-5"
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+  issues: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Validate person files
+        run: node scripts/validate.mjs
+
+      - name: Fetch prices
+        run: python scripts/fetch_prices.py
+
+      - name: Daily report
+        run: |
+          node scripts/daily.mjs
+          node scripts/daily.mjs --json > daily.json
+
+      - name: Open issues for unexplained moves
+        if: github.event_name != 'push'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          node -e '
+            const { moves } = JSON.parse(require("fs").readFileSync("daily.json", "utf8"));
+            for (const m of moves) console.log([m.id, m.name, m.date, (m.change * 100).toFixed(1), m.symbols.join("/")].join("\t"));
+          ' | while IFS=$'\t' read -r id name date change symbols; do
+            title="Unexplained move: $name $change% on $date"
+            if [ -z "$(gh issue list --state all --search "\"$title\" in:title" --json number --jq '.[0].number')" ]; then
+              gh issue create --title "$title" --label "unexplained-move" --body "The life market cap of **$name** moved **$change%** on **$date** ($symbols) and no sourced event explains it.
+
+          If you know what happened, add an event to \`data/people/$id.json\` with a source and open a pull request. See CONTRIBUTING.md.
+
+          Please do not guess: an event without a source will not be merged." || true
+            fi
+          done
+
+      - name: Assemble site
+        run: |
+          mkdir -p _site
+          cp -r index.html style.css src data docs _site/
+          rm -f daily.json
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
