@@ -66,7 +66,7 @@ async function boot() {
   } catch (err) {
     console.error(err); $('boot').innerHTML = t('load_fail'); return;
   }
-  $('boot').hidden = true;
+  $('boot').hidden = true; syncChrome();
   state.cmp.ids = ORDER.slice(0, 4);
   window.addEventListener('hashchange', route);
   new ResizeObserver(resize).observe(wrap);
