@@ -1,0 +1,2075 @@
+{
+  "id": "ma",
+  "name": {
+    "en": "Jack Ma",
+    "zh": "马云"
+  },
+  "ticker": "JACK",
+  "born": "1964-09-10",
+  "color": "#FF9F43",
+  "initials": "JM",
+  "tagline": {
+    "en": "An English teacher who built China's biggest online marketplace, fell from favour, and came back quietly",
+    "zh": "从英语老师到中国最大电商的创始人，经历跌落，又低调归来"
+  },
+  "tags": [
+    {
+      "en": "Alibaba founder",
+      "zh": "阿里巴巴创始人"
+    },
+    {
+      "en": "Taobao",
+      "zh": "淘宝"
+    },
+    {
+      "en": "Ant Group",
+      "zh": "蚂蚁集团"
+    },
+    {
+      "en": "Teacher",
+      "zh": "教师"
+    }
+  ],
+  "privates": [
+    {
+      "label": {
+        "en": "Pre-IPO Alibaba stake + early savings (estimate)",
+        "zh": "阿里巴巴上市前股权 + 早期积蓄（估算）"
+      },
+      "until": "2014-09-18",
+      "anchors": [
+        [
+          "1988-09",
+          300
+        ],
+        [
+          "1995-04",
+          3000
+        ],
+        [
+          "1999-06-28",
+          20000
+        ],
+        [
+          "1999-10",
+          2000000
+        ],
+        [
+          "2000-01",
+          8000000
+        ],
+        [
+          "2004-02",
+          30000000
+        ],
+        [
+          "2005-08-11",
+          350000000
+        ],
+        [
+          "2007-11",
+          1500000000
+        ],
+        [
+          "2008-11",
+          800000000
+        ],
+        [
+          "2010-03",
+          1200000000
+        ],
+        [
+          "2012-09-18",
+          2800000000
+        ],
+        [
+          "2013-10",
+          7000000000
+        ],
+        [
+          "2014-05",
+          11000000000
+        ],
+        [
+          "2014-09-18",
+          13074391644
+        ]
+      ]
+    },
+    {
+      "label": {
+        "en": "Ant Group economic interest (private, about 8.8%; estimate)",
+        "zh": "蚂蚁集团经济权益（未上市，约 8.8%，估算）"
+      },
+      "from": "2011-05",
+      "anchors": [
+        [
+          "2011-05",
+          100000000
+        ],
+        [
+          "2014-10-16",
+          2000000000
+        ],
+        [
+          "2015-07",
+          3500000000
+        ],
+        [
+          "2016-04",
+          4500000000
+        ],
+        [
+          "2018-06",
+          8000000000
+        ],
+        [
+          "2019-12",
+          9000000000
+        ],
+        [
+          "2020-07-20",
+          15000000000
+        ],
+        [
+          "2020-10-26",
+          22000000000
+        ],
+        [
+          "2020-11-02",
+          22000000000
+        ],
+        [
+          "2020-12-31",
+          16000000000
+        ],
+        [
+          "2021-06",
+          13000000000
+        ],
+        [
+          "2021-12",
+          10000000000
+        ],
+        [
+          "2022-06",
+          7500000000
+        ],
+        [
+          "2023-07-08",
+          6900000000
+        ],
+        [
+          "2026-11",
+          7000000000
+        ]
+      ]
+    },
+    {
+      "label": {
+        "en": "Other wealth (cash from share sales, Yunfeng Capital and other holdings; estimate)",
+        "zh": "其他财富（售股所得现金、云锋基金及其他资产，估算）"
+      },
+      "from": "2014-09-19",
+      "anchors": [
+        [
+          "2014-09-19",
+          1000000000
+        ],
+        [
+          "2016",
+          1500000000
+        ],
+        [
+          "2018",
+          2500000000
+        ],
+        [
+          "2020-10",
+          3500000000
+        ],
+        [
+          "2021-12",
+          5500000000
+        ],
+        [
+          "2022-12",
+          6500000000
+        ],
+        [
+          "2024-06",
+          8800000000
+        ],
+        [
+          "2025-12",
+          9200000000
+        ],
+        [
+          "2026-11",
+          9300000000
+        ]
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "sym": "BABA",
+      "label": {
+        "en": "Alibaba stake",
+        "zh": "阿里巴巴持股"
+      },
+      "from": "2014-09-19",
+      "own": [
+        [
+          "2014-09",
+          0.078
+        ],
+        [
+          "2017-06",
+          0.07
+        ],
+        [
+          "2018-07",
+          0.064
+        ],
+        [
+          "2019-06",
+          0.062
+        ],
+        [
+          "2020-07",
+          0.048
+        ],
+        [
+          "2021-12",
+          0.043
+        ],
+        [
+          "2023-12",
+          0.04
+        ],
+        [
+          "2025-12",
+          0.038
+        ],
+        [
+          "2026-08-21",
+          0.038
+        ],
+        [
+          "2026-08-28",
+          0.037
+        ],
+        [
+          "2026-11",
+          0.037
+        ]
+      ],
+      "shares": [
+        [
+          "2014-09",
+          2465000000
+        ],
+        [
+          "2017-06",
+          2547000000
+        ],
+        [
+          "2018-07",
+          2590000000
+        ],
+        [
+          "2019-06",
+          2605000000
+        ],
+        [
+          "2019-12",
+          2680000000
+        ],
+        [
+          "2020-07",
+          2705000000
+        ],
+        [
+          "2021-12",
+          2710000000
+        ],
+        [
+          "2022-12",
+          2620000000
+        ],
+        [
+          "2023-12",
+          2530000000
+        ],
+        [
+          "2024-12",
+          2380000000
+        ],
+        [
+          "2025-12",
+          2370000000
+        ],
+        [
+          "2026-08-21",
+          2375000000
+        ],
+        [
+          "2026-08-28",
+          2465000000
+        ],
+        [
+          "2026-11",
+          2465000000
+        ]
+      ]
+    }
+  ],
+  "human": [
+    [
+      "1964-09-10",
+      10000
+    ],
+    [
+      "1984",
+      30000
+    ],
+    [
+      "1988",
+      60000
+    ],
+    [
+      "1995-04",
+      200000
+    ],
+    [
+      "1999-06-28",
+      1000000
+    ],
+    [
+      "2000-01",
+      5000000
+    ],
+    [
+      "2005-08-11",
+      20000000
+    ],
+    [
+      "2007-11",
+      30000000
+    ],
+    [
+      "2014-09-19",
+      150000000
+    ],
+    [
+      "2017",
+      250000000
+    ],
+    [
+      "2019-09-10",
+      200000000
+    ],
+    [
+      "2020-11-03",
+      100000000
+    ],
+    [
+      "2021-04-10",
+      60000000
+    ],
+    [
+      "2023-03-27",
+      80000000
+    ],
+    [
+      "2025-02-17",
+      120000000
+    ],
+    [
+      "2025-09-15",
+      140000000
+    ]
+  ],
+  "audience": [
+    [
+      "1964-09-10",
+      0
+    ],
+    [
+      "1995-04",
+      1000
+    ],
+    [
+      "1999-06-28",
+      20000
+    ],
+    [
+      "2003-05",
+      500000
+    ],
+    [
+      "2005-08",
+      3000000
+    ],
+    [
+      "2008",
+      10000000
+    ],
+    [
+      "2011",
+      20000000
+    ],
+    [
+      "2014-09",
+      40000000
+    ],
+    [
+      "2017",
+      60000000
+    ],
+    [
+      "2019-09",
+      70000000
+    ],
+    [
+      "2020-11",
+      75000000
+    ],
+    [
+      "2023",
+      72000000
+    ],
+    [
+      "2026-11",
+      72000000
+    ]
+  ],
+  "media": [
+    [
+      "1964-09-10",
+      0
+    ],
+    [
+      "1995-04",
+      0.05
+    ],
+    [
+      "1999-06-28",
+      0.5
+    ],
+    [
+      "2003-05",
+      2
+    ],
+    [
+      "2005-08",
+      6
+    ],
+    [
+      "2007-11",
+      10
+    ],
+    [
+      "2011",
+      12
+    ],
+    [
+      "2014-09",
+      35
+    ],
+    [
+      "2017",
+      35
+    ],
+    [
+      "2019-09",
+      32
+    ],
+    [
+      "2020-11",
+      50
+    ],
+    [
+      "2021-04",
+      40
+    ],
+    [
+      "2022",
+      15
+    ],
+    [
+      "2023-03",
+      20
+    ],
+    [
+      "2024",
+      10
+    ],
+    [
+      "2025-02",
+      22
+    ],
+    [
+      "2026-11",
+      14
+    ]
+  ],
+  "chapters": [
+    {
+      "from": "1964-09-10",
+      "t": {
+        "en": "Hangzhou boyhood",
+        "zh": "杭州少年"
+      },
+      "desc": {
+        "en": "Grows up in Hangzhou, learns English from tourists, fails the entrance exam twice and gets into a teachers' college",
+        "zh": "在杭州长大，跟外国游客学英语，两次高考落榜后考进师范学院"
+      }
+    },
+    {
+      "from": "1988",
+      "t": {
+        "en": "English teacher",
+        "zh": "英语老师"
+      },
+      "desc": {
+        "en": "Teaches English, discovers the internet on a trip to the United States and starts China Pages",
+        "zh": "教英语，在一次赴美行程中接触互联网，创办中国黄页"
+      }
+    },
+    {
+      "from": "1999-06-28",
+      "t": {
+        "en": "Alibaba's start",
+        "zh": "创办阿里"
+      },
+      "desc": {
+        "en": "Founds Alibaba with 17 partners, raises money from Goldman and SoftBank, launches Taobao and Alipay and outlasts eBay",
+        "zh": "与 17 位伙伴创办阿里巴巴，拿到高盛和软银的投资，推出淘宝和支付宝，熬走 eBay"
+      }
+    },
+    {
+      "from": "2007-11",
+      "t": {
+        "en": "Building the empire",
+        "zh": "帝国成形"
+      },
+      "desc": {
+        "en": "A first listing in Hong Kong, Singles' Day, the Alipay dispute, the Yahoo buyback and the handover of the CEO job",
+        "zh": "子公司香港上市、双十一、支付宝争议、回购雅虎持股，以及交出 CEO 一职"
+      }
+    },
+    {
+      "from": "2014-09-19",
+      "t": {
+        "en": "Global icon",
+        "zh": "全球偶像"
+      },
+      "desc": {
+        "en": "The record New York IPO makes him China's best-known businessman; he retires as chairman at 55",
+        "zh": "创纪录的纽约上市让他成为中国最知名的企业家；55 岁卸任董事局主席"
+      }
+    },
+    {
+      "from": "2020-10-24",
+      "t": {
+        "en": "The reckoning",
+        "zh": "风暴之后"
+      },
+      "desc": {
+        "en": "A speech in Shanghai, the halted Ant IPO, a record antitrust fine and a long retreat from public view",
+        "zh": "上海的一场演讲、被叫停的蚂蚁上市、创纪录的反垄断罚单，以及长时间淡出公众视野"
+      }
+    },
+    {
+      "from": "2023-03-27",
+      "t": {
+        "en": "Quiet return",
+        "zh": "低调归来"
+      },
+      "desc": {
+        "en": "Back in China without a formal post, he reappears beside the country's leaders while Alibaba bets on AI",
+        "zh": "回到国内但不任正式职务，重新出现在最高领导层出席的场合，阿里巴巴则押注 AI"
+      }
+    }
+  ],
+  "events": [
+    {
+      "d": "1964-09-10",
+      "p": "day",
+      "cat": "origin",
+      "dir": 0,
+      "mag": 1,
+      "rep": 0,
+      "s": {
+        "en": "Born in Hangzhou",
+        "zh": "出生杭州"
+      },
+      "t": {
+        "en": "Born in Hangzhou, Zhejiang",
+        "zh": "出生于浙江杭州"
+      },
+      "summary": {
+        "en": "Ma Yun, later known abroad as Jack Ma, was born in Hangzhou, the capital of Zhejiang province. As a boy he practised English by talking with foreign visitors to the city.",
+        "zh": "马云出生在浙江省会杭州。少年时代，他靠和来杭州的外国游客聊天练习英语。"
+      },
+      "why": {
+        "en": "Starting point, not scored. Human capital begins far below the rich-country level used for other people in the model, because he was born in 1960s China; the figure is an estimate.",
+        "zh": "起点事件，不计分。他出生在 1960 年代的中国，人力资本的初始值远低于模型里发达国家人物的水平，数值为估算。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Jack Ma",
+          "url": "https://en.wikipedia.org/wiki/Jack_Ma",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1982",
+      "p": "year",
+      "cat": "education",
+      "dir": -1,
+      "mag": 1,
+      "rep": 0,
+      "s": {
+        "en": "Fails exam twice",
+        "zh": "高考落榜"
+      },
+      "t": {
+        "en": "Fails the college entrance exam, then fails again a year later",
+        "zh": "第一次高考落榜，次年再次落榜"
+      },
+      "summary": {
+        "en": "He sat China's national college entrance exam in 1982 and failed, with a very low mathematics score. He tried again in 1983 and failed a second time.",
+        "zh": "1982 年他第一次参加高考，数学分数极低而落榜；1983 年再考，仍然没有考上。"
+      },
+      "why": {
+        "en": "A small negative step at the time. He later told the story so often that it became part of his public image, but the model does not score that in advance. Only the year is known, so the date is year precision.",
+        "zh": "在当时是一次小挫折。这段经历后来被他反复讲述，成了个人形象的一部分，但模型不会提前计分。只能确认年份，因此日期精度为“年”。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Jack Ma",
+          "url": "https://en.wikipedia.org/wiki/Jack_Ma",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1984",
+      "p": "year",
+      "cat": "education",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Hangzhou Normal",
+        "zh": "考入杭师院"
+      },
+      "t": {
+        "en": "Admitted to Hangzhou Normal University on his third attempt",
+        "zh": "第三次高考后进入杭州师范学院"
+      },
+      "summary": {
+        "en": "On his third try he was admitted to the English department of Hangzhou Normal University (then Hangzhou Teachers College), after the department did not fill its places.",
+        "zh": "第三次高考后，他被杭州师范学院（今杭州师范大学）英语系录取，当时该系没有招满。"
+      },
+      "why": {
+        "en": "An education step: the human-capital target rises with a place at university, which was rare in China in the 1980s.",
+        "zh": "学历台阶：在 1980 年代的中国，上大学的机会很少，人力资本目标值随之上调。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Jack Ma",
+          "url": "https://en.wikipedia.org/wiki/Jack_Ma",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1988",
+      "p": "year",
+      "cat": "career",
+      "dir": 1,
+      "mag": 1,
+      "rep": 0,
+      "s": {
+        "en": "English teacher",
+        "zh": "当英语老师"
+      },
+      "t": {
+        "en": "Graduates and becomes an English lecturer in Hangzhou",
+        "zh": "大学毕业，在杭州当英语教师"
+      },
+      "summary": {
+        "en": "He graduated with a bachelor's degree in English in 1988 and took a job teaching English at what is now Hangzhou Dianzi University. In 1994 he also started a small translation agency.",
+        "zh": "1988 年他获得英语专业学士学位，到杭州电子工业学院（今杭州电子科技大学）教英语。1994 年，他还办了一家小型翻译社。"
+      },
+      "why": {
+        "en": "First job and first salary. Human capital rises slightly and a small savings anchor starts here (estimate).",
+        "zh": "第一份工作、第一份工资。人力资本小幅上升，模型从这里开始设置一个很小的积蓄锚点（估算）。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Jack Ma",
+          "url": "https://en.wikipedia.org/wiki/Jack_Ma",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1995-04",
+      "p": "month",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "China Pages",
+        "zh": "中国黄页"
+      },
+      "t": {
+        "en": "Sees the internet in the United States and starts China Pages",
+        "zh": "在美国第一次接触互联网，回国创办中国黄页"
+      },
+      "summary": {
+        "en": "In early 1995 he travelled to the United States on behalf of the Hangzhou city government and used the internet for the first time. Back home, in April, he opened a company that ran China Pages, one of the country's first commercial websites, listing Chinese businesses online.",
+        "zh": "1995 年初，他受杭州市政府委托赴美，第一次接触互联网。回国后，他在 4 月开办公司，运营中国最早的商业网站之一“中国黄页”，把中国企业的信息搬到网上。"
+      },
+      "why": {
+        "en": "His first internet venture. It stayed small, so the money effect is minor, but it is where the idea for Alibaba came from. Reputation coefficient +1%.",
+        "zh": "他的第一次互联网创业。规模一直不大，金额影响很小，但阿里巴巴的想法由此而来。口碑系数 +1%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Jack Ma",
+          "url": "https://en.wikipedia.org/wiki/Jack_Ma",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1998",
+      "p": "year",
+      "cat": "career",
+      "dir": 0,
+      "mag": 1,
+      "rep": 0,
+      "s": {
+        "en": "Ministry job",
+        "zh": "北京外经贸部"
+      },
+      "t": {
+        "en": "Runs an e-commerce unit under the foreign trade ministry in Beijing",
+        "zh": "在北京主持外经贸部下属的电子商务公司"
+      },
+      "summary": {
+        "en": "After leaving China Pages he moved to Beijing and, from 1998 to 1999, headed an IT company set up by the China International Electronic Commerce Center, an arm of the Ministry of Foreign Trade and Economic Cooperation.",
+        "zh": "离开中国黄页后，他去了北京，1998 至 1999 年主持由外经贸部下属中国国际电子商务中心设立的一家信息技术公司。"
+      },
+      "why": {
+        "en": "A salaried job inside a government body. No score; it matters as the experience he walked away from to start Alibaba.",
+        "zh": "体制内的一份受薪工作，不计分。它的意义在于：他正是放弃这份工作回杭州创办了阿里巴巴。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Jack Ma",
+          "url": "https://en.wikipedia.org/wiki/Jack_Ma",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1999-06-28",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.02,
+      "s": {
+        "en": "Founds Alibaba",
+        "zh": "创办阿里巴巴"
+      },
+      "t": {
+        "en": "Founds Alibaba in Hangzhou with 17 co-founders",
+        "zh": "与 17 位伙伴在杭州创办阿里巴巴"
+      },
+      "summary": {
+        "en": "He returned to Hangzhou and, with 17 friends and former students, started Alibaba.com, a website that connected Chinese exporters with buyers abroad. The group is known in China as the \"18 founders\". The team began work in his apartment earlier in the year; June 28, 1999 is the date the holding company was formed.",
+        "zh": "他回到杭州，和 17 位朋友、学生一起创办阿里巴巴网站，帮中国的出口企业对接海外买家，这批人后来被称为“十八罗汉”。团队当年早些时候就在他的公寓里开工，1999 年 6 月 28 日是控股公司成立的日期。"
+      },
+      "why": {
+        "en": "The turning point of his life: from here he holds founder equity. Financial capital switches from savings to an estimated stake value, and human capital starts climbing toward the level of a startup founder.",
+        "zh": "人生转折点：从这里起他持有创始人股权。金融资本从积蓄切换为估算的股权价值，人力资本开始向“创业公司创始人”的水平爬升。"
+      },
+      "fin": {
+        "en": "Founder equity enters the model (private-stage values are estimates interpolated between funding events).",
+        "zh": "创始人股权进入模型（私有阶段的价值为估算，按各次融资事件插值）。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Alibaba Group",
+          "url": "https://en.wikipedia.org/wiki/Alibaba_Group",
+          "type": "wiki"
+        },
+        {
+          "name": "SEC EDGAR · Alibaba IPO prospectus (424B4)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1577552/000119312514347620/d709111d424b4.htm",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Jack Ma",
+          "url": "https://en.wikipedia.org/wiki/Jack_Ma",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1999-10",
+      "p": "month",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Goldman's $5M",
+        "zh": "高盛领投 500 万"
+      },
+      "t": {
+        "en": "Goldman Sachs leads a first outside round of about $5 million",
+        "zh": "高盛领投第一轮外部融资，约 500 万美元"
+      },
+      "summary": {
+        "en": "A group of investors led by Goldman Sachs put about $5 million into the months-old company. It was Alibaba's first institutional money.",
+        "zh": "由高盛领投的一批投资者向这家成立仅几个月的公司投入约 500 万美元，这是阿里巴巴拿到的第一笔机构资金。"
+      },
+      "why": {
+        "en": "First priced round. The stake anchor rises to about $2 million; the valuation and his ownership share at the time are not public, so this is a rough estimate.",
+        "zh": "第一轮有定价的融资。持股价值锚点上调到约 200 万美元；当时的估值和他的持股比例没有公开，这是粗略估算。"
+      },
+      "fin": {
+        "en": "Estimated stake: about $2 million.",
+        "zh": "估算持股价值：约 200 万美元。"
+      },
+      "src": [
+        {
+          "name": "The Globe and Mail · How Goldman Sachs won and lost with Alibaba",
+          "url": "https://www.theglobeandmail.com/amp/report-on-business/international-business/asian-pacific-business/how-goldman-sachs-won-and-lost-with-alibaba/article19475021/",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Jack Ma",
+          "url": "https://en.wikipedia.org/wiki/Jack_Ma",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2000-01",
+      "p": "month",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.01,
+      "s": {
+        "en": "SoftBank's $20M",
+        "zh": "软银投 2000 万"
+      },
+      "t": {
+        "en": "SoftBank invests $20 million",
+        "zh": "软银投资 2000 万美元"
+      },
+      "summary": {
+        "en": "Masayoshi Son's SoftBank invested $20 million in Alibaba shortly before the dot-com crash. The money carried the company through the lean years that followed, and SoftBank was its largest shareholder at the time of the 2014 listing.",
+        "zh": "孙正义的软银在互联网泡沫破裂前不久向阿里巴巴投资 2000 万美元。这笔钱帮公司熬过了随后的寒冬；到 2014 年上市时，软银是第一大股东。"
+      },
+      "why": {
+        "en": "The stake anchor rises to about $8 million (estimate). The backing of a well-known investor also lifts human capital toward the funded-founder level.",
+        "zh": "持股价值锚点上调到约 800 万美元（估算）。有知名投资人背书，人力资本也向“获得融资的创始人”水平靠拢。"
+      },
+      "fin": {
+        "en": "Estimated stake: about $8 million.",
+        "zh": "估算持股价值：约 800 万美元。"
+      },
+      "src": [
+        {
+          "name": "TechNode · Alibaba's biggest stockholder invested in the company in 1999",
+          "url": "https://technode.com/2015/01/23/alibabas-biggest-stockholder-invested-company-1999/",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Jack Ma",
+          "url": "https://en.wikipedia.org/wiki/Jack_Ma",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2003-05",
+      "p": "month",
+      "cat": "career",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "Launches Taobao",
+        "zh": "淘宝上线"
+      },
+      "t": {
+        "en": "Launches Taobao to take on eBay in China",
+        "zh": "推出淘宝，在中国迎战 eBay"
+      },
+      "summary": {
+        "en": "Alibaba launched Taobao, a marketplace where individuals and small shops sell to consumers. It came out the same year eBay bought EachNet, then China's leading auction site, for $180 million. Taobao charged sellers no listing fees.",
+        "zh": "阿里巴巴推出面向个人卖家和小店铺的购物平台淘宝。同一年，eBay 以 1.8 亿美元收购了当时中国最大的拍卖网站易趣。淘宝不向卖家收取上架费。"
+      },
+      "why": {
+        "en": "The product that turned Alibaba from an export directory into China's main consumer marketplace. The value shows up in later funding rounds; the reputation coefficient gets +2% for taking on a much larger rival.",
+        "zh": "这款产品让阿里巴巴从外贸信息平台变成中国最主要的消费电商。价值体现在之后的融资估值里；敢于挑战体量大得多的对手，口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Taobao",
+          "url": "https://en.wikipedia.org/wiki/Taobao",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2004",
+      "p": "year",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "Alipay",
+        "zh": "支付宝"
+      },
+      "t": {
+        "en": "Alipay is set up as Alibaba's payment arm",
+        "zh": "支付宝成立，成为阿里巴巴的支付业务"
+      },
+      "summary": {
+        "en": "Alibaba set up Alipay as a payment service that holds a buyer's money until the goods arrive. It solved the lack of trust between strangers trading online and later grew into Ant Group.",
+        "zh": "阿里巴巴成立支付宝，由它先替买家保管货款，收到货后再付给卖家。这解决了网上陌生人交易缺乏信任的问题，后来发展为蚂蚁集团。"
+      },
+      "why": {
+        "en": "At this stage Alipay sat inside Alibaba, so its value is part of the Alibaba stake. Only the year is firmly sourced, so the date is year precision. Reputation coefficient +2%.",
+        "zh": "这一阶段支付宝属于阿里巴巴内部业务，价值包含在阿里巴巴股权里。只能确认年份，因此日期精度为“年”。口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Ant Group",
+          "url": "https://en.wikipedia.org/wiki/Ant_Group",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Alipay",
+          "url": "https://en.wikipedia.org/wiki/Alipay",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2005-08-11",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "Yahoo's $1B",
+        "zh": "雅虎 10 亿美元"
+      },
+      "t": {
+        "en": "Yahoo pays $1 billion and hands over Yahoo China for about 40% of Alibaba",
+        "zh": "雅虎以 10 亿美元加雅虎中国换取阿里巴巴约 40% 股份"
+      },
+      "summary": {
+        "en": "Yahoo agreed to invest $1 billion in cash and to fold its China business into Alibaba in exchange for a stake of about 40%. The deal made Yahoo the largest shareholder.",
+        "zh": "雅虎同意投入 10 亿美元现金，并把雅虎中国的业务并入阿里巴巴，换取约 40% 的股份。交易完成后雅虎成为第一大股东。"
+      },
+      "why": {
+        "en": "The deal implied a value of roughly $4 billion for Alibaba. The stake anchor rises to about $350 million, assuming he held a little under 10%; that share is an estimate.",
+        "zh": "这笔交易对应阿里巴巴约 40 亿美元的估值。持股价值锚点上调到约 3.5 亿美元，假设他当时持股略低于 10%，该比例为估算。"
+      },
+      "fin": {
+        "en": "Estimated stake: about $350 million.",
+        "zh": "估算持股价值：约 3.5 亿美元。"
+      },
+      "src": [
+        {
+          "name": "Al Jazeera · Yahoo to invest $1 billion in China firm (2005-08-11)",
+          "url": "https://www.aljazeera.com/news/2005/08/11/yahoo-to-invest-1-billion-in-china-firm/",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Alibaba Group",
+          "url": "https://en.wikipedia.org/wiki/Alibaba_Group",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2006-12",
+      "p": "month",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.03,
+      "s": {
+        "en": "eBay retreats",
+        "zh": "eBay 退出中国"
+      },
+      "t": {
+        "en": "eBay gives up running its own site in China",
+        "zh": "eBay 放弃在中国独立运营"
+      },
+      "summary": {
+        "en": "eBay announced it would fold its China business into a joint venture controlled by Tom Online, ending its stand-alone operation in the country. Between 2003 and 2005 Taobao's share of the market had risen from 8% to 59% while eBay's fell from 79% to 36%.",
+        "zh": "eBay 宣布把中国业务并入由 TOM 在线控股的合资公司，结束在中国的独立运营。2003 至 2005 年间，淘宝的市场份额从 8% 升到 59%，eBay 则从 79% 跌到 36%。"
+      },
+      "why": {
+        "en": "No money changed hands for him, but beating eBay made his name in China and abroad. Reputation coefficient +3%.",
+        "zh": "他本人没有任何资金进出，但击败 eBay 让他在国内外成名。口碑系数 +3%。"
+      },
+      "src": [
+        {
+          "name": "InfoWorld · Foreign Internet firms struggle in China",
+          "url": "https://www.infoworld.com/article/2659320/techology-business/foreign-internet-firms-struggle-in-china.html",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Taobao",
+          "url": "https://en.wikipedia.org/wiki/Taobao",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2007-11",
+      "p": "month",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Alibaba.com IPO",
+        "zh": "B2B 香港上市"
+      },
+      "t": {
+        "en": "Alibaba.com, the trade-site subsidiary, lists in Hong Kong",
+        "zh": "旗下 B2B 子公司阿里巴巴网络在香港上市"
+      },
+      "summary": {
+        "en": "The business-to-business subsidiary Alibaba.com raised about $1.5 billion in Hong Kong, the largest internet offering since Google's. The shares nearly tripled on the first day, November 6, and then fell back sharply over the following year. The parent group stayed private.",
+        "zh": "集团旗下的 B2B 子公司阿里巴巴网络在香港上市，募资约 15 亿美元，是谷歌之后规模最大的互联网 IPO。11 月 6 日上市首日股价接近发行价的三倍，随后一年大幅回落。母公司阿里巴巴集团仍未上市。"
+      },
+      "why": {
+        "en": "Only a subsidiary was listed, so the model keeps his wealth in the private anchor: about $1.5 billion at the peak and lower in 2008 (estimates). The subsidiary was taken private again in 2012.",
+        "zh": "上市的只是子公司，所以模型仍用私有锚点记录他的财富：高点约 15 亿美元，2008 年回落（均为估算）。该子公司在 2012 年被私有化。"
+      },
+      "fin": {
+        "en": "Estimated stake in the group: about $1.5 billion at the peak.",
+        "zh": "估算的集团持股价值：高点约 15 亿美元。"
+      },
+      "src": [
+        {
+          "name": "Al Jazeera · China's Alibaba soars in HK debut (2007-11-06)",
+          "url": "https://www.aljazeera.com/news/2007/11/6/chinas-alibaba-soars-in-hk-debut",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Alibaba Group",
+          "url": "https://en.wikipedia.org/wiki/Alibaba_Group",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2009-11-11",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "First Singles' Day",
+        "zh": "首个双十一"
+      },
+      "t": {
+        "en": "The first Singles' Day sale",
+        "zh": "第一届“双十一”促销"
+      },
+      "summary": {
+        "en": "Alibaba's Taobao Mall held a one-day discount sale on November 11, an unofficial holiday for single people. Sales were about 50 million yuan that day. By 2014 the event brought in about $9 billion in a day and had become the world's largest shopping event.",
+        "zh": "淘宝商城在 11 月 11 日“光棍节”这天做了一次全天打折促销，当天成交额约 5000 万元。到 2014 年，这一天的成交额约 90 亿美元，成为全球最大的购物节。"
+      },
+      "why": {
+        "en": "The idea is credited to Daniel Zhang, who later succeeded him, so the score for Ma is small: +1%. The commercial value is in the Alibaba stake.",
+        "zh": "这个点子归功于后来接替他的张勇，所以给马云的分数很小：+1%。商业价值已包含在阿里巴巴股权里。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Singles' Day",
+          "url": "https://en.wikipedia.org/wiki/Singles%27_Day",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Taobao",
+          "url": "https://en.wikipedia.org/wiki/Taobao",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2011-05",
+      "p": "month",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 4,
+      "rep": -0.03,
+      "s": {
+        "en": "Alipay dispute",
+        "zh": "支付宝股权争议"
+      },
+      "t": {
+        "en": "Yahoo discloses that Alipay was moved out of Alibaba",
+        "zh": "雅虎披露支付宝已被转出阿里巴巴"
+      },
+      "summary": {
+        "en": "Yahoo disclosed that ownership of Alipay had been transferred from Alibaba Group to a Chinese company controlled by Ma, and said the board and shareholders had not approved it. Ma said the board had been informed and that the change was needed to obtain a Chinese payment licence. On July 29, 2011 Alibaba, Yahoo and SoftBank settled: Alibaba would share in Alipay's profits and receive a payment, reported as 37.5% of Alipay's equity value, at a future IPO or sale.",
+        "zh": "雅虎披露，支付宝的所有权已从阿里巴巴集团转到马云控制的一家中国公司，并称此举未经董事会和股东批准。马云表示董事会知情，这样做是为了取得中国的支付牌照。2011 年 7 月 29 日，阿里巴巴、雅虎和软银达成协议：阿里巴巴继续分享支付宝的利润，并在支付宝未来上市或出售时获得一笔补偿，据报道为其股权价值的 37.5%。"
+      },
+      "why": {
+        "en": "The two sides gave different accounts and the model takes no side. The dispute hurt his standing with foreign investors for a time, so the reputation coefficient takes -3%. From here the model tracks his interest in the payment business as a separate private holding, starting small (estimate).",
+        "zh": "双方说法不一，模型不作判断。这场争议一度损害了他在海外投资者中的信誉，口碑系数 -3%。模型从这里起把他在支付业务中的权益单独列为一项私有资产，起始值很小（估算）。"
+      },
+      "src": [
+        {
+          "name": "SEC EDGAR · Yahoo press release on the Alipay agreement (8-K exhibit, 2011-07-29)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001011006/000119312511201837/dex991.htm",
+          "type": "filing"
+        },
+        {
+          "name": "PCWorld · Alibaba transferred Alipay ownership without Yahoo approval",
+          "url": "https://www.pcworld.com/article/491396/alibaba_transferred_alipay_ownership_without_yahoo_approval.html",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2012-09-18",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Yahoo buyback",
+        "zh": "回购雅虎持股"
+      },
+      "t": {
+        "en": "Alibaba buys back about half of Yahoo's stake for $7.6 billion",
+        "zh": "阿里巴巴以 76 亿美元回购雅虎约一半持股"
+      },
+      "summary": {
+        "en": "Alibaba completed the repurchase of 523 million of its shares from Yahoo at about $13.54 each, roughly $7.1 billion, plus a $550 million licence payment. Yahoo was left with about 23%. Earlier in the year the group had also taken the Hong Kong-listed Alibaba.com private.",
+        "zh": "阿里巴巴完成向雅虎回购 5.23 亿股，每股约 13.54 美元，合计约 71 亿美元，另付 5.5 亿美元技术许可费。交易后雅虎持股约 23%。同年早些时候，集团还把香港上市的阿里巴巴网络私有化。"
+      },
+      "why": {
+        "en": "The buyback price put a firm value on Alibaba shares. At $13.54 his roughly 206 million shares were worth about $2.8 billion (the share count is taken from the 2014 prospectus and applied backwards, so it is an estimate).",
+        "zh": "回购价给阿里巴巴股份定了一个明确的价格。按每股 13.54 美元计算，他约 2.06 亿股价值约 28 亿美元（股数取自 2014 年招股书并向前套用，属于估算）。"
+      },
+      "fin": {
+        "en": "Estimated stake: about $2.8 billion.",
+        "zh": "估算持股价值：约 28 亿美元。"
+      },
+      "src": [
+        {
+          "name": "SEC EDGAR · Yahoo press release on the share repurchase (8-K exhibit, 2012-09-18)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001011006/000119312512395778/d410760dex991.htm",
+          "type": "filing"
+        },
+        {
+          "name": "The Next Web · Alibaba completes initial $7.6 billion share repurchase",
+          "url": "https://thenextweb.com/news/alibaba-completes-initial-7-6-billion-share-repurchase-yahoo-stake",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2013-05-10",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Steps down as CEO",
+        "zh": "卸任 CEO"
+      },
+      "t": {
+        "en": "Hands the CEO job to Jonathan Lu and stays on as executive chairman",
+        "zh": "把 CEO 交给陆兆禧，自己留任董事局主席"
+      },
+      "summary": {
+        "en": "At the age of 48 he gave up the chief executive post, saying younger colleagues should run the company day to day. Jonathan Lu took over, and Ma remained executive chairman.",
+        "zh": "48 岁的他卸任首席执行官，表示日常经营应交给更年轻的同事。陆兆禧接任，马云继续担任董事局主席。"
+      },
+      "why": {
+        "en": "Scored as neutral: he kept control as chairman and through the Alibaba Partnership. A small +1% for an orderly handover.",
+        "zh": "记为中性：他以主席身份并通过阿里巴巴合伙人制度继续掌握控制权。交接有序，口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Jack Ma",
+          "url": "https://en.wikipedia.org/wiki/Jack_Ma",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2014-09-19",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.04,
+      "s": {
+        "en": "Record NYSE IPO",
+        "zh": "纽交所上市"
+      },
+      "t": {
+        "en": "Alibaba lists in New York in the largest IPO on record",
+        "zh": "阿里巴巴在纽约上市，创下全球最大 IPO 纪录"
+      },
+      "summary": {
+        "en": "Alibaba priced its shares at $68 and raised about $25 billion including the over-allotment, the largest IPO in history at the time. The stock closed its first day at $93.89, up 38%. Ma sold a small part of his holding in the offering and owned about 7.8% afterwards, which made him the richest person in China.",
+        "zh": "阿里巴巴以每股 68 美元定价，连同超额配售共募资约 250 亿美元，是当时史上最大的 IPO。首日收于 93.89 美元，上涨 38%。马云在发行中出售了少量股份，上市后持股约 7.8%，成为中国首富。"
+      },
+      "why": {
+        "en": "Anchor switch: from this day financial capital = ownership × shares outstanding × the daily close. About 192 million shares at the $68 offer price were worth $13.1 billion. Reputation coefficient +4% for a listing that made him known worldwide.",
+        "zh": "锚点切换：从这一天起，金融资本 = 持股比例 × 总股本 × 当日收盘价。约 1.92 亿股按 68 美元发行价计算约值 131 亿美元。这次上市让他闻名全球，口碑系数 +4%。"
+      },
+      "fin": {
+        "en": "Priced daily from the BABA quote from here on (share counts are in ADS terms; one ADS is now eight ordinary shares).",
+        "zh": "此后按 BABA 日线逐日计价（股本按 ADS 口径计算，目前 1 份 ADS 对应 8 股普通股）。"
+      },
+      "src": [
+        {
+          "name": "SEC EDGAR · Alibaba IPO prospectus (424B4)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1577552/000119312514347620/d709111d424b4.htm",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Alibaba Group",
+          "url": "https://en.wikipedia.org/wiki/Alibaba_Group",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · BABA price history",
+          "url": "https://finance.yahoo.com/quote/BABA/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2017-01-09",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "Meets Trump",
+        "zh": "会见特朗普"
+      },
+      "t": {
+        "en": "Meets President-elect Donald Trump at Trump Tower",
+        "zh": "在特朗普大厦会见候任总统特朗普"
+      },
+      "summary": {
+        "en": "He met Donald Trump in New York shortly before the inauguration to discuss creating jobs in the United States, including by helping American small businesses sell to Chinese consumers through Alibaba.",
+        "zh": "就职典礼前不久，他在纽约会见特朗普，讨论美国小企业如何通过阿里巴巴向中国消费者卖货、在美国创造就业。"
+      },
+      "why": {
+        "en": "A sign of how far his public standing had risen: he was received as an informal envoy of Chinese business. Small +1%; nothing here is priced by the stock.",
+        "zh": "这反映出他当时的公众地位：被当作中国商界的非正式代表接待。口碑系数小幅 +1%，股价对此没有反应。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Jack Ma",
+          "url": "https://en.wikipedia.org/wiki/Jack_Ma",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2018-09-10",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Succession plan",
+        "zh": "宣布传承计划"
+      },
+      "t": {
+        "en": "Announces he will hand the chairmanship to Daniel Zhang in a year",
+        "zh": "宣布一年后把董事局主席交给张勇"
+      },
+      "summary": {
+        "en": "On his 54th birthday, which is also Teachers' Day in China, he published a letter saying that chief executive Daniel Zhang would succeed him as chairman on September 10, 2019, and that he would return to education and philanthropy.",
+        "zh": "在 54 岁生日、也是中国的教师节这天，他发表公开信，宣布首席执行官张勇将在 2019 年 9 月 10 日接任董事局主席，自己将回归教育和公益。"
+      },
+      "why": {
+        "en": "Planned founder successions are rare among Chinese technology companies, and this one was announced a year ahead. The stock fell 3.7% that day, which the price carries; the reputation coefficient gets +2% for the planning.",
+        "zh": "中国科技公司里有计划的创始人交班并不多见，而这次提前一年公布。当天股价下跌 3.7%，已由股价反映；有序的安排带来口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Fortune · Alibaba CEO Daniel Zhang promoted to chairman (2018-09-10)",
+          "url": "https://fortune.com/2018/09/10/alibaba-ceo-chairman-daniel-zhang/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · BABA price history",
+          "url": "https://finance.yahoo.com/quote/BABA/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2019-09-10",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 4,
+      "rep": 0.03,
+      "s": {
+        "en": "Retires as chair",
+        "zh": "卸任董事局主席"
+      },
+      "t": {
+        "en": "Steps down as Alibaba chairman on the company's 20th anniversary",
+        "zh": "在阿里巴巴 20 周年之际卸任董事局主席"
+      },
+      "summary": {
+        "en": "On his 55th birthday he handed the chairmanship to Daniel Zhang at a large anniversary event in Hangzhou. He stayed on the board for one more year and remained a member of the Alibaba Partnership.",
+        "zh": "55 岁生日当天，他在杭州的周年庆典上把董事局主席一职交给张勇。此后他又留任董事一年，并继续担任阿里巴巴合伙人。"
+      },
+      "why": {
+        "en": "Scored as mixed for the model: his earning power as an operator ends, so the human-capital target is lowered, while leaving at the top of his fame adds +3% to the reputation coefficient.",
+        "zh": "在模型里好坏参半：作为经营者的赚钱能力到此为止，人力资本目标值下调；在声望最高时离开，口碑系数 +3%。"
+      },
+      "src": [
+        {
+          "name": "Al Jazeera · Alibaba set for 'big challenge' as flamboyant chairman Ma departs (2019-09-10)",
+          "url": "https://www.aljazeera.com/economy/2019/9/10/alibaba-set-for-big-challenge-as-flamboyant-chairman-ma-departs",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Jack Ma",
+          "url": "https://en.wikipedia.org/wiki/Jack_Ma",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2019-11",
+      "p": "month",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Hong Kong listing",
+        "zh": "回港二次上市"
+      },
+      "t": {
+        "en": "Alibaba adds a second listing in Hong Kong",
+        "zh": "阿里巴巴在香港二次上市"
+      },
+      "summary": {
+        "en": "Alibaba sold new shares in Hong Kong in a secondary listing that Wikipedia puts at about $12.9 billion, the largest share offering of 2019. Trading began on November 26.",
+        "zh": "阿里巴巴在香港发行新股完成二次上市，维基百科记载的募资额约为 129 亿美元，是 2019 年全球规模最大的股票发行。11 月 26 日开始交易。"
+      },
+      "why": {
+        "en": "Fully priced by the market, so no reputation shock. The new shares enlarge the share count slightly, which the anchors reflect.",
+        "zh": "完全由市场定价，不计口碑冲击。新股使总股本略有增加，股本锚点已反映。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Alibaba Group",
+          "url": "https://en.wikipedia.org/wiki/Alibaba_Group",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · BABA price history",
+          "url": "https://finance.yahoo.com/quote/BABA/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2020-10-24",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 5,
+      "rep": -0.03,
+      "s": {
+        "en": "Bund speech",
+        "zh": "外滩峰会演讲"
+      },
+      "t": {
+        "en": "Criticises financial regulation in a speech at the Bund Summit",
+        "zh": "在外滩金融峰会上发表批评金融监管的演讲"
+      },
+      "summary": {
+        "en": "Days before Ant Group's planned listing, he told a financial forum in Shanghai that Chinese banks worked with a \"pawnshop mentality\" that relied on collateral, and that the Basel rules on bank capital were suited to ageing financial systems rather than to China's. Senior officials also spoke at the event.",
+        "zh": "在蚂蚁集团计划上市前几天，他在上海的一场金融论坛上说，中国的银行延续着依赖抵押的“当铺思想”，巴塞尔协议更适合老化的金融体系而不适合中国。多位高层官员也在这场活动上发言。"
+      },
+      "why": {
+        "en": "The speech had no price effect on the day. Major outlets, citing unnamed sources, later reported that it angered regulators and contributed to what followed; that link has not been confirmed officially, and the model records it as reported, not established. The reputation coefficient takes -3% for the public criticism it drew in China.",
+        "zh": "演讲当天对股价没有影响。多家主要媒体随后援引未具名人士报道称，这次演讲触怒了监管层，并促成了后来的事态；这一因果关系没有得到官方确认，模型只把它记为“据报道”，而非定论。演讲在国内招致公开批评，口碑系数 -3%。"
+      },
+      "src": [
+        {
+          "name": "Caixin Global · Analysis of Jack Ma's Bund Summit speech (2020-10-26)",
+          "url": "https://www.caixinglobal.com/2020-10-26/analysis-jack-ma-needs-a-refresher-on-how-financial-regulation-works-101619050.html",
+          "type": "news"
+        },
+        {
+          "name": "South China Morning Post · Jack Ma urges financial regulation reform on eve of Ant Group's IPO",
+          "url": "https://www.scmp.com/economy/china-economy/article/3106949/jack-ma-urges-financial-regulation-reform-eve-ant-groups",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2020-11-03",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 5,
+      "rep": -0.05,
+      "s": {
+        "en": "Ant IPO halted",
+        "zh": "蚂蚁上市叫停"
+      },
+      "t": {
+        "en": "Ant Group's record IPO is suspended two days before trading",
+        "zh": "蚂蚁集团创纪录的 IPO 在上市前两天被暂停"
+      },
+      "summary": {
+        "en": "Ant Group was about to raise roughly $34.5 billion in Shanghai and Hong Kong at a valuation of about $315 billion. On November 2 regulators summoned Ma and Ant's two top executives to a meeting. The next day the Shanghai exchange suspended the listing, citing that meeting and changes in the regulatory environment for online lending, and the Hong Kong leg was suspended as well. Alibaba's New York shares fell 8.1%.",
+        "zh": "蚂蚁集团原计划在上海和香港募资约 345 亿美元，估值约 3150 亿美元。11 月 2 日，监管部门约谈了马云和蚂蚁的两位最高管理者。次日，上交所以这次约谈和网络小贷监管环境变化为由暂缓其上市，香港部分的发行也随之暂停。阿里巴巴美股当天下跌 8.1%。"
+      },
+      "why": {
+        "en": "The Alibaba price drop is in the stock. His Ant holding, about 8.8% by economic interest, was worth some $27 billion at the offer price. Because the shares never traded, the model values it at about $22 billion just before the suspension, which brings the total close to the $65.6 billion Forbes published that week, and lets the anchor fall steeply from here (estimates). The loss of standing goes beyond the money, so the reputation coefficient takes -5%.",
+        "zh": "阿里巴巴股价的下跌已由股票反映。他在蚂蚁的经济权益约 8.8%，按发行价计算约值 270 亿美元。由于这些股份从未上市交易，模型在暂停前按约 220 亿美元计价，使总值接近《福布斯》当周公布的 656 亿美元，并让这一锚点从这里大幅下行（均为估算）。地位上的损失超出金钱本身，口碑系数 -5%。"
+      },
+      "fin": {
+        "en": "Ant stake: about $22 billion before the suspension ($27 billion at the offer price), cut to about $16 billion by year-end (estimate).",
+        "zh": "蚂蚁持股：暂停前约 220 亿美元（按发行价为 270 亿美元），到年底下调至约 160 亿美元（估算）。"
+      },
+      "src": [
+        {
+          "name": "Al Jazeera · Listing interrupted: China suspends Ant Group's $37bn IPO (2020-11-03)",
+          "url": "https://www.aljazeera.com/economy/2020/11/3/listing-interrupted-ant-group-ipo-suspended-by-shanghai-exchange",
+          "type": "news"
+        },
+        {
+          "name": "Caixin Global · Jack Ma owns 8.8% of Ant Group but controls a majority (2020-08-26)",
+          "url": "https://www.caixinglobal.com/2020-08-26/revealed-jack-ma-only-owns-88-ant-group-but-controls-majority-of-company-101597315.html",
+          "type": "news"
+        },
+        {
+          "name": "Fortune · Ant Group IPO lifts Jack Ma's net worth (2020-10-26)",
+          "url": "https://fortune.com/2020/10/26/jack-ma-ant-ipo-net-worth/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · BABA price history",
+          "url": "https://finance.yahoo.com/quote/BABA/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2020-12-24",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "Antitrust probe",
+        "zh": "反垄断立案"
+      },
+      "t": {
+        "en": "China's market regulator opens an antitrust investigation into Alibaba",
+        "zh": "市场监管总局对阿里巴巴启动反垄断调查"
+      },
+      "summary": {
+        "en": "The State Administration for Market Regulation said it was investigating Alibaba for requiring merchants to sell only on its platforms, a practice known as \"choosing one from two\". On the same day financial regulators summoned Ant Group to discuss compliance. Alibaba's New York shares fell 13.3%.",
+        "zh": "国家市场监督管理总局宣布，就要求商家“二选一”的做法对阿里巴巴立案调查。同一天，金融监管部门约谈蚂蚁集团，讨论合规问题。阿里巴巴美股下跌 13.3%。"
+      },
+      "why": {
+        "en": "Fully priced by the market, so no extra reputation shock (rep = 0). His stake lost about $4 billion that day.",
+        "zh": "完全由市场定价，不再额外扣口碑（rep = 0）。他的持股当天缩水约 40 亿美元。"
+      },
+      "src": [
+        {
+          "name": "TechCrunch · China's e-commerce titan Alibaba hit with antitrust probe",
+          "url": "https://techcrunch.com/2020/12/23/alibaba-antitrust-probe",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · BABA price history",
+          "url": "https://finance.yahoo.com/quote/BABA/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2021-01-20",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Reappears on video",
+        "zh": "视频露面"
+      },
+      "t": {
+        "en": "Appears in a video call with rural teachers after about three months out of view",
+        "zh": "约三个月未公开露面后，通过视频与乡村教师见面"
+      },
+      "summary": {
+        "en": "He had made no public appearance since late October 2020, which led to wide media speculation about his whereabouts. On January 20 he spoke by video to teachers at an annual event of his foundation. Alibaba shares rose about 8% in Hong Kong and 5.5% in New York.",
+        "zh": "自 2020 年 10 月下旬起他没有公开露面，媒体对他的去向有诸多猜测。1 月 20 日，他在自己公益基金会的年度活动上通过视频向乡村教师讲话。阿里巴巴港股上涨约 8%，美股上涨 5.5%。"
+      },
+      "why": {
+        "en": "The price move is in the stock. A small +1% because the appearance ended the most extreme speculation; the model does not score the speculation itself.",
+        "zh": "股价变动已由股票反映。这次露面平息了最极端的猜测，口碑系数小幅 +1%；模型不对猜测本身计分。"
+      },
+      "src": [
+        {
+          "name": "TechCrunch · Alibaba shares jump on Jack Ma's first appearance in 3 months (2021-01-20)",
+          "url": "https://techcrunch.com/2021/01/20/jack-ma-resurfaces/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · BABA price history",
+          "url": "https://finance.yahoo.com/quote/BABA/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2021-04-10",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 4,
+      "rep": -0.03,
+      "s": {
+        "en": "Record fine",
+        "zh": "182 亿元罚单"
+      },
+      "t": {
+        "en": "Alibaba is fined a record 18.2 billion yuan for abusing market dominance",
+        "zh": "阿里巴巴因滥用市场支配地位被罚 182 亿元"
+      },
+      "summary": {
+        "en": "The market regulator fined Alibaba 18.2 billion yuan, about $2.8 billion and roughly 4% of its 2019 domestic revenue, finding that it had abused its dominant position since 2015 by restricting merchants from using rival platforms. Alibaba said it accepted the penalty. The shares rose 9.3% in New York on the next trading day.",
+        "zh": "市场监管总局对阿里巴巴处以 182 亿元罚款，约合 28 亿美元，相当于其 2019 年境内销售额的 4% 左右，认定其自 2015 年起限制商家在其他平台经营，滥用市场支配地位。阿里巴巴表示接受处罚。下一个交易日美股上涨 9.3%。"
+      },
+      "why": {
+        "en": "Investors had feared worse, hence the rise, which the stock carries. The formal finding concerns practices from the years when he was chairman, so the reputation coefficient takes -3%.",
+        "zh": "投资者原本担心更糟的结果，所以股价反而上涨，这已由股票反映。这一正式认定涉及他担任主席期间的经营做法，口碑系数 -3%。"
+      },
+      "src": [
+        {
+          "name": "Al Jazeera · China fines Alibaba record $2.75bn for anti-monopoly violations (2021-04-10)",
+          "url": "https://www.aljazeera.com/economy/2021/4/10/china-fines-alibaba-record-2-75bn-for-anti-monopoly-violations",
+          "type": "news"
+        },
+        {
+          "name": "Caixin Global · Alibaba fined $2.8 billion in landmark antitrust ruling (2021-04-10)",
+          "url": "https://www.caixinglobal.com/2021-04-10/alibaba-fined-28-billion-in-landmark-china-antitrust-ruling-101688439.html",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · BABA price history",
+          "url": "https://finance.yahoo.com/quote/BABA/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2022-11",
+      "p": "month",
+      "cat": "reputation",
+      "dir": 0,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Reported in Tokyo",
+        "zh": "据报旅居东京"
+      },
+      "t": {
+        "en": "The Financial Times reports he has been living in Tokyo for about six months",
+        "zh": "《金融时报》报道他已在东京居住约半年"
+      },
+      "summary": {
+        "en": "Citing people with knowledge of his whereabouts, the Financial Times reported in late November 2022 that he had spent about six months in Tokyo, keeping a low profile, with trips to other countries. Other outlets relayed the report; the model treats it as a report.",
+        "zh": "《金融时报》2022 年 11 月下旬援引知情人士报道称，他已在东京低调生活约半年，其间也前往其他国家。其他媒体转述了这一报道，模型只把它当作报道处理。"
+      },
+      "why": {
+        "en": "Recorded as a report, not as a confirmed fact, and not scored. It marks how far he had withdrawn from public life: the media baseline in the model is at its lowest since the 2014 listing.",
+        "zh": "作为媒体报道而非确认的事实记录，不计分。它标志着他淡出公众视野的程度：模型里的媒体热度基线降到 2014 年上市以来的最低点。"
+      },
+      "src": [
+        {
+          "name": "Fortune · Jack Ma found living in Japan (2022-11-30)",
+          "url": "https://fortune.com/2022/11/30/alibaba-jack-ma-living-in-japan/",
+          "type": "news"
+        },
+        {
+          "name": "The Jakarta Post / AFP · Jack Ma living in Japan after China tech crackdown: report",
+          "url": "https://www.thejakartapost.com/business/2022/11/30/jack-ma-living-in-japan-after-china-tech-crackdown-report",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2023-01-07",
+      "p": "day",
+      "cat": "career",
+      "dir": -1,
+      "mag": 4,
+      "rep": -0.01,
+      "s": {
+        "en": "Cedes Ant control",
+        "zh": "放弃蚂蚁控制权"
+      },
+      "t": {
+        "en": "Gives up control of Ant Group",
+        "zh": "不再是蚂蚁集团的实际控制人"
+      },
+      "summary": {
+        "en": "Ant Group announced that Ma and nine other individuals would vote their shares independently instead of acting together. His voting power fell from more than 50% to about 6.2%, and Ant said it no longer had a controlling shareholder. The economic interests of shareholders did not change.",
+        "zh": "蚂蚁集团宣布，马云和另外九名自然人今后各自独立行使表决权，不再一致行动。他的表决权从 50% 以上降到约 6.2%，蚂蚁表示公司不再有实际控制人。各股东的经济权益不变。"
+      },
+      "why": {
+        "en": "No money moved, so the Ant anchor is unchanged. Losing control of the company he built is a real loss of influence, so the human-capital target stays low and the reputation coefficient takes a small -1%.",
+        "zh": "没有资金变动，蚂蚁的锚点不变。失去对自己一手创办的公司的控制是实实在在的影响力损失，人力资本目标值维持低位，口碑系数小幅 -1%。"
+      },
+      "src": [
+        {
+          "name": "CNBC / Reuters · Ant Group founder Jack Ma to give up control in key revamp (2023-01-07)",
+          "url": "https://www.cnbc.com/2023/01/07/ant-group-founder-jack-ma-to-give-up-control-in-key-revamp-.html",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Ant Group",
+          "url": "https://en.wikipedia.org/wiki/Ant_Group",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2023-03-27",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Back in China",
+        "zh": "回到国内"
+      },
+      "t": {
+        "en": "Visits a school in Hangzhou after more than a year abroad",
+        "zh": "旅居海外一年多后现身杭州一所学校"
+      },
+      "summary": {
+        "en": "He visited the Yungu School in Hangzhou, which he and other Alibaba founders set up, and discussed education and artificial intelligence with its staff. Media reported it as his return after more than a year of travel overseas. The next day Alibaba announced a plan to split into six business groups, and its New York shares rose 14.3%.",
+        "zh": "他到访自己和阿里巴巴其他创始人创办的杭州云谷学校，与校方讨论教育和人工智能。媒体报道称，这是他在海外旅居一年多之后回国。次日，阿里巴巴宣布拆分为六大业务集团，美股上涨 14.3%。"
+      },
+      "why": {
+        "en": "The price jump belongs to the restructuring and is in the stock; reports that he helped design the plan were not confirmed by the company. His return was widely read as a sign of easing pressure on private business, so the reputation coefficient gets +2%.",
+        "zh": "股价的跳升来自重组方案，已由股票反映；有报道称他参与设计了这一方案，公司没有证实。他的回国被普遍看作民营企业压力缓和的信号，口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "VOA / Reuters · China's Alibaba to break up empire into six units as Jack Ma returns home",
+          "url": "https://www.voanews.com/a/china-s-alibaba-to-break-up-empire-into-six-units-as-jack-ma-returns-home-/7026183.html",
+          "type": "news"
+        },
+        {
+          "name": "China Daily · Alibaba announces historic restructuring (2023-03-28)",
+          "url": "https://www.chinadaily.com.cn/a/202303/28/WS6422edd6a31057c47ebb70ba.html",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · BABA price history",
+          "url": "https://finance.yahoo.com/quote/BABA/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2023-05-01",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "Tokyo professor",
+        "zh": "东大客座教授"
+      },
+      "t": {
+        "en": "Joins the University of Tokyo's Tokyo College as a visiting professor",
+        "zh": "出任东京大学东京学院客座教授"
+      },
+      "summary": {
+        "en": "Tokyo College announced that he had joined as a visiting professor from May 1, to advise on research, including sustainable agriculture and food production, and to give seminars on entrepreneurship. In April he had also been named an honorary professor at the University of Hong Kong.",
+        "zh": "东京大学东京学院宣布，他自 5 月 1 日起担任客座教授，为包括可持续农业和粮食生产在内的研究提供建议，并开设创业方面的研讨课。此前的 4 月，他还获聘为香港大学荣誉教授。"
+      },
+      "why": {
+        "en": "Honorary, low-paid posts: no financial effect. A small +1% for a new public role in teaching, the profession he started in.",
+        "zh": "这类职位偏荣誉性质、报酬不高，没有财务影响。他以教师这一老本行重新获得公开身份，口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "Tokyo College, University of Tokyo · Visiting Professor MA Yun (Jack MA) joins Tokyo College",
+          "url": "https://tc.u-tokyo.ac.jp/en/9351",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Jack Ma",
+          "url": "https://en.wikipedia.org/wiki/Jack_Ma",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2023-07-07",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Ant fined $985M",
+        "zh": "蚂蚁被罚并回购"
+      },
+      "t": {
+        "en": "Ant is fined 7.12 billion yuan and offers a buyback at a $78.5 billion valuation",
+        "zh": "蚂蚁被罚 71.2 亿元，并以 785 亿美元估值提出回购"
+      },
+      "summary": {
+        "en": "Financial regulators fined Ant Group and its units 7.12 billion yuan, about $985 million, for violations in areas including corporate governance, consumer protection and anti-money-laundering, which was widely reported as the end of its regulatory overhaul. The next day Ant offered to buy back up to 7.6% of its shares at a price that valued the company at about $78.5 billion, some 75% below the 2020 IPO valuation.",
+        "zh": "金融监管部门对蚂蚁集团及其子公司罚款 71.2 亿元，约合 9.85 亿美元，涉及公司治理、消费者保护、反洗钱等方面的违规；外界普遍把这看作其整改的收尾。次日，蚂蚁提出回购不超过 7.6% 的股份，对应公司估值约 785 亿美元，比 2020 年 IPO 时的估值低约 75%。"
+      },
+      "why": {
+        "en": "The buyback gives the first hard price for Ant since 2020. His 8.8% economic interest at that valuation is about $6.9 billion, which is the anchor the model uses (assuming his share is unchanged). No extra reputation shock.",
+        "zh": "这次回购给出了 2020 年以来蚂蚁的第一个明确价格。按这一估值，他 8.8% 的经济权益约值 69 亿美元，模型以此作为锚点（假设他的权益比例不变）。不额外计口碑冲击。"
+      },
+      "fin": {
+        "en": "Ant stake: about $6.9 billion at the buyback valuation.",
+        "zh": "蚂蚁持股：按回购估值约 69 亿美元。"
+      },
+      "src": [
+        {
+          "name": "The Globe and Mail / Reuters · Ant's surprise share buyback values firm at steep 75% discount to IPO",
+          "url": "https://www.theglobeandmail.com/business/article-ants-surprise-share-buyback-values-firm-at-steep-75-discount-to-ipo/",
+          "type": "news"
+        },
+        {
+          "name": "CGTN · Ant Group to buy back shares after being fined (2023-07-08)",
+          "url": "https://news.cgtn.com/news/2023-07-08/Ant-Group-to-buy-back-shares-after-being-fined-1lh4jKg8X9C/index.html",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2024-01-23",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "Buys Alibaba stock",
+        "zh": "增持阿里股票"
+      },
+      "t": {
+        "en": "Reports say Ma and Joe Tsai have been buying Alibaba shares",
+        "zh": "媒体报道马云和蔡崇信增持阿里巴巴股票"
+      },
+      "summary": {
+        "en": "The New York Times reported that Ma had bought about $50 million of Alibaba shares in the previous quarter, and a filing showed that a vehicle linked to chairman Joe Tsai had bought about $152 million. The New York shares rose 7.9% that day, from a multi-year low.",
+        "zh": "《纽约时报》报道，马云在上一季度买入约 5000 万美元的阿里巴巴股票；监管文件显示，与董事会主席蔡崇信有关联的机构买入约 1.52 亿美元。当天美股上涨 7.9%，此前股价处于多年低位。"
+      },
+      "why": {
+        "en": "The purchase is small next to his existing holding, and the price move is in the stock. A small +1% for backing the company with his own money near the low.",
+        "zh": "相对他已有的持股，这笔买入金额很小，股价变动也已由股票反映。在低位用自己的钱支持公司，口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "Fortune · Alibaba's value rises $13B after Jack Ma's share purchase (2024-01-24)",
+          "url": "https://fortune.com/asia/2024/01/24/alibaba-billionaire-founder-jack-ma-joe-tsai-buy-shares-trading/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · BABA price history",
+          "url": "https://finance.yahoo.com/quote/BABA/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2025-02-17",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.05,
+      "s": {
+        "en": "Meets Xi Jinping",
+        "zh": "出席民企座谈会"
+      },
+      "t": {
+        "en": "Attends Xi Jinping's symposium with private-sector leaders in Beijing",
+        "zh": "出席习近平在北京主持的民营企业座谈会"
+      },
+      "summary": {
+        "en": "He was among the business leaders invited to a symposium on private enterprise chaired by President Xi Jinping at the Great Hall of the People, the first of its kind since 2018, and sat in the front row. The founders of Huawei, BYD, Xiaomi and DeepSeek also attended. He was not among those reported to have spoken.",
+        "zh": "他受邀出席国家主席习近平在人民大会堂主持的民营企业座谈会，并坐在第一排。这是 2018 年以来首次举行此类座谈会，华为、比亚迪、小米和 DeepSeek 的创始人也在场。据报道，他不在发言者之列。"
+      },
+      "why": {
+        "en": "His first appearance at an event with China's top leadership since 2020, widely read by major outlets as a signal of official support for him and for private business. Chinese technology shares had been rising for weeks and the model leaves that to the stock; the restored standing is what the price cannot see, so the reputation coefficient gets +5%.",
+        "zh": "这是 2020 年以来他首次出现在有中国最高领导层出席的场合，主要媒体普遍把它解读为官方对他本人和民营经济的支持信号。此前中国科技股已连涨数周，这部分留给股价去反映；地位的恢复是价格看不到的，因此口碑系数 +5%。"
+      },
+      "src": [
+        {
+          "name": "Caixin Global · President Xi meets with Jack Ma and other tycoons (2025-02-17)",
+          "url": "https://www.caixinglobal.com/2025-02-17/president-xi-meets-with-jack-ma-and-other-tycoons-102289272.html",
+          "type": "news"
+        },
+        {
+          "name": "Fortune · Xi hosts summit with Jack Ma, Chinese private sector leaders (2025-02-17)",
+          "url": "https://fortune.com/asia/2025/02/17/xi-jinping-jack-ma-summit-meituan-huawei-xiaomi/",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Jack Ma",
+          "url": "https://en.wikipedia.org/wiki/Jack_Ma",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2025-02-24",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 0,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "$53B AI plan",
+        "zh": "3800 亿投 AI"
+      },
+      "t": {
+        "en": "Alibaba says it will invest at least 380 billion yuan in cloud and AI over three years",
+        "zh": "阿里巴巴宣布三年投入至少 3800 亿元建设云和 AI 基础设施"
+      },
+      "summary": {
+        "en": "Alibaba announced it would spend at least 380 billion yuan, about $53 billion, on cloud computing and AI infrastructure over three years, more than it had spent on them in the previous decade. The announcement followed quarterly results on February 20, after which the New York shares rose about 14% in two sessions; on February 24 they fell 10.2%.",
+        "zh": "阿里巴巴宣布，未来三年将在云计算和 AI 基础设施上投入至少 3800 亿元，约合 530 亿美元，超过过去十年的总和。此前 2 月 20 日公司发布季度业绩，美股两个交易日上涨约 14%；2 月 24 日当天下跌 10.2%。"
+      },
+      "why": {
+        "en": "A company decision made under chairman Joe Tsai and chief executive Eddie Wu, fully priced by the market, so rep = 0. It is listed because the AI push drives most of the stock's moves, and therefore most of his wealth, from here on.",
+        "zh": "这是在董事会主席蔡崇信和首席执行官吴泳铭任内作出的公司决策，完全由市场定价，rep = 0。之所以列入，是因为此后股价的大部分波动、也就是他财富的大部分波动，都由这场 AI 投入驱动。"
+      },
+      "src": [
+        {
+          "name": "Alibaba Group · Alibaba to invest RMB380 billion in AI and cloud infrastructure over next three years",
+          "url": "https://home.alibabagroup.com/document-1830678592242057216",
+          "type": "filing"
+        },
+        {
+          "name": "Fortune · Alibaba pledges over $50 billion in new AI, cloud spending (2025-02-24)",
+          "url": "https://fortune.com/asia/2025/02/24/alibaba-pledges-more-ai-cloud-investment-shares/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · BABA price history",
+          "url": "https://finance.yahoo.com/quote/BABA/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2025-05",
+      "p": "month",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "TIME100 giving",
+        "zh": "时代公益百人"
+      },
+      "t": {
+        "en": "Named to the TIME100 Philanthropy list",
+        "zh": "入选《时代》周刊公益百人榜"
+      },
+      "summary": {
+        "en": "TIME magazine named him an honoree on its 2025 TIME100 Philanthropy list of influential people in giving. His philanthropy runs mainly through the Jack Ma Foundation, which he set up in 2014.",
+        "zh": "《时代》周刊把他列入 2025 年“公益百人榜”，这份榜单评选公益领域有影响力的人物。他的公益事业主要通过 2014 年成立的马云公益基金会开展。"
+      },
+      "why": {
+        "en": "Ordinary good press outside business: +1%.",
+        "zh": "商业之外的一次普通正面报道：+1%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Jack Ma",
+          "url": "https://en.wikipedia.org/wiki/Jack_Ma",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2025-09-15",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Hands-on again",
+        "zh": "据报重回一线"
+      },
+      "t": {
+        "en": "Bloomberg reports he is more involved in Alibaba than at any time in five years",
+        "zh": "彭博社报道：他对阿里巴巴的参与度为五年来最高"
+      },
+      "summary": {
+        "en": "Citing people familiar with the company, Bloomberg reported that he had returned to Alibaba's campuses and was more directly involved than at any point since 2020, pressing for heavier investment in AI and backing a subsidy campaign of up to 50 billion yuan against JD.com and Meituan. He holds no formal post, and Alibaba did not comment on his role.",
+        "zh": "彭博社援引知情人士报道称，他重新出现在阿里巴巴园区，参与程度为 2020 年以来最高，推动加大 AI 投入，并支持投入最高 500 亿元补贴与京东、美团竞争。他没有担任任何正式职务，阿里巴巴未就他的角色置评。"
+      },
+      "why": {
+        "en": "Recorded as reported, since the company has not confirmed it. If accurate, it means his judgment is again shaping a large public company, so the human-capital target rises a little and the reputation coefficient gets +2%. The stock, up more than 80% since the start of that year, carries the rest.",
+        "zh": "公司没有证实，因此按“据报道”记录。如果属实，意味着他的判断再次影响一家大型上市公司，人力资本目标值小幅上调，口碑系数 +2%。其余部分由当年以来已上涨八成多的股价反映。"
+      },
+      "src": [
+        {
+          "name": "The Japan Times / Bloomberg · Jack Ma returns with a vengeance to 'Make Alibaba Great Again' (2025-09-16)",
+          "url": "https://www.japantimes.co.jp/business/2025/09/16/tech/jack-ma-make-alibaba-great-again",
+          "type": "news"
+        },
+        {
+          "name": "The Standard · Jack Ma sightings hint at bid to 'Make Alibaba Great Again' (2025-09-16)",
+          "url": "https://www.thestandard.com.hk/innovation/article/311678/Jack-Ma-sightings-hint-at-bid-to-Make-Alibaba-Great-Again",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-03",
+      "p": "month",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "AI talks at Yungu",
+        "zh": "云谷谈 AI"
+      },
+      "t": {
+        "en": "Chairs a meeting on AI with the leaders of Alibaba and Ant at Yungu School",
+        "zh": "在云谷学校与阿里、蚂蚁管理层座谈 AI"
+      },
+      "summary": {
+        "en": "Chinese media reported that in early March he chaired a discussion at Hangzhou's Yungu School on the challenges and opportunities of AI, attended by Alibaba chairman Joe Tsai, chief executive Eddie Wu, Ant chairman Eric Jing and other senior managers. It was his third reported appearance of the year: on January 27 he spoke online to rural teachers about AI and education, and on February 4 he was seen at the offices of Alibaba's Qianwen AI team.",
+        "zh": "据国内媒体报道，3 月初他在杭州云谷学校主持了一场关于 AI 带来的挑战与机遇的交流，阿里巴巴董事会主席蔡崇信、首席执行官吴泳铭、蚂蚁集团董事长井贤栋等核心管理层到场。这是他当年第三次被报道露面：1 月 27 日，他在线上与乡村教师谈 AI 时代的教育；2 月 4 日，他出现在阿里千问团队的办公楼。"
+      },
+      "why": {
+        "en": "More frequent appearances than in any year since 2020, all tied to AI. Small +1%. The exact day of the meeting is not given in the sources, so the date is month precision; Alibaba's share price fell during these weeks and the model does not link the two.",
+        "zh": "露面频率为 2020 年以来最高，且都与 AI 有关，口碑系数小幅 +1%。资料没有给出这次会面的具体日期，因此日期精度为“月”；这几周阿里巴巴股价在下跌，模型不把两者联系起来。"
+      },
+      "src": [
+        {
+          "name": "The Paper · 马云近期频繁现身 (2026-03-20)",
+          "url": "https://www.thepaper.cn/newsDetail_forward_32795068",
+          "type": "news"
+        },
+        {
+          "name": "The Paper · 马云最新公开露面 (2026-01-28)",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32482463",
+          "type": "news"
+        },
+        {
+          "name": "Sing Tao Headline · 马云现身杭州云谷学校",
+          "url": "https://www.stheadline.com/zh-hans/realtime-china/3549510/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-08-23",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 0,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "HK$80B share sale",
+        "zh": "800 亿港元配股"
+      },
+      "t": {
+        "en": "Alibaba sells HK$80 billion of new shares for AI; Ma is reported to buy stock",
+        "zh": "阿里巴巴配股 800 亿港元投向 AI，据报马云出手增持"
+      },
+      "summary": {
+        "en": "Alibaba placed 710 million new Hong Kong shares at HK$112.70 each, raising HK$80 billion, about $10.2 billion, for AI chips, infrastructure and models. It was the largest primary follow-on offering by a Hong Kong-listed company and was priced 8.4% below the previous close. The Hong Kong shares fell more than 8% on August 24. Caixin and the South China Morning Post, citing sources, reported that Ma bought more than HK$600 million of shares after the announcement; Joe Tsai and Eddie Wu disclosed smaller purchases.",
+        "zh": "阿里巴巴以每股 112.70 港元配售 7.1 亿股香港新股，募资 800 亿港元，约合 102 亿美元，用于 AI 芯片、基础设施和模型。这是香港上市公司史上最大规模的新股配售，配售价较前一交易日收盘价折让 8.4%。8 月 24 日港股下跌超过 8%。财新和《南华早报》援引消息人士报道，马云在公告后买入超过 6 亿港元的股票；蔡崇信和吴泳铭披露了金额较小的增持。"
+      },
+      "why": {
+        "en": "The new shares are about 3.6% of the enlarged share count, which slightly dilutes every holder; the share and ownership anchors reflect that. His reported purchase, about $77 million, is small next to his holding and comes from sources, not from a filing. The price effect is in the stock, so rep = 0.",
+        "zh": "新股约占扩大后股本的 3.6%，所有股东的持股比例都被小幅稀释，股本和持股锚点已反映。据报道他买入约 7700 万美元，相对其持股规模很小，而且消息来自知情人士而非监管文件。价格影响已在股价里，rep = 0。"
+      },
+      "src": [
+        {
+          "name": "Caixin Global · Jack Ma, Alibaba top executives buy $102 million of stock after record share sale (2026-08-26)",
+          "url": "https://www.caixinglobal.com/2026-08-26/jack-ma-alibaba-top-executives-buy-102-million-of-stock-after-record-share-sale-102477897.html",
+          "type": "news"
+        },
+        {
+          "name": "The Standard · Alibaba shares slide after HK$80b AI share sale offered at sharp discount",
+          "url": "https://www.thestandard.com.hk/finance/article/340739/Alibaba-shares-slide-after-80b-AI-share-sale-offered-at-sharp-discount",
+          "type": "news"
+        },
+        {
+          "name": "Stocktwits · Jack Ma reportedly bets $77M after $10.2B share sale (2026-08-25)",
+          "url": "https://stocktwits.com/news-articles/markets/equity/jack-ma-buys-alibaba-shares-77-million-10-billion-share-sale/cZYkNStRJ8Z",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}

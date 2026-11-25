@@ -806,7 +806,7 @@
       "p": "day",
       "cat": "wealth",
       "dir": 1,
-      "mag": 5,
+      "mag": 4,
       "rep": 0.03,
       "s": {
         "en": "NASA contract",
@@ -1139,7 +1139,7 @@
       "p": "day",
       "cat": "milestone",
       "dir": 1,
-      "mag": 5,
+      "mag": 4,
       "rep": 0.06,
       "s": {
         "en": "Crew Dragon",
@@ -1364,7 +1364,7 @@
       "p": "day",
       "cat": "crisis",
       "dir": -1,
-      "mag": 5,
+      "mag": 4,
       "rep": -0.02,
       "s": {
         "en": "Pay package voided",
@@ -1461,7 +1461,7 @@
       "p": "day",
       "cat": "wealth",
       "dir": 1,
-      "mag": 5,
+      "mag": 4,
       "rep": 0.01,
       "s": {
         "en": "Trump wins",
@@ -1554,7 +1554,7 @@
       "p": "day",
       "cat": "crisis",
       "dir": -1,
-      "mag": 5,
+      "mag": 4,
       "rep": -0.03,
       "s": {
         "en": "Break with Trump",
@@ -1621,7 +1621,7 @@
       "p": "day",
       "cat": "wealth",
       "dir": 1,
-      "mag": 5,
+      "mag": 4,
       "rep": 0.02,
       "s": {
         "en": "Pay plan restored",
@@ -1656,7 +1656,7 @@
       "p": "month",
       "cat": "wealth",
       "dir": 1,
-      "mag": 5,
+      "mag": 4,
       "rep": 0.01,
       "s": {
         "en": "SpaceX-xAI merger",

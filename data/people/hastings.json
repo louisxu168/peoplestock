@@ -1,0 +1,2019 @@
+{
+  "id": "hastings",
+  "name": {
+    "en": "Reed Hastings",
+    "zh": "里德·哈斯廷斯"
+  },
+  "ticker": "REED",
+  "born": "1960-10-08",
+  "color": "#FF9F43",
+  "initials": "RH",
+  "tagline": {
+    "en": "From Peace Corps math teacher to the man who put television on the internet, now giving the fortune away",
+    "zh": "从和平队的数学老师到把电视搬上互联网的人，如今正把财富捐出去"
+  },
+  "tags": [
+    {
+      "en": "Netflix co-founder",
+      "zh": "Netflix 联合创始人"
+    },
+    {
+      "en": "Streaming",
+      "zh": "流媒体"
+    },
+    {
+      "en": "Culture deck",
+      "zh": "文化手册"
+    },
+    {
+      "en": "Philanthropy",
+      "zh": "慈善"
+    }
+  ],
+  "privates": [
+    {
+      "label": {
+        "en": "Pure Software-era wealth, then wealth outside Netflix (cash from share sales, Powder Mountain, other holdings; estimate)",
+        "zh": "Pure Software 时期的财富及此后 Netflix 以外的财富（售股所得现金、Powder Mountain 及其他资产，估算）"
+      },
+      "anchors": [
+        [
+          "1983",
+          2000
+        ],
+        [
+          "1988-06",
+          20000
+        ],
+        [
+          "1991-10",
+          50000
+        ],
+        [
+          "1995-08",
+          30000000
+        ],
+        [
+          "1996-08",
+          70000000
+        ],
+        [
+          "1997-08",
+          73000000
+        ],
+        [
+          "2002-05-23",
+          70000000
+        ],
+        [
+          "2007",
+          150000000
+        ],
+        [
+          "2011",
+          300000000
+        ],
+        [
+          "2015",
+          500000000
+        ],
+        [
+          "2018",
+          900000000
+        ],
+        [
+          "2021",
+          1600000000
+        ],
+        [
+          "2023",
+          2000000000
+        ],
+        [
+          "2025-05",
+          2300000000
+        ],
+        [
+          "2026-11",
+          2300000000
+        ]
+      ]
+    },
+    {
+      "label": {
+        "en": "Pre-IPO Netflix stake (estimate)",
+        "zh": "Netflix 上市前股权（估算）"
+      },
+      "from": "1997-08-29",
+      "until": "2002-05-22",
+      "anchors": [
+        [
+          "1997-08-29",
+          2000000
+        ],
+        [
+          "1999-07",
+          25000000
+        ],
+        [
+          "2000-04",
+          50000000
+        ],
+        [
+          "2001-06",
+          30000000
+        ],
+        [
+          "2002-05-22",
+          47260000
+        ]
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "sym": "NFLX",
+      "label": {
+        "en": "Netflix stake",
+        "zh": "Netflix 持股"
+      },
+      "from": "2002-05-23",
+      "own": [
+        [
+          "2002-05",
+          0.15259
+        ],
+        [
+          "2003-03",
+          0.13633
+        ],
+        [
+          "2004-03",
+          0.10209
+        ],
+        [
+          "2005-03",
+          0.0975
+        ],
+        [
+          "2007-03",
+          0.06258
+        ],
+        [
+          "2009-03",
+          0.0551
+        ],
+        [
+          "2011-04",
+          0.04462
+        ],
+        [
+          "2012-04",
+          0.03759
+        ],
+        [
+          "2013-04",
+          0.03812
+        ],
+        [
+          "2015-04",
+          0.02825
+        ],
+        [
+          "2016-04",
+          0.02522
+        ],
+        [
+          "2018-04",
+          0.02116
+        ],
+        [
+          "2020-04",
+          0.01833
+        ],
+        [
+          "2021-04",
+          0.01596
+        ],
+        [
+          "2022-04",
+          0.01548
+        ],
+        [
+          "2023-04",
+          0.01586
+        ],
+        [
+          "2024-01-23",
+          0.01549
+        ],
+        [
+          "2024-01-25",
+          0.01087
+        ],
+        [
+          "2024-04",
+          0.0109
+        ],
+        [
+          "2025-04",
+          0.00847
+        ],
+        [
+          "2026-04",
+          0.00739
+        ],
+        [
+          "2026-11",
+          0.0069
+        ]
+      ],
+      "shares": [
+        [
+          "2002-05",
+          2890730360
+        ],
+        [
+          "2003-03",
+          3204668740
+        ],
+        [
+          "2004-03",
+          3603210870
+        ],
+        [
+          "2005-03",
+          3700705050
+        ],
+        [
+          "2007-03",
+          4812566150
+        ],
+        [
+          "2009-03",
+          4094650980
+        ],
+        [
+          "2011-04",
+          3674396180
+        ],
+        [
+          "2012-04",
+          3886094170
+        ],
+        [
+          "2013-04",
+          3930198370
+        ],
+        [
+          "2015-04",
+          4243627430
+        ],
+        [
+          "2016-04",
+          4282988040
+        ],
+        [
+          "2018-04",
+          4346925590
+        ],
+        [
+          "2020-04",
+          4398040350
+        ],
+        [
+          "2021-04",
+          4434027360
+        ],
+        [
+          "2022-04",
+          4442738500
+        ],
+        [
+          "2023-04",
+          4445411160
+        ],
+        [
+          "2024-01-23",
+          4330000000
+        ],
+        [
+          "2024-04",
+          4309011610
+        ],
+        [
+          "2025-04",
+          4255712660
+        ],
+        [
+          "2026-04",
+          4210798528
+        ],
+        [
+          "2026-11",
+          4150000000
+        ]
+      ]
+    }
+  ],
+  "human": [
+    [
+      "1960-10-08",
+      300000
+    ],
+    [
+      "1983",
+      800000
+    ],
+    [
+      "1988",
+      1500000
+    ],
+    [
+      "1991-10",
+      3000000
+    ],
+    [
+      "1995-08",
+      8000000
+    ],
+    [
+      "1997-08-29",
+      10000000
+    ],
+    [
+      "2002-05-23",
+      20000000
+    ],
+    [
+      "2007-01-16",
+      30000000
+    ],
+    [
+      "2013-02-01",
+      80000000
+    ],
+    [
+      "2016-01-06",
+      150000000
+    ],
+    [
+      "2020",
+      200000000
+    ],
+    [
+      "2023-01-19",
+      100000000
+    ],
+    [
+      "2026-06-04",
+      60000000
+    ]
+  ],
+  "audience": [
+    [
+      "1960-10-08",
+      0
+    ],
+    [
+      "1991-10",
+      1000
+    ],
+    [
+      "1997-08-29",
+      20000
+    ],
+    [
+      "2002-05-23",
+      200000
+    ],
+    [
+      "2007",
+      1000000
+    ],
+    [
+      "2011",
+      5000000
+    ],
+    [
+      "2016",
+      12000000
+    ],
+    [
+      "2020",
+      20000000
+    ],
+    [
+      "2023",
+      20000000
+    ],
+    [
+      "2026-11",
+      18000000
+    ]
+  ],
+  "media": [
+    [
+      "1960-10-08",
+      0
+    ],
+    [
+      "1991-10",
+      0.1
+    ],
+    [
+      "1995-08",
+      0.5
+    ],
+    [
+      "2002-05",
+      2
+    ],
+    [
+      "2007",
+      5
+    ],
+    [
+      "2011-09",
+      15
+    ],
+    [
+      "2013",
+      12
+    ],
+    [
+      "2016",
+      15
+    ],
+    [
+      "2020",
+      16
+    ],
+    [
+      "2022-04",
+      18
+    ],
+    [
+      "2023-02",
+      10
+    ],
+    [
+      "2026-04",
+      9
+    ],
+    [
+      "2026-11",
+      5
+    ]
+  ],
+  "chapters": [
+    {
+      "from": "1960-10-08",
+      "t": {
+        "en": "Boston to Swaziland",
+        "zh": "从波士顿到斯威士兰"
+      },
+      "desc": {
+        "en": "Grows up near Boston, studies mathematics at Bowdoin and teaches high-school math in Swaziland with the Peace Corps",
+        "zh": "在波士顿一带长大，在鲍登学院读数学，随和平队到斯威士兰教中学数学"
+      }
+    },
+    {
+      "from": "1988",
+      "t": {
+        "en": "Pure Software",
+        "zh": "Pure Software"
+      },
+      "desc": {
+        "en": "A Stanford computer science degree, a first startup that goes public, a merger and a sale to Rational",
+        "zh": "拿到斯坦福计算机硕士学位，第一家创业公司上市、合并，最后卖给 Rational"
+      }
+    },
+    {
+      "from": "1997-08-29",
+      "t": {
+        "en": "DVDs by mail",
+        "zh": "邮寄 DVD"
+      },
+      "desc": {
+        "en": "Co-founds Netflix, switches it to subscriptions, is turned down by Blockbuster and takes the company public",
+        "zh": "联合创办 Netflix，改为订阅制，被百视达拒绝收购，带公司上市"
+      }
+    },
+    {
+      "from": "2007-01-16",
+      "t": {
+        "en": "Streaming pivot",
+        "zh": "转向流媒体"
+      },
+      "desc": {
+        "en": "Launches streaming, writes the culture deck and nearly wrecks the brand with the 2011 price split and Qwikster",
+        "zh": "推出流媒体，写下文化手册，又因 2011 年的拆分涨价和 Qwikster 差点毁掉品牌"
+      }
+    },
+    {
+      "from": "2013-02-01",
+      "t": {
+        "en": "Global studio",
+        "zh": "全球化与原创"
+      },
+      "desc": {
+        "en": "Original series, a launch in 130 countries in one day and a share price that multiplies many times over",
+        "zh": "原创剧集、一天之内进入 130 个国家，股价翻了很多倍"
+      }
+    },
+    {
+      "from": "2022-04-20",
+      "t": {
+        "en": "Reset and handover",
+        "zh": "调整与交棒"
+      },
+      "desc": {
+        "en": "A subscriber loss and stock collapse, then ads, paid sharing and the handover of the CEO job",
+        "zh": "用户流失、股价崩跌，随后是广告套餐、付费共享，以及交出 CEO 职位"
+      }
+    },
+    {
+      "from": "2025-04-17",
+      "t": {
+        "en": "Leaving Netflix",
+        "zh": "离开 Netflix"
+      },
+      "desc": {
+        "en": "Gives up his executive role, joins Anthropic's board, sees the Warner Bros. bid fail and leaves the Netflix board in June 2026",
+        "zh": "卸任执行职务，加入 Anthropic 董事会，经历华纳兄弟收购落空，2026 年 6 月离开 Netflix 董事会"
+      }
+    }
+  ],
+  "events": [
+    {
+      "d": "1960-10-08",
+      "p": "day",
+      "cat": "origin",
+      "dir": 0,
+      "mag": 1,
+      "rep": 0,
+      "s": {
+        "en": "Born in Boston",
+        "zh": "出生波士顿"
+      },
+      "t": {
+        "en": "Born in Boston, Massachusetts",
+        "zh": "出生于马萨诸塞州波士顿"
+      },
+      "summary": {
+        "en": "Wilmot Reed Hastings Jr. was born in Boston, Massachusetts, and went to school in the Boston area.",
+        "zh": "小威尔莫特·里德·哈斯廷斯出生在马萨诸塞州波士顿，并在波士顿一带上学。"
+      },
+      "why": {
+        "en": "Starting point, not scored. Human capital begins at the average level for a child born in the United States.",
+        "zh": "起点事件，不计分。人力资本以美国同龄人的平均水平作为初始值。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Reed Hastings",
+          "url": "https://en.wikipedia.org/wiki/Reed_Hastings",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1983",
+      "p": "year",
+      "cat": "education",
+      "dir": 1,
+      "mag": 1,
+      "rep": 0,
+      "s": {
+        "en": "Bowdoin B.A.",
+        "zh": "鲍登学院毕业"
+      },
+      "t": {
+        "en": "Graduates from Bowdoin College with a degree in mathematics",
+        "zh": "从鲍登学院毕业，获数学学士学位"
+      },
+      "summary": {
+        "en": "He finished a bachelor's degree in mathematics at Bowdoin College, a small liberal arts college in Maine. Decades later he became its largest donor.",
+        "zh": "他在缅因州的文理学院鲍登学院读完数学本科。几十年后，他成了这所学校历史上最大的捐赠人。"
+      },
+      "why": {
+        "en": "An education step: the human-capital target rises. Only the year is confirmed, so the date is year precision.",
+        "zh": "学历台阶：人力资本目标值上调。只能确认年份，因此日期精度为“年”。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Reed Hastings",
+          "url": "https://en.wikipedia.org/wiki/Reed_Hastings",
+          "type": "wiki"
+        },
+        {
+          "name": "SEC EDGAR · Netflix IPO prospectus (424B4, 2002-05-22)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1065280/000101287002002475/d424b4.htm",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "1983",
+      "p": "year",
+      "cat": "career",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "Peace Corps",
+        "zh": "和平队支教"
+      },
+      "t": {
+        "en": "Teaches high-school math in Swaziland with the Peace Corps",
+        "zh": "随和平队到斯威士兰教中学数学"
+      },
+      "summary": {
+        "en": "After college he joined the Peace Corps and taught mathematics at a rural high school in northwest Swaziland (now Eswatini) from 1983 to 1985.",
+        "zh": "大学毕业后他加入和平队，1983 至 1985 年在斯威士兰（今称埃斯瓦蒂尼）西北部的一所乡村中学教数学。"
+      },
+      "why": {
+        "en": "Almost no money involved. It is the root of his later focus on education, so the reputation coefficient gets a small +1%. The event is placed at the start year of his service.",
+        "zh": "几乎不涉及金钱。但这是他日后长期关注教育的起点，口碑系数小幅 +1%。事件放在服务开始的年份。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Reed Hastings",
+          "url": "https://en.wikipedia.org/wiki/Reed_Hastings",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1988",
+      "p": "year",
+      "cat": "education",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Stanford M.S.",
+        "zh": "斯坦福硕士"
+      },
+      "t": {
+        "en": "Earns a master's degree in computer science at Stanford",
+        "zh": "获斯坦福大学计算机科学硕士学位"
+      },
+      "summary": {
+        "en": "He completed a master's degree in computer science at Stanford University and went to work as a software engineer in Silicon Valley, first at Adaptive Technology, where he built a tool for debugging software.",
+        "zh": "他在斯坦福大学拿到计算机科学硕士学位，随后在硅谷做软件工程师，先在 Adaptive Technology 工作，在那里做了一款调试软件的工具。"
+      },
+      "why": {
+        "en": "A strong technical degree in the right place: the human-capital target moves to about $1.5 million.",
+        "zh": "在对的地方拿到含金量高的技术学位：人力资本目标值上调到约 150 万美元。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Reed Hastings",
+          "url": "https://en.wikipedia.org/wiki/Reed_Hastings",
+          "type": "wiki"
+        },
+        {
+          "name": "SEC EDGAR · Netflix IPO prospectus (424B4, 2002-05-22)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1065280/000101287002002475/d424b4.htm",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "1991-10",
+      "p": "month",
+      "cat": "career",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.01,
+      "s": {
+        "en": "Founds Pure",
+        "zh": "创办 Pure"
+      },
+      "t": {
+        "en": "Founds Pure Software, his first company",
+        "zh": "创办第一家公司 Pure Software"
+      },
+      "summary": {
+        "en": "He started Pure Software with Raymond Peck and Mark Box to sell tools that find bugs in programs. Revenue roughly doubled every year for its first four years, and he was chief executive from the start.",
+        "zh": "他与雷蒙德·佩克、马克·博克斯一起创办 Pure Software，销售帮程序员查找程序错误的工具。头四年公司收入几乎每年翻一番，他从一开始就担任首席执行官。"
+      },
+      "why": {
+        "en": "First founder equity. The private anchor is a small estimate at this point; human capital starts climbing toward the level of a startup founder.",
+        "zh": "第一份创始人股权。此时的私有资产锚点只是很小的估算值；人力资本开始向“创业公司创始人”的水平爬升。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Pure Software",
+          "url": "https://en.wikipedia.org/wiki/Pure_Software",
+          "type": "wiki"
+        },
+        {
+          "name": "SEC EDGAR · Netflix IPO prospectus (424B4, 2002-05-22)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1065280/000101287002002475/d424b4.htm",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "1995-08",
+      "p": "month",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Pure Software IPO",
+        "zh": "Pure 上市"
+      },
+      "t": {
+        "en": "Pure Software goes public on Nasdaq",
+        "zh": "Pure Software 在纳斯达克上市"
+      },
+      "summary": {
+        "en": "Pure Software listed on Nasdaq in August 1995 in an offering led by Morgan Stanley. It was his first experience running a public company.",
+        "zh": "1995 年 8 月，Pure Software 在纳斯达克上市，由摩根士丹利担任主承销商。这是他第一次执掌上市公司。"
+      },
+      "why": {
+        "en": "His stake becomes liquid. The $30 million anchor is a rough estimate: his exact shareholding at the IPO is not in the sources used here.",
+        "zh": "他的股权有了流动性。3000 万美元的锚点只是粗略估算：本文所用资料中没有他上市时的确切持股数。"
+      },
+      "fin": {
+        "en": "Estimated personal wealth: about $30 million.",
+        "zh": "估算个人财富：约 3000 万美元。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Pure Software",
+          "url": "https://en.wikipedia.org/wiki/Pure_Software",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1996-08",
+      "p": "month",
+      "cat": "career",
+      "dir": 0,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Pure Atria merger",
+        "zh": "合并 Pure Atria"
+      },
+      "t": {
+        "en": "Pure Software merges with Atria Software to form Pure Atria",
+        "zh": "Pure Software 与 Atria Software 合并为 Pure Atria"
+      },
+      "summary": {
+        "en": "Pure merged with Atria Software, a maker of version-control tools, and the combined company was named Pure Atria. Hastings stayed on as chief executive. He has since said that fast growth through acquisitions made the company slower and more bureaucratic.",
+        "zh": "Pure 与做版本管理工具的 Atria Software 合并，新公司取名 Pure Atria，哈斯廷斯继续担任首席执行官。他后来说过，靠并购快速扩张让公司变得迟缓、官僚。"
+      },
+      "why": {
+        "en": "Scored as mixed: a bigger company, but one he later described as a lesson in what not to do. The value is in the private anchors.",
+        "zh": "记为好坏参半：公司更大了，但他后来把这段经历当成反面教材。价值已体现在私有资产锚点里。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Pure Software",
+          "url": "https://en.wikipedia.org/wiki/Pure_Software",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Reed Hastings",
+          "url": "https://en.wikipedia.org/wiki/Reed_Hastings",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1997-08",
+      "p": "month",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.01,
+      "s": {
+        "en": "Sold to Rational",
+        "zh": "卖给 Rational"
+      },
+      "t": {
+        "en": "Rational Software completes its purchase of Pure Atria",
+        "zh": "Rational Software 完成对 Pure Atria 的收购"
+      },
+      "summary": {
+        "en": "Rational Software bought Pure Atria in an all-stock deal announced in April 1997 and completed that summer. The shares of both companies fell sharply after the announcement, which cut the final price. Hastings became chief technical officer of the combined company and left soon afterwards.",
+        "zh": "Rational Software 以换股方式收购 Pure Atria，交易于 1997 年 4 月宣布，当年夏天完成。消息公布后两家公司股价都大幅下跌，最终成交价因此缩水。哈斯廷斯出任合并后公司的首席技术官，不久即离开。"
+      },
+      "why": {
+        "en": "The exit that paid for Netflix. Secondary sources put his proceeds at roughly $75 million; no primary figure was found, so the anchor (about $73 million after his first Netflix cheque) is an estimate. Netflix's prospectus dates the acquisition to August 1997; Rational's own filings give a closing date at the end of July.",
+        "zh": "这次退出为 Netflix 提供了启动资金。二手资料称他的所得约 7500 万美元；没有找到一手数字，因此锚点（扣除投给 Netflix 的第一笔钱后约 7300 万美元）是估算。Netflix 招股书写的是 1997 年 8 月被收购；Rational 自己的文件显示交割在 7 月底。"
+      },
+      "fin": {
+        "en": "Estimated personal wealth: about $75 million before funding Netflix.",
+        "zh": "估算个人财富：投资 Netflix 之前约 7500 万美元。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Pure Software",
+          "url": "https://en.wikipedia.org/wiki/Pure_Software",
+          "type": "wiki"
+        },
+        {
+          "name": "SEC EDGAR · Netflix IPO prospectus (424B4, 2002-05-22)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1065280/000101287002002475/d424b4.htm",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Reed Hastings",
+          "url": "https://en.wikipedia.org/wiki/Reed_Hastings",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1997-08-29",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.02,
+      "s": {
+        "en": "Founds Netflix",
+        "zh": "创办 Netflix"
+      },
+      "t": {
+        "en": "Co-founds Netflix with Marc Randolph",
+        "zh": "与马克·伦道夫共同创办 Netflix"
+      },
+      "summary": {
+        "en": "Netflix was incorporated in Scotts Valley, California, by Hastings and Marc Randolph, who had worked for him at Pure Atria. Hastings supplied the early money and chaired the board while Randolph ran the company; the DVD rental website opened on April 14, 1998.",
+        "zh": "哈斯廷斯和曾在 Pure Atria 为他工作的马克·伦道夫在加州斯科茨谷注册成立 Netflix。早期资金由哈斯廷斯提供，他任董事长，伦道夫负责日常经营；DVD 租赁网站于 1998 年 4 月 14 日上线。"
+      },
+      "why": {
+        "en": "The turning point of his life. A second private anchor starts for the pre-IPO Netflix stake, at about $2 million, roughly the amount he is reported to have put in (estimate).",
+        "zh": "人生转折点。模型从这一天起为上市前的 Netflix 股权单独设一条私有资产锚线，起点约 200 万美元，大致是据报道他投入的金额（估算）。"
+      },
+      "fin": {
+        "en": "Pre-IPO Netflix equity enters the model (estimated between funding rounds).",
+        "zh": "上市前的 Netflix 股权进入模型（按各轮融资之间估算）。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Netflix, Inc.",
+          "url": "https://en.wikipedia.org/wiki/Netflix,_Inc.",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Timeline of Netflix",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_Netflix",
+          "type": "wiki"
+        },
+        {
+          "name": "SEC EDGAR · Netflix IPO prospectus (424B4, 2002-05-22)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1065280/000101287002002475/d424b4.htm",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "1999-09",
+      "p": "month",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Subscription model",
+        "zh": "改为订阅制"
+      },
+      "t": {
+        "en": "As CEO, switches Netflix to a monthly subscription",
+        "zh": "出任 CEO 后把 Netflix 改为按月订阅"
+      },
+      "summary": {
+        "en": "Hastings had taken over as chief executive in September 1998. A year later Netflix introduced a flat monthly subscription for DVD rentals, and soon dropped single rentals and late fees altogether.",
+        "zh": "哈斯廷斯于 1998 年 9 月接任首席执行官。一年后，Netflix 推出 DVD 租赁包月订阅，不久便彻底取消单次租赁和滞纳金。"
+      },
+      "why": {
+        "en": "The business model that defined the company. Its value shows in the later funding rounds and the IPO; a small +1% for the product decision.",
+        "zh": "这一商业模式定义了整家公司。价值体现在之后的融资和上市里；产品决策带来口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Timeline of Netflix",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_Netflix",
+          "type": "wiki"
+        },
+        {
+          "name": "SEC EDGAR · Netflix IPO prospectus (424B4, 2002-05-22)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1065280/000101287002002475/d424b4.htm",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2000",
+      "p": "year",
+      "cat": "career",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.02,
+      "s": {
+        "en": "State school board",
+        "zh": "加州教育委员会"
+      },
+      "t": {
+        "en": "Appointed to the California State Board of Education",
+        "zh": "获任加州教育委员会委员"
+      },
+      "summary": {
+        "en": "Governor Gray Davis appointed him to the California State Board of Education in 2000, and he became its president in 2001. He also put $1 million of his own money into a ballot measure that made school bonds easier to pass. The state legislature declined to confirm him for a further term in 2005.",
+        "zh": "2000 年，州长格雷·戴维斯任命他为加州教育委员会委员，2001 年他出任主席。他还自掏 100 万美元支持一项让学校债券更容易通过的公投提案。2005 年，州议会没有确认他连任。"
+      },
+      "why": {
+        "en": "A public role outside business that no valuation captures: +2% on the reputation coefficient. Only the year of the appointment is confirmed.",
+        "zh": "商业之外的公共职务，任何估值都反映不了：口碑系数 +2%。任命时间只能确认到年份。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Reed Hastings",
+          "url": "https://en.wikipedia.org/wiki/Reed_Hastings",
+          "type": "wiki"
+        },
+        {
+          "name": "SEC EDGAR · Netflix IPO prospectus (424B4, 2002-05-22)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1065280/000101287002002475/d424b4.htm",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2000-09",
+      "p": "month",
+      "cat": "milestone",
+      "dir": 0,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "Blockbuster's no",
+        "zh": "百视达拒绝收购"
+      },
+      "t": {
+        "en": "Blockbuster turns down the chance to buy Netflix for $50 million",
+        "zh": "百视达拒绝以 5000 万美元收购 Netflix"
+      },
+      "summary": {
+        "en": "With the dot-com market falling and Netflix losing money, Hastings and Randolph offered to sell the company to Blockbuster for $50 million. Blockbuster's chief executive declined. Blockbuster filed for bankruptcy ten years later.",
+        "zh": "互联网泡沫破裂、Netflix 仍在亏损之际，哈斯廷斯和伦道夫提出以 5000 万美元把公司卖给百视达，被对方首席执行官拒绝。十年后，百视达申请破产。"
+      },
+      "why": {
+        "en": "No money changed hands, so financial capital does not move. Scored as mixed at the time (a failed sale), but it became the best-known story about him, hence +2% on the reputation coefficient.",
+        "zh": "没有资金易手，金融资本不变。当时算好坏参半（一次没卖成的出售），但后来成了关于他最广为人知的故事，口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Netflix, Inc.",
+          "url": "https://en.wikipedia.org/wiki/Netflix,_Inc.",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Timeline of Netflix",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_Netflix",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2002-05-23",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.02,
+      "s": {
+        "en": "Nasdaq IPO at $15",
+        "zh": "纳斯达克上市"
+      },
+      "t": {
+        "en": "Netflix lists on Nasdaq at $15 a share",
+        "zh": "Netflix 以每股 15 美元在纳斯达克上市"
+      },
+      "summary": {
+        "en": "Netflix sold 5.5 million shares at $15 each, raising about $82.5 million. The prospectus shows Hastings holding 3,150,760 shares including options, or 14.8% after the offering.",
+        "zh": "Netflix 以每股 15 美元发行 550 万股，募资约 8250 万美元。招股书显示，哈斯廷斯连同期权共持有 3,150,760 股，发行后占 14.8%。"
+      },
+      "why": {
+        "en": "Anchor switch: from this day financial capital = ownership × shares outstanding × the daily close. The first ownership anchor is after the offering and counts his 600,000 options in full, because their exercise prices were very low; that puts his stake at about $47 million at the offer price. The prospectus is dated May 22 and trading began on May 23; some sources give May 29, the day the offering closed.",
+        "zh": "锚点切换：从这一天起，金融资本 = 持股比例 × 总股本 × 当日收盘价。第一个持股锚点取发行之后的比例，并把他的 60 万份期权全额计入（行权价很低），按发行价计算持股约值 4700 万美元。招股书日期为 5 月 22 日，5 月 23 日开始交易；部分资料写的 5 月 29 日是发行交割日。"
+      },
+      "fin": {
+        "en": "Priced daily from the NFLX quote from here on. Later ownership anchors come from the annual proxy statements.",
+        "zh": "此后按 NFLX 日线逐日计价。之后的持股锚点取自历年股东大会委托书。"
+      },
+      "src": [
+        {
+          "name": "SEC EDGAR · Netflix IPO prospectus (424B4, 2002-05-22)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1065280/000101287002002475/d424b4.htm",
+          "type": "filing"
+        },
+        {
+          "name": "Yahoo Finance · NFLX price history",
+          "url": "https://finance.yahoo.com/quote/NFLX/history",
+          "type": "market"
+        },
+        {
+          "name": "Wikipedia · Netflix, Inc.",
+          "url": "https://en.wikipedia.org/wiki/Netflix,_Inc.",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2007-01-16",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.03,
+      "s": {
+        "en": "Streaming launch",
+        "zh": "流媒体上线"
+      },
+      "t": {
+        "en": "Netflix starts streaming films to subscribers' computers",
+        "zh": "Netflix 开始向订户的电脑在线播放影片"
+      },
+      "summary": {
+        "en": "Netflix introduced a feature that let DVD subscribers watch about 1,000 titles instantly on a PC at no extra charge, rolled out over about six months. Hastings said the PC was only the first screen. In the same year he joined the board of Microsoft.",
+        "zh": "Netflix 推出新功能：DVD 订户可以在电脑上即时观看约 1000 部影片，不另收费，用大约半年时间分批开放。哈斯廷斯表示电脑只是第一块屏幕。同年他加入微软董事会。"
+      },
+      "why": {
+        "en": "The decision that made the company what it is. The financial result shows up in the share price over the following years; +3% on the reputation coefficient for moving before the DVD business had peaked.",
+        "zh": "这个决定造就了今天的 Netflix。财务结果体现在此后多年的股价里；在 DVD 业务还没见顶时就主动转型，口碑系数 +3%。"
+      },
+      "src": [
+        {
+          "name": "Netflix · Press release (2007-01-16)",
+          "url": "https://about.netflix.com/en/news/netflix-offers-subscribers-the-option-of-instantly-watching-movies-on-their",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Netflix",
+          "url": "https://en.wikipedia.org/wiki/Netflix",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Reed Hastings",
+          "url": "https://en.wikipedia.org/wiki/Reed_Hastings",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2009-08",
+      "p": "month",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.03,
+      "s": {
+        "en": "Culture deck",
+        "zh": "文化手册"
+      },
+      "t": {
+        "en": "Publishes the Netflix culture deck",
+        "zh": "公开 Netflix 文化手册"
+      },
+      "summary": {
+        "en": "Hastings posted online a slide deck of about 125 pages that set out how Netflix manages people: high pay, wide freedom, candid feedback and generous severance for merely adequate performance. It was read millions of times and copied across Silicon Valley.",
+        "zh": "哈斯廷斯把一份约 125 页的幻灯片放到网上，讲 Netflix 怎么管人：高薪、充分自由、坦率反馈，对表现仅仅合格的员工给予优厚的离职补偿。这份文件被阅读了数百万次，硅谷公司纷纷效仿。"
+      },
+      "why": {
+        "en": "A pure reputation event that no share price captures: +3% on the reputation coefficient. Sources agree on August 2009 but differ on the exact slide count.",
+        "zh": "纯声誉事件，股价反映不了：口碑系数 +3%。各方资料对 2009 年 8 月没有分歧，但对具体页数说法不一。"
+      },
+      "src": [
+        {
+          "name": "Netflix · Sharing our latest culture memo",
+          "url": "https://about.netflix.com/en/news/sharing-our-latest-culture-memo",
+          "type": "filing"
+        },
+        {
+          "name": "Fortune · The Netflix playbook (2009-08-26)",
+          "url": "https://fortune.com/2009/08/26/the-netflix-playbook/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2011-06-23",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "Facebook board",
+        "zh": "Facebook 董事"
+      },
+      "t": {
+        "en": "Joins the board of Facebook",
+        "zh": "加入 Facebook 董事会"
+      },
+      "summary": {
+        "en": "Facebook named him a director a year before its IPO; he was already on Microsoft's board. He left the Facebook board in 2019, as the two companies increasingly competed in video.",
+        "zh": "Facebook 在上市前一年任命他为董事，当时他已是微软董事。2019 年他离开 Facebook 董事会，那时两家公司在视频领域的竞争越来越多。"
+      },
+      "why": {
+        "en": "A marker of his standing in the industry at the peak of the first streaming boom: a small +1%.",
+        "zh": "这是他在第一波流媒体热潮顶点时行业地位的标志：口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "Meta Newsroom · Facebook names Reed Hastings to its board",
+          "url": "https://about.fb.com/news/2011/06/facebook-names-reed-hastings-to-its-board-of-directors/",
+          "type": "filing"
+        },
+        {
+          "name": "Fortune · Hastings leaving Facebook board (2019-04-12)",
+          "url": "https://fortune.com/2019/04/12/netflix-reed-hastings-leaving-facebook-board/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2011-07-12",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 4,
+      "rep": -0.03,
+      "s": {
+        "en": "Price split",
+        "zh": "拆分涨价"
+      },
+      "t": {
+        "en": "Splits DVD and streaming into separate plans, a 60% price rise for many",
+        "zh": "把 DVD 和流媒体拆成两个套餐，许多用户涨价六成"
+      },
+      "summary": {
+        "en": "Netflix ended its combined plan and charged separately for DVDs by mail and for streaming, at $7.99 a month each. Customers who wanted both paid about 60% more, and many cancelled. The stock was at a record high that week.",
+        "zh": "Netflix 取消合并套餐，邮寄 DVD 和流媒体分开收费，各 7.99 美元一个月。两样都要的用户要多付约六成，许多人因此退订。那一周股价正处于历史高点。"
+      },
+      "why": {
+        "en": "The share price carries the financial loss. The -3% on the reputation coefficient is for the anger of customers, which was aimed at him personally. On the 2011 proxy figures his stake was worth roughly $700 million at the July peak (estimate; options counted at 70%).",
+        "zh": "财务损失由股价承担。口碑系数 -3% 来自用户的愤怒，而这种愤怒直接指向他本人。按 2011 年委托书的数字，他的持股在 7 月高点约值 7 亿美元（估算；期权按七成计入）。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Netflix, Inc.",
+          "url": "https://en.wikipedia.org/wiki/Netflix,_Inc.",
+          "type": "wiki"
+        },
+        {
+          "name": "SEC EDGAR · Netflix 2011 proxy statement",
+          "url": "https://www.sec.gov/Archives/edgar/data/1065280/000119312511103738/ddef14a.htm",
+          "type": "filing"
+        },
+        {
+          "name": "Yahoo Finance · NFLX price history",
+          "url": "https://finance.yahoo.com/quote/NFLX/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2011-09-18",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 5,
+      "rep": -0.05,
+      "s": {
+        "en": "Qwikster",
+        "zh": "Qwikster 风波"
+      },
+      "t": {
+        "en": "Announces Qwikster, then cancels it three weeks later",
+        "zh": "宣布成立 Qwikster，三周后取消"
+      },
+      "summary": {
+        "en": "In a blog post that began with an apology, Hastings said the DVD service would become a separate company called Qwikster with its own website and billing. The plan was widely ridiculed and was dropped on October 10. Netflix lost about 800,000 U.S. subscribers that quarter, and the stock fell roughly 78% from its July high to the end of November.",
+        "zh": "哈斯廷斯在一篇以道歉开头的博客里宣布，DVD 业务将独立成一家叫 Qwikster 的公司，网站和账单都分开。这个计划遭到普遍嘲笑，10 月 10 日即告取消。当季 Netflix 在美国流失约 80 万订户，股价从 7 月高点到 11 月底下跌约 78%。"
+      },
+      "why": {
+        "en": "The price collapse is in the stock. The business press named it one of the worst management mistakes of the year, which the price cannot fully see, so the reputation coefficient takes -5%. The decline figure is computed from the local price data.",
+        "zh": "股价的崩跌由股票自身反映。财经媒体把它列为当年最糟糕的管理失误之一，这是价格看不全的，因此口碑系数 -5%。跌幅根据本地价格数据计算。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Netflix, Inc.",
+          "url": "https://en.wikipedia.org/wiki/Netflix,_Inc.",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Timeline of Netflix",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_Netflix",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · NFLX price history",
+          "url": "https://finance.yahoo.com/quote/NFLX/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2013-02-01",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.04,
+      "s": {
+        "en": "House of Cards",
+        "zh": "《纸牌屋》"
+      },
+      "t": {
+        "en": "“House of Cards” launches, the first Netflix original series",
+        "zh": "首部 Netflix 原创剧《纸牌屋》上线"
+      },
+      "summary": {
+        "en": "Netflix released all thirteen episodes of its first original series at once. The show had been ordered in 2011 without a pilot, a commitment that set the pattern for the company's move from distributor to studio.",
+        "zh": "Netflix 把第一部原创剧的十三集一次性全部放出。这部剧在 2011 年未拍试播集就直接订购，这一承诺为公司从发行方转向制片方定下了模式。"
+      },
+      "why": {
+        "en": "The recovery from 2011 is in the share price. The +4% on the reputation coefficient is for a bet that changed how television is made and released.",
+        "zh": "从 2011 年低谷的复苏已体现在股价里。口碑系数 +4% 是因为这次押注改变了电视剧的制作和发行方式。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Timeline of Netflix",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_Netflix",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Netflix",
+          "url": "https://en.wikipedia.org/wiki/Netflix",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2015-07-15",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 0,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "7-for-1 split",
+        "zh": "1 拆 7"
+      },
+      "t": {
+        "en": "Netflix shares start trading after a seven-for-one split",
+        "zh": "Netflix 股票完成 1 拆 7 后开始交易"
+      },
+      "summary": {
+        "en": "Netflix announced a seven-for-one stock split in June 2015; the new shares were paid on July 14 and trading at the split-adjusted price began on July 15. An earlier two-for-one split took place in 2004.",
+        "zh": "Netflix 于 2015 年 6 月宣布 1 拆 7；新股于 7 月 14 日派发，7 月 15 日起按拆股后的价格交易。此前在 2004 年还有过一次 1 拆 2。"
+      },
+      "why": {
+        "en": "A split changes nothing in value: prices and share counts in the model are all on today's adjusted basis. Listed so that readers can reconcile old share prices.",
+        "zh": "拆股不改变价值：模型里的价格和股本都按今天的复权口径计算。列出此事是为了方便读者对照旧股价。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Timeline of Netflix",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_Netflix",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · NFLX price history",
+          "url": "https://finance.yahoo.com/quote/NFLX/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2016-01",
+      "p": "month",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.03,
+      "s": {
+        "en": "Education fund",
+        "zh": "教育基金"
+      },
+      "t": {
+        "en": "Starts a $100 million education fund",
+        "zh": "设立 1 亿美元教育基金"
+      },
+      "summary": {
+        "en": "He announced a $100 million fund for education, held at the Silicon Valley Community Foundation, with first grants for college scholarships. He had joined the Giving Pledge, a promise to give away most of his wealth, in 2012, and has long funded charter schools.",
+        "zh": "他宣布设立 1 亿美元的教育基金，资金放在硅谷社区基金会，首批拨款用于大学奖学金。他在 2012 年加入“捐赠誓言”，承诺捐出大部分财富，并长期资助特许学校。"
+      },
+      "why": {
+        "en": "Money leaves his own balance sheet, which the outside-wealth anchors absorb. The reputation coefficient gets +3%. His support for charter schools is contested by teachers' unions and some education researchers.",
+        "zh": "这笔钱离开了他个人的资产负债表，已反映在 Netflix 以外财富的锚点里。口碑系数 +3%。他对特许学校的支持受到教师工会和部分教育研究者的质疑。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Reed Hastings",
+          "url": "https://en.wikipedia.org/wiki/Reed_Hastings",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2016-01-06",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.03,
+      "s": {
+        "en": "130 countries",
+        "zh": "一天进入 130 国"
+      },
+      "t": {
+        "en": "Switches Netflix on in 130 more countries during a keynote",
+        "zh": "在主题演讲中宣布 Netflix 新进入 130 个国家"
+      },
+      "summary": {
+        "en": "On stage at the Consumer Electronics Show in Las Vegas, Hastings announced that Netflix had just gone live in 130 additional countries, making it available almost everywhere except China. The stock rose about 9% that day.",
+        "zh": "在拉斯维加斯消费电子展的讲台上，哈斯廷斯宣布 Netflix 刚刚在另外 130 个国家上线，除中国外几乎覆盖全球。当天股价上涨约 9%。"
+      },
+      "why": {
+        "en": "The price jump is carried by the stock. The +3% on the reputation coefficient is for turning a U.S. service into a global one in a single day.",
+        "zh": "股价的跳升由股票自身反映。口碑系数 +3% 是因为他在一天之内把一家美国公司变成了全球服务。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Timeline of Netflix",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_Netflix",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · NFLX price history",
+          "url": "https://finance.yahoo.com/quote/NFLX/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2020-06-17",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.03,
+      "s": {
+        "en": "$120M to HBCUs",
+        "zh": "捐黑人院校1.2亿"
+      },
+      "t": {
+        "en": "Gives $120 million to historically Black colleges",
+        "zh": "向传统黑人院校捐赠 1.2 亿美元"
+      },
+      "summary": {
+        "en": "Hastings and his wife Patty Quillin gave $40 million each to Spelman College, Morehouse College and the United Negro College Fund, mostly for scholarships. Each recipient called it the largest individual gift in its history.",
+        "zh": "哈斯廷斯和妻子帕蒂·奎林向斯佩尔曼学院、莫尔豪斯学院和联合黑人学院基金各捐 4000 万美元，主要用于奖学金。三家机构都表示这是各自历史上最大的一笔个人捐赠。"
+      },
+      "why": {
+        "en": "A reputation event the stock cannot see: +3%. The cash comes out of wealth outside Netflix, which the anchors reflect.",
+        "zh": "股价看不到的声誉事件：口碑系数 +3%。这笔现金来自 Netflix 以外的财富，锚点已反映。"
+      },
+      "src": [
+        {
+          "name": "Fortune · Hastings and Quillin donation to HBCUs (2020-06-17)",
+          "url": "https://fortune.com/2020/06/17/netflix-ceo-reed-hastings-patty-quillin-donation-hcbus/",
+          "type": "news"
+        },
+        {
+          "name": "Bowdoin College · Hastings makes $120 million gift (2020-06)",
+          "url": "https://www.bowdoin.edu/news/2020/06/reed-hastings-83-makes-120-million-gift-to-black-colleges-and-education-fund.html",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2020-09",
+      "p": "month",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.02,
+      "s": {
+        "en": "No Rules Rules",
+        "zh": "《不拘一格》"
+      },
+      "t": {
+        "en": "Publishes the book “No Rules Rules” with Erin Meyer",
+        "zh": "与艾琳·迈耶合著的《不拘一格》出版"
+      },
+      "summary": {
+        "en": "He and business professor Erin Meyer published a book-length account of the Netflix management culture, expanding the 2009 deck with interviews of employees. It became a bestseller. Two months earlier Ted Sarandos had been named co-chief executive alongside him.",
+        "zh": "他与商学院教授艾琳·迈耶合著的这本书，以对员工的访谈为基础，把 2009 年的文化手册扩展成一部完整的 Netflix 管理文化记录，并成为畅销书。两个月前，泰德·萨兰多斯刚被任命为与他并列的联席首席执行官。"
+      },
+      "why": {
+        "en": "Ordinary good press: +2% on the reputation coefficient. Month precision, because the exact publication day was not verified.",
+        "zh": "普通的正面报道：口碑系数 +2%。出版的具体日期未能核实，因此精度为“月”。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Reed Hastings",
+          "url": "https://en.wikipedia.org/wiki/Reed_Hastings",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Netflix, Inc.",
+          "url": "https://en.wikipedia.org/wiki/Netflix,_Inc.",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2022-04-20",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 4,
+      "rep": -0.02,
+      "s": {
+        "en": "-35% in one day",
+        "zh": "单日暴跌 35%"
+      },
+      "t": {
+        "en": "Shares fall 35% after the first subscriber loss in a decade",
+        "zh": "十年来首次用户流失，股价单日下跌 35%"
+      },
+      "summary": {
+        "en": "Netflix reported on April 19 that it had lost 200,000 subscribers in the first quarter and expected to lose 2 million more in the second. The stock fell 35% the next day and was down about three quarters from its November 2021 high by May. Hastings said the company would look at advertising, which he had opposed for years, and at charging for shared passwords.",
+        "zh": "4 月 19 日，Netflix 公布一季度流失 20 万订户，并预计二季度还将流失 200 万。次日股价下跌 35%，到 5 月较 2021 年 11 月的高点已跌去约四分之三。哈斯廷斯表示公司将考虑引入他多年来一直反对的广告，并对共享密码收费。"
+      },
+      "why": {
+        "en": "The loss is in the share price: his stake fell from roughly $4.8 billion at the 2021 peak to about $1.1 billion in May 2022 (estimates). A further -2% on the reputation coefficient for the doubts about a strategy he had defended for years.",
+        "zh": "损失已体现在股价里：他的持股从 2021 年高点的约 48 亿美元跌到 2022 年 5 月的约 11 亿美元（估算）。他坚持多年的战略受到质疑，口碑系数另扣 2%。"
+      },
+      "src": [
+        {
+          "name": "TechCrunch · Netflix loses 200,000 subscribers (2022-04-19)",
+          "url": "https://techcrunch.com/2022/04/19/netflix-shares-down-more-than-20-after-losing-200000-subscribers-in-first-quarter",
+          "type": "news"
+        },
+        {
+          "name": "Fortune · Netflix stock collapse (2022-04-20)",
+          "url": "https://fortune.com/2022/04/20/netflix-stock-collapse-earnings-q1-2022/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · NFLX price history",
+          "url": "https://finance.yahoo.com/quote/NFLX/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2022-11-03",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Ad tier launches",
+        "zh": "广告套餐上线"
+      },
+      "t": {
+        "en": "Launches a cheaper plan with advertising",
+        "zh": "推出带广告的低价套餐"
+      },
+      "summary": {
+        "en": "Netflix started selling Basic with Ads in a dozen countries, at $6.99 a month in the United States, about six months after Hastings first said he was open to the idea.",
+        "zh": "Netflix 在十几个国家推出“基础版（含广告）”，美国售价每月 6.99 美元。此时距哈斯廷斯首次表示愿意考虑广告约半年。"
+      },
+      "why": {
+        "en": "The value is in the share price. A small +1% for reversing a long-held position quickly once the facts changed.",
+        "zh": "价值已体现在股价里。事实变了之后迅速推翻自己坚持多年的立场，口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "TechCrunch · Netflix's ad-supported plan is here (2022-11-03)",
+          "url": "https://techcrunch.com/2022/11/03/netflixs-ad-supported-plan-is-finally-here",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2023-01-19",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 5,
+      "rep": 0.03,
+      "s": {
+        "en": "Steps down as CEO",
+        "zh": "卸任联席 CEO"
+      },
+      "t": {
+        "en": "Hands over the CEO job and becomes executive chairman",
+        "zh": "交出 CEO 职位，转任执行董事长"
+      },
+      "summary": {
+        "en": "After about 25 years running the company, Hastings announced that Greg Peters would join Ted Sarandos as co-chief executive and that he would become executive chairman. The stock rose 8.5% the next day on strong subscriber numbers reported at the same time.",
+        "zh": "在执掌公司约 25 年后，哈斯廷斯宣布由格雷格·彼得斯与泰德·萨兰多斯共同担任联席首席执行官，他本人转任执行董事长。由于同时公布的订户数据强劲，次日股价上涨 8.5%。"
+      },
+      "why": {
+        "en": "Scored as neutral for money: his stake is unchanged, and the human-capital target steps down because he no longer runs the company. The +3% on the reputation coefficient is for a planned, orderly succession, which is rare among founders.",
+        "zh": "对金钱的影响记为中性：持股没有变化，而由于不再经营公司，人力资本目标值下调。口碑系数 +3% 是因为这是一次有计划、有秩序的交接，在创始人里并不多见。"
+      },
+      "src": [
+        {
+          "name": "Netflix · Sarandos and Peters are now co-CEOs, with Hastings as executive chairman",
+          "url": "https://about.netflix.com/en/news/ted-sarandos-greg-peters-co-ceos-netflix",
+          "type": "filing"
+        },
+        {
+          "name": "Axios · Hastings stepping down as co-CEO (2023-01-19)",
+          "url": "https://www.axios.com/2023/01/19/reed-hastings-netflix-ceo-executive-chairman",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · NFLX price history",
+          "url": "https://finance.yahoo.com/quote/NFLX/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2023-05-23",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Paid sharing",
+        "zh": "打击共享密码"
+      },
+      "t": {
+        "en": "Netflix starts charging for shared passwords in the United States",
+        "zh": "Netflix 在美国开始对共享密码收费"
+      },
+      "summary": {
+        "en": "After tests in four countries from February, Netflix told U.S. members that an account is for one household and offered an extra-member slot for $7.99 a month. Sign-ups rose in the following quarters instead of falling as many had predicted.",
+        "zh": "从 2 月起在四个国家试行后，Netflix 通知美国用户：一个账户只供一户家庭使用，并提供每月 7.99 美元的“额外成员”名额。此后几个季度新增订户不降反升，与许多人的预测相反。"
+      },
+      "why": {
+        "en": "Fully in the share price, so no reputation shock (rep = 0). By then the decision belonged to the new co-chief executives.",
+        "zh": "完全体现在股价里，不另计口碑（rep = 0）。此时这已是新任联席首席执行官的决策。"
+      },
+      "src": [
+        {
+          "name": "NBC News · Password-sharing crackdown rolls out in the U.S. (2023-05-23)",
+          "url": "https://www.nbcnews.com/business/consumer/netflix-password-sharing-crackdown-rolls-out-in-the-us-rcna85850",
+          "type": "news"
+        },
+        {
+          "name": "Netflix · An update on sharing (2023-02-08)",
+          "url": "https://about.netflix.com/en/news/an-update-on-sharing",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2023-09-06",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "Powder Mountain",
+        "zh": "买下滑雪场"
+      },
+      "t": {
+        "en": "Becomes majority owner of the Powder Mountain ski resort",
+        "zh": "成为 Powder Mountain 滑雪场的控股股东"
+      },
+      "summary": {
+        "en": "Having bought a minority stake earlier in the year, he invested $100 million in Powder Mountain in Utah and took control of the resort. He later set aside part of the mountain for homeowners while keeping the rest open to the public.",
+        "zh": "他在当年早些时候买入少数股权，随后又向犹他州的 Powder Mountain 投入 1 亿美元，取得滑雪场的控制权。之后他把一部分雪场划给业主专用，其余仍向公众开放。"
+      },
+      "why": {
+        "en": "A shift of cash into a private asset inside the outside-wealth anchor, so total financial capital does not change. Scored as mixed: a personal project with an uncertain return.",
+        "zh": "这是把现金换成私有资产，都在“Netflix 以外财富”这条锚线之内，总金融资本不变。记为好坏参半：一个回报不确定的个人项目。"
+      },
+      "src": [
+        {
+          "name": "KSL · Hastings is new majority owner of Powder Mountain",
+          "url": "https://www.ksl.com/article/50724840",
+          "type": "news"
+        },
+        {
+          "name": "Deseret News · Hastings and Powder Mountain (2023-09-06)",
+          "url": "https://www.deseret.com/2023/9/6/23861482/netflix-reed-hastings-new-owner-powder-mountain-resort-utah",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2024-01-24",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.04,
+      "s": {
+        "en": "$1.1B stock gift",
+        "zh": "捐出 11 亿股票"
+      },
+      "t": {
+        "en": "Gives 2 million Netflix shares, worth about $1.1 billion, to charity",
+        "zh": "捐出 200 万股 Netflix 股票，约值 11 亿美元"
+      },
+      "summary": {
+        "en": "A securities filing showed that he gave away 2 million Netflix shares, about 40% of the shares he then held outright. Netflix said they went to the Silicon Valley Community Foundation, where he keeps a donor-advised fund.",
+        "zh": "证券申报文件显示，他捐出 200 万股 Netflix 股票，约占他当时直接持股的四成。Netflix 表示这些股票捐给了硅谷社区基金会，他在那里设有捐赠人建议基金。"
+      },
+      "why": {
+        "en": "A real transfer, not a pledge: the ownership anchor drops from about 1.55% to about 1.09% across the gift date, which takes roughly $1.1 billion out of financial capital. The reputation coefficient gets +4%.",
+        "zh": "这是真实的过户而非承诺：持股锚点在捐赠日前后从约 1.55% 降到约 1.09%，金融资本因此减少约 11 亿美元。口碑系数 +4%。"
+      },
+      "fin": {
+        "en": "Ownership falls by about 0.46 percentage points.",
+        "zh": "持股比例下降约 0.46 个百分点。"
+      },
+      "src": [
+        {
+          "name": "Fortune · Hastings gives $1.1 billion in Netflix stock (2024-01-31)",
+          "url": "https://fortune.com/2024/01/31/reed-hastings-netflix-charity-donation-1-1-billion/",
+          "type": "news"
+        },
+        {
+          "name": "Bloomberg · Netflix chair gives $1.1 billion to charity (2024-01-29)",
+          "url": "https://www.bloomberg.com/news/articles/2024-01-29/netflix-chair-gives-1-1-billion-to-silicon-valley-charity-group",
+          "type": "news"
+        },
+        {
+          "name": "SEC EDGAR · Netflix 2024 proxy statement",
+          "url": "https://www.sec.gov/Archives/edgar/data/1065280/000119312524100913/d521836ddef14a.htm",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2025-03-24",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.02,
+      "s": {
+        "en": "$50M to Bowdoin",
+        "zh": "捐鲍登 5000 万"
+      },
+      "t": {
+        "en": "Gives $50 million to Bowdoin for an AI and humanity program",
+        "zh": "向鲍登学院捐赠 5000 万美元，用于“AI 与人文”项目"
+      },
+      "summary": {
+        "en": "Bowdoin College announced the largest gift in its history, $50 million from Hastings, to fund new faculty and research on how artificial intelligence affects work, learning and society.",
+        "zh": "鲍登学院宣布收到建校以来最大的一笔捐赠：哈斯廷斯捐出 5000 万美元，用于增聘教师，并研究人工智能对工作、学习和社会的影响。"
+      },
+      "why": {
+        "en": "Ordinary good press: +2% on the reputation coefficient. Paid from wealth outside Netflix.",
+        "zh": "普通的正面报道：口碑系数 +2%。款项来自 Netflix 以外的财富。"
+      },
+      "src": [
+        {
+          "name": "Bowdoin College · Announcing the Hastings Initiative for AI and Humanity",
+          "url": "https://www.bowdoin.edu/news/2025/03/announcing-the-hastings-initiative-for-ai-and-humanity.html",
+          "type": "news"
+        },
+        {
+          "name": "Bloomberg · Hastings gives $50 million to Bowdoin (2025-03-24)",
+          "url": "https://www.bloomberg.com/news/articles/2025-03-24/netflix-s-hastings-gives-50-million-to-bowdoin-for-ai-program",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2025-04-17",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Non-exec chairman",
+        "zh": "转任非执行董事长"
+      },
+      "t": {
+        "en": "Moves from executive chairman to non-executive chairman",
+        "zh": "由执行董事长转任非执行董事长"
+      },
+      "summary": {
+        "en": "Netflix said that Hastings had given up his executive role and would continue as chairman of the board and a non-executive director. The proxy filed that month showed him holding just under 1% of the company including options.",
+        "zh": "Netflix 宣布，哈斯廷斯不再担任执行职务，继续以非执行董事身份担任董事长。当月提交的委托书显示，连同期权在内他持有公司略低于 1% 的股份。"
+      },
+      "why": {
+        "en": "A further step back with no effect on his stake: not scored. Forbes put his net worth at $6.6 billion the following month; the model gives about the same.",
+        "zh": "又退后一步，对持股没有影响：不计分。次月《福布斯》估算他的身家为 66 亿美元，模型结果与之基本一致。"
+      },
+      "src": [
+        {
+          "name": "SEC EDGAR · Netflix 2026 proxy statement (filing index)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1065280/000119312526159286/0001193125-26-159286-index.htm",
+          "type": "filing"
+        },
+        {
+          "name": "SEC EDGAR · Netflix 2025 proxy statement",
+          "url": "https://www.sec.gov/Archives/edgar/data/1065280/000119312525084425/d867701ddef14a.htm",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Reed Hastings",
+          "url": "https://en.wikipedia.org/wiki/Reed_Hastings",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2025-05-28",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Anthropic board",
+        "zh": "Anthropic 董事"
+      },
+      "t": {
+        "en": "Joins the board of the AI company Anthropic",
+        "zh": "加入人工智能公司 Anthropic 董事会"
+      },
+      "summary": {
+        "en": "Anthropic's Long-Term Benefit Trust appointed him to the company's board of directors. He said he believed in the benefits of AI for humanity and was also aware of the economic, social and safety challenges.",
+        "zh": "Anthropic 的长期利益信托任命他为公司董事。他表示相信 AI 对人类的益处，也清楚它在经济、社会和安全方面带来的挑战。"
+      },
+      "why": {
+        "en": "A new role in the industry that currently draws the most attention: +2% on the reputation coefficient. No equity value is added to the model because none has been disclosed.",
+        "zh": "在当下最受关注的行业里获得新角色：口碑系数 +2%。由于没有披露任何股权价值，模型不计入相关资产。"
+      },
+      "src": [
+        {
+          "name": "Anthropic · Reed Hastings appointed to Anthropic's board of directors",
+          "url": "https://www.anthropic.com/news/reed-hastings",
+          "type": "filing"
+        },
+        {
+          "name": "Bloomberg · Anthropic appoints Hastings to board (2025-05-28)",
+          "url": "https://www.bloomberg.com/news/articles/2025-05-28/anthropic-appoints-netflix-co-founder-reed-hastings-to-board",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2025-11-17",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 0,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "10-for-1 split",
+        "zh": "1 拆 10"
+      },
+      "t": {
+        "en": "Netflix shares start trading after a ten-for-one split",
+        "zh": "Netflix 股票完成 1 拆 10 后开始交易"
+      },
+      "summary": {
+        "en": "Netflix announced the split on October 30, 2025, saying it wanted a share price that was easier for employees in its stock option program to handle. Holders received nine extra shares per share after the close on November 14, and split-adjusted trading began on November 17. The shares had reached a record close at the end of June 2025.",
+        "zh": "Netflix 于 2025 年 10 月 30 日宣布拆股，理由是让参加期权计划的员工更容易操作。11 月 14 日收盘后，股东每持 1 股获派 9 股，11 月 17 日起按拆股后的价格交易。此前股价在 2025 年 6 月底创下收盘历史新高。"
+      },
+      "why": {
+        "en": "No change in value. All older share counts in this file are multiplied by 140 (before 2004), 70 (2004 to 2015) or 10 (2015 to 2025) to match today's prices.",
+        "zh": "价值不变。本文件中更早的股本数据已分别乘以 140（2004 年以前）、70（2004 至 2015 年）或 10（2015 至 2025 年），以便与今天的价格口径一致。"
+      },
+      "src": [
+        {
+          "name": "SEC EDGAR · Netflix announces ten-for-one stock split (8-K exhibit)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528025000407/ex991_q425stocksplit.htm",
+          "type": "filing"
+        },
+        {
+          "name": "Yahoo Finance · NFLX price history",
+          "url": "https://finance.yahoo.com/quote/NFLX/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2025-12-05",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "Warner Bros. bid",
+        "zh": "竞购华纳兄弟"
+      },
+      "t": {
+        "en": "Netflix agrees to buy Warner Bros. for about $83 billion",
+        "zh": "Netflix 同意以约 830 亿美元收购华纳兄弟"
+      },
+      "summary": {
+        "en": "With Hastings as chairman, Netflix signed a deal to buy the studio and streaming businesses of Warner Bros. Discovery for $27.75 a share, an enterprise value of about $82.7 billion. It would have been by far the largest acquisition in Netflix's history. Paramount Skydance answered with a hostile all-cash offer for the whole of Warner Bros. Discovery.",
+        "zh": "在哈斯廷斯任董事长期间，Netflix 签约以每股 27.75 美元收购华纳兄弟探索公司的制片和流媒体业务，企业价值约 827 亿美元。这本将是 Netflix 历史上规模遥遥领先的最大收购。派拉蒙天舞随即对整个华纳兄弟探索发起全现金敌意收购。"
+      },
+      "why": {
+        "en": "Scored as mixed and left to the market: the stock fell about 3% that day and kept sliding into January. No reputation shock, because the price already carries the investors' verdict.",
+        "zh": "记为好坏参半，交给市场定价：当天股价下跌约 3%，并一路滑落到次年 1 月。不另计口碑，因为价格已经包含了投资者的判断。"
+      },
+      "src": [
+        {
+          "name": "NPR · Netflix to buy Warner Bros. studio and streaming business (2025-12-05)",
+          "url": "https://www.npr.org/2025/12/05/g-s1-100873/netflix-buys-warner-bros-discovery-studio-streaming",
+          "type": "news"
+        },
+        {
+          "name": "Axios · Netflix to buy Warner Bros. for nearly $83 billion (2025-12-05)",
+          "url": "https://www.axios.com/2025/12/05/netflix-warner-bros-buy-acquisition",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Netflix, Inc.",
+          "url": "https://en.wikipedia.org/wiki/Netflix,_Inc.",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2026-02-26",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Walks away",
+        "zh": "退出竞购"
+      },
+      "t": {
+        "en": "Netflix drops the Warner Bros. bid and collects a $2.8 billion fee",
+        "zh": "Netflix 放弃竞购华纳兄弟，收取 28 亿美元分手费"
+      },
+      "summary": {
+        "en": "Warner Bros. Discovery's board judged Paramount Skydance's $31-a-share offer superior. Netflix declined to raise its bid, saying the deal was no longer financially attractive, and received a $2.8 billion termination fee. The stock rose almost 14% the next day.",
+        "zh": "华纳兄弟探索董事会认定派拉蒙天舞每股 31 美元的报价更优。Netflix 拒绝加价，称这笔交易在财务上已不再有吸引力，并收到 28 亿美元终止费。次日股价上涨近 14%。"
+      },
+      "why": {
+        "en": "Mixed: the company lost the prize but investors welcomed the discipline. The whole effect is in the share price, so rep = 0.",
+        "zh": "好坏参半：公司没有拿到标的，但投资者欢迎这份克制。全部影响都在股价里，因此 rep = 0。"
+      },
+      "src": [
+        {
+          "name": "TechCrunch · Netflix backs out of bid for Warner Bros. Discovery (2026-02-26)",
+          "url": "https://techcrunch.com/2026/02/26/netflix-warner-bros-discovery-paramount-wbd-bid-studios-hbo-cnn-ellison/",
+          "type": "news"
+        },
+        {
+          "name": "TheWrap · Paramount pays Netflix $2.8 billion breakup fee",
+          "url": "https://www.thewrap.com/industry-news/deals-ma/paramount-pays-netflix-warner-bros-breakup-fee/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · NFLX price history",
+          "url": "https://finance.yahoo.com/quote/NFLX/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2026-04-16",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 4,
+      "rep": 0.01,
+      "s": {
+        "en": "Says he will leave",
+        "zh": "宣布离开董事会"
+      },
+      "t": {
+        "en": "Announces he will leave the Netflix board in June",
+        "zh": "宣布将于 6 月离开 Netflix 董事会"
+      },
+      "summary": {
+        "en": "In its first-quarter letter Netflix said Hastings would not stand for re-election at the annual meeting, ending 29 years at the company, to concentrate on philanthropy and other pursuits. Co-chief executive Ted Sarandos said the decision had nothing to do with the failed Warner Bros. bid. The stock fell 9.7% the next day after a weak second-quarter forecast.",
+        "zh": "Netflix 在一季度致股东信中宣布，哈斯廷斯不再在年度股东大会上参选连任，结束在公司的 29 年，今后专注于慈善和其他事务。联席首席执行官泰德·萨兰多斯表示，这一决定与竞购华纳兄弟失败无关。由于二季度业绩指引偏弱，次日股价下跌 9.7%。"
+      },
+      "why": {
+        "en": "The price fall followed the forecast and is in the stock. A small +1% for leaving on his own schedule. The April proxy shows 21.2 million shares held through his family trust plus 16.6 million options; the model counts the options at about 60% of a share each to allow for their exercise prices.",
+        "zh": "股价下跌是业绩指引所致，已在股票里。按自己的节奏离开，口碑系数小幅 +1%。4 月的委托书显示，他通过家族信托持有 2120 万股，另有 1660 万份期权；考虑到行权价，模型把每份期权按约 0.6 股计入。"
+      },
+      "src": [
+        {
+          "name": "Fortune · Hastings to depart Netflix board (2026-04-16)",
+          "url": "https://fortune.com/2026/04/16/netflix-reed-hastings-depart-board-warner-stock-results/",
+          "type": "news"
+        },
+        {
+          "name": "SEC EDGAR · Netflix 2026 proxy statement (filing index)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1065280/000119312526159286/0001193125-26-159286-index.htm",
+          "type": "filing"
+        },
+        {
+          "name": "Yahoo Finance · NFLX price history",
+          "url": "https://finance.yahoo.com/quote/NFLX/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2026-06-04",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "Leaves the board",
+        "zh": "离开董事会"
+      },
+      "t": {
+        "en": "Leaves the Netflix board; Jay Hoag becomes chairman",
+        "zh": "离开 Netflix 董事会，杰伊·霍格接任董事长"
+      },
+      "summary": {
+        "en": "His term ended at the annual shareholder meeting on June 4, 2026. Jay Hoag, a director since 1999 and the lead independent director, was named chairman. Hastings no longer holds any position at the company he co-founded, though he is still a shareholder.",
+        "zh": "他的任期在 2026 年 6 月 4 日的年度股东大会上结束。自 1999 年起任董事、此前担任首席独立董事的杰伊·霍格接任董事长。哈斯廷斯在这家由他联合创办的公司里不再担任任何职务，但仍是股东。"
+      },
+      "why": {
+        "en": "The end of his Netflix career. His stake is unchanged, so financial capital does not move; the human-capital target steps down again and the media baseline fades.",
+        "zh": "他在 Netflix 的职业生涯到此结束。持股没有变化，金融资本不动；人力资本目标值再次下调，媒体热度基线逐步回落。"
+      },
+      "src": [
+        {
+          "name": "The Star (Reuters) · Netflix names Jay Hoag chairman (2026-06-06)",
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/06/06/netflix-names-longtime-director-jay-hoag-as-chairman-succeeding-reed-hastings",
+          "type": "news"
+        },
+        {
+          "name": "SEC EDGAR · Netflix 2026 proxy statement (filing index)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1065280/000119312526159286/0001193125-26-159286-index.htm",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2026-10-20",
+      "p": "day",
+      "cat": "wealth",
+      "dir": -1,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Growth slows",
+        "zh": "增长放缓"
+      },
+      "t": {
+        "en": "Slower revenue growth pushes the shares to less than half their 2025 high",
+        "zh": "收入增速放缓，股价不到 2025 年高点的一半"
+      },
+      "summary": {
+        "en": "Third-quarter revenue rose 12% and profit beat forecasts, but Netflix guided fourth-quarter revenue slightly below expectations and cut its advertising sales estimate. The stock fell about 5% the next day; by late November it traded near $59, compared with a record close of about $134 in June 2025.",
+        "zh": "三季度收入增长 12%，利润超出预期，但 Netflix 对四季度收入的指引略低于预期，并下调了广告收入预估。次日股价下跌约 5%；到 11 月下旬股价在 59 美元附近，而 2025 年 6 月的收盘历史高点约为 134 美元。"
+      },
+      "why": {
+        "en": "Entirely a market event, so rep = 0. Sanity check: at about $59 his Netflix stake is worth roughly $1.7 billion (0.69% including options at a discount); with about $2.3 billion estimated outside Netflix the model gives about $4.0 billion, in line with the Forbes real-time figure on November 25, 2026.",
+        "zh": "纯市场事件，rep = 0。核对：按约 59 美元计算，他的 Netflix 持股约值 17 亿美元（含折算后的期权约 0.69%）；加上估算的约 23 亿美元 Netflix 以外财富，模型得出约 40 亿美元，与《福布斯》2026 年 11 月 25 日的实时数字一致。"
+      },
+      "src": [
+        {
+          "name": "AP via Spectrum News NY1 · Netflix posts higher Q3 profit (2026-10-20)",
+          "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/10/20/netflix-posts-higher-q3-profit-but-revenue-growth-worries-pull-shares-lower",
+          "type": "news"
+        },
+        {
+          "name": "Forbes · Reed Hastings profile",
+          "url": "https://www.forbes.com/profile/reed-hastings/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · NFLX price history",
+          "url": "https://finance.yahoo.com/quote/NFLX/history",
+          "type": "market"
+        }
+      ]
+    }
+  ]
+}

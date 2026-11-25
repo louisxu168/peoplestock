@@ -1,0 +1,1904 @@
+{
+  "id": "ballmer",
+  "name": {
+    "en": "Steve Ballmer",
+    "zh": "史蒂夫·鲍尔默"
+  },
+  "ticker": "BALL",
+  "born": "1956-03-24",
+  "color": "#FF9F43",
+  "initials": "SB",
+  "tagline": {
+    "en": "Microsoft's employee No. 30 never sold most of his shares, and ended up richer than the founder",
+    "zh": "微软第 30 号员工，始终没有卖掉大部分股票，最终比创始人还富有"
+  },
+  "tags": [
+    {
+      "en": "Former Microsoft CEO",
+      "zh": "微软前 CEO"
+    },
+    {
+      "en": "Employee No. 30",
+      "zh": "第 30 号员工"
+    },
+    {
+      "en": "LA Clippers owner",
+      "zh": "快船队老板"
+    },
+    {
+      "en": "Ballmer Group",
+      "zh": "Ballmer Group"
+    }
+  ],
+  "privates": [
+    {
+      "label": {
+        "en": "Pre-IPO Microsoft stake + early savings (estimate)",
+        "zh": "微软上市前股权 + 早期积蓄（估算）"
+      },
+      "until": "1986-03-12",
+      "anchors": [
+        [
+          "1977-06",
+          3000
+        ],
+        [
+          "1980-06-11",
+          20000
+        ],
+        [
+          "1981-07",
+          1600000
+        ],
+        [
+          "1983",
+          5000000
+        ],
+        [
+          "1985",
+          15000000
+        ],
+        [
+          "1986-03-12",
+          35910021
+        ]
+      ]
+    },
+    {
+      "label": {
+        "en": "Wealth outside Microsoft (LA Clippers, Intuit Dome and the Forum, cash from share sales and dividends; estimate)",
+        "zh": "微软以外的财富（洛杉矶快船队、Intuit Dome 与论坛球馆、售股及股息所得现金，估算）"
+      },
+      "from": "1986-03-13",
+      "anchors": [
+        [
+          "1986-03-13",
+          300000
+        ],
+        [
+          "1990",
+          2000000
+        ],
+        [
+          "1992",
+          30000000
+        ],
+        [
+          "2000",
+          200000000
+        ],
+        [
+          "2003-05",
+          300000000
+        ],
+        [
+          "2003-07",
+          1100000000
+        ],
+        [
+          "2004-11",
+          1300000000
+        ],
+        [
+          "2005-01",
+          2400000000
+        ],
+        [
+          "2010-10",
+          3500000000
+        ],
+        [
+          "2011-01",
+          5300000000
+        ],
+        [
+          "2014-08-12",
+          7000000000
+        ],
+        [
+          "2018",
+          7500000000
+        ],
+        [
+          "2021",
+          8000000000
+        ],
+        [
+          "2024",
+          10000000000
+        ],
+        [
+          "2026-11",
+          11000000000
+        ]
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "sym": "MSFT",
+      "label": {
+        "en": "Microsoft stake",
+        "zh": "微软持股"
+      },
+      "from": "1986-03-13",
+      "own": [
+        [
+          "1986-03",
+          0.068951653
+        ],
+        [
+          "1988-12",
+          0.063
+        ],
+        [
+          "1989-12",
+          0.08
+        ],
+        [
+          "1992-12",
+          0.06
+        ],
+        [
+          "1996-12",
+          0.05
+        ],
+        [
+          "2000-06",
+          0.0455
+        ],
+        [
+          "2003-04",
+          0.0437
+        ],
+        [
+          "2003-06",
+          0.04
+        ],
+        [
+          "2007-06",
+          0.0435
+        ],
+        [
+          "2010-10",
+          0.0475
+        ],
+        [
+          "2010-12",
+          0.039
+        ],
+        [
+          "2012-09",
+          0.0398
+        ],
+        [
+          "2014-08",
+          0.0404
+        ],
+        [
+          "2018-06",
+          0.0425
+        ],
+        [
+          "2021-06",
+          0.0435
+        ],
+        [
+          "2024-06",
+          0.043
+        ],
+        [
+          "2026-11",
+          0.0425
+        ]
+      ],
+      "shares": [
+        [
+          "1986-03",
+          7142400000
+        ],
+        [
+          "1990-06",
+          8180000000
+        ],
+        [
+          "1995-06",
+          9300000000
+        ],
+        [
+          "2000-06",
+          10570000000
+        ],
+        [
+          "2003-06",
+          10770000000
+        ],
+        [
+          "2004-06",
+          10860000000
+        ],
+        [
+          "2005-06",
+          10710000000
+        ],
+        [
+          "2007-06",
+          9380000000
+        ],
+        [
+          "2008-06",
+          9150000000
+        ],
+        [
+          "2010-06",
+          8670000000
+        ],
+        [
+          "2012-06",
+          8380000000
+        ],
+        [
+          "2014-06",
+          8240000000
+        ],
+        [
+          "2016-06",
+          7810000000
+        ],
+        [
+          "2018-06",
+          7680000000
+        ],
+        [
+          "2021-06",
+          7520000000
+        ],
+        [
+          "2023-06",
+          7430000000
+        ],
+        [
+          "2026-11",
+          7430000000
+        ]
+      ]
+    }
+  ],
+  "human": [
+    [
+      "1956-03-24",
+      300000
+    ],
+    [
+      "1973",
+      600000
+    ],
+    [
+      "1977",
+      1500000
+    ],
+    [
+      "1980-06-11",
+      3000000
+    ],
+    [
+      "1986-03-13",
+      8000000
+    ],
+    [
+      "1998-07-21",
+      20000000
+    ],
+    [
+      "2000-01-13",
+      30000000
+    ],
+    [
+      "2014-02-04",
+      25000000
+    ],
+    [
+      "2014-08-12",
+      35000000
+    ],
+    [
+      "2024-08-15",
+      40000000
+    ],
+    [
+      "2026-09-02",
+      30000000
+    ]
+  ],
+  "audience": [
+    [
+      "1956-03-24",
+      0
+    ],
+    [
+      "1980-06-11",
+      100
+    ],
+    [
+      "1986-03-13",
+      5000
+    ],
+    [
+      "1998-07",
+      200000
+    ],
+    [
+      "2000-01",
+      2000000
+    ],
+    [
+      "2007",
+      4000000
+    ],
+    [
+      "2013-08",
+      6000000
+    ],
+    [
+      "2014-08",
+      8000000
+    ],
+    [
+      "2020",
+      9000000
+    ],
+    [
+      "2024",
+      10000000
+    ],
+    [
+      "2026-11",
+      12000000
+    ]
+  ],
+  "media": [
+    [
+      "1956-03-24",
+      0
+    ],
+    [
+      "1980-06-11",
+      0.05
+    ],
+    [
+      "1986-03-13",
+      0.5
+    ],
+    [
+      "1998-07",
+      4
+    ],
+    [
+      "2000-01",
+      15
+    ],
+    [
+      "2008",
+      18
+    ],
+    [
+      "2013-08",
+      22
+    ],
+    [
+      "2015",
+      10
+    ],
+    [
+      "2020",
+      8
+    ],
+    [
+      "2024-07",
+      12
+    ],
+    [
+      "2025-09",
+      16
+    ],
+    [
+      "2026-09",
+      22
+    ],
+    [
+      "2026-11",
+      16
+    ]
+  ],
+  "chapters": [
+    {
+      "from": "1956-03-24",
+      "t": {
+        "en": "Detroit to Harvard",
+        "zh": "从底特律到哈佛"
+      },
+      "desc": {
+        "en": "Grows up near Detroit, finishes first in his school class, meets Bill Gates at Harvard and starts out at Procter & Gamble",
+        "zh": "在底特律郊区长大，高中以第一名毕业，在哈佛结识比尔·盖茨，之后在宝洁起步"
+      }
+    },
+    {
+      "from": "1980-06-11",
+      "t": {
+        "en": "Employee No. 30",
+        "zh": "第 30 号员工"
+      },
+      "desc": {
+        "en": "Quits business school to become Microsoft's first business manager and receives about 8% of the company",
+        "zh": "从商学院退学，成为微软第一位业务经理，拿到公司约 8% 的股份"
+      }
+    },
+    {
+      "from": "1986-03-13",
+      "t": {
+        "en": "Building the giant",
+        "zh": "打造软件帝国"
+      },
+      "desc": {
+        "en": "Microsoft goes public; he runs sales as Windows and Office take over the PC, and rises to president",
+        "zh": "微软上市；Windows 和 Office 统治个人电脑的年代里他主管销售，并升任总裁"
+      }
+    },
+    {
+      "from": "2000-01-13",
+      "t": {
+        "en": "Taking over from Gates",
+        "zh": "接班盖茨"
+      },
+      "desc": {
+        "en": "Becomes chief executive at the peak of the bubble, loses the antitrust trial, then starts paying cash back to shareholders",
+        "zh": "在泡沫顶点出任首席执行官，输掉反垄断官司，随后开始向股东返还现金"
+      }
+    },
+    {
+      "from": "2007-01-30",
+      "t": {
+        "en": "Missed waves",
+        "zh": "错过的浪潮"
+      },
+      "desc": {
+        "en": "Profits keep growing, but Vista, phones and search go wrong and the share price stays flat until he announces his exit",
+        "zh": "利润持续增长，但 Vista、手机和搜索接连失利，股价长期横盘，直到他宣布离任"
+      }
+    },
+    {
+      "from": "2014-08-12",
+      "t": {
+        "en": "Clippers owner",
+        "zh": "快船老板"
+      },
+      "desc": {
+        "en": "Buys a basketball team, builds an arena, gives away billions, and holds his Microsoft shares through a tenfold rise",
+        "zh": "买下一支篮球队，建起一座球馆，捐出数十亿美元，并在微软股价上涨十倍的过程中一路持有"
+      }
+    },
+    {
+      "from": "2025-09-03",
+      "t": {
+        "en": "Salary-cap scandal",
+        "zh": "工资帽风波"
+      },
+      "desc": {
+        "en": "A report about a player's side deal leads to a league investigation, a one-year suspension and a public apology",
+        "zh": "一篇关于球员场外合同的报道引出联盟调查、一年禁赛和一次公开道歉"
+      }
+    }
+  ],
+  "events": [
+    {
+      "d": "1956-03-24",
+      "p": "day",
+      "cat": "origin",
+      "dir": 0,
+      "mag": 1,
+      "rep": 0,
+      "s": {
+        "en": "Born in Detroit",
+        "zh": "出生底特律"
+      },
+      "t": {
+        "en": "Born in Detroit, Michigan",
+        "zh": "出生于密歇根州底特律"
+      },
+      "summary": {
+        "en": "Steve Ballmer was born in Detroit and grew up in its suburbs. His father worked as a manager at Ford Motor Company.",
+        "zh": "史蒂夫·鲍尔默出生在底特律，在市郊长大。他的父亲是福特汽车公司的一名管理人员。"
+      },
+      "why": {
+        "en": "Starting point, not scored. Human capital begins at the average level for a child born in the United States.",
+        "zh": "起点事件，不计分。人力资本以美国同龄人的平均水平作为初始值。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Steve Ballmer",
+          "url": "https://en.wikipedia.org/wiki/Steve_Ballmer",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1973",
+      "p": "year",
+      "cat": "education",
+      "dir": 1,
+      "mag": 1,
+      "rep": 0,
+      "s": {
+        "en": "Valedictorian",
+        "zh": "高中第一名毕业"
+      },
+      "t": {
+        "en": "Graduates first in his class from Detroit Country Day School",
+        "zh": "以全年级第一名从底特律乡村走读学校毕业"
+      },
+      "summary": {
+        "en": "He finished high school as valedictorian at Detroit Country Day School, a private preparatory school in the Detroit suburbs, and won a place at Harvard.",
+        "zh": "他以毕业生代表（全年级第一）的身份从底特律郊区的私立预科学校底特律乡村走读学校毕业，并考入哈佛。"
+      },
+      "why": {
+        "en": "A small education step. Only the year is known, so the date is year precision.",
+        "zh": "一小级学历台阶。只能确认年份，因此日期精度为“年”。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Steve Ballmer",
+          "url": "https://en.wikipedia.org/wiki/Steve_Ballmer",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Detroit Country Day School",
+          "url": "https://en.wikipedia.org/wiki/Detroit_Country_Day_School",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1977",
+      "p": "year",
+      "cat": "education",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Harvard degree",
+        "zh": "哈佛毕业"
+      },
+      "t": {
+        "en": "Graduates from Harvard with honors; joins Procter & Gamble",
+        "zh": "以优异成绩从哈佛毕业，进入宝洁"
+      },
+      "summary": {
+        "en": "He graduated magna cum laude from Harvard with a degree in applied mathematics and economics. At Harvard he lived down the hall from Bill Gates, who left to start Microsoft. Ballmer then spent about two years at Procter & Gamble as an assistant product manager.",
+        "zh": "他以优等成绩从哈佛毕业，主修应用数学和经济学。在哈佛时，他和后来退学创办微软的比尔·盖茨住在同一层宿舍。毕业后他在宝洁做了大约两年助理产品经理。"
+      },
+      "why": {
+        "en": "An education step plus a first job in brand management: the human-capital target rises to the level of a graduate of a top university. The friendship with Gates is what later mattered most, but it carried no money value yet.",
+        "zh": "学历台阶加上第一份品牌管理工作：人力资本目标值上调到名校毕业生的水平。与盖茨的交情后来最为关键，但此时还没有任何金钱价值。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Steve Ballmer",
+          "url": "https://en.wikipedia.org/wiki/Steve_Ballmer",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1980-06-11",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.02,
+      "s": {
+        "en": "Joins Microsoft",
+        "zh": "加入微软"
+      },
+      "t": {
+        "en": "Leaves Stanford's MBA program to join Microsoft as employee No. 30",
+        "zh": "从斯坦福 MBA 退学，成为微软第 30 号员工"
+      },
+      "summary": {
+        "en": "Gates persuaded him to drop out of Stanford Graduate School of Business and become Microsoft's first business manager. He was the 30th employee and was offered a salary of about $50,000 plus a share of the company.",
+        "zh": "盖茨说服他从斯坦福商学院退学，出任微软第一位业务经理。他是公司的第 30 名员工，拿到约 5 万美元年薪，外加公司的一部分权益。"
+      },
+      "why": {
+        "en": "The turning point of his life: from this day his fortune is tied to Microsoft. Human capital starts climbing toward the level of a senior executive at a fast-growing private company, and the reputation coefficient gets +2% for becoming Gates's right hand.",
+        "zh": "人生转折点：从这一天起，他的财富与微软绑定。人力资本开始向“高速成长的非上市公司高管”水平爬升；成为盖茨的左膀右臂，口碑系数 +2%。"
+      },
+      "fin": {
+        "en": "An ownership interest in Microsoft enters the model (pre-IPO values are estimates).",
+        "zh": "微软的权益进入模型（上市前的价值均为估算）。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Steve Ballmer",
+          "url": "https://en.wikipedia.org/wiki/Steve_Ballmer",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · History of Microsoft",
+          "url": "https://en.wikipedia.org/wiki/History_of_Microsoft",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1981",
+      "p": "year",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "8% of Microsoft",
+        "zh": "持股 8%"
+      },
+      "t": {
+        "en": "Microsoft incorporates; Ballmer holds about 8%",
+        "zh": "微软改制为股份公司，鲍尔默持股约 8%"
+      },
+      "summary": {
+        "en": "Microsoft changed from a partnership into a corporation in 1981, and Ballmer's profit share was turned into roughly 8% of the stock. In the same year a venture firm bought about 5% of the company for $1 million, and MS-DOS shipped with the first IBM PC.",
+        "zh": "1981 年微软由合伙制改为股份公司，鲍尔默原先的利润分成转成了约 8% 的股份。同年，一家风险投资机构以 100 万美元买入约 5% 的股份，MS-DOS 也随第一代 IBM PC 上市。"
+      },
+      "why": {
+        "en": "The stake anchor is an estimate: the venture round implies a company value near $20 million, so 8% is worth about $1.6 million. Only the year is certain.",
+        "zh": "持股价值为估算：按风投入股价格推算公司约值 2000 万美元，8% 约合 160 万美元。只能确认年份。"
+      },
+      "fin": {
+        "en": "Estimated stake: about $1.6 million.",
+        "zh": "估算持股价值：约 160 万美元。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Steve Ballmer",
+          "url": "https://en.wikipedia.org/wiki/Steve_Ballmer",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · History of Microsoft",
+          "url": "https://en.wikipedia.org/wiki/History_of_Microsoft",
+          "type": "wiki"
+        },
+        {
+          "name": "TechCrunch · A look back in IPO: Microsoft",
+          "url": "https://techcrunch.com/2017/08/08/a-look-back-in-ipo-microsoft-the-software-success/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "1986-03-13",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.02,
+      "s": {
+        "en": "Microsoft IPO",
+        "zh": "微软上市"
+      },
+      "t": {
+        "en": "Microsoft goes public at $21 a share",
+        "zh": "微软以每股 21 美元上市"
+      },
+      "summary": {
+        "en": "Microsoft listed on Nasdaq at $21 and closed its first day near $28. Ballmer, then a vice president, held about 1.7 million shares, roughly 7% of the company, worth about $36 million at the offer price.",
+        "zh": "微软在纳斯达克上市，发行价 21 美元，首日收盘接近 28 美元。时任副总裁的鲍尔默持有约 171 万股，约占公司 7%，按发行价计算约值 3600 万美元。"
+      },
+      "why": {
+        "en": "Anchor switch: from this day financial capital = ownership × shares outstanding × the daily close. The share count (about 1.71 million, about 6.9% after the offering) is taken from secondary accounts of the prospectus and is an estimate; shares are restated for the nine later splits (factor 288).",
+        "zh": "锚点切换：从这一天起，金融资本 = 持股比例 × 总股本 × 当日收盘价。持股数（约 171 万股，发行后约占 6.9%）来自对招股书的二手转述，属于估算；总股本已按此后九次拆股（累计 288 倍）折算。"
+      },
+      "fin": {
+        "en": "Priced daily from the MSFT quote from here on.",
+        "zh": "此后按 MSFT 日线逐日计价。"
+      },
+      "src": [
+        {
+          "name": "Fortune · Inside the deal that made Bill Gates $350,000,000 (1986)",
+          "url": "https://fortune.com/2011/03/13/inside-the-deal-that-made-bill-gates-350000000/",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · History of Microsoft",
+          "url": "https://en.wikipedia.org/wiki/History_of_Microsoft",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · MSFT price history",
+          "url": "https://finance.yahoo.com/quote/MSFT/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "1989",
+      "p": "year",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Buys on margin",
+        "zh": "借钱加仓"
+      },
+      "t": {
+        "en": "Borrows $46.2 million to buy more Microsoft stock",
+        "zh": "借款 4620 万美元增持微软股票"
+      },
+      "summary": {
+        "en": "After Microsoft's stock dropped sharply in 1989, Ballmer bought 945,000 more shares for $46.2 million, all with borrowed money. He later said it was about a quarter of his net worth at the time and that he repaid the loan early.",
+        "zh": "1989 年微软股价大幅下跌后，鲍尔默全部用借来的钱，以 4620 万美元再买入 94.5 万股。他后来说，这笔钱相当于他当时身家的四分之一左右，而且他提前还清了贷款。"
+      },
+      "why": {
+        "en": "The ownership anchor rises from about 6% to about 8% (estimate). The model does not track the margin loan, so net wealth is slightly overstated for the months the loan was open. A small +1% for conviction that paid off.",
+        "zh": "持股锚点从约 6% 升到约 8%（估算）。模型不单独记录这笔保证金贷款，因此贷款存续期间的净资产略有高估。事后证明正确的信心，口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "Fortune · Ballmer on his 1989 margin purchase (2015)",
+          "url": "https://fortune.com/2015/08/22/nikesh-arora-ballmer-microsoft/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "1998-07-21",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "Named president",
+        "zh": "出任总裁"
+      },
+      "t": {
+        "en": "Named president of Microsoft",
+        "zh": "被任命为微软总裁"
+      },
+      "summary": {
+        "en": "Gates promoted Ballmer, until then head of sales and support, to president, a post that had been vacant for several years. Ballmer took over day-to-day management so that Gates could spend more time on products.",
+        "zh": "盖茨把此前主管销售与支持的鲍尔默提拔为总裁，这个职位此前已空缺数年。鲍尔默接手日常管理，让盖茨把更多时间放在产品上。"
+      },
+      "why": {
+        "en": "A clear step toward the top job: the human-capital target rises to the level of the number two of the world's most valuable software company. The reputation coefficient gets +2%.",
+        "zh": "向最高职位迈出的明确一步：人力资本目标值上调到“全球市值最高软件公司二号人物”的水平。口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Microsoft · Gates broadens management team (1998-07-21)",
+          "url": "https://news.microsoft.com/source/1998/07/21/gates-broadens-management-team-to-take-advantage-of-future-opportunities/",
+          "type": "filing"
+        },
+        {
+          "name": "CBS News · Ballmer named Microsoft president",
+          "url": "https://www.cbsnews.com/news/ballmer-named-microsoft-president/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2000-01-13",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.03,
+      "s": {
+        "en": "Becomes CEO",
+        "zh": "接任 CEO"
+      },
+      "t": {
+        "en": "Succeeds Bill Gates as chief executive of Microsoft",
+        "zh": "接替比尔·盖茨出任微软首席执行官"
+      },
+      "summary": {
+        "en": "Gates handed the chief executive job to Ballmer and stayed on as chairman and chief software architect. Microsoft was then the most valuable company in the world, a few weeks after its share price peaked.",
+        "zh": "盖茨把首席执行官一职交给鲍尔默，自己留任董事长并出任首席软件架构师。当时微软是全球市值最高的公司，股价几周前刚刚见顶。"
+      },
+      "why": {
+        "en": "The top of his career ladder: human capital steps up to the level of a public-company CEO, and the reputation coefficient gets +3%. He took over almost exactly at the peak of the dot-com bubble, which shapes everything the stock does next.",
+        "zh": "职业阶梯的顶点：人力资本上调到上市公司 CEO 的水平，口碑系数 +3%。他几乎正好在互联网泡沫的顶点接手，此后的股价走势都受此影响。"
+      },
+      "src": [
+        {
+          "name": "HistoryLink · Steve Ballmer takes over as CEO of Microsoft on January 13, 2000",
+          "url": "https://www.historylink.org/File/10426",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Steve Ballmer",
+          "url": "https://en.wikipedia.org/wiki/Steve_Ballmer",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2000-04-03",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 4,
+      "rep": -0.02,
+      "s": {
+        "en": "Antitrust ruling",
+        "zh": "反垄断败诉"
+      },
+      "t": {
+        "en": "A federal judge rules that Microsoft broke antitrust law; shares fall 14%",
+        "zh": "联邦法官裁定微软违反反垄断法，股价下跌 14%"
+      },
+      "summary": {
+        "en": "Judge Thomas Penfield Jackson ruled that Microsoft had illegally maintained its Windows monopoly, and in June ordered the company split in two. The stock fell 14.5% on the day of the ruling. An appeals court threw out the breakup in 2001 and the case was settled.",
+        "zh": "托马斯·彭菲尔德·杰克逊法官裁定微软非法维持 Windows 的垄断地位，并在 6 月下令把公司一分为二。裁决当天股价下跌 14.5%。2001 年上诉法院推翻了拆分令，案件最终以和解告终。"
+      },
+      "why": {
+        "en": "The price drop is in the stock. The reputation coefficient takes -2% because the new chief executive's first year was dominated by a case the company had lost.",
+        "zh": "股价下跌已由股票反映。新任 CEO 的第一年被一场败诉的官司笼罩，口碑系数 -2%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · United States v. Microsoft Corp.",
+          "url": "https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · MSFT price history",
+          "url": "https://finance.yahoo.com/quote/MSFT/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2001-11-15",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Xbox launches",
+        "zh": "Xbox 发售"
+      },
+      "t": {
+        "en": "Microsoft enters game consoles with the Xbox",
+        "zh": "微软推出 Xbox，进入游戏主机市场"
+      },
+      "summary": {
+        "en": "The first Xbox went on sale in North America, three weeks after Windows XP. The console lost money for years but gave Microsoft a lasting consumer business in games.",
+        "zh": "第一代 Xbox 在北美发售，此前三周 Windows XP 刚刚上市。这款主机多年亏损，却让微软在游戏领域有了一块长期的消费业务。"
+      },
+      "why": {
+        "en": "A new business line started under his leadership. The financial effect is in the share price; a small +1% for a bet that eventually worked.",
+        "zh": "这是他任内开辟的新业务。财务影响已在股价里；这次最终押对的尝试带来口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Xbox (console)",
+          "url": "https://en.wikipedia.org/wiki/Xbox_(console)",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2003-05-23",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 0,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Sells $955M",
+        "zh": "减持 9.55 亿"
+      },
+      "t": {
+        "en": "Confirms the sale of about 39 million shares, his first in twelve years",
+        "zh": "确认出售约 3900 万股，为 12 年来首次减持"
+      },
+      "summary": {
+        "en": "Ballmer confirmed that he had sold about 39.3 million Microsoft shares for roughly $955 million to diversify his assets, his first sale since 1991. He kept about 432 million shares, around 4% of the company, and said he remained fully committed to it.",
+        "zh": "鲍尔默确认，为分散资产，他卖出约 3930 万股微软股票，套现约 9.55 亿美元，这是他 1991 年以来第一次减持。他仍持有约 4.32 亿股，约占公司 4%，并表示对公司的投入没有改变。"
+      },
+      "why": {
+        "en": "Neutral: stock is exchanged for cash. The ownership anchor steps down from about 4.4% to 4.0% and the proceeds move into the 'wealth outside Microsoft' line (after an estimated tax).",
+        "zh": "中性事件：股票换成现金。持股锚点从约 4.4% 降到 4.0%，套现所得（扣除估算税款后）转入“微软以外的财富”。"
+      },
+      "src": [
+        {
+          "name": "Microsoft · Statement by CEO Steve Ballmer (2003-05-23)",
+          "url": "https://news.microsoft.com/source/2003/05/23/statement-by-microsoft-ceo-steve-ballmer/",
+          "type": "filing"
+        },
+        {
+          "name": "InternetNews · Ballmer pares Microsoft holdings",
+          "url": "https://www.internetnews.com/it-management/ballmer-pares-microsoft-holdings/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2004-07-20",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "$75B payout plan",
+        "zh": "750 亿回馈股东"
+      },
+      "t": {
+        "en": "Microsoft announces a $3 special dividend and a $30 billion buyback",
+        "zh": "微软宣布每股 3 美元特别股息和 300 亿美元回购"
+      },
+      "summary": {
+        "en": "Microsoft said it would return up to $75 billion to shareholders over four years: a one-time $3-a-share dividend worth about $32 billion, a $30 billion buyback and a doubled regular dividend. The special dividend was paid that December.",
+        "zh": "微软宣布四年内向股东返还最多 750 亿美元：一次性每股 3 美元、总额约 320 亿美元的特别股息，300 亿美元回购，以及翻倍的常规股息。特别股息于当年 12 月发放。"
+      },
+      "why": {
+        "en": "With about 4% of the shares, his part of the special dividend was roughly $1.2 billion before tax (estimate); the model adds it to wealth outside Microsoft. A small +1% for ending years of cash hoarding.",
+        "zh": "按约 4% 的持股计算，他分到的特别股息税前约 12 亿美元（估算），模型把它计入微软以外的财富。结束多年囤积现金的做法，口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "Microsoft · Dividend, buyback and special dividend release (2004-07-20)",
+          "url": "https://news.microsoft.com/source/2004/07/20/microsoft-outlines-quarterly-dividend-four-year-stock-buyback-plan-and-special-dividend-to-shareholders/",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2007-01-30",
+      "p": "day",
+      "cat": "milestone",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.02,
+      "s": {
+        "en": "Vista launch",
+        "zh": "Vista 上市"
+      },
+      "t": {
+        "en": "Windows Vista reaches consumers after long delays",
+        "zh": "多次延期后，Windows Vista 面向消费者发售"
+      },
+      "summary": {
+        "en": "Windows Vista went on general sale more than five years after Windows XP. It drew complaints about speed, hardware demands and compatibility, and many business customers stayed on XP.",
+        "zh": "Windows Vista 在 Windows XP 发布五年多之后才全面上市。用户抱怨它运行慢、硬件要求高、兼容性差，许多企业客户选择继续用 XP。"
+      },
+      "why": {
+        "en": "Sales still grew, so the stock shows little. The reputation coefficient takes -2% because Vista became the symbol of slow execution during his tenure. He later called it his biggest regret.",
+        "zh": "销售额仍在增长，所以股价上看不出什么。但 Vista 成了他任内执行迟缓的象征，口碑系数 -2%。他后来称这是自己最大的遗憾。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Windows Vista",
+          "url": "https://en.wikipedia.org/wiki/Windows_Vista",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Steve Ballmer",
+          "url": "https://en.wikipedia.org/wiki/Steve_Ballmer",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2007-04-30",
+      "p": "day",
+      "cat": "reputation",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.03,
+      "s": {
+        "en": "Dismisses iPhone",
+        "zh": "看衰 iPhone"
+      },
+      "t": {
+        "en": "Says the iPhone has no chance of gaining significant market share",
+        "zh": "称 iPhone 不可能拿到可观的市场份额"
+      },
+      "summary": {
+        "en": "In a newspaper interview two months before the iPhone went on sale, Ballmer said a $500 phone without a keyboard would not win meaningful share. The remark was replayed for years as smartphones passed Microsoft by. In 2016 he said he had been wrong.",
+        "zh": "在 iPhone 开卖前两个月的一次报纸采访中，鲍尔默表示，一部 500 美元、没有键盘的手机拿不到像样的份额。此后智能手机浪潮把微软甩在身后，这段话被反复提起。2016 年他承认自己当时错了。"
+      },
+      "why": {
+        "en": "A pure reputation event: no price moved on the day, but the quote became shorthand for missing the mobile shift, so the reputation coefficient takes -3%.",
+        "zh": "纯声誉事件：当天股价没有反应，但这句话成了“错过移动时代”的代名词，口碑系数 -3%。"
+      },
+      "src": [
+        {
+          "name": "MacRumors · Ballmer on iPhone market share (2007-04-30)",
+          "url": "https://www.macrumors.com/2007/04/30/ballmer-on-iphone-marketshare/",
+          "type": "news"
+        },
+        {
+          "name": "MacRumors · Ballmer admits he was wrong about the iPhone (2016)",
+          "url": "https://www.macrumors.com/2016/11/07/former-microsoft-ceo-steve-ballmer-wrong-iphone/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2008-02-01",
+      "p": "day",
+      "cat": "career",
+      "dir": -1,
+      "mag": 4,
+      "rep": -0.01,
+      "s": {
+        "en": "Bids for Yahoo",
+        "zh": "出价收购雅虎"
+      },
+      "t": {
+        "en": "Offers $44.6 billion for Yahoo; withdraws three months later",
+        "zh": "出价 446 亿美元收购雅虎，三个月后撤回"
+      },
+      "summary": {
+        "en": "Microsoft made an unsolicited offer of $31 a share for Yahoo to catch up with Google in search advertising. Its own stock fell 6.6% that day. Yahoo's board held out for more and Ballmer withdrew the proposal on May 3.",
+        "zh": "为了在搜索广告上追赶谷歌，微软主动提出以每股 31 美元收购雅虎，当天微软自己的股价下跌 6.6%。雅虎董事会要求更高的价格，鲍尔默于 5 月 3 日撤回了报价。"
+      },
+      "why": {
+        "en": "The price reaction is in the stock. A small -1% for a public pursuit that failed; many investors later judged that walking away saved Microsoft money.",
+        "zh": "股价反应已在股票里。公开追求却以失败收场，口碑系数小幅 -1%；不少投资者事后认为，放弃反而替微软省了钱。"
+      },
+      "src": [
+        {
+          "name": "Microsoft · Proposes acquisition of Yahoo for $31 per share (2008-02-01)",
+          "url": "https://news.microsoft.com/source/2008/02/01/microsoft-proposes-acquisition-of-yahoo-for-31-per-share/",
+          "type": "filing"
+        },
+        {
+          "name": "Microsoft · Withdraws proposal to acquire Yahoo (2008-05-03)",
+          "url": "https://news.microsoft.com/source/2008/05/03/microsoft-withdraws-proposal-to-acquire-yahoo/",
+          "type": "filing"
+        },
+        {
+          "name": "Yahoo Finance · MSFT price history",
+          "url": "https://finance.yahoo.com/quote/MSFT/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2009-10-22",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Windows 7",
+        "zh": "Windows 7 发布"
+      },
+      "t": {
+        "en": "Windows 7 launches and repairs the damage from Vista",
+        "zh": "Windows 7 上市，修复了 Vista 留下的伤害"
+      },
+      "summary": {
+        "en": "Windows 7 went on sale and was well received by reviewers and business customers. It became one of the fastest-selling versions of Windows.",
+        "zh": "Windows 7 开始发售，评测和企业客户的反响都不错，成为销售最快的 Windows 版本之一。"
+      },
+      "why": {
+        "en": "The sales are in the stock. The reputation coefficient gets +2% for a recovery in the core product.",
+        "zh": "销售表现已在股价里。核心产品重回正轨，口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Windows 7",
+          "url": "https://en.wikipedia.org/wiki/Windows_7",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2010-11-05",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 0,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Sells $1.3B",
+        "zh": "减持 13 亿"
+      },
+      "t": {
+        "en": "Sells 49.3 million shares for about $1.3 billion",
+        "zh": "出售 4930 万股，套现约 13 亿美元"
+      },
+      "summary": {
+        "en": "A filing showed that Ballmer had sold 49.3 million shares over three days at about $27 each, his first sale since 2003. He said it was for diversification and tax planning and that he might sell up to 75 million shares by the end of the year.",
+        "zh": "监管文件显示，鲍尔默在三天内以每股约 27 美元卖出 4930 万股，这是他 2003 年以来第一次减持。他表示此举是为了分散资产和税务规划，年底前最多可能卖出 7500 万股。"
+      },
+      "why": {
+        "en": "Neutral: stock is exchanged for cash. The ownership anchors assume the full 75 million shares were sold, which matches the roughly 333 million shares (about 4%) he was reported to hold afterwards. Proceeds move to wealth outside Microsoft.",
+        "zh": "中性事件：股票换成现金。持股锚点假定 7500 万股全部卖出，这与此后报道的约 3.33 亿股（约 4%）持股相符。套现所得转入微软以外的财富。"
+      },
+      "src": [
+        {
+          "name": "TechCrunch · Ballmer stock sale (2010-11-05)",
+          "url": "https://techcrunch.com/2010/11/05/ballmer-stock-sale/",
+          "type": "news"
+        },
+        {
+          "name": "The Register · Ballmer cuts stake in Microsoft with shares sale",
+          "url": "https://www.theregister.com/2010/11/08/ballmer_stock_sale/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2011-05",
+      "p": "month",
+      "cat": "reputation",
+      "dir": -1,
+      "mag": 2,
+      "rep": -0.02,
+      "s": {
+        "en": "Investor revolt",
+        "zh": "投资人逼宫"
+      },
+      "t": {
+        "en": "Hedge fund manager David Einhorn publicly calls for Ballmer to go",
+        "zh": "对冲基金经理大卫·艾因霍恩公开要求鲍尔默下台"
+      },
+      "summary": {
+        "en": "At an investment conference, Greenlight Capital's David Einhorn, a Microsoft shareholder, said Ballmer was stuck in the past and should step aside. The stock was trading below its level of ten years earlier.",
+        "zh": "在一次投资会议上，微软股东、绿光资本的大卫·艾因霍恩表示，鲍尔默还活在过去，应该让位。当时微软股价比十年前还低。"
+      },
+      "why": {
+        "en": "The flat share price is already in the stock. The -2% is for a well-known investor saying in public what many shareholders thought.",
+        "zh": "股价的长期横盘已体现在股票里。-2% 是因为一位知名投资人把许多股东的想法公开说了出来。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · David Einhorn",
+          "url": "https://en.wikipedia.org/wiki/David_Einhorn_(hedge_fund_manager)",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Steve Ballmer",
+          "url": "https://en.wikipedia.org/wiki/Steve_Ballmer",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2011-05-10",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Buys Skype",
+        "zh": "收购 Skype"
+      },
+      "t": {
+        "en": "Agrees to buy Skype for $8.5 billion",
+        "zh": "宣布以 85 亿美元收购 Skype"
+      },
+      "summary": {
+        "en": "Microsoft agreed to pay $8.5 billion in cash for the internet calling service Skype, at the time the largest acquisition in its history.",
+        "zh": "微软同意以 85 亿美元现金收购网络通话服务 Skype，这是当时微软历史上最大的一笔收购。"
+      },
+      "why": {
+        "en": "Scored as mixed and left to the share price (rep = 0): the price was widely seen as high, and the product was later folded into other services.",
+        "zh": "记为好坏参半，交给股价去反映（rep = 0）：外界普遍认为出价偏高，这款产品后来也被并入其他服务。"
+      },
+      "src": [
+        {
+          "name": "Microsoft · Microsoft to acquire Skype (2011-05-10)",
+          "url": "https://news.microsoft.com/source/2011/05/10/microsoft-to-acquire-skype-3/",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2012-07-19",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.02,
+      "s": {
+        "en": "First quarter loss",
+        "zh": "首次季度亏损"
+      },
+      "t": {
+        "en": "A $6.2 billion write-down produces Microsoft's first quarterly loss as a public company",
+        "zh": "62 亿美元减值导致微软上市以来首次季度亏损"
+      },
+      "summary": {
+        "en": "Microsoft wrote off almost the entire value of aQuantive, the online advertising firm it had bought in 2007, and reported a net loss of $492 million for the quarter. The same month a long magazine article described his time as chief executive as a lost decade.",
+        "zh": "微软把 2007 年收购的在线广告公司 aQuantive 的价值几乎全部减记，当季净亏损 4.92 亿美元。同月，一篇杂志长文把他担任 CEO 的这段时间称为“失落的十年”。"
+      },
+      "why": {
+        "en": "Investors had been told in advance, so the stock barely moved. The reputation coefficient takes -2% for the admission that the main answer to Google in advertising had failed.",
+        "zh": "投资者事先已获告知，股价几乎没动。这等于承认在广告领域对抗谷歌的主要手段失败了，口碑系数 -2%。"
+      },
+      "src": [
+        {
+          "name": "Microsoft Investor Relations · FY2012 Q4 results",
+          "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2012-Q4/press-release-webcast",
+          "type": "filing"
+        },
+        {
+          "name": "Vanity Fair · How Microsoft lost its mojo (2012)",
+          "url": "https://www.vanityfair.com/news/business/2012/08/microsoft-lost-mojo-steve-ballmer",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2012-10-26",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 0,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Windows 8, Surface",
+        "zh": "Win8 与 Surface"
+      },
+      "t": {
+        "en": "Windows 8 and the first Surface tablet go on sale",
+        "zh": "Windows 8 和第一代 Surface 平板开售"
+      },
+      "summary": {
+        "en": "Microsoft released Windows 8, redesigned around touch screens, together with Surface, its first own-brand computer. The new interface confused many PC users, while Surface began a hardware line that is still sold today.",
+        "zh": "微软发布了围绕触摸屏重新设计的 Windows 8，同时推出第一款自有品牌电脑 Surface。新界面让许多 PC 用户无所适从，而 Surface 开启了一条延续至今的硬件产品线。"
+      },
+      "why": {
+        "en": "Scored as mixed and left to the share price (rep = 0).",
+        "zh": "记为好坏参半，交给股价去反映（rep = 0）。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Windows 8",
+          "url": "https://en.wikipedia.org/wiki/Windows_8",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Surface (2012 tablet)",
+          "url": "https://en.wikipedia.org/wiki/Surface_(2012_tablet)",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2013-07-18",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Surface write-off",
+        "zh": "Surface 减记"
+      },
+      "t": {
+        "en": "A $900 million Surface RT charge; shares fall 11% the next day",
+        "zh": "Surface RT 减记 9 亿美元，次日股价下跌 11%"
+      },
+      "summary": {
+        "en": "Quarterly results included a $900 million charge for unsold Surface RT tablets and weaker Windows sales. The stock fell 11.4% on July 19, its largest one-day drop since January 2009.",
+        "zh": "季度财报计入了 9 亿美元的 Surface RT 平板库存减记，Windows 销售也走弱。7 月 19 日股价下跌 11.4%，是 2009 年 1 月以来最大的单日跌幅。"
+      },
+      "why": {
+        "en": "Fully priced by the market, so no extra reputation shock (rep = 0).",
+        "zh": "完全由市场定价，不再额外扣口碑（rep = 0）。"
+      },
+      "src": [
+        {
+          "name": "Microsoft Investor Relations · FY2013 Q4 results",
+          "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2013-Q4/press-release-webcast",
+          "type": "filing"
+        },
+        {
+          "name": "Yahoo Finance · MSFT price history",
+          "url": "https://finance.yahoo.com/quote/MSFT/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2013-08-23",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 5,
+      "rep": -0.03,
+      "s": {
+        "en": "Announces exit",
+        "zh": "宣布退休"
+      },
+      "t": {
+        "en": "Announces he will retire within 12 months; shares jump 7%",
+        "zh": "宣布将在 12 个月内退休，股价大涨 7%"
+      },
+      "summary": {
+        "en": "Ballmer said he would step down as chief executive once a successor was chosen. Microsoft's stock rose 7.3% that day, which added close to $800 million to the value of his own shares.",
+        "zh": "鲍尔默表示，一旦选定继任者，他就卸任首席执行官。微软股价当天上涨 7.3%，他自己持股的市值因此增加近 8 亿美元。"
+      },
+      "why": {
+        "en": "Mixed: the rally made him richer and is carried by the stock. The market cheering his departure was a public verdict on his tenure, so the reputation coefficient takes -3%. During his 14 years revenue roughly tripled and profit more than doubled, but the share price ended below where it started.",
+        "zh": "好坏参半：股价上涨让他更富有，这部分由股票反映。但市场为他的离开欢呼，等于对他任期的一次公开评分，口碑系数 -3%。在他执掌的 14 年里，营收增至约三倍、利润增加一倍多，股价却低于他上任之时。"
+      },
+      "src": [
+        {
+          "name": "Microsoft · CEO Steve Ballmer to retire within 12 months (2013-08-23)",
+          "url": "https://news.microsoft.com/source/2013/08/23/microsoft-ceo-steve-ballmer-to-retire-within-12-months/",
+          "type": "filing"
+        },
+        {
+          "name": "Yahoo Finance · MSFT price history",
+          "url": "https://finance.yahoo.com/quote/MSFT/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2013-09-03",
+      "p": "day",
+      "cat": "career",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.01,
+      "s": {
+        "en": "Buys Nokia phones",
+        "zh": "收购诺基亚手机"
+      },
+      "t": {
+        "en": "Agrees to buy Nokia's phone business for about $7.2 billion",
+        "zh": "宣布以约 72 亿美元收购诺基亚手机业务"
+      },
+      "summary": {
+        "en": "In his last large deal, Microsoft agreed to buy Nokia's devices unit and license its patents. The stock fell 4.6% that day. Two years later, under his successor, Microsoft wrote off $7.6 billion, more than the purchase price.",
+        "zh": "这是他任内最后一笔大交易：微软同意收购诺基亚的设备部门并获得其专利授权。当天股价下跌 4.6%。两年后，在继任者任内，微软减记了 76 亿美元，超过当初的收购价。"
+      },
+      "why": {
+        "en": "The price drop and the later write-off are in the stock. A small -1% because the deal is remembered as the costly end of the phone effort.",
+        "zh": "股价下跌和后来的减记都已体现在股票里。这笔交易被视为手机业务代价高昂的收场，口碑系数小幅 -1%。"
+      },
+      "src": [
+        {
+          "name": "Microsoft · Microsoft to acquire Nokia's devices & services business (2013-09-03)",
+          "url": "https://news.microsoft.com/source/2013/09/03/microsoft-to-acquire-nokias-devices-services-business-license-nokias-patents-and-mapping-services/",
+          "type": "filing"
+        },
+        {
+          "name": "The Verge · Microsoft writes off $7.6 billion from Nokia deal (2015)",
+          "url": "https://www.theverge.com/2015/7/8/8910999/microsoft-job-cuts-2015-nokia-write-off",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · MSFT price history",
+          "url": "https://finance.yahoo.com/quote/MSFT/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2014-02-04",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "Nadella takes over",
+        "zh": "纳德拉接任"
+      },
+      "t": {
+        "en": "Hands the chief executive job to Satya Nadella",
+        "zh": "把首席执行官一职交给萨提亚·纳德拉"
+      },
+      "summary": {
+        "en": "Microsoft named Satya Nadella, the head of its cloud and enterprise group, as its third chief executive. Ballmer left the post after 14 years and stayed on the board for a few more months.",
+        "zh": "微软任命云与企业业务负责人萨提亚·纳德拉为公司第三任首席执行官。鲍尔默在任 14 年后卸任，并在董事会多留了几个月。"
+      },
+      "why": {
+        "en": "The end of his operating career, already signaled in August 2013, so no new reputation shock. He kept nearly all of his shares, and most of his later fortune comes from the stock's rise under his successor, on businesses such as the cloud that were started on his watch.",
+        "zh": "他经营生涯的终点，2013 年 8 月已有预告，因此不再有新的口碑冲击。他几乎保留了全部股份，此后的大部分财富来自继任者任内的股价上涨，而云业务等增长引擎是在他任内起步的。"
+      },
+      "src": [
+        {
+          "name": "Microsoft · Board names Satya Nadella as CEO (2014-02-04)",
+          "url": "https://news.microsoft.com/source/2014/02/04/microsoft-board-names-satya-nadella-as-ceo/",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2014-08-12",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.03,
+      "s": {
+        "en": "Buys the Clippers",
+        "zh": "买下快船"
+      },
+      "t": {
+        "en": "Completes the $2 billion purchase of the Los Angeles Clippers",
+        "zh": "以 20 亿美元完成对洛杉矶快船队的收购"
+      },
+      "summary": {
+        "en": "After the NBA banned the previous owner, Donald Sterling, for life, Ballmer agreed on May 29 to pay $2 billion for the team. A court cleared the sale and it closed on August 12. The price was far above any earlier sale of an NBA team.",
+        "zh": "NBA 对前老板唐纳德·斯特林处以终身禁令后，鲍尔默于 5 月 29 日同意以 20 亿美元买下球队。法院为交易放行，收购在 8 月 12 日完成。这个价格远高于此前任何一支 NBA 球队的成交价。"
+      },
+      "why": {
+        "en": "The start of his second career. Cash is exchanged for a team, so total wealth does not change on the day; the team sits in 'wealth outside Microsoft'. The reputation coefficient gets +3% for a popular rescue of a troubled franchise.",
+        "zh": "第二段职业生涯的开始。现金换成球队，当天总财富不变；球队计入“微软以外的财富”。在球队陷入丑闻时接手，广受欢迎，口碑系数 +3%。"
+      },
+      "fin": {
+        "en": "$2 billion moves from cash to the team inside the same line.",
+        "zh": "20 亿美元在同一条目内由现金变为球队。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Donald Sterling",
+          "url": "https://en.wikipedia.org/wiki/Donald_Sterling",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Los Angeles Clippers",
+          "url": "https://en.wikipedia.org/wiki/Los_Angeles_Clippers",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2014-08-19",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Leaves the board",
+        "zh": "退出董事会"
+      },
+      "t": {
+        "en": "Steps down from Microsoft's board after 34 years with the company",
+        "zh": "退出微软董事会，结束在公司的 34 年"
+      },
+      "summary": {
+        "en": "Ballmer resigned as a director, saying the Clippers, teaching and civic work would take his time. He said he held more Microsoft shares than anyone except index funds and intended to keep them.",
+        "zh": "鲍尔默辞去董事职务，表示快船队、教学和公益事务会占用他的时间。他说，除指数基金外，自己持有的微软股票比任何人都多，并打算继续持有。"
+      },
+      "why": {
+        "en": "His last formal tie to Microsoft ends. After this date he no longer files ownership reports, so every later ownership anchor is an estimate that assumes he kept most of his roughly 333 million shares.",
+        "zh": "他与微软最后的正式关系结束。此后他不再披露持股，因此之后的所有持股锚点都是估算，假定他保留了约 3.33 亿股中的大部分。"
+      },
+      "src": [
+        {
+          "name": "Microsoft · Steve Ballmer steps down as board member (2014-08-19)",
+          "url": "https://news.microsoft.com/source/2014/08/19/steve-ballmer-steps-down-as-board-member-at-microsoft-2/",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2017-04-18",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.02,
+      "s": {
+        "en": "USAFacts",
+        "zh": "USAFacts 上线"
+      },
+      "t": {
+        "en": "Launches USAFacts, a non-partisan site on government data",
+        "zh": "推出无党派的政府数据网站 USAFacts"
+      },
+      "summary": {
+        "en": "Ballmer launched USAFacts, a non-profit site that organizes government revenue, spending and outcome data in the style of a company annual report. He funded it himself.",
+        "zh": "鲍尔默推出非营利网站 USAFacts，用类似企业年报的方式整理政府的收入、支出和成效数据。项目由他自己出资。"
+      },
+      "why": {
+        "en": "A reputation event that no share price captures: +2% for a civic project built on his own money. He and his wife had set up the philanthropy Ballmer Group in 2015.",
+        "zh": "任何股价都反映不了的声誉事件：自掏腰包做公共事务项目，口碑系数 +2%。他和妻子已在 2015 年成立慈善机构 Ballmer Group。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · USAFacts",
+          "url": "https://en.wikipedia.org/wiki/USAFacts",
+          "type": "wiki"
+        },
+        {
+          "name": "USAFacts · About",
+          "url": "https://usafacts.org/about-usafacts/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2020-03-24",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 0,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "Buys the Forum",
+        "zh": "买下论坛球馆"
+      },
+      "t": {
+        "en": "Agrees to buy the Forum arena for $400 million",
+        "zh": "同意以 4 亿美元买下论坛球馆"
+      },
+      "summary": {
+        "en": "Ballmer agreed to buy the Forum in Inglewood from Madison Square Garden Company for $400 million in cash. The purchase ended the lawsuits that were blocking the new Clippers arena he planned nearby.",
+        "zh": "鲍尔默同意以 4 亿美元现金从麦迪逊广场花园公司手中买下英格尔伍德的论坛球馆。这笔交易了结了阻碍他在附近为快船队兴建新球馆的诉讼。"
+      },
+      "why": {
+        "en": "Cash becomes a building, so wealth does not change. A small +1% for clearing the way to the team's own arena.",
+        "zh": "现金换成场馆，财富不变。为球队自建主场扫清障碍，口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Kia Forum",
+          "url": "https://en.wikipedia.org/wiki/Kia_Forum",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Intuit Dome",
+          "url": "https://en.wikipedia.org/wiki/Intuit_Dome",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2021-07",
+      "p": "month",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "$100B club",
+        "zh": "身家破千亿"
+      },
+      "t": {
+        "en": "His fortune passes $100 billion",
+        "zh": "身家突破 1000 亿美元"
+      },
+      "summary": {
+        "en": "Bloomberg's wealth index showed Ballmer above $100 billion, the ninth person to reach that level. Microsoft's share price had risen more than sevenfold since he stepped down as chief executive.",
+        "zh": "彭博财富榜显示，鲍尔默的身家超过 1000 亿美元，成为第九位达到这一水平的人。自他卸任 CEO 以来，微软股价已上涨七倍多。"
+      },
+      "why": {
+        "en": "Entirely a share-price effect, so rep = 0. Model check: on that date the model shows about $100 billion, roughly $91 billion of Microsoft stock plus about $8 billion outside it.",
+        "zh": "完全是股价效应，rep = 0。模型核对：当天模型给出的数字约为 1000 亿美元，其中微软股票约 910 亿美元，微软以外约 80 亿美元。"
+      },
+      "src": [
+        {
+          "name": "Fortune · Steve Ballmer joins the $100 billion net worth club (2021-07-07)",
+          "url": "https://fortune.com/2021/07/07/steve-ballmer-100-billion-net-worth-club/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · MSFT price history",
+          "url": "https://finance.yahoo.com/quote/MSFT/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2024-07-01",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Richer than Gates",
+        "zh": "身家超过盖茨"
+      },
+      "t": {
+        "en": "Passes Bill Gates on Bloomberg's wealth index",
+        "zh": "在彭博财富榜上超过比尔·盖茨"
+      },
+      "summary": {
+        "en": "With Microsoft at a record high on enthusiasm for artificial intelligence, Bloomberg put Ballmer's fortune at about $157 billion, ahead of Gates for the first time. About nine tenths of it was Microsoft stock that he had never sold.",
+        "zh": "人工智能热潮把微软股价推到历史新高，彭博估算鲍尔默的身家约为 1570 亿美元，首次超过盖茨。其中约九成是他一直没有卖出的微软股票。"
+      },
+      "why": {
+        "en": "The wealth is in the stock. A small +1% because an employee out-earning the founder, simply by holding on, became a widely told story.",
+        "zh": "财富已体现在股票里。打工者单靠长期持有就超过了创始人，这成了一个广为流传的故事，口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "Fortune · Steve Ballmer's net worth surpasses Bill Gates's (2024-07-02)",
+          "url": "https://fortune.com/2024/07/02/steve-ballmer-net-worth-bill-gates-sixth-richest-man-microsoft/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · MSFT price history",
+          "url": "https://finance.yahoo.com/quote/MSFT/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2024-08-15",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.03,
+      "s": {
+        "en": "Intuit Dome opens",
+        "zh": "Intuit 穹顶开幕"
+      },
+      "t": {
+        "en": "Opens Intuit Dome, the Clippers' $2 billion arena",
+        "zh": "耗资 20 亿美元的快船新主场 Intuit Dome 开幕"
+      },
+      "summary": {
+        "en": "The privately financed arena in Inglewood opened with a concert, and the Clippers played their first regular-season game there in October. The team had shared an arena with the Lakers for 25 years.",
+        "zh": "这座位于英格尔伍德、由私人出资兴建的球馆以一场演唱会开幕，快船队 10 月在这里打了第一场常规赛。此前球队与湖人队共用主场长达 25 年。"
+      },
+      "why": {
+        "en": "The cost is inside wealth outside Microsoft (cash became a building). The reputation coefficient gets +3%: the arena is the most visible thing he has built since leaving Microsoft.",
+        "zh": "建造成本已包含在微软以外的财富里（现金变成场馆）。口碑系数 +3%：这座球馆是他离开微软后最显眼的作品。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Intuit Dome",
+          "url": "https://en.wikipedia.org/wiki/Intuit_Dome",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2025-09-03",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 4,
+      "rep": -0.04,
+      "s": {
+        "en": "Cap probe opens",
+        "zh": "工资帽调查"
+      },
+      "t": {
+        "en": "A report alleges a hidden deal for Kawhi Leonard; the NBA opens an investigation",
+        "zh": "报道指球队与莱昂纳德有“暗箱合同”，NBA 启动调查"
+      },
+      "summary": {
+        "en": "Journalist Pablo Torre reported that Aspiration, a company Ballmer had invested $50 million in, had signed Clippers star Kawhi Leonard to a $28 million endorsement contract that required almost no work, and alleged it was a way around the league's salary cap. The NBA opened an investigation the same day. Ballmer denied wrongdoing and said Aspiration had defrauded him.",
+        "zh": "记者巴勃罗·托雷报道，鲍尔默曾投资 5000 万美元的公司 Aspiration 与快船球星科怀·莱昂纳德签下一份 2800 万美元、几乎无需履约的代言合同，并指这是在规避联盟工资帽。NBA 当天启动调查。鲍尔默否认存在不当行为，并称自己被 Aspiration 欺骗。"
+      },
+      "why": {
+        "en": "Microsoft's price has nothing to do with this, so the whole effect is on reputation: -4% at this stage, when the claims were allegations under investigation and he contested them.",
+        "zh": "这件事与微软股价无关，影响全部落在声誉上：此时各项说法仍是调查中的指控，他本人也予以否认，口碑系数 -4%。"
+      },
+      "src": [
+        {
+          "name": "ABC7 · Clippers accused of skirting NBA salary cap, report says (2025-09-03)",
+          "url": "https://abc7.com/post/clippers-accused-skirting-nba-salary-cap-paying-28m-kawhi-leonard-no-show-job-report-says/17731512/",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Los Angeles Clippers salary cap scandal",
+          "url": "https://en.wikipedia.org/wiki/Los_Angeles_Clippers_salary_cap_scandal",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2025-11-03",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 2,
+      "rep": -0.01,
+      "s": {
+        "en": "Named in lawsuit",
+        "zh": "被列为被告"
+      },
+      "t": {
+        "en": "Aspiration investors add Ballmer to their fraud lawsuit",
+        "zh": "Aspiration 投资人把鲍尔默追加为欺诈诉讼被告"
+      },
+      "summary": {
+        "en": "Eleven investors in the bankrupt company Aspiration amended their lawsuit against its co-founder to name Ballmer as a defendant, claiming he took part in the alleged scheme. In January 2026 his lawyers asked the court to dismiss the claims, calling them false and saying he was himself a victim who lost his investment.",
+        "zh": "已破产的 Aspiration 公司的 11 名投资人修改了针对公司联合创始人的诉状，把鲍尔默追加为被告，称他参与了所指的骗局。2026 年 1 月，他的律师请求法院驳回起诉，称指控不实，并表示他本人也是损失了投资的受害者。"
+      },
+      "why": {
+        "en": "A contested civil claim with no ruling that this file could verify, so only a small -1%. No money is deducted.",
+        "zh": "这是一项存在争议的民事指控，本文件未能核实到任何裁决，因此只小幅 -1%，不扣减任何金额。"
+      },
+      "src": [
+        {
+          "name": "ESPN · Ballmer aims to dismiss fraud suit (2026-01-16)",
+          "url": "https://www.espn.com/nba/story/_/id/47630738/clippers-ballmer-aims-dismiss-fraud-suit-kawhi-leonard-pay",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2025-11-12",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Preschool pledge",
+        "zh": "学前教育捐赠"
+      },
+      "t": {
+        "en": "Ballmer Group pledges up to $170 million a year for free preschool in Washington state",
+        "zh": "Ballmer Group 承诺每年最多出资 1.7 亿美元支持华盛顿州免费学前教育"
+      },
+      "summary": {
+        "en": "The Ballmers' philanthropy committed up to $170 million a year for ten years to add as many as 10,000 places in Washington state's preschool program for low-income families, on condition that the state keeps its own funding.",
+        "zh": "鲍尔默夫妇的慈善机构承诺在十年内每年最多出资 1.7 亿美元，为华盛顿州面向低收入家庭的学前教育项目新增最多 1 万个名额，条件是州政府维持自身的投入。"
+      },
+      "why": {
+        "en": "A pledge paid over ten years: the model treats it as reputation (+2%) and lets the gifts show up gradually in the estimate of wealth outside Microsoft.",
+        "zh": "这是分十年兑付的承诺：模型把它记为声誉事件（+2%），捐赠本身逐步体现在“微软以外的财富”的估算里。"
+      },
+      "src": [
+        {
+          "name": "Ballmer Group · New grant to expand early learning in Washington",
+          "url": "https://ballmergroup.org/ballmer-group-eceap-expansion/",
+          "type": "filing"
+        },
+        {
+          "name": "GeekWire · Ballmer's philanthropy pledges around $1 billion for early education",
+          "url": "https://www.geekwire.com/2025/steve-ballmers-philanthropy-pledges-around-1-billion-for-early-education-in-washington-state/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-02-15",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "All-Star host",
+        "zh": "承办全明星赛"
+      },
+      "t": {
+        "en": "Intuit Dome hosts the NBA All-Star Game",
+        "zh": "Intuit Dome 承办 NBA 全明星赛"
+      },
+      "summary": {
+        "en": "The league's All-Star Game was played at the Clippers' arena, the first one held in the building, a year and a half after it opened.",
+        "zh": "NBA 全明星赛在快船队的球馆举行，这是该球馆开幕一年半以来首次承办这项赛事。"
+      },
+      "why": {
+        "en": "A showcase for the arena while the league's investigation was still open. A small +1%.",
+        "zh": "在联盟调查尚未结束时，这是球馆的一次展示机会。口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · 2026 NBA All-Star Game",
+          "url": "https://en.wikipedia.org/wiki/2026_NBA_All-Star_Game",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Intuit Dome",
+          "url": "https://en.wikipedia.org/wiki/Intuit_Dome",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2026-09-02",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 5,
+      "rep": -0.06,
+      "s": {
+        "en": "NBA suspension",
+        "zh": "遭 NBA 禁赛"
+      },
+      "t": {
+        "en": "The NBA suspends Ballmer for one year and fines the Clippers $30 million",
+        "zh": "NBA 对鲍尔默禁赛一年，并对快船队罚款 3000 万美元"
+      },
+      "summary": {
+        "en": "After an outside law firm's year-long investigation, the NBA found that the Clippers had broken salary-cap rules and that Ballmer knowingly helped Kawhi Leonard obtain off-court income. He was suspended from all league and team activities for a year; the team was fined $30 million and lost five first-round draft picks. His lawyer called the process a witch hunt.",
+        "zh": "在外部律师事务所历时一年的调查之后，NBA 认定快船队违反工资帽规定，鲍尔默明知故犯地帮助科怀·莱昂纳德获得场外收入。他被禁止参与联盟和球队的一切活动一年；球队被罚款 3000 万美元，并被剥夺五个首轮选秀权。他的律师称这一程序是“猎巫”。"
+      },
+      "why": {
+        "en": "Widely described as the heaviest penalty the league has given a team, and it lands on him personally. The fine is too small to matter against his fortune, and Microsoft's price is unaffected, so the event is scored through reputation at the maximum -6%.",
+        "zh": "这被普遍称为联盟对球队开出的最重罚单，而且直接落到他个人头上。罚款相对他的身家微不足道，微软股价也不受影响，因此全部通过声誉计分，扣到上限 -6%。"
+      },
+      "src": [
+        {
+          "name": "ESPN · NBA announces punishments for Clippers after Kawhi inquiry (2026-09-02)",
+          "url": "https://www.espn.com/nba/story/_/id/49806356/nba-announces-punishments-clippers-kawhi-probe",
+          "type": "news"
+        },
+        {
+          "name": "Fortune · Clippers fined $30 million as Ballmer is suspended (2026-09-03)",
+          "url": "https://fortune.com/2026/09/03/clippers-fine-30-million-steve-ballmer-nba/",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Los Angeles Clippers salary cap scandal",
+          "url": "https://en.wikipedia.org/wiki/Los_Angeles_Clippers_salary_cap_scandal",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2026-09-13",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 0,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Accepts penalty",
+        "zh": "接受处罚"
+      },
+      "t": {
+        "en": "Says he will not contest the punishment and apologizes",
+        "zh": "表示不再对处罚提出异议，并公开道歉"
+      },
+      "summary": {
+        "en": "Reversing the team's first response, Ballmer said the Clippers would comply with the penalties, had paid the fine, and that he accepted responsibility as owner, while still disagreeing with some findings. On September 21 the league approved lawyer John S. Gibson as interim governor and chief executive for the period of the suspension.",
+        "zh": "鲍尔默改变了球队最初的态度，表示快船队将服从处罚、罚款已经缴清，他作为老板承担责任，但对部分认定仍有不同意见。9 月 21 日，联盟批准律师约翰·S·吉布森在禁赛期间出任球队临时理事和首席执行官。"
+      },
+      "why": {
+        "en": "Mixed: the apology confirms the damage but ends the fight with the league. A small +1% offsets part of the earlier hit. He remains the owner, so the team stays in his wealth.",
+        "zh": "好坏参半：道歉坐实了伤害，但也结束了与联盟的对抗。口碑系数小幅 +1%，抵消此前的一部分扣分。他仍是球队老板，球队继续计入他的财富。"
+      },
+      "src": [
+        {
+          "name": "NBC Los Angeles · Ballmer to accept NBA's punishment (2026-09-14)",
+          "url": "https://www.nbclosangeles.com/nba/clippers-steve-ballmer-accept-nba-punishment-salary-cap-circumvention/3941678/",
+          "type": "news"
+        },
+        {
+          "name": "NBA.com · Clippers hire John S. Gibson as interim CEO & governor",
+          "url": "https://www.nba.com/news/clippers-john-s-gibson-interim-ceo-governor",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}

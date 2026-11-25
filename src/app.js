@@ -113,7 +113,8 @@ $('langToggle').onclick = () => { PS.lang = PS.lang === 'zh' ? 'en' : 'zh'; PS.s
 $('colorToggle').onclick = () => { PS.redUp = !PS.redUp; PS.save(); rerenderAll(); };
 
 function renderPeople() {
-  $('people').innerHTML = ORDER.map((id) => {
+  // the leaderboard already lists everyone, so the quick-switch chips only show on inner pages
+  $('people').innerHTML = state.route === 'home' ? '' : ORDER.map((id) => {
     const P = MODELS[id].P;
     return `<a class="person${state.route === 'person' && id === state.pid ? ' on' : ''}" href="#/p/${id}" title="${esc(L(P.name))}">${avatar(P)}<span class="nm">${esc(L(P.name))}</span></a>`;
   }).join('');

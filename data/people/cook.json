@@ -1,0 +1,896 @@
+{
+  "id": "cook",
+  "name": { "en": "Tim Cook", "zh": "蒂姆·库克" },
+  "ticker": "COOK",
+  "born": "1960-11-01",
+  "color": "#C9B8FF",
+  "initials": "TC",
+  "tagline": {
+    "en": "The operations chief who followed Steve Jobs and took Apple from $350 billion to $4 trillion",
+    "zh": "接替乔布斯的运营主管，把苹果从 3500 亿美元带到 4 万亿美元"
+  },
+  "tags": [
+    { "en": "Apple executive chairman", "zh": "苹果执行董事长" },
+    { "en": "Apple CEO 2011–2026", "zh": "2011–2026 年苹果 CEO" },
+    { "en": "Supply chain", "zh": "供应链" },
+    { "en": "Hired executive", "zh": "职业经理人" }
+  ],
+  "privates": [
+    {
+      "label": {
+        "en": "Savings from the IBM, Intelligent Electronics and Compaq years (estimate)",
+        "zh": "在 IBM、Intelligent Electronics 和康柏工作期间的积蓄（估算）"
+      },
+      "until": "1998-03-10",
+      "anchors": [
+        ["1982-06", 5000],
+        ["1988", 60000],
+        ["1994", 300000],
+        ["1997", 700000],
+        ["1998-03-10", 1000000]
+      ]
+    },
+    {
+      "label": {
+        "en": "Cash from sold Apple shares and other assets (estimate)",
+        "zh": "出售苹果股票所得现金及其他资产（估算）"
+      },
+      "from": "1998-03-11",
+      "anchors": [
+        ["1998-03-11", 1000000],
+        ["2001", 5000000],
+        ["2005-10", 30000000],
+        ["2008", 80000000],
+        ["2011-08", 140000000],
+        ["2014", 250000000],
+        ["2016-09", 380000000],
+        ["2018-09", 520000000],
+        ["2020-08", 650000000],
+        ["2021-09", 1000000000],
+        ["2022-04", 1100000000],
+        ["2024-04", 1400000000],
+        ["2025-03", 1600000000],
+        ["2026-03", 1800000000],
+        ["2026-11", 1850000000]
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "sym": "AAPL",
+      "label": { "en": "Apple shares and unvested stock awards", "zh": "苹果持股及未归属股票奖励" },
+      "from": "1998-03-11",
+      "own": [
+        ["1998-03", 0.0003],
+        ["2000-12", 0.001],
+        ["2003-12", 0.0008],
+        ["2005-12", 0.0006],
+        ["2008-12", 0.0005],
+        ["2011-08-23", 0.00035],
+        ["2011-08-25", 0.00075],
+        ["2014-09", 0.00066],
+        ["2016-09", 0.00052],
+        ["2018-09", 0.00043],
+        ["2020-08", 0.00041],
+        ["2020-10", 0.00038],
+        ["2021-08-23", 0.00038],
+        ["2021-09", 0.00024],
+        ["2023-12", 0.000254],
+        ["2025-12", 0.00025],
+        ["2026-11", 0.000241]
+      ],
+      "shares": [
+        ["1998-03", 15000000000],
+        ["2000-12", 18800000000],
+        ["2003-12", 20500000000],
+        ["2005-12", 23700000000],
+        ["2008-12", 24900000000],
+        ["2011-09", 26000000000],
+        ["2012-12", 26300000000],
+        ["2013-12", 25000000000],
+        ["2014-12", 23300000000],
+        ["2015-12", 22200000000],
+        ["2016-12", 21000000000],
+        ["2017-12", 20300000000],
+        ["2018-12", 18900000000],
+        ["2019-12", 17500000000],
+        ["2020-12", 16800000000],
+        ["2021-12", 16300000000],
+        ["2022-12", 15840000000],
+        ["2023-12", 15460000000],
+        ["2024-12", 15040000000],
+        ["2025-12", 14700000000],
+        ["2026-07", 14660000000],
+        ["2026-11", 14580000000]
+      ]
+    }
+  ],
+  "human": [
+    ["1960-11-01", 300000],
+    ["1982", 1200000],
+    ["1988", 2000000],
+    ["1994", 3000000],
+    ["1997", 4000000],
+    ["1998-03", 6000000],
+    ["2005-10-14", 25000000],
+    ["2009-01-14", 40000000],
+    ["2011-08-24", 150000000],
+    ["2015", 250000000],
+    ["2020", 300000000],
+    ["2023-01", 250000000],
+    ["2026-04-20", 180000000],
+    ["2026-09-01", 120000000]
+  ],
+  "audience": [
+    ["1960-11-01", 0],
+    ["1998-03", 1000],
+    ["2005", 20000],
+    ["2009", 200000],
+    ["2011-08", 2000000],
+    ["2013-09", 4000000],
+    ["2016", 8000000],
+    ["2018", 14000000],
+    ["2020", 16000000],
+    ["2023", 18000000],
+    ["2026-11", 20000000]
+  ],
+  "media": [
+    ["1960-11-01", 0],
+    ["1998-03", 0.2],
+    ["2005-10", 1],
+    ["2009-01", 5],
+    ["2011-08", 25],
+    ["2014", 28],
+    ["2016-02", 38],
+    ["2018", 32],
+    ["2020", 35],
+    ["2025", 40],
+    ["2026-04", 45],
+    ["2026-11", 35]
+  ],
+  "chapters": [
+    {
+      "from": "1960-11-01",
+      "t": { "en": "Alabama roots", "zh": "亚拉巴马少年" },
+      "desc": {
+        "en": "Grows up in the small town of Robertsdale, Alabama, and studies industrial engineering at Auburn",
+        "zh": "在亚拉巴马州小镇罗伯茨代尔长大，在奥本大学学习工业工程"
+      }
+    },
+    {
+      "from": "1982",
+      "t": { "en": "The PC trade", "zh": "PC 行业学徒期" },
+      "desc": {
+        "en": "Twelve years in IBM's PC business, an evening MBA at Duke, then a reseller and a brief stop at Compaq",
+        "zh": "在 IBM 的个人电脑业务干了十二年，读完杜克的在职 MBA，之后去了一家经销商，又在康柏短暂停留"
+      }
+    },
+    {
+      "from": "1998-03-11",
+      "t": { "en": "Fixing Apple's operations", "zh": "重整苹果运营" },
+      "desc": {
+        "en": "Joins a struggling Apple, closes factories, cuts inventory to days and rises to chief operating officer",
+        "zh": "加入困境中的苹果，关掉自有工厂，把库存压到以天计，一路升到首席运营官"
+      }
+    },
+    {
+      "from": "2011-08-24",
+      "t": { "en": "After Steve Jobs", "zh": "接棒乔布斯" },
+      "desc": {
+        "en": "Becomes CEO, weathers doubts about innovation, launches Apple Watch and takes public stands on privacy",
+        "zh": "出任 CEO，顶住“创新不再”的质疑，推出 Apple Watch，并在隐私问题上公开表态"
+      }
+    },
+    {
+      "from": "2018-08-02",
+      "t": { "en": "Trillion-dollar years", "zh": "万亿美元年代" },
+      "desc": {
+        "en": "Apple passes $1, $2 and $3 trillion as services grow, while antitrust cases pile up on three continents",
+        "zh": "服务业务壮大，苹果市值接连突破 1、2、3 万亿美元，同时三大洲的反垄断案件越积越多"
+      }
+    },
+    {
+      "from": "2025-01",
+      "t": { "en": "Tariffs and AI", "zh": "关税与 AI" },
+      "desc": {
+        "en": "Negotiates with the White House over tariffs, turns to Google for AI and prepares the handover",
+        "zh": "为关税与白宫周旋，在 AI 上转向与谷歌合作，并为交班做准备"
+      }
+    },
+    {
+      "from": "2026-09-01",
+      "t": { "en": "Executive chairman", "zh": "执行董事长" },
+      "desc": {
+        "en": "Hands the CEO job to John Ternus and stays on as chairman, dealing mainly with governments",
+        "zh": "把 CEO 交给约翰·特努斯，自己留任董事长，主要负责与各国政府打交道"
+      }
+    }
+  ],
+  "events": [
+    {
+      "d": "1960-11-01", "p": "day", "cat": "origin", "dir": 0, "mag": 1, "rep": 0,
+      "s": { "en": "Born in Alabama", "zh": "出生亚拉巴马" },
+      "t": { "en": "Born in Mobile, Alabama", "zh": "出生于亚拉巴马州莫比尔" },
+      "summary": {
+        "en": "Timothy Donald Cook was born in Mobile, Alabama, and grew up in the nearby small town of Robertsdale.",
+        "zh": "蒂莫西·唐纳德·库克出生在亚拉巴马州莫比尔，在附近的小镇罗伯茨代尔长大。"
+      },
+      "why": {
+        "en": "Starting point, not scored. Human capital begins at the average level for a child born in the United States.",
+        "zh": "起点事件，不计分。人力资本以美国同龄人的平均水平作为初始值。"
+      },
+      "src": [
+        { "name": "Wikipedia · Tim Cook", "url": "https://en.wikipedia.org/wiki/Tim_Cook", "type": "wiki" }
+      ]
+    },
+    {
+      "d": "1982", "p": "year", "cat": "education", "dir": 1, "mag": 1, "rep": 0,
+      "s": { "en": "Auburn degree", "zh": "奥本毕业" },
+      "t": { "en": "Graduates from Auburn University in industrial engineering", "zh": "从奥本大学工业工程专业毕业" },
+      "summary": {
+        "en": "He earned a Bachelor of Science in industrial engineering from Auburn University in Alabama, a field built around making processes faster and less wasteful.",
+        "zh": "他在亚拉巴马州的奥本大学拿到工业工程理学学士学位，这门学科研究的正是怎样让流程更快、浪费更少。"
+      },
+      "why": {
+        "en": "An education step: the human-capital target rises with an engineering degree. Only the year is known, so the date is year precision.",
+        "zh": "学历台阶：拿到工科学位，人力资本目标值上调。只能确认年份，因此日期精度为“年”。"
+      },
+      "src": [
+        { "name": "Apple Leadership · Tim Cook", "url": "https://www.apple.com/leadership/tim-cook/", "type": "filing" },
+        { "name": "Wikipedia · Tim Cook", "url": "https://en.wikipedia.org/wiki/Tim_Cook", "type": "wiki" }
+      ]
+    },
+    {
+      "d": "1982", "p": "year", "cat": "career", "dir": 1, "mag": 2, "rep": 0,
+      "s": { "en": "Joins IBM", "zh": "加入 IBM" },
+      "t": { "en": "Starts a twelve-year career in IBM's personal computer business", "zh": "进入 IBM 个人电脑业务，一干十二年" },
+      "summary": {
+        "en": "After Auburn he went to work for IBM's personal computer business, where he stayed about twelve years and rose to director of North American fulfillment, in charge of manufacturing and distribution for the region.",
+        "zh": "离开奥本后，他进入 IBM 的个人电脑业务，在那里工作了约十二年，做到北美履约总监，负责该地区的生产和配送。"
+      },
+      "why": {
+        "en": "First job. A small savings line starts in the model (an estimate, since his early pay was never published) and human capital steps up.",
+        "zh": "第一份工作。模型里开始出现一小笔积蓄（估算值，他早年的收入从未公开），人力资本上一个台阶。"
+      },
+      "fin": {
+        "en": "Savings from salary enter the model as an estimate.",
+        "zh": "工资积蓄以估算值进入模型。"
+      },
+      "src": [
+        { "name": "Apple Leadership · Tim Cook", "url": "https://www.apple.com/leadership/tim-cook/", "type": "filing" },
+        { "name": "Wikipedia · Tim Cook", "url": "https://en.wikipedia.org/wiki/Tim_Cook", "type": "wiki" }
+      ]
+    },
+    {
+      "d": "1988", "p": "year", "cat": "education", "dir": 1, "mag": 1, "rep": 0,
+      "s": { "en": "Duke MBA", "zh": "杜克 MBA" },
+      "t": { "en": "Earns an MBA from Duke as a Fuqua Scholar", "zh": "获杜克大学 MBA，并获评 Fuqua 学者" },
+      "summary": {
+        "en": "While working at IBM he completed an MBA at Duke University's Fuqua School of Business and was named a Fuqua Scholar, an honor for the top students in the class.",
+        "zh": "在 IBM 工作期间，他读完了杜克大学福库商学院的 MBA，并获评 Fuqua 学者——这是授予班级里成绩最好的学生的荣誉。"
+      },
+      "why": {
+        "en": "A second education step. The human-capital target moves up for a top business degree earned while holding a management job.",
+        "zh": "第二级学历台阶。一边做管理工作一边拿到名校商科学位，人力资本目标值上调。"
+      },
+      "src": [
+        { "name": "Apple Leadership · Tim Cook", "url": "https://www.apple.com/leadership/tim-cook/", "type": "filing" },
+        { "name": "Wikipedia · Fuqua School of Business", "url": "https://en.wikipedia.org/wiki/Fuqua_School_of_Business", "type": "wiki" }
+      ]
+    },
+    {
+      "d": "1994", "p": "year", "cat": "career", "dir": 1, "mag": 1, "rep": 0,
+      "s": { "en": "Reseller COO", "zh": "经销商 COO" },
+      "t": { "en": "Leaves IBM to run the reseller division of Intelligent Electronics", "zh": "离开 IBM，执掌 Intelligent Electronics 的经销业务" },
+      "summary": {
+        "en": "After about twelve years at IBM he became chief operating officer of the reseller division of Intelligent Electronics, a computer distributor. The year is inferred from the length of his IBM career; sources do not give an exact date.",
+        "zh": "在 IBM 工作约十二年后，他出任电脑分销商 Intelligent Electronics 经销部门的首席运营官。年份是按他在 IBM 的工作年限推算的，资料没有给出确切日期。"
+      },
+      "why": {
+        "en": "A footnote in money terms, but his first job running a whole operation. Human capital steps up slightly. The date is year precision and approximate.",
+        "zh": "金额上只是个注脚，但这是他第一次独立掌管一整摊业务。人力资本小幅上调。日期精度为“年”，且为近似值。"
+      },
+      "src": [
+        { "name": "Apple Leadership · Tim Cook", "url": "https://www.apple.com/leadership/tim-cook/", "type": "filing" },
+        { "name": "Wikipedia · Tim Cook", "url": "https://en.wikipedia.org/wiki/Tim_Cook", "type": "wiki" }
+      ]
+    },
+    {
+      "d": "1997", "p": "year", "cat": "career", "dir": 1, "mag": 2, "rep": 0,
+      "s": { "en": "Compaq VP", "zh": "康柏副总裁" },
+      "t": { "en": "Becomes vice president of corporate materials at Compaq", "zh": "出任康柏公司物料副总裁" },
+      "summary": {
+        "en": "He joined Compaq, then the largest PC maker in the world, as vice president of corporate materials, responsible for buying and managing its product inventory. He stayed only about six months.",
+        "zh": "他加入当时全球最大的个人电脑厂商康柏，任公司物料副总裁，负责采购和管理产品库存。他只待了大约六个月。"
+      },
+      "why": {
+        "en": "A senior job at the industry leader raises the human-capital target. It matters mostly as the safe position he gave up a few months later.",
+        "zh": "在行业龙头担任高管，人力资本目标值上调。它的意义主要在于：这是他几个月后放弃的那份安稳工作。"
+      },
+      "src": [
+        { "name": "Apple Leadership · Tim Cook", "url": "https://www.apple.com/leadership/tim-cook/", "type": "filing" },
+        { "name": "Wikipedia · Tim Cook", "url": "https://en.wikipedia.org/wiki/Tim_Cook", "type": "wiki" }
+      ]
+    },
+    {
+      "d": "1998-03", "p": "month", "cat": "career", "dir": 1, "mag": 5, "rep": 0.01,
+      "s": { "en": "Joins Apple", "zh": "加入苹果" },
+      "t": { "en": "Joins Apple as senior vice president of worldwide operations", "zh": "加入苹果，任全球运营高级副总裁" },
+      "summary": {
+        "en": "Steve Jobs recruited him to a company that had been losing money and was worth only a few billion dollars. Cook took charge of manufacturing and the supply chain, shut Apple's own factories and warehouses in favor of contract manufacturers, and cut inventory from months to days.",
+        "zh": "史蒂夫·乔布斯把他招进了一家连年亏损、市值只有几十亿美元的公司。库克接手制造和供应链，关掉苹果自己的工厂和仓库，改用代工厂，把库存从几个月压缩到几天。"
+      },
+      "why": {
+        "en": "The decision that defines his career, so it is scored 5. From here the model holds a small Apple equity line next to his cash. The ownership fraction is a rough estimate of his option grants in share-equivalent terms; exact early holdings were not checked against proxy filings.",
+        "zh": "决定他整个职业生涯的选择，因此记 5 分。从这里起，模型在现金之外加入一小笔苹果股权。持股比例是把期权折算成等值股数后的粗略估算，早年的具体持仓没有逐一核对委托书。"
+      },
+      "fin": {
+        "en": "Apple equity enters the model: ownership × shares outstanding × the daily AAPL close.",
+        "zh": "苹果股权进入模型：持股比例 × 总股本 × AAPL 当日收盘价。"
+      },
+      "src": [
+        { "name": "Apple Leadership · Tim Cook", "url": "https://www.apple.com/leadership/tim-cook/", "type": "filing" },
+        { "name": "Wikipedia · Tim Cook", "url": "https://en.wikipedia.org/wiki/Tim_Cook", "type": "wiki" }
+      ]
+    },
+    {
+      "d": "2005-10-14", "p": "day", "cat": "career", "dir": 1, "mag": 4, "rep": 0.02,
+      "s": { "en": "Named COO", "zh": "升任 COO" },
+      "t": { "en": "Named chief operating officer of Apple", "zh": "被任命为苹果首席运营官" },
+      "summary": {
+        "en": "Apple promoted him from executive vice president of worldwide sales and operations to chief operating officer, the number-two job under Steve Jobs. He joined Nike's board of directors the same year.",
+        "zh": "苹果把他从全球销售与运营执行副总裁提升为首席运营官，成为乔布斯之下的二号人物。同年他加入了耐克董事会。"
+      },
+      "why": {
+        "en": "The human-capital target moves to the level of a senior public-company officer. A +2% on the reputation coefficient for becoming the visible second in command.",
+        "zh": "人力资本目标值上调到上市公司核心高管的水平。成为公开的二把手，口碑系数 +2%。"
+      },
+      "src": [
+        { "name": "Apple Newsroom · Tim Cook Named COO of Apple", "url": "https://www.apple.com/newsroom/2005/10/14Tim-Cook-Named-COO-of-Apple/", "type": "filing" }
+      ]
+    },
+    {
+      "d": "2009-01-14", "p": "day", "cat": "career", "dir": 1, "mag": 4, "rep": 0.03,
+      "s": { "en": "Runs Apple", "zh": "代掌苹果" },
+      "t": { "en": "Takes over day-to-day operations during Jobs's leave of absence", "zh": "乔布斯休假期间接管日常运营" },
+      "summary": {
+        "en": "Steve Jobs announced a leave of absence until the end of June and asked Cook to be responsible for Apple's day-to-day operations. Apple kept shipping products on schedule and its shares rose about 65% between the announcement and the end of June, when Jobs returned.",
+        "zh": "乔布斯宣布休假到 6 月底，并请库克负责苹果的日常运营。这期间苹果的产品照常发布，从消息公布到 6 月底乔布斯回归，股价上涨约 65%。"
+      },
+      "why": {
+        "en": "The share price move is in the stock. The +3% on the reputation coefficient is for showing investors that he could run the company, which made him the expected successor.",
+        "zh": "股价的变化已由股票反映。口碑系数 +3%，是因为他让投资者看到自己能管好公司，从此成为公认的接班人选。"
+      },
+      "src": [
+        { "name": "Apple Newsroom · Apple Media Advisory (2009-01-14)", "url": "https://www.apple.com/newsroom/2009/01/14Apple-Media-Advisory/", "type": "filing" },
+        { "name": "Yahoo Finance · AAPL price history", "url": "https://finance.yahoo.com/quote/AAPL/history", "type": "market" }
+      ]
+    },
+    {
+      "d": "2011-08-24", "p": "day", "cat": "career", "dir": 1, "mag": 5, "rep": 0.03,
+      "s": { "en": "Becomes CEO", "zh": "出任 CEO" },
+      "t": { "en": "Named CEO of Apple as Steve Jobs resigns", "zh": "乔布斯辞任，库克出任苹果 CEO" },
+      "summary": {
+        "en": "Steve Jobs resigned as CEO and the board named Cook, who had again been running daily operations since January, as his successor. The board also granted him one million restricted stock units, half vesting after five years and half after ten, worth about $376 million at the time.",
+        "zh": "乔布斯辞去 CEO 职务，董事会任命自当年 1 月起再次主持日常运营的库克接任。董事会同时授予他 100 万股限制性股票单位，一半五年后归属，一半十年后归属，当时价值约 3.76 亿美元。"
+      },
+      "why": {
+        "en": "The largest step in the model: human capital rises to the level of a top global CEO, and the ownership fraction jumps with the grant. Unvested units are counted at about half their face value, because roughly half of each tranche is withheld for taxes when it vests.",
+        "zh": "模型里最大的一级台阶：人力资本升到全球顶级 CEO 的水平，持股比例也因这笔授予而跳升。未归属的股票单位按面值的一半左右计入，因为每一批归属时约有一半会被扣缴税款。"
+      },
+      "fin": {
+        "en": "Estimated equity after the grant: about $260 million, next to roughly $140 million in cash (both estimates).",
+        "zh": "授予后估算的股权价值约 2.6 亿美元，另有约 1.4 亿美元现金（均为估算）。"
+      },
+      "src": [
+        { "name": "Apple Newsroom · Steve Jobs Resigns as CEO of Apple", "url": "https://www.apple.com/newsroom/2011/08/24Steve-Jobs-Resigns-as-CEO-of-Apple/", "type": "filing" },
+        { "name": "MacRumors · Apple awards Tim Cook 1,000,000 shares (2011-08-26)", "url": "https://www.macrumors.com/2011/08/26/apple-awards-tim-cook-1000000-shares-of-stock-as-ceo-bonus/", "type": "news" },
+        { "name": "Apple Newsroom · Apple Media Advisory (2011-01-17)", "url": "https://www.apple.com/newsroom/2011/01/17Apple-Media-Advisory/", "type": "filing" }
+      ]
+    },
+    {
+      "d": "2012-10-29", "p": "day", "cat": "crisis", "dir": -1, "mag": 3, "rep": -0.02,
+      "s": { "en": "Maps shake-up", "zh": "地图风波换将" },
+      "t": { "en": "Reorganizes Apple's leadership after the Apple Maps failure", "zh": "苹果地图失利后重组管理层" },
+      "summary": {
+        "en": "A month after he published an apology to customers for the error-filled launch of Apple Maps, Cook announced that software chief Scott Forstall and retail chief John Browett would leave. Design, software and services were redistributed among Jony Ive, Craig Federighi and Eddy Cue.",
+        "zh": "苹果地图上线后错误百出，他向用户公开致歉。一个月后，库克宣布软件负责人斯科特·福斯托和零售负责人约翰·布劳伊特离职，设计、软件和服务分别交给乔尼·艾夫、克雷格·费德里吉和埃迪·库伊。"
+      },
+      "why": {
+        "en": "His first public product failure as CEO, so the reputation coefficient takes -2%. The reshuffle itself was later seen as the moment he took full control of the company.",
+        "zh": "这是他任 CEO 后第一次公开的产品失败，口碑系数 -2%。不过这次换将后来被看作他真正掌控公司的时刻。"
+      },
+      "src": [
+        { "name": "Apple Newsroom · Apple announces changes to increase collaboration", "url": "https://www.apple.com/newsroom/2012/10/29Apple-Announces-Changes-to-Increase-Collaboration-Across-Hardware-Software-Services/", "type": "filing" },
+        { "name": "Wikipedia · Apple Maps", "url": "https://en.wikipedia.org/wiki/Apple_Maps", "type": "wiki" }
+      ]
+    },
+    {
+      "d": "2013-05-21", "p": "day", "cat": "reputation", "dir": 0, "mag": 3, "rep": -0.01,
+      "s": { "en": "Senate tax hearing", "zh": "参议院税务听证" },
+      "t": { "en": "Testifies to a U.S. Senate panel on Apple's offshore tax structure", "zh": "就苹果的海外税务安排在美国参议院作证" },
+      "summary": {
+        "en": "A Senate subcommittee reported that Apple had routed tens of billions of dollars of profit through Irish subsidiaries that paid almost no tax anywhere. Cook testified that Apple pays all the taxes it owes and called for a simpler corporate tax code.",
+        "zh": "参议院一个小组委员会的报告称，苹果把数百亿美元利润转入爱尔兰子公司，这些子公司在任何地方几乎都不缴税。库克作证说苹果缴纳了全部应缴税款，并呼吁简化企业税法。"
+      },
+      "why": {
+        "en": "Scored as mixed. The findings hurt Apple's image, but the stock did not react. A small -1% on the reputation coefficient.",
+        "zh": "记为好坏参半。调查结论有损苹果形象，但股价没有反应。口碑系数小幅 -1%。"
+      },
+      "src": [
+        { "name": "U.S. Senate PSI · Offshore Profit Shifting and the U.S. Tax Code, Part 2 (Apple Inc.)", "url": "https://www.hsgac.senate.gov/subcommittees/investigations/hearings/offshore-profit-shifting-and-the-u-s-tax-code-part-2-apple-inc/", "type": "filing" },
+        { "name": "CNBC · Tim Cook: We pay every single dollar in taxes owed (2013-05-21)", "url": "https://www.cnbc.com/2013/05/21/tim-cook-we-pay-every-single-dollar-in-taxes-owed.html", "type": "news" }
+      ]
+    },
+    {
+      "d": "2014-05-28", "p": "day", "cat": "career", "dir": 1, "mag": 2, "rep": 0.01,
+      "s": { "en": "Buys Beats", "zh": "收购 Beats" },
+      "t": { "en": "Apple agrees to buy Beats for $3 billion", "zh": "苹果宣布以 30 亿美元收购 Beats" },
+      "summary": {
+        "en": "Apple announced the purchase of Beats Music and Beats Electronics for $3 billion, by far its largest acquisition. The deal brought a headphone brand and the streaming service that became the base of Apple Music.",
+        "zh": "苹果宣布以 30 亿美元收购 Beats Music 和 Beats Electronics，这是它有史以来最大的一笔收购。交易带来了一个耳机品牌，以及后来成为 Apple Music 基础的流媒体服务。"
+      },
+      "why": {
+        "en": "Small next to Apple's size, so the stock carries whatever value it added. A +1% on the reputation coefficient for an early move toward the services business.",
+        "zh": "相对于苹果的体量很小，它带来的价值由股价反映。作为走向服务业务的早期一步，口碑系数 +1%。"
+      },
+      "src": [
+        { "name": "Apple Newsroom · Apple to acquire Beats Music & Beats Electronics", "url": "https://www.apple.com/newsroom/2014/05/28Apple-to-Acquire-Beats-Music-Beats-Electronics/", "type": "filing" }
+      ]
+    },
+    {
+      "d": "2014-09-09", "p": "day", "cat": "milestone", "dir": 1, "mag": 4, "rep": 0.02,
+      "s": { "en": "Apple Watch", "zh": "Apple Watch" },
+      "t": { "en": "Unveils Apple Watch, the first new product category under his leadership", "zh": "发布 Apple Watch，他任内的第一个全新产品品类" },
+      "summary": {
+        "en": "At the same event as the iPhone 6 and Apple Pay, Cook introduced Apple Watch, the company's first new product line since Steve Jobs's death. It went on sale in April 2015 and grew into the core of a large wearables business.",
+        "zh": "在发布 iPhone 6 和 Apple Pay 的同一场活动上，库克推出了 Apple Watch——乔布斯去世后苹果的第一条全新产品线。它于 2015 年 4 月开售，后来成为庞大的可穿戴业务的核心。"
+      },
+      "why": {
+        "en": "Sales show up in Apple's results and so in the stock. The +2% on the reputation coefficient is for answering the question of whether Apple could still create new categories without Jobs.",
+        "zh": "销量体现在苹果的业绩里，也就体现在股价里。口碑系数 +2%，是因为它回应了“没有乔布斯的苹果还能不能开创新品类”的疑问。"
+      },
+      "src": [
+        { "name": "Apple Newsroom · Apple unveils Apple Watch", "url": "https://www.apple.com/newsroom/2014/09/09Apple-Unveils-Apple-Watch-Apples-Most-Personal-Device-Ever/", "type": "filing" },
+        { "name": "Wikipedia · Apple Watch", "url": "https://en.wikipedia.org/wiki/Apple_Watch", "type": "wiki" }
+      ]
+    },
+    {
+      "d": "2014-10-30", "p": "day", "cat": "reputation", "dir": 1, "mag": 4, "rep": 0.03,
+      "s": { "en": "Public essay", "zh": "公开署名文章" },
+      "t": { "en": "Publishes an essay stating publicly that he is gay", "zh": "发表署名文章，公开表明自己是同性恋者" },
+      "summary": {
+        "en": "In an essay in Bloomberg Businessweek he stated publicly that he is gay, becoming the first chief executive of a Fortune 500 company to do so while in office. He wrote that he gave up some of his privacy in the hope of helping others.",
+        "zh": "他在《彭博商业周刊》发表文章，公开表明自己是同性恋者，成为第一位在任内这样做的《财富》500 强公司 CEO。他写道，自己放弃一部分隐私，是希望能帮到别人。"
+      },
+      "why": {
+        "en": "A public statement he chose to make, with no effect on Apple's results, so it is a pure reputation event. It was widely covered and broadly well received, and the reputation coefficient gets +3%.",
+        "zh": "这是他本人选择作出的公开表态，对苹果业绩没有影响，属于纯声誉事件。此事报道广泛、反响总体正面，口碑系数 +3%。"
+      },
+      "src": [
+        { "name": "Bloomberg Businessweek · Tim Cook Speaks Up (2014-10-30)", "url": "https://www.bloomberg.com/news/articles/2014-10-30/tim-cook-speaks-up", "type": "news" },
+        { "name": "Wikipedia · Tim Cook", "url": "https://en.wikipedia.org/wiki/Tim_Cook", "type": "wiki" }
+      ]
+    },
+    {
+      "d": "2015-03-26", "p": "day", "cat": "reputation", "dir": 1, "mag": 2, "rep": 0.02,
+      "s": { "en": "Giving pledge", "zh": "承诺捐出财富" },
+      "t": { "en": "Says he plans to give away his wealth", "zh": "表示计划捐出自己的财富" },
+      "summary": {
+        "en": "In a Fortune profile he said he intends to give away all his money after paying for his nephew's college education, and that he had already begun donating quietly.",
+        "zh": "在《财富》杂志的一篇人物报道中，他表示在负担完侄子的大学学费后，打算捐出自己所有的钱，并且已经在低调地开始捐赠。"
+      },
+      "why": {
+        "en": "A statement of intent, not a transfer, so financial capital does not move. Later share gifts are small and are absorbed in the ownership estimate. The reputation coefficient gets +2%.",
+        "zh": "这是意向表态而非资产转移，金融资本不变。此后的股票捐赠金额不大，已包含在持股估算里。口碑系数 +2%。"
+      },
+      "src": [
+        { "name": "Fortune · Apple's Tim Cook leads different (2015-03-26)", "url": "https://fortune.com/2015/03/26/tim-cook/", "type": "news" }
+      ]
+    },
+    {
+      "d": "2016-02-16", "p": "day", "cat": "reputation", "dir": 1, "mag": 5, "rep": 0.04,
+      "s": { "en": "Refuses the FBI", "zh": "拒绝 FBI" },
+      "t": { "en": "Refuses a court order to help the FBI unlock an iPhone", "zh": "拒绝执行协助 FBI 解锁 iPhone 的法院命令" },
+      "summary": {
+        "en": "A federal magistrate ordered Apple to write software that would let the FBI break into an iPhone used by one of the San Bernardino attackers. Cook published an open letter refusing, arguing that such a tool would weaken security for every user. The government dropped the case in March after getting into the phone another way.",
+        "zh": "一名联邦治安法官命令苹果编写软件，帮助 FBI 破解圣贝纳迪诺枪击案一名凶手用过的 iPhone。库克发表公开信拒绝，理由是这样的工具会削弱所有用户的安全。3 月，政府通过其他途径进入手机后撤回了案件。"
+      },
+      "why": {
+        "en": "The public stand he is best remembered for, so it is scored 5. Opinion was split, with law enforcement and some politicians sharply critical, so the reputation coefficient gets +4% and not the maximum. The stock did not react.",
+        "zh": "这是他最为人所记住的一次公开立场，因此记 5 分。舆论两极分化，执法部门和部分政界人士批评激烈，所以口碑系数 +4% 而不是加到上限。股价没有反应。"
+      },
+      "src": [
+        { "name": "Apple · A Message to Our Customers (2016-02-16)", "url": "https://www.apple.com/customer-letter/", "type": "filing" },
+        { "name": "Wikipedia · Apple–FBI encryption dispute", "url": "https://en.wikipedia.org/wiki/Apple%E2%80%93FBI_encryption_dispute", "type": "wiki" }
+      ]
+    },
+    {
+      "d": "2016-08-30", "p": "day", "cat": "crisis", "dir": -1, "mag": 3, "rep": -0.01,
+      "s": { "en": "EU: €13B tax", "zh": "欧盟追税令" },
+      "t": { "en": "The European Commission orders Ireland to recover up to €13 billion from Apple", "zh": "欧盟委员会要求爱尔兰向苹果追缴最多 130 亿欧元税款" },
+      "summary": {
+        "en": "The Commission ruled that Ireland had given Apple illegal tax benefits and ordered it to recover up to €13 billion plus interest. Cook rejected the finding in an open letter. After years of appeals, the EU's top court upheld the order in September 2024.",
+        "zh": "欧盟委员会裁定爱尔兰给予苹果的税收优惠属于非法，要求追缴最多 130 亿欧元及利息。库克发表公开信反驳这一结论。经过多年上诉，欧盟最高法院在 2024 年 9 月维持了追缴决定。"
+      },
+      "why": {
+        "en": "The money was set aside in escrow and the cost is in Apple's accounts and share price. A small -1% on the reputation coefficient for the tax-avoidance label attached to the company he runs.",
+        "zh": "这笔钱早已存入托管账户，成本已体现在苹果的账目和股价里。他执掌的公司被贴上避税标签，口碑系数小幅 -1%。"
+      },
+      "src": [
+        { "name": "European Commission · Press release IP/16/2923", "url": "https://ec.europa.eu/commission/presscorner/detail/en/IP_16_2923", "type": "filing" },
+        { "name": "Wikipedia · Apple's EU tax dispute", "url": "https://en.wikipedia.org/wiki/Apple%27s_EU_tax_dispute", "type": "wiki" }
+      ]
+    },
+    {
+      "d": "2018-08-02", "p": "day", "cat": "milestone", "dir": 1, "mag": 5, "rep": 0.02,
+      "s": { "en": "$1 trillion", "zh": "市值破 1 万亿" },
+      "t": { "en": "Apple becomes the first U.S. company worth $1 trillion", "zh": "苹果成为首家市值达到 1 万亿美元的美国公司" },
+      "summary": {
+        "en": "Two days after strong quarterly results, Apple's shares closed above the level that put its market value over $1 trillion, the first publicly traded U.S. company to get there. It was worth about $350 billion when Cook became CEO.",
+        "zh": "发布强劲季报两天后，苹果收盘价对应的市值超过 1 万亿美元，成为第一家达到这一水平的美国上市公司。库克出任 CEO 时，它的市值约为 3500 亿美元。"
+      },
+      "why": {
+        "en": "The gain itself is in the stock. The +2% on the reputation coefficient is for the symbolic answer to seven years of doubt about Apple after Jobs; later trillion marks get no reputation score.",
+        "zh": "涨幅本身已在股价里。口碑系数 +2%，是因为这个数字象征性地回答了七年来对“后乔布斯时代”的怀疑；之后的几个万亿关口不再加口碑分。"
+      },
+      "src": [
+        { "name": "CNBC · Apple hits $1 trillion in market value (2018-08-02)", "url": "https://www.cnbc.com/2018/08/02/apple-hits-1-trillion-in-market-value.html", "type": "news" },
+        { "name": "Yahoo Finance · AAPL price history", "url": "https://finance.yahoo.com/quote/AAPL/history", "type": "market" }
+      ]
+    },
+    {
+      "d": "2019-01-02", "p": "day", "cat": "crisis", "dir": -1, "mag": 3, "rep": 0,
+      "s": { "en": "China warning", "zh": "中国需求预警" },
+      "t": { "en": "Cuts Apple's revenue forecast, citing weak iPhone demand in China", "zh": "下调营收预期，称中国市场 iPhone 需求疲软" },
+      "summary": {
+        "en": "In a letter to investors Cook lowered the revenue forecast for the holiday quarter to about $84 billion from at least $89 billion, blaming mainly a slowing Chinese economy and fewer iPhone upgrades. It was Apple's first such cut in more than 15 years, and the stock fell about 10% the next day.",
+        "zh": "库克在致投资者的信中把假日季度的营收预期从至少 890 亿美元下调到约 840 亿美元，主要归因于中国经济放缓和 iPhone 换机减少。这是苹果十五年多来第一次下调预期，次日股价下跌约 10%。"
+      },
+      "why": {
+        "en": "Fully priced by the market, so there is no extra reputation shock (rep = 0).",
+        "zh": "完全由市场定价，不再额外扣口碑（rep = 0）。"
+      },
+      "src": [
+        { "name": "Apple Newsroom · Letter from Tim Cook to Apple investors", "url": "https://www.apple.com/newsroom/2019/01/letter-from-tim-cook-to-apple-investors/", "type": "filing" },
+        { "name": "Yahoo Finance · AAPL price history", "url": "https://finance.yahoo.com/quote/AAPL/history", "type": "market" }
+      ]
+    },
+    {
+      "d": "2020-07-29", "p": "day", "cat": "reputation", "dir": 0, "mag": 3, "rep": -0.01,
+      "s": { "en": "Antitrust hearing", "zh": "反垄断听证" },
+      "t": { "en": "Testifies at the U.S. House antitrust hearing with three other tech CEOs", "zh": "与另外三位科技公司 CEO 一同出席美国众议院反垄断听证" },
+      "summary": {
+        "en": "Cook appeared by video before the House Judiciary antitrust subcommittee alongside the heads of Amazon, Facebook and Google. He was questioned about App Store commissions and rules for developers.",
+        "zh": "库克通过视频出席众议院司法委员会反垄断小组委员会的听证，同场的还有亚马逊、Facebook 和谷歌的负责人。他被问到 App Store 的抽成和开发者规则。"
+      },
+      "why": {
+        "en": "Scored as mixed: he came through the hearing without damage, but the committee's later report called the App Store a monopoly. A small -1% on the reputation coefficient; the stock did not react.",
+        "zh": "记为好坏参半：他在听证会上全身而退，但委员会后来的报告认定 App Store 构成垄断。口碑系数小幅 -1%；股价没有反应。"
+      },
+      "src": [
+        { "name": "U.S. House Judiciary Committee · Online Platforms and Market Power, Part 6 (hearing record)", "url": "https://www.govinfo.gov/content/pkg/CHRG-116hhrg41317/html/CHRG-116hhrg41317.htm", "type": "filing" },
+        { "name": "Wikipedia · Tim Cook", "url": "https://en.wikipedia.org/wiki/Tim_Cook", "type": "wiki" }
+      ]
+    },
+    {
+      "d": "2020-08-10", "p": "day", "cat": "wealth", "dir": 1, "mag": 3, "rep": 0,
+      "s": { "en": "Billionaire", "zh": "身家过十亿" },
+      "t": { "en": "Bloomberg estimates his net worth has passed $1 billion", "zh": "彭博估算其身家突破 10 亿美元" },
+      "summary": {
+        "en": "The Bloomberg Billionaires Index calculated that Cook's fortune had crossed $1 billion: about 850,000 directly held Apple shares, worth roughly $375 million before that month's 4-for-1 split, plus about $650 million from earlier share sales, dividends and pay. It is rare for a hired executive who did not found the company.",
+        "zh": "彭博亿万富翁指数测算，库克的财富已超过 10 亿美元：直接持有约 85 万股苹果股票（当月 1 拆 4 之前的口径，约值 3.75 亿美元），加上此前售股、分红和薪酬积累的约 6.5 亿美元。对一位并非创始人的职业经理人来说，这很少见。"
+      },
+      "why": {
+        "en": "A marker, not a shock: the wealth is already in the stock and cash lines. The model shows about $1.4 billion on this date because it also counts half of his unvested award, which Bloomberg left out.",
+        "zh": "这是一个标记点而非冲击：财富已经体现在股票和现金两条线里。模型在这一天显示约 14 亿美元，因为它还把未归属奖励的一半算了进去，而彭博没有计入。"
+      },
+      "fin": {
+        "en": "Model: about $790 million in Apple equity plus about $650 million in cash (estimates).",
+        "zh": "模型：苹果股权约 7.9 亿美元，现金约 6.5 亿美元（估算）。"
+      },
+      "src": [
+        { "name": "Fortune · Tim Cook is now a billionaire (2020-08-10)", "url": "https://fortune.com/2020/08/10/tim-cook-net-worth-ceo-apple-stock-aapl-share-price-stock-market-capitalization/", "type": "news" }
+      ]
+    },
+    {
+      "d": "2020-08-19", "p": "day", "cat": "milestone", "dir": 1, "mag": 4, "rep": 0,
+      "s": { "en": "$2 trillion", "zh": "市值破 2 万亿" },
+      "t": { "en": "Apple becomes the first U.S. company to reach $2 trillion", "zh": "苹果成为首家市值达到 2 万亿美元的美国公司" },
+      "summary": {
+        "en": "Apple's market value touched $2 trillion during trading, two years after it reached $1 trillion and five months after the pandemic sell-off. Demand for devices and services during lockdowns drove the rise.",
+        "zh": "苹果市值在盘中触及 2 万亿美元，距离突破 1 万亿美元仅两年，距离疫情引发的抛售仅五个月。居家期间对设备和服务的需求推动了这轮上涨。"
+      },
+      "why": {
+        "en": "Entirely a share-price event, so rep = 0.",
+        "zh": "完全是股价事件，rep = 0。"
+      },
+      "src": [
+        { "name": "CNBC · Apple reaches $2 trillion market cap (2020-08-19)", "url": "https://www.cnbc.com/2020/08/19/apple-reaches-2-trillion-market-cap.html", "type": "news" },
+        { "name": "Yahoo Finance · AAPL price history", "url": "https://finance.yahoo.com/quote/AAPL/history", "type": "market" }
+      ]
+    },
+    {
+      "d": "2020-09-29", "p": "day", "cat": "wealth", "dir": 1, "mag": 2, "rep": 0,
+      "s": { "en": "New stock award", "zh": "新一轮股票奖励" },
+      "t": { "en": "Apple discloses his first new stock award since 2011, vesting through 2025", "zh": "苹果披露他自 2011 年以来的第一笔新股票奖励，归属期至 2025 年" },
+      "summary": {
+        "en": "A filing showed that the board had granted Cook new restricted stock units, part time-based and part tied to shareholder return, with vesting dates running to 2025. Press reports valued the package at up to about $114 million.",
+        "zh": "一份监管文件显示，董事会授予库克新的限制性股票单位，一部分按时间归属，一部分与股东回报挂钩，归属日期一直排到 2025 年。媒体估算这笔奖励最高约值 1.14 亿美元。"
+      },
+      "why": {
+        "en": "The ownership estimate includes this grant at about half its face value. It signalled that he would stay several more years, which supports the high human-capital level.",
+        "zh": "持股估算按面值的一半左右计入这笔授予。它表明他还会再干几年，也支撑了较高的人力资本水平。"
+      },
+      "src": [
+        { "name": "MacRumors · Tim Cook receives RSUs through 2025 (2020-09-29)", "url": "https://www.macrumors.com/2020/09/29/apple-ceo-tim-cook-rsus-2025/", "type": "news" }
+      ]
+    },
+    {
+      "d": "2021-08", "p": "month", "cat": "wealth", "dir": 1, "mag": 3, "rep": 0,
+      "s": { "en": "Final 2011 payout", "zh": "十年奖励兑现" },
+      "t": { "en": "Receives the last tranche of his 2011 award, about 5 million shares", "zh": "拿到 2011 年奖励的最后一批，约 500 万股" },
+      "summary": {
+        "en": "Ten years after becoming CEO he received the final part of the 2011 grant, a little over 5 million shares worth about $750 million, the maximum possible because Apple's return had beaten most of the S&P 500. Around half was withheld for taxes and he sold the rest.",
+        "zh": "出任 CEO 十年后，他拿到 2011 年那笔奖励的最后一部分——500 万股出头，价值约 7.5 亿美元。由于苹果的股东回报超过了标普 500 的大多数成分股，他拿到的是上限数量。其中约一半被扣缴税款，其余的他全部卖出。"
+      },
+      "why": {
+        "en": "Equity turns into cash: the ownership fraction drops and the cash line rises by the estimated after-tax proceeds, so total wealth barely changes. The split between tax withholding and sale differs between reports and is an estimate here.",
+        "zh": "股权变成现金：持股比例下降，现金一栏按估算的税后所得上调，总财富几乎不变。扣税和卖出各占多少，各家报道说法不一，这里采用估算。"
+      },
+      "fin": {
+        "en": "Cash line: from about $650 million to about $1 billion (estimate).",
+        "zh": "现金一栏：从约 6.5 亿美元升到约 10 亿美元（估算）。"
+      },
+      "src": [
+        { "name": "CNBC · Tim Cook receives Apple stock worth $750 million (2021-08-26)", "url": "https://www.cnbc.com/2021/08/26/tim-cook-receives-apple-stock-worth-750-million.html", "type": "news" }
+      ]
+    },
+    {
+      "d": "2022-01-03", "p": "day", "cat": "milestone", "dir": 1, "mag": 4, "rep": 0,
+      "s": { "en": "$3 trillion", "zh": "市值破 3 万亿" },
+      "t": { "en": "Apple becomes the first company to touch $3 trillion", "zh": "苹果成为首家市值触及 3 万亿美元的公司" },
+      "summary": {
+        "en": "On the first trading day of 2022 Apple's market value briefly passed $3 trillion, a first for any company. The shares then fell with the wider market, and Apple first closed above that level in June 2023.",
+        "zh": "2022 年第一个交易日，苹果市值一度超过 3 万亿美元，成为全球首家。之后股价随大盘回落，直到 2023 年 6 月才第一次收在这一水平之上。"
+      },
+      "why": {
+        "en": "Entirely a share-price event, so rep = 0.",
+        "zh": "完全是股价事件，rep = 0。"
+      },
+      "src": [
+        { "name": "CNBC · Apple becomes first U.S. company to reach $3 trillion market cap (2022-01-03)", "url": "https://www.cnbc.com/2022/01/03/apple-becomes-first-us-company-to-reach-3-trillion-market-cap.html", "type": "news" },
+        { "name": "Yahoo Finance · AAPL price history", "url": "https://finance.yahoo.com/quote/AAPL/history", "type": "market" }
+      ]
+    },
+    {
+      "d": "2023-01-12", "p": "day", "cat": "reputation", "dir": 0, "mag": 2, "rep": 0.01,
+      "s": { "en": "Pay cut", "zh": "主动降薪" },
+      "t": { "en": "Target pay for 2023 is cut by about 40% at his own recommendation", "zh": "应他本人建议，2023 年目标薪酬下调约 40%" },
+      "summary": {
+        "en": "Apple's proxy statement set Cook's 2023 target pay at $49 million, down from $84 million, and tied more of his stock award to performance. The change followed a shareholder vote in which only 64% approved the previous package, and the filing said Cook himself recommended it.",
+        "zh": "苹果的委托书把库克 2023 年的目标薪酬定为 4900 万美元，低于此前的 8400 万美元，并把更大比例的股票奖励与业绩挂钩。此前的薪酬方案在股东投票中只获得 64% 的赞成票，文件称这次调整是库克本人提出的。"
+      },
+      "why": {
+        "en": "Mixed: lower pay trims the human-capital target a little, while responding to shareholders earns a small +1% on the reputation coefficient.",
+        "zh": "好坏参半：薪酬下降让人力资本目标值略有回落，而回应股东意见带来口碑系数小幅 +1%。"
+      },
+      "src": [
+        { "name": "MacRumors · Tim Cook taking substantial pay cut in 2023 (2023-01-12)", "url": "https://www.macrumors.com/2023/01/12/tim-cook-taking-pay-cut-in-2023/", "type": "news" }
+      ]
+    },
+    {
+      "d": "2023-06-05", "p": "day", "cat": "milestone", "dir": 0, "mag": 3, "rep": 0,
+      "s": { "en": "Vision Pro", "zh": "Vision Pro" },
+      "t": { "en": "Announces Apple Vision Pro, a $3,499 mixed-reality headset", "zh": "发布售价 3499 美元的混合现实头显 Apple Vision Pro" },
+      "summary": {
+        "en": "Cook presented Vision Pro as the start of spatial computing, the first major new platform since Apple Watch. It went on sale in the United States in February 2024; reviewers praised the technology, but the price and weight kept sales small.",
+        "zh": "库克把 Vision Pro 称为“空间计算”的开端，这是继 Apple Watch 之后的第一个重要新平台。它于 2024 年 2 月在美国开售；评测称赞其技术，但价格和重量使销量有限。"
+      },
+      "why": {
+        "en": "Scored as mixed and without a reputation shock: an ambitious product closely tied to him personally, but so far a small business. Whatever it is worth is in the stock.",
+        "zh": "记为好坏参半，不加口碑分：这是一款与他个人紧密相连的雄心之作，但到目前为止生意规模很小。它值多少，都在股价里。"
+      },
+      "src": [
+        { "name": "Apple Newsroom · Introducing Apple Vision Pro", "url": "https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/", "type": "filing" },
+        { "name": "Wikipedia · Apple Vision Pro", "url": "https://en.wikipedia.org/wiki/Apple_Vision_Pro", "type": "wiki" }
+      ]
+    },
+    {
+      "d": "2024-03-21", "p": "day", "cat": "crisis", "dir": -1, "mag": 4, "rep": -0.02,
+      "s": { "en": "DOJ sues Apple", "zh": "司法部起诉" },
+      "t": { "en": "The U.S. Justice Department sues Apple for monopolizing smartphone markets", "zh": "美国司法部起诉苹果垄断智能手机市场" },
+      "summary": {
+        "en": "The Justice Department and a group of states filed an antitrust suit accusing Apple of using its control of the iPhone to block rival apps, wallets, watches and messaging. Apple denies the claims. A judge refused to dismiss the case in June 2025; press reports in July 2026 described early settlement talks, and no trial date has been set.",
+        "zh": "美国司法部与多个州提起反垄断诉讼，指控苹果利用对 iPhone 的控制，排挤竞争对手的应用、钱包、手表和通讯服务。苹果否认这些指控。2025 年 6 月法官驳回了苹果撤案的请求；2026 年 7 月有媒体报道双方进行了初步和解谈判，目前尚未确定开庭日期。"
+      },
+      "why": {
+        "en": "The stock fell about 4% on the day, which the stock line carries. The -2% on the reputation coefficient is for a case that targets the business model built under him and stays open for years.",
+        "zh": "当天股价下跌约 4%，由股票一栏反映。口碑系数 -2%，是因为这起案件针对的正是他任内建立的商业模式，而且会拖上多年。"
+      },
+      "src": [
+        { "name": "U.S. Department of Justice · Justice Department sues Apple (2024-03-21)", "url": "https://www.justice.gov/archives/opa/pr/justice-department-sues-apple-monopolizing-smartphone-markets", "type": "filing" },
+        { "name": "MacRumors · DOJ's iPhone monopoly case moves forward (2025-06-30)", "url": "https://www.macrumors.com/2025/06/30/doj-apple-antitrust-case-dismissal-denied/", "type": "news" },
+        { "name": "Wikipedia · United States v. Apple (2024)", "url": "https://en.wikipedia.org/wiki/United_States_v._Apple_(2024)", "type": "wiki" }
+      ]
+    },
+    {
+      "d": "2024-06-10", "p": "day", "cat": "career", "dir": 0, "mag": 3, "rep": -0.01,
+      "s": { "en": "Apple Intelligence", "zh": "Apple 智能" },
+      "t": { "en": "Announces Apple Intelligence and a ChatGPT integration", "zh": "发布 Apple Intelligence，并接入 ChatGPT" },
+      "summary": {
+        "en": "At its developer conference Apple presented its answer to generative AI: on-device features, a more personal Siri and an optional link to ChatGPT. The first features arrived that autumn, but in March 2025 Apple said the more personal Siri would be delayed.",
+        "zh": "在开发者大会上，苹果拿出了自己对生成式 AI 的回应：设备端功能、更懂用户的 Siri，以及可选的 ChatGPT 接入。首批功能当年秋天上线，但 2025 年 3 月苹果表示，更个性化的 Siri 将推迟。"
+      },
+      "why": {
+        "en": "Scored as mixed. The stock rose in the days after the announcement, which the stock line carries. The small -1% on the reputation coefficient is for promising features that then slipped.",
+        "zh": "记为好坏参半。发布后几天股价上涨，已由股票一栏反映。口碑系数小幅 -1%，是因为承诺的功能后来跳票。"
+      },
+      "src": [
+        { "name": "Apple Newsroom · Introducing Apple Intelligence", "url": "https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/", "type": "filing" },
+        { "name": "Wikipedia · Apple Intelligence", "url": "https://en.wikipedia.org/wiki/Apple_Intelligence", "type": "wiki" }
+      ]
+    },
+    {
+      "d": "2025-04-03", "p": "day", "cat": "crisis", "dir": -1, "mag": 4, "rep": 0,
+      "s": { "en": "Tariff sell-off", "zh": "关税暴跌" },
+      "t": { "en": "Apple loses more than $300 billion in a day after new U.S. tariffs", "zh": "美国宣布新关税后，苹果单日市值蒸发超过 3000 亿美元" },
+      "summary": {
+        "en": "The day after President Trump announced broad tariffs that hit China, India and Vietnam, where most Apple products are assembled, the stock fell 9.2%, its worst day since March 2020. It lost about 23% over four sessions and rebounded 15% on April 9 when most of the tariffs were paused.",
+        "zh": "特朗普总统宣布大范围加征关税，中国、印度和越南首当其冲，而苹果的大部分产品正是在这些地方组装。次日股价下跌 9.2%，创 2020 年 3 月以来最大单日跌幅。四个交易日累计下跌约 23%，4 月 9 日大部分关税暂缓后单日反弹 15%。"
+      },
+      "why": {
+        "en": "Fully priced by the market, so rep = 0. The episode exposed how much the supply chain he built depends on Asia.",
+        "zh": "完全由市场定价，rep = 0。这件事暴露了他一手搭建的供应链对亚洲的依赖程度。"
+      },
+      "src": [
+        { "name": "Yahoo Finance · Apple sheds over $300 billion in tariff-fueled sell-off", "url": "https://finance.yahoo.com/news/apple-sheds-over-300-billion-in-tariff-fueled-sell-off-notches-worst-drop-since-march-2020-202710020.html", "type": "news" },
+        { "name": "Yahoo Finance · AAPL price history", "url": "https://finance.yahoo.com/quote/AAPL/history", "type": "market" }
+      ]
+    },
+    {
+      "d": "2025-04-30", "p": "day", "cat": "crisis", "dir": -1, "mag": 3, "rep": -0.03,
+      "s": { "en": "Epic contempt", "zh": "Epic 案藐视裁定" },
+      "t": { "en": "A federal judge finds Apple in contempt in the Epic Games case", "zh": "联邦法官在 Epic Games 案中认定苹果藐视法庭" },
+      "summary": {
+        "en": "Judge Yvonne Gonzalez Rogers ruled that Apple had willfully violated her 2021 order to let developers point users to other payment options. She wrote that Cook had ignored an executive's advice to comply, said a finance vice president lied under oath, and referred the matter to federal prosecutors. Apple said it disagreed and appealed.",
+        "zh": "伊冯·冈萨雷斯·罗杰斯法官裁定，苹果故意违反了她 2021 年的命令，该命令要求允许开发者引导用户使用其他支付方式。她写道，库克没有采纳一位高管提出的合规建议；她还指出一名财务副总裁在宣誓后说谎，并把此事移交联邦检察官。苹果表示不同意并提出上诉。"
+      },
+      "why": {
+        "en": "The stock barely moved. The ruling criticized his decision by name, which is rare for him, so the reputation coefficient takes -3%.",
+        "zh": "股价几乎没动。裁决点名批评了他的决定，这对他来说很少见，因此口碑系数 -3%。"
+      },
+      "src": [
+        { "name": "NBC News · U.S. judge rules Apple violated order to reform App Store", "url": "https://www.nbcnews.com/tech/apple/us-judge-rules-apple-violated-order-reform-app-store-rcna204028", "type": "news" },
+        { "name": "Wikipedia · Epic Games v. Apple", "url": "https://en.wikipedia.org/wiki/Epic_Games_v._Apple", "type": "wiki" }
+      ]
+    },
+    {
+      "d": "2025-08-06", "p": "day", "cat": "career", "dir": 0, "mag": 3, "rep": -0.02,
+      "s": { "en": "$600B US pledge", "zh": "追加对美投资" },
+      "t": { "en": "Raises Apple's U.S. investment pledge to $600 billion at the White House", "zh": "在白宫把苹果对美投资承诺提高到 6000 亿美元" },
+      "summary": {
+        "en": "Standing beside President Trump, Cook added $100 billion to the $500 billion pledge Apple had made in February and announced an American Manufacturing Program. He handed the president a glass plaque on a 24-karat gold base. Trump said companies building in the United States would be spared a planned chip tariff, and the stock rose 5%.",
+        "zh": "库克站在特朗普总统身旁，在苹果 2 月承诺的 5000 亿美元之上再加 1000 亿美元，并宣布“美国制造计划”。他向总统赠送了一块配有 24K 金底座的玻璃牌匾。特朗普表示，在美国建厂的公司可免于拟议中的芯片关税，当天股价上涨 5%。"
+      },
+      "why": {
+        "en": "Scored as mixed. The tariff relief is in the share price. The gift was widely criticized as flattery, so the reputation coefficient takes -2%.",
+        "zh": "记为好坏参半。关税豁免的好处已在股价里。那份礼物被广泛批评为讨好，口碑系数 -2%。"
+      },
+      "src": [
+        { "name": "Apple Newsroom · Apple increases U.S. commitment to $600 billion", "url": "https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/", "type": "filing" },
+        { "name": "Fortune · Cook's $100 billion commitment came with a gift for Trump (2025-08-07)", "url": "https://fortune.com/2025/08/07/apple-trump-tim-cook-100-billion-manufacturing-gift-plaque-gold/", "type": "news" },
+        { "name": "Apple Newsroom · Apple will spend more than $500 billion in the U.S. (2025-02)", "url": "https://www.apple.com/newsroom/2025/02/apple-will-spend-more-than-500-billion-usd-in-the-us-over-the-next-four-years/", "type": "filing" }
+      ]
+    },
+    {
+      "d": "2025-10-28", "p": "day", "cat": "milestone", "dir": 1, "mag": 3, "rep": 0,
+      "s": { "en": "$4 trillion", "zh": "市值破 4 万亿" },
+      "t": { "en": "Apple touches $4 trillion in market value", "zh": "苹果市值触及 4 万亿美元" },
+      "summary": {
+        "en": "Helped by strong demand for the iPhone 17, Apple's market value passed $4 trillion during trading, making it the third company to reach that level after Nvidia and Microsoft.",
+        "zh": "在 iPhone 17 需求强劲的带动下，苹果市值在盘中突破 4 万亿美元，成为继英伟达和微软之后第三家达到这一水平的公司。"
+      },
+      "why": {
+        "en": "Entirely a share-price event, so rep = 0.",
+        "zh": "完全是股价事件，rep = 0。"
+      },
+      "src": [
+        { "name": "MacRumors · Apple hits $4 trillion market value (2025-10-28)", "url": "https://www.macrumors.com/2025/10/28/apple-4-trillion-market-cap/", "type": "news" },
+        { "name": "Yahoo Finance · AAPL price history", "url": "https://finance.yahoo.com/quote/AAPL/history", "type": "market" }
+      ]
+    },
+    {
+      "d": "2026-01-12", "p": "day", "cat": "career", "dir": 0, "mag": 3, "rep": -0.01,
+      "s": { "en": "Gemini for Siri", "zh": "牵手 Gemini" },
+      "t": { "en": "Apple and Google confirm that Gemini will underpin the next Siri", "zh": "苹果与谷歌确认：下一代 Siri 将以 Gemini 为基础" },
+      "summary": {
+        "en": "In a joint statement the two companies said the next generation of Apple's foundation models would be built on Google's Gemini models and cloud technology under a multi-year collaboration, while Apple Intelligence would keep running on Apple devices and its private cloud. Terms were not disclosed.",
+        "zh": "两家公司在联合声明中表示，双方达成多年期合作，苹果下一代基础模型将基于谷歌的 Gemini 模型和云技术构建，而 Apple Intelligence 仍将运行在苹果设备及其私有云上。合作条款没有披露。"
+      },
+      "why": {
+        "en": "Scored as mixed: investors welcomed a working plan for Siri, which the stock carries, while commentators read it as an admission that Apple's own models had fallen behind. A small -1% on the reputation coefficient.",
+        "zh": "记为好坏参半：投资者欢迎 Siri 终于有了可行方案，这部分由股价反映；评论界则把它解读为苹果承认自家模型落后。口碑系数小幅 -1%。"
+      },
+      "src": [
+        { "name": "Google · Joint statement from Google and Apple (2026-01-12)", "url": "https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/", "type": "filing" },
+        { "name": "TechCrunch · Google's Gemini to power Apple's AI features like Siri (2026-01-12)", "url": "https://techcrunch.com/2026/01/12/googles-gemini-to-power-apples-ai-features-like-siri/", "type": "news" }
+      ]
+    },
+    {
+      "d": "2026-04-20", "p": "day", "cat": "career", "dir": 0, "mag": 5, "rep": 0.04,
+      "s": { "en": "Names successor", "zh": "宣布交班" },
+      "t": { "en": "Apple announces he will become executive chairman and John Ternus CEO", "zh": "苹果宣布库克将转任执行董事长，约翰·特努斯接任 CEO" },
+      "summary": {
+        "en": "Apple said Cook would hand the CEO job to hardware chief John Ternus on September 1 and become executive chairman, with the board approving the plan unanimously. The release summed up his tenure: market value up from about $350 billion to $4 trillion and annual revenue from $108 billion to more than $416 billion.",
+        "zh": "苹果宣布，库克将于 9 月 1 日把 CEO 一职交给硬件负责人约翰·特努斯，自己转任执行董事长，董事会一致通过这一安排。公告总结了他的任期：市值从约 3500 亿美元增长到 4 万亿美元，年营收从 1080 亿美元增长到 4160 多亿美元。"
+      },
+      "why": {
+        "en": "The end of the role that defined him, so it is scored 5 with a neutral direction. Future pay falls, so the human-capital target steps down. An orderly, planned succession and the summing-up of his record earn +4% on the reputation coefficient. The stock fell about 2.5% the next day, which the stock line carries.",
+        "zh": "定义他职业生涯的那个角色到此结束，因此记 5 分，方向为中性。未来薪酬下降，人力资本目标值下调。交接有序、早有规划，加上对其业绩的盖棺定论，口碑系数 +4%。次日股价下跌约 2.5%，由股票一栏反映。"
+      },
+      "src": [
+        { "name": "Apple Newsroom · Tim Cook to become Apple Executive Chairman, John Ternus to become Apple CEO", "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/", "type": "filing" },
+        { "name": "Yahoo Finance · AAPL price history", "url": "https://finance.yahoo.com/quote/AAPL/history", "type": "market" }
+      ]
+    },
+    {
+      "d": "2026-07-28", "p": "day", "cat": "milestone", "dir": 1, "mag": 3, "rep": 0,
+      "s": { "en": "$5 trillion", "zh": "市值破 5 万亿" },
+      "t": { "en": "Apple briefly passes $5 trillion in market value", "zh": "苹果市值盘中一度突破 5 万亿美元" },
+      "summary": {
+        "en": "Apple's market value went above $5 trillion during trading for the first time, the second company to do so after Nvidia, and it had retaken the title of most valuable company earlier that month. Its first close above that level came on October 14, 2026.",
+        "zh": "苹果市值在盘中首次超过 5 万亿美元，是继英伟达之后第二家做到的公司；当月早些时候，它已重新成为全球市值最高的公司。它第一次收在这一水平之上是在 2026 年 10 月 14 日。"
+      },
+      "why": {
+        "en": "Entirely a share-price event, so rep = 0.",
+        "zh": "完全是股价事件，rep = 0。"
+      },
+      "src": [
+        { "name": "9to5Mac · Apple just hit $5 trillion market cap for first time (2026-07-28)", "url": "https://9to5mac.com/2026/07/28/apple-just-hit-5-trillion-market-cap-for-first-time/", "type": "news" },
+        { "name": "9to5Mac · Apple just closed the day above $5 trillion for the first time (2026-10-14)", "url": "https://9to5mac.com/2026/10/14/apple-just-closed-the-day-above-5-trillion-for-the-first-time/", "type": "news" }
+      ]
+    },
+    {
+      "d": "2026-07-30", "p": "day", "cat": "crisis", "dir": -1, "mag": 3, "rep": 0,
+      "s": { "en": "Last earnings call", "zh": "最后一次财报会" },
+      "t": { "en": "His final earnings call as CEO ends with a weak forecast", "zh": "他以 CEO 身份主持的最后一次财报会，以疲软指引收场" },
+      "summary": {
+        "en": "Apple beat profit estimates for the June quarter, but its forecast of 9% to 11% revenue growth for the next quarter fell short of expectations. Cook said shortages and sharply higher memory-chip prices were holding back supply. The stock fell 7.4% the next day.",
+        "zh": "苹果 6 月季度的利润好于预期，但对下一季度营收增长 9% 至 11% 的指引低于市场预期。库克表示，元器件短缺和存储芯片价格大涨限制了供货。次日股价下跌 7.4%。"
+      },
+      "why": {
+        "en": "Fully priced by the market, so rep = 0.",
+        "zh": "完全由市场定价，rep = 0。"
+      },
+      "src": [
+        { "name": "Fortune · Tim Cook's final Apple earnings call (2026-07-30)", "url": "https://fortune.com/2026/07/30/tim-cook-signed-off-on-his-final-apple-earnings-call-with-a-warning-about-a-hundred-year-flood-in-memory-chip-pricing/", "type": "news" },
+        { "name": "SiliconANGLE · Apple's stock slides on weak guidance (2026-07-30)", "url": "https://siliconangle.com/2026/07/30/apples-stock-slides-blames-supply-chain-constraints-weak-guidance/", "type": "news" },
+        { "name": "Yahoo Finance · AAPL price history", "url": "https://finance.yahoo.com/quote/AAPL/history", "type": "market" }
+      ]
+    },
+    {
+      "d": "2026-09-01", "p": "day", "cat": "career", "dir": 0, "mag": 4, "rep": 0.02,
+      "s": { "en": "Executive chairman", "zh": "转任执行董事长" },
+      "t": { "en": "Becomes executive chairman as John Ternus takes over as CEO", "zh": "转任执行董事长，约翰·特努斯接任 CEO" },
+      "summary": {
+        "en": "After fifteen years Cook handed over the CEO job as planned and became executive chairman, a role focused on relations with governments. Press reports on Apple's filing put his new package at a $2 million salary and a $45 million target stock award for fiscal 2027.",
+        "zh": "十五年后，库克按计划交出 CEO 职位，转任执行董事长，这个角色主要负责与各国政府的关系。据媒体对苹果监管文件的报道，他的新薪酬方案为年薪 200 万美元，外加 2027 财年目标价值 4500 万美元的股票奖励。"
+      },
+      "why": {
+        "en": "The human-capital target steps down again: a smaller pay package and a shorter horizon at 65. The handover went as announced, which earns a small +2% on the reputation coefficient. The pay figures come from press reports of the filing, not the filing itself.",
+        "zh": "人力资本目标值再次下调：薪酬方案缩水，65 岁的他可预期的任期也更短。交接按公告如期完成，口碑系数小幅 +2%。薪酬数字来自媒体对文件的报道，没有直接核对文件原文。"
+      },
+      "fin": {
+        "en": "Latest model value: about $1.2 billion in Apple equity (3.24 million shares held after the October 2026 sale, plus half of unvested awards) and about $1.85 billion in cash and other assets. Forbes showed $3.1 billion on 2026-11-25.",
+        "zh": "模型最新值：苹果股权约 12 亿美元（2026 年 10 月售股后持有 324 万股，加上未归属奖励的一半），现金及其他资产约 18.5 亿美元。福布斯 2026 年 11 月 25 日显示为 31 亿美元。"
+      },
+      "src": [
+        { "name": "Al Jazeera · John Ternus succeeds Tim Cook as Apple CEO after 15 years (2026-09-01)", "url": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years", "type": "news" },
+        { "name": "IBTimes UK · Cook's pay arrangement as executive chairman", "url": "https://www.ibtimes.co.uk/apple-leadership-transition-tim-cook-compensation-1818316", "type": "news" },
+        { "name": "9to5Mac · Tim Cook sold nearly $63.9 million in Apple shares this month (2026-10-06)", "url": "https://9to5mac.com/2026/10/06/tim-cook-sold-nearly-63-9-million-in-apple-shares-this-month/", "type": "news" },
+        { "name": "Forbes · Tim Cook profile", "url": "https://www.forbes.com/profile/tim-cook/", "type": "news" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1949 @@
+{
+  "id": "knight",
+  "name": {
+    "en": "Phil Knight",
+    "zh": "菲尔·奈特"
+  },
+  "ticker": "SWSH",
+  "born": "1938-02-24",
+  "color": "#B8F25B",
+  "initials": "PK",
+  "tagline": {
+    "en": "A college miler who sold Japanese running shoes from his car, built Nike, and is now giving billions away",
+    "zh": "从后备箱里卖日本跑鞋的大学中长跑选手，一手建起耐克，如今正把数十亿美元捐出去"
+  },
+  "tags": [
+    {
+      "en": "Nike co-founder",
+      "zh": "耐克联合创始人"
+    },
+    {
+      "en": "Shoe Dog",
+      "zh": "《鞋狗》"
+    },
+    {
+      "en": "Swoosh LLC",
+      "zh": "Swoosh LLC"
+    },
+    {
+      "en": "Oregon philanthropist",
+      "zh": "俄勒冈慈善家"
+    }
+  ],
+  "privates": [
+    {
+      "label": {
+        "en": "Pre-IPO Blue Ribbon Sports / Nike stake + early savings (estimate)",
+        "zh": "上市前的蓝带体育／耐克股权 + 早期积蓄（估算）"
+      },
+      "until": "1980-12-01",
+      "anchors": [
+        [
+          "1959-06",
+          2000
+        ],
+        [
+          "1964-01-25",
+          3000
+        ],
+        [
+          "1969",
+          60000
+        ],
+        [
+          "1972",
+          400000
+        ],
+        [
+          "1976",
+          4000000
+        ],
+        [
+          "1978",
+          20000000
+        ],
+        [
+          "1979-12",
+          70000000
+        ],
+        [
+          "1980-12-01",
+          178000000
+        ]
+      ]
+    },
+    {
+      "label": {
+        "en": "Wealth outside Nike (dividends, cash from share sales, Laika, other holdings; estimate)",
+        "zh": "耐克以外的财富（股息、售股所得现金、Laika 动画公司及其他资产，估算）"
+      },
+      "from": "1980-12-02",
+      "anchors": [
+        [
+          "1980-12-02",
+          1000000
+        ],
+        [
+          "1985",
+          10000000
+        ],
+        [
+          "1990",
+          60000000
+        ],
+        [
+          "1997",
+          300000000
+        ],
+        [
+          "2004",
+          800000000
+        ],
+        [
+          "2010",
+          2000000000
+        ],
+        [
+          "2015",
+          3500000000
+        ],
+        [
+          "2018",
+          4500000000
+        ],
+        [
+          "2021",
+          5500000000
+        ],
+        [
+          "2022",
+          7000000000
+        ],
+        [
+          "2023",
+          7200000000
+        ],
+        [
+          "2024",
+          9500000000
+        ],
+        [
+          "2025",
+          11000000000
+        ],
+        [
+          "2026-03",
+          13300000000
+        ],
+        [
+          "2026-11",
+          13900000000
+        ]
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "sym": "NKE",
+      "label": {
+        "en": "Nike stake (Phil Knight & family, incl. Swoosh LLC and trusts)",
+        "zh": "耐克持股（菲尔·奈特及家族，含 Swoosh LLC 和信托）"
+      },
+      "from": "1980-12-02",
+      "own": [
+        [
+          "1980-12",
+          0.46
+        ],
+        [
+          "1985",
+          0.43
+        ],
+        [
+          "1990",
+          0.36
+        ],
+        [
+          "1997",
+          0.34
+        ],
+        [
+          "2004",
+          0.28
+        ],
+        [
+          "2010",
+          0.24
+        ],
+        [
+          "2015-06",
+          0.215
+        ],
+        [
+          "2019",
+          0.215
+        ],
+        [
+          "2021",
+          0.21
+        ],
+        [
+          "2024",
+          0.21
+        ],
+        [
+          "2026-11",
+          0.21
+        ]
+      ],
+      "shares": [
+        [
+          "1980-12",
+          2251000000
+        ],
+        [
+          "1985",
+          2400000000
+        ],
+        [
+          "1990",
+          2400000000
+        ],
+        [
+          "1997",
+          2320000000
+        ],
+        [
+          "2000",
+          2160000000
+        ],
+        [
+          "2004",
+          2100000000
+        ],
+        [
+          "2008",
+          1960000000
+        ],
+        [
+          "2012",
+          1830000000
+        ],
+        [
+          "2015",
+          1710000000
+        ],
+        [
+          "2018",
+          1600000000
+        ],
+        [
+          "2021",
+          1580000000
+        ],
+        [
+          "2023",
+          1530000000
+        ],
+        [
+          "2024",
+          1500000000
+        ],
+        [
+          "2025-07",
+          1477000000
+        ],
+        [
+          "2026-07",
+          1483500000
+        ],
+        [
+          "2026-11",
+          1480000000
+        ]
+      ]
+    }
+  ],
+  "human": [
+    [
+      "1938-02-24",
+      300000
+    ],
+    [
+      "1959",
+      800000
+    ],
+    [
+      "1962",
+      1500000
+    ],
+    [
+      "1964-01-25",
+      2000000
+    ],
+    [
+      "1972",
+      5000000
+    ],
+    [
+      "1980-12-02",
+      20000000
+    ],
+    [
+      "1988",
+      50000000
+    ],
+    [
+      "1997",
+      100000000
+    ],
+    [
+      "2004-11-18",
+      60000000
+    ],
+    [
+      "2016-06-30",
+      30000000
+    ],
+    [
+      "2026-11",
+      15000000
+    ]
+  ],
+  "audience": [
+    [
+      "1938-02-24",
+      0
+    ],
+    [
+      "1964-01-25",
+      100
+    ],
+    [
+      "1972",
+      5000
+    ],
+    [
+      "1980-12",
+      200000
+    ],
+    [
+      "1990",
+      2000000
+    ],
+    [
+      "1998",
+      8000000
+    ],
+    [
+      "2004",
+      6000000
+    ],
+    [
+      "2016",
+      10000000
+    ],
+    [
+      "2023",
+      12000000
+    ],
+    [
+      "2026-11",
+      12000000
+    ]
+  ],
+  "media": [
+    [
+      "1938-02-24",
+      0
+    ],
+    [
+      "1957",
+      0.05
+    ],
+    [
+      "1964-01-25",
+      0.1
+    ],
+    [
+      "1972",
+      0.5
+    ],
+    [
+      "1980-12",
+      3
+    ],
+    [
+      "1988",
+      6
+    ],
+    [
+      "1993",
+      10
+    ],
+    [
+      "1997",
+      18
+    ],
+    [
+      "2000",
+      12
+    ],
+    [
+      "2004",
+      10
+    ],
+    [
+      "2010",
+      6
+    ],
+    [
+      "2016",
+      9
+    ],
+    [
+      "2020",
+      6
+    ],
+    [
+      "2023",
+      8
+    ],
+    [
+      "2025-08",
+      9
+    ],
+    [
+      "2026-11",
+      9
+    ]
+  ],
+  "chapters": [
+    {
+      "from": "1938-02-24",
+      "t": {
+        "en": "Portland runner",
+        "zh": "波特兰的跑者"
+      },
+      "desc": {
+        "en": "Grows up in Portland, runs middle distance at Oregon under Bill Bowerman, then writes a Stanford MBA paper about Japanese running shoes",
+        "zh": "在波特兰长大，在俄勒冈大学跟随比尔·鲍尔曼练中长跑，之后在斯坦福读 MBA 时写下那篇关于日本跑鞋的论文"
+      }
+    },
+    {
+      "from": "1962-11",
+      "t": {
+        "en": "Blue Ribbon Sports",
+        "zh": "蓝带体育"
+      },
+      "desc": {
+        "en": "Talks his way into importing Tiger shoes from Japan, partners with his old coach and sells at track meets while working as an accountant",
+        "zh": "说服日本厂商让他代理鬼冢虎跑鞋，与昔日教练合伙，一边当会计一边在田径赛场边卖鞋"
+      }
+    },
+    {
+      "from": "1971-06",
+      "t": {
+        "en": "Birth of Nike",
+        "zh": "耐克诞生"
+      },
+      "desc": {
+        "en": "A $35 logo, a new name, a break with the Japanese supplier and the waffle sole turn a distributor into a brand",
+        "zh": "35 美元买来的标志、一个新名字、与日本供应商分手，再加上华夫鞋底，把一家代理商变成了品牌"
+      }
+    },
+    {
+      "from": "1980-12-02",
+      "t": {
+        "en": "Public company",
+        "zh": "上市公司"
+      },
+      "desc": {
+        "en": "The IPO makes him rich, Reebok takes the lead, then Air Jordan and \"Just Do It\" win it back",
+        "zh": "上市让他成为富豪，随后被锐步超越，又靠 Air Jordan 和「Just Do It」夺回头名"
+      }
+    },
+    {
+      "from": "1996",
+      "t": {
+        "en": "Giant under fire",
+        "zh": "风口浪尖的巨头"
+      },
+      "desc": {
+        "en": "Factory conditions in Asia make Nike a target of global protest and force him to change how it sources",
+        "zh": "亚洲代工厂的劳工状况让耐克成为全球抗议的靶子，也迫使他改变采购方式"
+      }
+    },
+    {
+      "from": "2004-11-18",
+      "t": {
+        "en": "Chairman and donor",
+        "zh": "董事长与捐赠人"
+      },
+      "desc": {
+        "en": "Hands over the chief executive job, keeps the chair, and starts making nine-figure gifts to universities and cancer research",
+        "zh": "交出首席执行官一职、保留董事长职位，并开始向大学和癌症研究捐出上亿美元的款项"
+      }
+    },
+    {
+      "from": "2016-06-30",
+      "t": {
+        "en": "Chairman emeritus",
+        "zh": "荣誉董事长"
+      },
+      "desc": {
+        "en": "Leaves the board, publishes a memoir and gives away billions while Nike's shares peak and then slide to a 12-year low",
+        "zh": "离开董事会、出版回忆录、捐出数十亿美元；同一时期耐克股价先创新高，再跌到 12 年低点"
+      }
+    }
+  ],
+  "events": [
+    {
+      "d": "1938-02-24",
+      "p": "day",
+      "cat": "origin",
+      "dir": 0,
+      "mag": 1,
+      "rep": 0,
+      "s": {
+        "en": "Born in Portland",
+        "zh": "出生波特兰"
+      },
+      "t": {
+        "en": "Born in Portland, Oregon",
+        "zh": "出生于俄勒冈州波特兰"
+      },
+      "summary": {
+        "en": "Philip Hampson Knight was born in Portland, Oregon, the city where he grew up, went to high school and later built his company.",
+        "zh": "菲利普·汉普森·奈特出生在俄勒冈州波特兰。他在这座城市长大、读完中学，后来也在这里创办了自己的公司。"
+      },
+      "why": {
+        "en": "Starting point, not scored. Human capital begins at the average level for a child born in the United States.",
+        "zh": "起点事件，不计分。人力资本以美国同龄人的平均水平作为初始值。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Phil Knight",
+          "url": "https://en.wikipedia.org/wiki/Phil_Knight",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1959",
+      "p": "year",
+      "cat": "education",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Oregon graduate",
+        "zh": "俄勒冈大学毕业"
+      },
+      "t": {
+        "en": "Graduates from the University of Oregon after running for Bill Bowerman",
+        "zh": "从俄勒冈大学毕业，在校期间师从比尔·鲍尔曼"
+      },
+      "summary": {
+        "en": "He earned a business degree at the University of Oregon, where he ran middle distance on the track team coached by Bill Bowerman and lettered three years in a row. Bowerman, who liked to rebuild his runners' shoes by hand, later became his business partner.",
+        "zh": "他在俄勒冈大学拿到商科学位，在校期间是田径队的中长跑选手，连续三年获得校队荣誉。教练比尔·鲍尔曼喜欢亲手改造队员的跑鞋，后来成了他的创业合伙人。"
+      },
+      "why": {
+        "en": "An education step: the human-capital target rises. The lasting asset was the relationship with Bowerman, which the model only values once the two start a company.",
+        "zh": "学历台阶：人力资本目标值上调。真正长期有价值的是与鲍尔曼的关系，但模型要等到两人合伙之后才会体现这一点。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Phil Knight",
+          "url": "https://en.wikipedia.org/wiki/Phil_Knight",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Bill Bowerman",
+          "url": "https://en.wikipedia.org/wiki/Bill_Bowerman",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1962",
+      "p": "year",
+      "cat": "education",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Stanford MBA",
+        "zh": "斯坦福 MBA"
+      },
+      "t": {
+        "en": "Earns a Stanford MBA and writes a paper on Japanese running shoes",
+        "zh": "获得斯坦福 MBA，写下关于日本跑鞋的论文"
+      },
+      "summary": {
+        "en": "At Stanford's business school he wrote a paper for a small-business class asking whether Japanese sports shoes could do to German ones what Japanese cameras had done to German cameras. He graduated with an MBA in 1962.",
+        "zh": "在斯坦福商学院的一门小企业课程上，他写了一篇论文，探讨日本运动鞋能否像日本相机取代德国相机那样，取代德国运动鞋。1962 年他拿到 MBA 学位。"
+      },
+      "why": {
+        "en": "A strong degree lifts the human-capital target to about $1.5 million. The paper itself earned nothing, but it is the business plan he followed for the next ten years.",
+        "zh": "一张含金量高的学位把人力资本目标值抬到约 150 万美元。论文本身没有带来任何收入，却是他此后十年照着做的商业计划。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Phil Knight",
+          "url": "https://en.wikipedia.org/wiki/Phil_Knight",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1962-11",
+      "p": "month",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Visits Onitsuka",
+        "zh": "拜访鬼冢"
+      },
+      "t": {
+        "en": "Visits Onitsuka in Kobe and wins the right to sell Tiger shoes in the U.S.",
+        "zh": "到神户拜访鬼冢公司，拿到鬼冢虎跑鞋的美国销售权"
+      },
+      "summary": {
+        "en": "On a trip around the world after graduation he stopped in Kobe, Japan, and called on Onitsuka, the maker of Tiger running shoes. He came away with an agreement to distribute the shoes in the western United States, although he had no company yet.",
+        "zh": "毕业后环游世界途中，他在日本神户停留，登门拜访了鬼冢虎跑鞋的生产商鬼冢公司。尽管当时他还没有公司，却谈下了在美国西部代理这款鞋的协议。"
+      },
+      "why": {
+        "en": "No money yet, so financial capital does not move. The event marks the start of the venture; the first shipment of samples only arrived more than a year later.",
+        "zh": "此时还没有任何收入，金融资本不变。这件事是创业的起点；第一批样品一年多以后才寄到。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Phil Knight",
+          "url": "https://en.wikipedia.org/wiki/Phil_Knight",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Asics (formerly Onitsuka)",
+          "url": "https://en.wikipedia.org/wiki/Asics",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1964-01-25",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.01,
+      "s": {
+        "en": "Blue Ribbon Sports",
+        "zh": "蓝带体育成立"
+      },
+      "t": {
+        "en": "Founds Blue Ribbon Sports with Bill Bowerman on a handshake",
+        "zh": "与比尔·鲍尔曼握手为约，创办蓝带体育"
+      },
+      "summary": {
+        "en": "Knight and his former coach agreed to become partners in Blue Ribbon Sports, each putting in a few hundred dollars to pay for a first order of Tiger shoes. The company sold about 1,300 pairs in its first year, for roughly $8,000, much of it from the trunk of Knight's car at track meets, while he kept a day job as an accountant until 1969.",
+        "zh": "奈特和他从前的教练约定合伙成立蓝带体育，两人各出几百美元，用来支付第一批鬼冢虎跑鞋的货款。公司第一年卖出约 1300 双鞋，收入约 8000 美元，其中不少是奈特在田径赛场边从汽车后备箱里卖掉的；直到 1969 年，他一直保留着会计的本职工作。"
+      },
+      "why": {
+        "en": "The founding of the company that became Nike, so it is scored as life-defining. The stake is worth almost nothing on this date; the private-equity anchors are rough estimates built from reported sales until the 1980 IPO.",
+        "zh": "这是后来的耐克的起点，因此记为决定一生的事件。此时这份股权几乎不值钱；在 1980 年上市之前，私有阶段的股权锚点都是根据公开的销售额做出的粗略估算。"
+      },
+      "fin": {
+        "en": "Founder equity enters the model (estimated, a few thousand dollars at the start).",
+        "zh": "创始人股权进入模型（估算，起初只有几千美元）。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Nike, Inc.",
+          "url": "https://en.wikipedia.org/wiki/Nike,_Inc.",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Phil Knight",
+          "url": "https://en.wikipedia.org/wiki/Phil_Knight",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1971-06",
+      "p": "month",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.02,
+      "s": {
+        "en": "Nike & the Swoosh",
+        "zh": "耐克与对勾"
+      },
+      "t": {
+        "en": "The Nike name and the Swoosh logo make their debut",
+        "zh": "「耐克」这个名字和对勾标志首次亮相"
+      },
+      "summary": {
+        "en": "Preparing to sell shoes under its own brand, the company paid Portland State design student Carolyn Davidson $35 for a logo, the Swoosh, and took the name Nike, after the Greek goddess of victory, at the suggestion of its first employee, Jeff Johnson. The Swoosh was first used in June 1971. Knight is widely quoted as saying of the logo that he did not love it but that it would grow on him.",
+        "zh": "为了推出自有品牌的鞋，公司付给波特兰州立大学设计专业学生卡罗琳·戴维森 35 美元，买下一个标志，也就是后来的对勾；又采纳第一位员工杰夫·约翰逊的建议，用希腊胜利女神的名字「耐克」命名。对勾标志在 1971 年 6 月首次使用。据广泛流传的说法，奈特当时评价这个标志：谈不上喜欢，但看久了会顺眼。"
+      },
+      "why": {
+        "en": "The brand is the asset the whole later fortune rests on, so this is one of the few magnitude-5 events. The reputation coefficient gets +2%; the money value only appears in later sales. Sources give May 30, 1971 for the name and June 18, 1971 for the first use of the logo, so the date is month precision.",
+        "zh": "此后的全部财富都建立在这个品牌之上，所以这是少数几个 5 级事件之一。口碑系数 +2%；金钱价值要到后来的销售额里才体现。资料显示更名在 1971 年 5 月 30 日、标志首次使用在 6 月 18 日，因此日期精度取「月」。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Swoosh",
+          "url": "https://en.wikipedia.org/wiki/Swoosh",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Nike, Inc.",
+          "url": "https://en.wikipedia.org/wiki/Nike,_Inc.",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1972",
+      "p": "year",
+      "cat": "career",
+      "dir": 0,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "Onitsuka split",
+        "zh": "与鬼冢决裂"
+      },
+      "t": {
+        "en": "The partnership with Onitsuka ends and Nike stands alone",
+        "zh": "与鬼冢的合作终止，耐克独立门户"
+      },
+      "summary": {
+        "en": "After a period of tension, during which Onitsuka looked for other U.S. distributors and Blue Ribbon began making shoes under its own brand, the two companies parted in 1972. A U.S. court later settled the dispute over the jointly developed Cortez model, letting both sides keep selling the design while the name stayed with Nike.",
+        "zh": "双方关系紧张了一段时间：鬼冢在物色其他美国代理商，蓝带则开始生产自有品牌的鞋。1972 年两家公司分道扬镳。此后美国法院就双方共同开发的 Cortez 鞋款作出裁决：两边都可以继续销售这一设计，名称归耐克。"
+      },
+      "why": {
+        "en": "Scored as mixed: the company lost its only supplier and gained its independence in the same year. No reputation shock; the outcome is reflected in the rising private-stake estimates of the 1970s.",
+        "zh": "记为好坏参半：公司在同一年失去了唯一的供应商，也获得了独立。不计口碑冲击；结果体现在 1970 年代不断上调的私有股权估值里。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Nike Cortez",
+          "url": "https://en.wikipedia.org/wiki/Nike_Cortez",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Nike, Inc.",
+          "url": "https://en.wikipedia.org/wiki/Nike,_Inc.",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1974",
+      "p": "year",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Waffle Trainer",
+        "zh": "华夫训练鞋"
+      },
+      "t": {
+        "en": "The Waffle Trainer goes on sale",
+        "zh": "华夫训练鞋上市"
+      },
+      "summary": {
+        "en": "Nike released the Waffle Trainer, built on a sole that Bowerman had developed by pouring rubber into a household waffle iron. The light, grippy shoe arrived as jogging was becoming a mass hobby in the United States and became the company's first big seller.",
+        "zh": "耐克推出华夫训练鞋，它的鞋底出自鲍尔曼把橡胶倒进家用华夫饼模具做出的试验。这款轻便、抓地力好的鞋正赶上慢跑在美国成为大众爱好，成为公司的第一款畅销产品。"
+      },
+      "why": {
+        "en": "A product milestone. The invention was Bowerman's, so Knight's reputation coefficient gets only +1%; the sales growth is in the private-stake estimates.",
+        "zh": "产品里程碑。发明出自鲍尔曼，所以奈特的口碑系数只 +1%；销售增长体现在私有股权估值里。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Bill Bowerman",
+          "url": "https://en.wikipedia.org/wiki/Bill_Bowerman",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Nike, Inc.",
+          "url": "https://en.wikipedia.org/wiki/Nike,_Inc.",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1980-12-02",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.02,
+      "s": {
+        "en": "Nike IPO at $22",
+        "zh": "耐克上市"
+      },
+      "t": {
+        "en": "Nike goes public at $22 a share",
+        "zh": "耐克以每股 22 美元上市"
+      },
+      "summary": {
+        "en": "Nike sold shares to the public for the first time at $22 each. By then it held about half of the U.S. athletic-shoe market. Knight kept about 46% of the company, a stake worth roughly $178 million at the offer price, and a two-class share structure left him in control of the board.",
+        "zh": "耐克首次公开发行股票，每股 22 美元。当时它已占据美国运动鞋市场约一半的份额。奈特保留了公司约 46% 的股份，按发行价计算约值 1.78 亿美元；双重股权结构让他继续掌握董事会。"
+      },
+      "why": {
+        "en": "Anchor switch: from this day financial capital = ownership × shares outstanding × the daily close. The 46% figure comes from a 1981 Forbes profile; the share count (about 17.6 million then, 2.25 billion after seven later 2-for-1 splits) is an estimate derived from it.",
+        "zh": "锚点切换：从这一天起，金融资本 = 持股比例 × 总股本 × 当日收盘价。46% 这一比例出自 1981 年《福布斯》的人物报道；总股本（当时约 1760 万股，按此后七次 1 拆 2 折算约 22.5 亿股）是据此推算的估计值。"
+      },
+      "fin": {
+        "en": "Priced daily from the NKE quote from here on. Stake at the offer price: about $178 million.",
+        "zh": "此后按 NKE 日线逐日计价。按发行价计算的持股价值约 1.78 亿美元。"
+      },
+      "src": [
+        {
+          "name": "Forbes Australia · How Phil Knight fast-tracked Nike (reprint of the 1981 Forbes profile)",
+          "url": "https://www.forbes.com.au/news/billionaires/how-phil-knight-fast-tracked-nike/",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Nike, Inc.",
+          "url": "https://en.wikipedia.org/wiki/Nike,_Inc.",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · NKE price history",
+          "url": "https://finance.yahoo.com/quote/NKE/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "1984-10",
+      "p": "month",
+      "cat": "career",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.01,
+      "s": {
+        "en": "Signs Jordan",
+        "zh": "签下乔丹"
+      },
+      "t": {
+        "en": "Nike signs rookie Michael Jordan; the Air Jordan follows in 1985",
+        "zh": "耐克签下新秀迈克尔·乔丹，Air Jordan 于 1985 年面世"
+      },
+      "summary": {
+        "en": "With its running business slowing, Nike signed Michael Jordan before his first NBA season and built a shoe line around him. The first Air Jordan went on general sale in the spring of 1985 and sold far beyond the company's forecasts. The line later became a multibillion-dollar brand of its own.",
+        "zh": "在跑鞋业务放缓之际，耐克在迈克尔·乔丹的第一个 NBA 赛季开始前签下了他，并围绕他打造了一条产品线。第一代 Air Jordan 于 1985 年春季全面发售，销量远超公司预期。这条产品线后来自成一个年收入数十亿美元的品牌。"
+      },
+      "why": {
+        "en": "The deal people most associate with Nike's rise, so it is magnitude 5. The commercial effect is in the share price; the reputation coefficient gets a small +1% because the signing was driven by his staff as much as by Knight. Sources date the signing to October 1984; the day is not used.",
+        "zh": "这是人们谈到耐克崛起时最常想到的一笔交易，因此定为 5 级。商业效果已在股价里；这次签约在很大程度上由他手下的团队推动，所以口碑系数只小幅 +1%。资料把签约时间定在 1984 年 10 月，这里不精确到日。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Air Jordan",
+          "url": "https://en.wikipedia.org/wiki/Air_Jordan",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Nike, Inc.",
+          "url": "https://en.wikipedia.org/wiki/Nike,_Inc.",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1986",
+      "p": "year",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.02,
+      "s": {
+        "en": "Reebok takes lead",
+        "zh": "被锐步超越"
+      },
+      "t": {
+        "en": "Reebok passes Nike as the largest U.S. athletic-shoe brand",
+        "zh": "锐步超过耐克，成为美国最大的运动鞋品牌"
+      },
+      "summary": {
+        "en": "Nike had been slow to see the aerobics boom and the demand for fitness shoes for women. Reebok's sales roughly tripled in 1986, and by 1987 it was selling about $1.4 billion a year while Nike's sales had slipped back to about $900 million. Nike regained the lead around 1990.",
+        "zh": "耐克对健美操热潮和女性健身鞋的需求反应迟缓。锐步的销售额在 1986 年增长了约两倍，到 1987 年已达约 14 亿美元，而耐克的销售额回落到约 9 亿美元。耐克在 1990 年前后重新夺回第一。"
+      },
+      "why": {
+        "en": "The sales slump is in the share price. The -2% on the reputation coefficient is for a missed trend that was widely blamed on management. Sources date the overtaking to 1986 or 1987, so the date is year precision.",
+        "zh": "销售下滑已反映在股价里。口碑系数 -2% 是因为错过了一波潮流，外界普遍把责任归于管理层。各方资料对被超越的时间说法不一（1986 年或 1987 年），因此日期精度为「年」。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Reebok",
+          "url": "https://en.wikipedia.org/wiki/Reebok",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · NKE price history",
+          "url": "https://finance.yahoo.com/quote/NKE/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "1988-07-01",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "Just Do It",
+        "zh": "Just Do It"
+      },
+      "t": {
+        "en": "The \"Just Do It\" campaign begins",
+        "zh": "「Just Do It」广告战役启动"
+      },
+      "summary": {
+        "en": "Nike launched a campaign by the Portland agency Wieden+Kennedy built on the line \"Just Do It\". It spoke to everyday exercisers as well as athletes and became one of the best-known slogans in advertising. Over the following years Nike's sales grew several times over and it passed Reebok again.",
+        "zh": "耐克推出由波特兰广告公司 Wieden+Kennedy 制作、以「Just Do It」为核心的广告战役。它既面向运动员，也面向普通健身者，成为广告史上最知名的口号之一。此后几年耐克的销售额翻了数倍，并重新超过锐步。"
+      },
+      "why": {
+        "en": "The sales recovery is in the share price. The +2% on the reputation coefficient is for the brand standing that outlasted any single product.",
+        "zh": "销售回升已反映在股价里。口碑系数 +2% 对应的是比任何单一产品都更持久的品牌地位。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Just Do It",
+          "url": "https://en.wikipedia.org/wiki/Just_Do_It",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Nike, Inc.",
+          "url": "https://en.wikipedia.org/wiki/Nike,_Inc.",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1996",
+      "p": "year",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 5,
+      "rep": -0.06,
+      "s": {
+        "en": "Sweatshop outcry",
+        "zh": "血汗工厂风波"
+      },
+      "t": {
+        "en": "Nike becomes the main target of the anti-sweatshop movement",
+        "zh": "耐克成为反血汗工厂运动的头号目标"
+      },
+      "summary": {
+        "en": "Reports on low pay and harsh conditions at contract factories in Asia had been building since the early 1990s. In 1996 a magazine photo of a Pakistani child stitching a Nike football turned them into a worldwide story, followed by campus protests and boycott calls. Knight at first argued that Nike did not own the factories and was raising local living standards.",
+        "zh": "关于亚洲代工厂工资低、条件恶劣的报道从 1990 年代初就不断出现。1996 年，一张巴基斯坦儿童缝制耐克足球的杂志照片把它变成了全球新闻，随后是校园抗议和抵制呼声。奈特起初的回应是：这些工厂并不属于耐克，耐克是在提高当地的生活水平。"
+      },
+      "why": {
+        "en": "The defining crisis of his career, so it takes the maximum -6% on the reputation coefficient. The criticism was aimed at him personally as founder and chief executive, and lasted for years; the share price (which fell sharply in 1997–98, also because of the Asian crisis) is counted separately through the stock. The controversy built over several years, so the date is year precision.",
+        "zh": "这是他职业生涯中最具决定性的危机，口碑系数扣到上限 -6%。批评直接指向身为创始人兼首席执行官的他本人，并持续多年；股价在 1997–98 年大幅下跌（亚洲金融危机也是原因之一），这部分由股票单独体现。争议历时数年逐步升级，因此日期精度为「年」。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Nike sweatshops",
+          "url": "https://en.wikipedia.org/wiki/Nike_sweatshops",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1998-05-12",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.03,
+      "s": {
+        "en": "Press Club speech",
+        "zh": "记者俱乐部演讲"
+      },
+      "t": {
+        "en": "Promises factory reforms in a speech at the National Press Club",
+        "zh": "在全国记者俱乐部发表演讲，承诺改革代工厂"
+      },
+      "summary": {
+        "en": "Speaking in Washington, Knight acknowledged that Nike's products had come to stand for low wages, forced overtime and abuse. He announced a minimum age of 18 for workers in footwear factories and 16 in other plants, U.S. indoor air-quality standards, and a wider role for outside monitors, including non-governmental groups. Critics said the plan left out wages.",
+        "zh": "奈特在华盛顿发表演讲，承认耐克的产品已经成了低工资、强迫加班和虐待的代名词。他宣布制鞋厂工人的最低年龄提高到 18 岁、其他工厂为 16 岁，工厂执行美国的室内空气质量标准，并扩大包括非政府组织在内的外部监督。批评者指出，这份计划没有涉及工资。"
+      },
+      "why": {
+        "en": "A public change of course by the person who had been defending the old one. It recovers part of the earlier loss: +3% on the reputation coefficient. The effect on sales cannot be separated from the market, so nothing is added to financial capital.",
+        "zh": "此前一直为旧做法辩护的人公开转向，挽回了先前的一部分损失：口碑系数 +3%。对销售的影响无法从市场走势里单独剥离，因此金融资本不作额外调整。"
+      },
+      "src": [
+        {
+          "name": "Stanford University course page · The Nike Controversy (commitments of the May 12, 1998 speech)",
+          "url": "https://web.stanford.edu/class/e297c/trade_environment/wheeling/hnike.html",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Nike sweatshops",
+          "url": "https://en.wikipedia.org/wiki/Nike_sweatshops",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2000-04",
+      "p": "month",
+      "cat": "reputation",
+      "dir": -1,
+      "mag": 2,
+      "rep": -0.01,
+      "s": {
+        "en": "Halts Oregon gift",
+        "zh": "暂停母校捐赠"
+      },
+      "t": {
+        "en": "Withdraws a $30 million pledge to the University of Oregon",
+        "zh": "撤回对俄勒冈大学的 3000 万美元捐赠承诺"
+      },
+      "summary": {
+        "en": "After the University of Oregon joined the Worker Rights Consortium, a factory-monitoring group that Nike opposed, Knight cancelled a $30 million commitment toward the expansion of the football stadium. The university later left the consortium and his giving resumed.",
+        "zh": "俄勒冈大学加入了耐克所反对的工厂监督组织「工人权利联盟」，奈特随即取消了用于扩建橄榄球场的 3000 万美元捐赠承诺。该校后来退出了这一组织，他的捐赠也随之恢复。"
+      },
+      "why": {
+        "en": "Widely reported as a donor using money to influence a public university, so the reputation coefficient takes a small -1%. No effect on financial capital.",
+        "zh": "这件事被广泛报道为捐赠人用金钱影响公立大学的决策，口碑系数小幅 -1%。对金融资本没有影响。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Phil Knight",
+          "url": "https://en.wikipedia.org/wiki/Phil_Knight",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Worker Rights Consortium",
+          "url": "https://en.wikipedia.org/wiki/Worker_Rights_Consortium",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2004-11-18",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "Steps down as CEO",
+        "zh": "卸任 CEO"
+      },
+      "t": {
+        "en": "Announces he will hand the chief executive job to William Perez",
+        "zh": "宣布把首席执行官一职交给威廉·佩雷斯"
+      },
+      "summary": {
+        "en": "After four decades running the company, Knight announced that he would step down as chief executive and stay on as chairman. His successor, William Perez, came from the consumer-goods company S.C. Johnson and took over at the end of December. The shares slipped about 3% the next day.",
+        "zh": "在执掌公司四十年后，奈特宣布卸任首席执行官，继续担任董事长。继任者威廉·佩雷斯来自日用消费品公司庄臣，于 12 月底上任。次日股价下跌约 3%。"
+      },
+      "why": {
+        "en": "Scored as neutral. The human-capital target steps down because he no longer runs the company day to day; his shareholding, and therefore financial capital, is unchanged.",
+        "zh": "记为中性。他不再负责日常经营，人力资本目标值下调；持股不变，金融资本也不变。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Phil Knight",
+          "url": "https://en.wikipedia.org/wiki/Phil_Knight",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · William Perez",
+          "url": "https://en.wikipedia.org/wiki/William_Perez",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · NKE price history",
+          "url": "https://finance.yahoo.com/quote/NKE/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2006-01-23",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 3,
+      "rep": -0.01,
+      "s": {
+        "en": "Parker named CEO",
+        "zh": "帕克接任 CEO"
+      },
+      "t": {
+        "en": "Perez leaves after 13 months; Mark Parker becomes chief executive",
+        "zh": "佩雷斯上任 13 个月后离职，马克·帕克出任首席执行官"
+      },
+      "summary": {
+        "en": "Nike announced that William Perez had resigned, citing differences between him and Knight over how to lead the company. Mark Parker, who had joined as a shoe designer in 1979, took over as chief executive and held the job for the next 14 years.",
+        "zh": "耐克宣布威廉·佩雷斯辞职，理由是他与奈特在如何领导公司上存在分歧。1979 年以鞋类设计师身份加入公司的马克·帕克接任首席执行官，并在这个位置上干了 14 年。"
+      },
+      "why": {
+        "en": "Mixed: the first succession failed, which drew criticism of a founder who could not let go (-1% on the reputation coefficient), but the second choice proved durable. Any effect on value is in the share price.",
+        "zh": "好坏参半：第一次交班失败，外界批评这位创始人放不了手（口碑系数 -1%），但第二次选的人经受住了时间考验。对价值的影响已在股价里。"
+      },
+      "src": [
+        {
+          "name": "Nike investor relations · NIKE, Inc. names Mark Parker CEO; William D. Perez resigns",
+          "url": "https://investors.nike.com/investors/news-events-and-reports/investor-news/investor-news-details/2006/NIKE-Inc-Names-Mark-Parker-CEO-William-D-Perez-Resigns/default.aspx",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Mark Parker",
+          "url": "https://en.wikipedia.org/wiki/Mark_Parker",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2006-08-01",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "$105M to Stanford",
+        "zh": "捐斯坦福 1.05 亿"
+      },
+      "t": {
+        "en": "Gives $105 million to Stanford's business school",
+        "zh": "向斯坦福商学院捐赠 1.05 亿美元"
+      },
+      "summary": {
+        "en": "Stanford Graduate School of Business announced a $105 million gift from Knight, described at the time as the largest ever made to a business school. Most of it paid for a new campus, which was named the Knight Management Center.",
+        "zh": "斯坦福商学院宣布收到奈特 1.05 亿美元的捐赠，当时被称为商学院有史以来收到的最大一笔捐款。其中大部分用于建设新校区，新校区被命名为奈特管理中心。"
+      },
+      "why": {
+        "en": "The first of his nine-figure gifts. The reputation coefficient gets +2%. Gifts are paid out of wealth outside Nike or out of Nike shares, so they show up as lower outside-wealth and ownership anchors rather than as a separate deduction.",
+        "zh": "这是他第一笔上亿美元的捐赠，口碑系数 +2%。捐款出自耐克以外的财富或耐克股票，因此体现为更低的「耐克以外财富」锚点和持股比例锚点，不再单独扣减。"
+      },
+      "src": [
+        {
+          "name": "Stanford GSB · Nike founder Phil Knight to give $105 million to Stanford GSB",
+          "url": "https://www.gsb.stanford.edu/newsroom/school-news/nike-founder-phil-knight-give-105-million-stanford-gsb",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Stanford Graduate School of Business",
+          "url": "https://en.wikipedia.org/wiki/Stanford_Graduate_School_of_Business",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2008-10",
+      "p": "month",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "$100M to OHSU",
+        "zh": "捐 OHSU 1 亿"
+      },
+      "t": {
+        "en": "Pledges $100 million to the cancer institute at OHSU",
+        "zh": "承诺向俄勒冈健康与科学大学癌症研究所捐赠 1 亿美元"
+      },
+      "summary": {
+        "en": "Phil and Penny Knight pledged $100 million to the cancer institute at Oregon Health & Science University in Portland, which was renamed the Knight Cancer Institute.",
+        "zh": "菲尔·奈特和佩妮·奈特夫妇承诺向波特兰的俄勒冈健康与科学大学（OHSU）癌症研究所捐赠 1 亿美元，该研究所随后更名为奈特癌症研究所。"
+      },
+      "why": {
+        "en": "A pure reputation event that no share price captures: +2% on the reputation coefficient.",
+        "zh": "纯声誉事件，股价反映不了：口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Knight Cancer Institute",
+          "url": "https://en.wikipedia.org/wiki/Knight_Cancer_Institute",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Phil Knight",
+          "url": "https://en.wikipedia.org/wiki/Phil_Knight",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2012-09-07",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Hall of Fame",
+        "zh": "入选名人堂"
+      },
+      "t": {
+        "en": "Inducted into the Naismith Basketball Hall of Fame as a contributor",
+        "zh": "以贡献者身份入选奈史密斯篮球名人堂"
+      },
+      "summary": {
+        "en": "Knight entered the Naismith Memorial Basketball Hall of Fame in the contributor category, in recognition of Nike's part in the growth of the sport.",
+        "zh": "奈特以「贡献者」类别入选奈史密斯篮球名人堂，以表彰耐克对这项运动发展所起的作用。"
+      },
+      "why": {
+        "en": "An honor outside the business world: +2% on the reputation coefficient.",
+        "zh": "商业领域之外的一项荣誉：口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Phil Knight",
+          "url": "https://en.wikipedia.org/wiki/Phil_Knight",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Naismith Basketball Hall of Fame",
+          "url": "https://en.wikipedia.org/wiki/Naismith_Basketball_Hall_of_Fame",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2013-09",
+      "p": "month",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.03,
+      "s": {
+        "en": "$500M challenge",
+        "zh": "5 亿抗癌挑战"
+      },
+      "t": {
+        "en": "Offers OHSU $500 million for cancer research if it raises the same amount",
+        "zh": "向 OHSU 提出 5 亿美元抗癌配捐挑战"
+      },
+      "summary": {
+        "en": "The Knights promised $500 million to the Knight Cancer Institute on condition that the university raise a matching $500 million within two years. OHSU announced in June 2015 that it had met the target, bringing the total to $1 billion.",
+        "zh": "奈特夫妇承诺向奈特癌症研究所捐赠 5 亿美元，条件是学校在两年内筹到同样数额的配套资金。2015 年 6 月，OHSU 宣布达成目标，总额达到 10 亿美元。"
+      },
+      "why": {
+        "en": "One of the largest gifts to cancer research at the time, with wide national coverage: +3% on the reputation coefficient.",
+        "zh": "这是当时癌症研究领域最大的捐赠之一，在全美被广泛报道：口碑系数 +3%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Knight Cancer Institute",
+          "url": "https://en.wikipedia.org/wiki/Knight_Cancer_Institute",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Phil Knight",
+          "url": "https://en.wikipedia.org/wiki/Phil_Knight",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2015-06-30",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "Swoosh LLC formed",
+        "zh": "成立 Swoosh LLC"
+      },
+      "t": {
+        "en": "Announces he will leave the chair and moves his voting shares into Swoosh LLC",
+        "zh": "宣布将卸任董事长，并把有投票权的股份转入 Swoosh LLC"
+      },
+      "summary": {
+        "en": "Knight said he planned to step down as chairman and recommended chief executive Mark Parker as his successor. He transferred most of his Class A shares, which elect three quarters of the board, to a new company, Swoosh LLC, and his son Travis joined Nike's board.",
+        "zh": "奈特表示打算卸任董事长，并推荐首席执行官马克·帕克接任。他把自己持有的大部分 A 类股转入新成立的 Swoosh LLC，这类股份有权选出董事会四分之三的成员；他的儿子特拉维斯同时进入耐克董事会。"
+      },
+      "why": {
+        "en": "Scored as neutral: control was reorganized, not sold. From here the model follows the stake that Forbes attributes to \"Phil Knight & family\" (Swoosh LLC, family trusts and shares held directly), about 21% of Nike; he does not own all of it personally. The percentage is an estimate from proxy statements and Forbes.",
+        "zh": "记为中性：控制权是重新安排，而不是出售。从这里起，模型采用《福布斯》归于「菲尔·奈特及家族」名下的持股（Swoosh LLC、家族信托以及直接持有的股份），约占耐克的 21%；这些股份并非全部由他本人持有。该比例是根据委托书和《福布斯》得出的估算。"
+      },
+      "src": [
+        {
+          "name": "Fortune · Nike's Phil Knight to step down as chairman (2015-06-30)",
+          "url": "https://fortune.com/2015/06/30/nike-phil-knight/",
+          "type": "news"
+        },
+        {
+          "name": "TIME · Nike chairman Phil Knight to step down",
+          "url": "https://time.com/3942643/nike-phil-knight-chairman/",
+          "type": "news"
+        },
+        {
+          "name": "SEC EDGAR · Nike 2026 proxy statement (capital structure, Swoosh LLC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000089/nke-20260715.htm",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2016-02",
+      "p": "month",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Knight-Hennessy",
+        "zh": "奈特-汉尼斯学者"
+      },
+      "t": {
+        "en": "Gives $400 million to start the Knight-Hennessy Scholars at Stanford",
+        "zh": "捐赠 4 亿美元，在斯坦福设立奈特-汉尼斯学者项目"
+      },
+      "summary": {
+        "en": "Stanford announced a graduate scholarship program named for Knight and the university's president, John Hennessy, with a $400 million gift from Knight. The first class of scholars arrived in 2018.",
+        "zh": "斯坦福大学宣布设立以奈特和时任校长约翰·汉尼斯命名的研究生奖学金项目，奈特为此捐赠 4 亿美元。首批学者于 2018 年入学。"
+      },
+      "why": {
+        "en": "Reputation only: +2% on the reputation coefficient. The money leaves through the outside-wealth and ownership anchors.",
+        "zh": "只影响声誉：口碑系数 +2%。资金的流出体现在「耐克以外财富」和持股比例锚点里。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Knight-Hennessy Scholars",
+          "url": "https://en.wikipedia.org/wiki/Knight-Hennessy_Scholars",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2016-04-26",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.04,
+      "s": {
+        "en": "Shoe Dog",
+        "zh": "《鞋狗》"
+      },
+      "t": {
+        "en": "Publishes his memoir \"Shoe Dog\"",
+        "zh": "出版回忆录《鞋狗》"
+      },
+      "summary": {
+        "en": "Knight's memoir covers the years from his 1962 trip to Japan to the 1980 IPO, with unusual frankness about cash crises and mistakes. It became a long-running bestseller and reintroduced him to readers who knew the brand but not the founder.",
+        "zh": "奈特的回忆录从 1962 年的日本之行写到 1980 年上市，对资金危机和各种失误的坦率程度相当少见。这本书长期畅销，让许多只知道品牌、不了解创始人的读者重新认识了他。"
+      },
+      "why": {
+        "en": "For a founder who had avoided publicity for decades, the book reshaped his public image more than any single business event: +4% on the reputation coefficient, and the audience anchors rise.",
+        "zh": "对一位几十年来回避曝光的创始人来说，这本书对公众形象的重塑超过任何单一的商业事件：口碑系数 +4%，受众锚点同步上调。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Shoe Dog",
+          "url": "https://en.wikipedia.org/wiki/Shoe_Dog",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2016-06-30",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "Leaves the chair",
+        "zh": "卸任董事长"
+      },
+      "t": {
+        "en": "Retires as chairman of Nike after 52 years with the company",
+        "zh": "卸任耐克董事长，结束 52 年的任职"
+      },
+      "summary": {
+        "en": "Knight left the board at the end of June 2016 and became chairman emeritus. Mark Parker added the chairman's title to his role as chief executive.",
+        "zh": "2016 年 6 月底，奈特离开董事会，改任荣誉董事长。马克·帕克在担任首席执行官的同时兼任董事长。"
+      },
+      "why": {
+        "en": "Scored as neutral. The human-capital target steps down again because he holds no operating or board role; the family's shareholding is unchanged.",
+        "zh": "记为中性。他不再担任任何经营或董事会职务，人力资本目标值再次下调；家族持股不变。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Nike, Inc.",
+          "url": "https://en.wikipedia.org/wiki/Nike,_Inc.",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Phil Knight",
+          "url": "https://en.wikipedia.org/wiki/Phil_Knight",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2016-10",
+      "p": "month",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "$500M to Oregon",
+        "zh": "捐母校 5 亿"
+      },
+      "t": {
+        "en": "Gives $500 million to the University of Oregon for a science campus",
+        "zh": "向俄勒冈大学捐赠 5 亿美元建设科学园区"
+      },
+      "summary": {
+        "en": "The University of Oregon announced a $500 million gift from Phil and Penny Knight to build a campus for applied science, later named the Knight Campus for Accelerating Scientific Impact. A second $500 million for the same campus was reported in 2021.",
+        "zh": "俄勒冈大学宣布，菲尔·奈特和佩妮·奈特夫妇捐赠 5 亿美元，用于建设一个应用科学园区，后来定名为「奈特加速科学影响园区」。2021 年又有报道称，他们为同一园区追加了 5 亿美元。"
+      },
+      "why": {
+        "en": "Reputation only: +2% on the reputation coefficient.",
+        "zh": "只影响声誉：口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Knight Campus for Accelerating Scientific Impact",
+          "url": "https://en.wikipedia.org/wiki/Phil_and_Penny_Knight_Campus_for_Accelerating_Scientific_Impact",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Phil Knight",
+          "url": "https://en.wikipedia.org/wiki/Phil_Knight",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2018-09-03",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 0,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Kaepernick ad",
+        "zh": "卡佩尼克广告"
+      },
+      "t": {
+        "en": "Nike makes Colin Kaepernick the face of a \"Just Do It\" anniversary campaign",
+        "zh": "耐克请科林·卡佩尼克出任「Just Do It」周年广告代言人"
+      },
+      "summary": {
+        "en": "Nike put Colin Kaepernick, the quarterback known for kneeling during the national anthem in protest, at the center of the 30th-anniversary \"Just Do It\" campaign. Some customers called for a boycott and the shares fell about 3% the next trading day, then recovered within weeks. Knight, by then chairman emeritus, later defended the choice in public.",
+        "zh": "耐克请因在奏国歌时单膝跪地抗议而广为人知的四分卫科林·卡佩尼克出任「Just Do It」30 周年广告的主角。部分消费者呼吁抵制，下一个交易日股价下跌约 3%，但几周内就收复失地。当时已是荣誉董事长的奈特后来公开为这一决定辩护。"
+      },
+      "why": {
+        "en": "A company decision made after he had left the board, and fully priced by the market within weeks, so it carries no reputation shock for him (rep = 0). It is listed because it explains a visible move in the family's stake.",
+        "zh": "这是他离开董事会之后公司作出的决定，而且市场在几周内就完成了定价，所以不对他个人计口碑冲击（rep = 0）。之所以列入，是因为它解释了家族持股价值的一次明显波动。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Colin Kaepernick",
+          "url": "https://en.wikipedia.org/wiki/Colin_Kaepernick",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · NKE price history",
+          "url": "https://finance.yahoo.com/quote/NKE/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2021-11-05",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Record high $177",
+        "zh": "股价历史新高"
+      },
+      "t": {
+        "en": "Nike shares close at a record $177.51",
+        "zh": "耐克股价收于 177.51 美元，创历史新高"
+      },
+      "summary": {
+        "en": "Nike's stock reached its highest close to date during the pandemic boom in online shopping and athletic wear. At that price the stake attributed to Knight and his family was worth close to $59 billion.",
+        "zh": "在疫情期间网购和运动服饰需求大涨的行情中，耐克股价创下迄今最高收盘价。按这个价格计算，归于奈特及其家族名下的持股接近 590 亿美元。"
+      },
+      "why": {
+        "en": "The peak of his financial capital. It is entirely a market price, so there is no reputation shock (rep = 0). The stake value uses the estimated 21% family holding.",
+        "zh": "这是他金融资本的最高点。完全由市场价格决定，不计口碑冲击（rep = 0）。持股价值按估算的 21% 家族持股计算。"
+      },
+      "fin": {
+        "en": "Family stake at the close: about $59 billion (estimate).",
+        "zh": "按当日收盘价计算的家族持股：约 590 亿美元（估算）。"
+      },
+      "src": [
+        {
+          "name": "Yahoo Finance · NKE price history",
+          "url": "https://finance.yahoo.com/quote/NKE/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2022-06-02",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Blazers bid",
+        "zh": "求购开拓者"
+      },
+      "t": {
+        "en": "Offers more than $2 billion for the Portland Trail Blazers",
+        "zh": "出价逾 20 亿美元求购波特兰开拓者队"
+      },
+      "summary": {
+        "en": "Media reported that Knight and Dodgers part-owner Alan Smolinisky had made a written offer of more than $2 billion for Portland's NBA team. The team said it was not for sale. When the owner's estate did put it on the market in 2025, Knight said he was no longer interested, and a group led by Tom Dundon agreed to buy it.",
+        "zh": "媒体报道，奈特与道奇队股东之一艾伦·斯莫林斯基提交书面报价，以逾 20 亿美元求购波特兰的 NBA 球队。球队回应称不出售。2025 年球队所有人的遗产管理方正式挂牌出售时，奈特表示自己已不再有兴趣，最终由汤姆·邓登牵头的财团达成收购协议。"
+      },
+      "why": {
+        "en": "No deal took place, so neither financial capital nor the reputation coefficient moves. It is listed as a notable public attempt to use the fortune outside Nike.",
+        "zh": "交易没有发生，金融资本和口碑系数都不变。列入是因为这是他在耐克之外动用财富的一次引人注目的公开尝试。"
+      },
+      "src": [
+        {
+          "name": "ESPN · Knight and Smolinisky make offer to buy Trail Blazers",
+          "url": "https://www.espn.com/nba/story/_/id/34026351",
+          "type": "news"
+        },
+        {
+          "name": "Bleacher Report · Knight says he is not interested in buying the Blazers (2025)",
+          "url": "https://bleacherreport.com/articles/25195715-nike-co-founder-phil-knight-says-he-isnt-interested-buying-trail-blazers-amid-sale",
+          "type": "news"
+        },
+        {
+          "name": "OPB · What to know about the Trail Blazers' new owners (2025-08-14)",
+          "url": "https://www.opb.org/article/2025/08/14/what-to-know-about-the-portland-trail-blazers-new-owners/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2023-04-05",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "The film \"Air\"",
+        "zh": "电影《Air》"
+      },
+      "t": {
+        "en": "The film \"Air\" retells the Jordan deal, with Ben Affleck as Knight",
+        "zh": "电影《Air》重述签约乔丹的故事，本·阿弗莱克饰演奈特"
+      },
+      "summary": {
+        "en": "A feature film about Nike's 1984 pursuit of Michael Jordan opened in cinemas, with Ben Affleck directing and playing Knight. It was well reviewed and showed him as an eccentric but supportive boss.",
+        "zh": "一部讲述耐克 1984 年追逐迈克尔·乔丹的故事片在影院上映，本·阿弗莱克自导并饰演奈特。影片口碑不错，片中的奈特是一位有些古怪但愿意放手支持下属的老板。"
+      },
+      "why": {
+        "en": "A dramatization, not a business event. It raised his visibility with a younger audience, so the reputation coefficient gets a small +1%.",
+        "zh": "这是戏剧化的演绎，不是商业事件。它提高了他在年轻观众中的知名度，口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Air (2023 film)",
+          "url": "https://en.wikipedia.org/wiki/Air_(2023_American_film)",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2023-04-24",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "$400M for Albina",
+        "zh": "4 亿重建阿尔比纳"
+      },
+      "t": {
+        "en": "Pledges $400 million to the 1803 Fund for Portland's Black community",
+        "zh": "承诺向 1803 基金投入 4 亿美元，支持波特兰的黑人社区"
+      },
+      "summary": {
+        "en": "Phil and Penny Knight announced a $400 million commitment to the newly created 1803 Fund, which mixes investment and philanthropy to rebuild Albina, the historic center of Black life in Portland.",
+        "zh": "菲尔·奈特和佩妮·奈特夫妇宣布向新成立的 1803 基金投入 4 亿美元。该基金结合投资与慈善，用于重建波特兰历史上的黑人社区中心阿尔比纳。"
+      },
+      "why": {
+        "en": "Reputation only: +2% on the reputation coefficient. The money leaves through the outside-wealth anchors over time.",
+        "zh": "只影响声誉：口碑系数 +2%。资金随时间从「耐克以外财富」锚点中流出。"
+      },
+      "src": [
+        {
+          "name": "OPB · Phil Knight gives $400M to benefit Black Portlanders (2023-04-24)",
+          "url": "https://www.opb.org/article/2023/04/24/phil-knight-gives-400-million-to-benefit-portlands-black-community/",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · 1803 Fund",
+          "url": "https://en.wikipedia.org/wiki/1803_Fund",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2024-06-28",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "-20% in one day",
+        "zh": "单日暴跌 20%"
+      },
+      "t": {
+        "en": "Nike shares fall 20% in a day after a forecast of shrinking sales",
+        "zh": "耐克预告销售下滑，股价单日下跌 20%"
+      },
+      "summary": {
+        "en": "After its fiscal fourth-quarter report, Nike said it expected revenue to fall in the coming year as demand for its big lifestyle franchises weakened and rivals gained ground. The stock dropped from about $94 to about $75, its largest one-day fall since the IPO.",
+        "zh": "发布第四财季财报后，耐克表示，由于几个主力生活方式产品系列需求走弱、竞争对手抢占份额，预计新财年收入将下滑。股价从约 94 美元跌到约 75 美元，是上市以来最大的单日跌幅。"
+      },
+      "why": {
+        "en": "Fully priced by the market, and Knight was not running the company, so there is no extra reputation shock (rep = 0). The family's stake lost roughly $6 billion that day (estimate).",
+        "zh": "完全由市场定价，而且奈特并不负责经营，所以不额外扣口碑（rep = 0）。家族持股当天缩水约 60 亿美元（估算）。"
+      },
+      "src": [
+        {
+          "name": "Yahoo Finance · NKE price history",
+          "url": "https://finance.yahoo.com/quote/NKE/history",
+          "type": "market"
+        },
+        {
+          "name": "Wikipedia · Nike, Inc.",
+          "url": "https://en.wikipedia.org/wiki/Nike,_Inc.",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2024-09-19",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Hill named CEO",
+        "zh": "希尔出任 CEO"
+      },
+      "t": {
+        "en": "Nike brings back veteran Elliott Hill as chief executive",
+        "zh": "耐克请回老将埃利奥特·希尔出任首席执行官"
+      },
+      "summary": {
+        "en": "Nike announced that John Donahoe would retire and that Elliott Hill, who had spent 32 years at the company before retiring in 2020, would return as chief executive on October 14. The shares rose almost 7% the next day. Knight, the largest shareholder through his family's holdings, publicly welcomed the choice.",
+        "zh": "耐克宣布约翰·多纳霍将退休，由埃利奥特·希尔于 10 月 14 日回归出任首席执行官。希尔此前在公司工作 32 年，2020 年退休。次日股价上涨近 7%。通过家族持股仍是最大股东的奈特公开表示欢迎这一任命。"
+      },
+      "why": {
+        "en": "The market's reaction is in the share price, so rep = 0. It is listed as the change of leadership at the company that holds most of the family's wealth.",
+        "zh": "市场反应已在股价里，rep = 0。列入是因为家族的大部分财富都在这家公司，而这是它的一次领导层更替。"
+      },
+      "src": [
+        {
+          "name": "Nike · NIKE, Inc. announces return of Elliott Hill as President & CEO",
+          "url": "https://about.nike.com/en-GB/newsroom/releases/nike-inc-announces-return-of-long-time-nike-veteran-elliott-hill-as-president-ceo",
+          "type": "filing"
+        },
+        {
+          "name": "Fortune · Nike stock jumps on Elliott Hill's appointment (2024-09-20)",
+          "url": "https://fortune.com/2024/09/20/nike-stock-elliott-hill-ceo/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · NKE price history",
+          "url": "https://finance.yahoo.com/quote/NKE/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2025-04-03",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Tariff shock -14%",
+        "zh": "关税冲击"
+      },
+      "t": {
+        "en": "Nike falls 14% after the U.S. announces steep tariffs on Asian imports",
+        "zh": "美国宣布对亚洲进口商品大幅加征关税，耐克下跌 14%"
+      },
+      "summary": {
+        "en": "The day after the U.S. government announced broad new import tariffs, including high rates on Vietnam, Indonesia and China, where most Nike shoes are made, the stock fell 14.4%. Nike later said the tariffs could add about $1 billion to its annual costs.",
+        "zh": "美国政府宣布大范围加征进口关税，对越南、印度尼西亚和中国的税率尤其高，而耐克的鞋大部分产自这些国家。次日股价下跌 14.4%。耐克后来表示，关税可能使其年成本增加约 10 亿美元。"
+      },
+      "why": {
+        "en": "A market-wide policy shock, fully in the share price (rep = 0). The family's stake lost close to $3 billion that day (estimate).",
+        "zh": "这是波及整个市场的政策冲击，完全反映在股价里（rep = 0）。家族持股当天缩水近 30 亿美元（估算）。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Liberation Day tariffs",
+          "url": "https://en.wikipedia.org/wiki/Liberation_Day_tariffs",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Nike, Inc.",
+          "url": "https://en.wikipedia.org/wiki/Nike,_Inc.",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · NKE price history",
+          "url": "https://finance.yahoo.com/quote/NKE/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2025-08-14",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.04,
+      "s": {
+        "en": "$2B to OHSU",
+        "zh": "捐 OHSU 20 亿"
+      },
+      "t": {
+        "en": "Pledges $2 billion to the OHSU Knight Cancer Institute",
+        "zh": "承诺向 OHSU 奈特癌症研究所捐赠 20 亿美元"
+      },
+      "summary": {
+        "en": "Phil and Penny Knight pledged $2 billion to the Knight Cancer Institute in Portland, to be paid over about ten years. The university described it as the largest single gift ever made to a U.S. university or academic health center. As part of the plan the institute gained its own board within OHSU.",
+        "zh": "菲尔·奈特和佩妮·奈特夫妇承诺向波特兰的奈特癌症研究所捐赠 20 亿美元，在大约十年内分期支付。校方称这是美国高校或学术医疗中心有史以来收到的最大单笔捐赠。按照这一安排，研究所在 OHSU 内部设立了自己的理事会。"
+      },
+      "why": {
+        "en": "A record gift with national coverage: +4% on the reputation coefficient. It is a pledge paid over a decade, so wealth does not drop at once; payments leave through the outside-wealth anchors, which are estimates.",
+        "zh": "创纪录的捐赠，在全美被广泛报道：口碑系数 +4%。这是分十年支付的承诺，财富不会一次性减少；每期付款从「耐克以外财富」锚点中流出，这些锚点均为估算。"
+      },
+      "src": [
+        {
+          "name": "OPB · Phil and Penny Knight pledge $2 billion to OHSU for cancer research (2025-08-14)",
+          "url": "https://www.opb.org/article/2025/08/14/ohsu-phil-penny-knight-donation/",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Knight Cancer Institute",
+          "url": "https://en.wikipedia.org/wiki/Knight_Cancer_Institute",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2025-10-14",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "Knight Campus",
+        "zh": "总部以他命名"
+      },
+      "t": {
+        "en": "Nike renames its world headquarters the Philip H. Knight Campus",
+        "zh": "耐克把全球总部更名为菲利普·H·奈特园区"
+      },
+      "summary": {
+        "en": "On the first anniversary of his return, chief executive Elliott Hill announced that the roughly 400-acre headquarters near Beaverton, Oregon, would carry the founder's name.",
+        "zh": "首席执行官埃利奥特·希尔在回归一周年之际宣布，位于俄勒冈州比弗顿附近、占地约 400 英亩的公司总部将以创始人的名字命名。"
+      },
+      "why": {
+        "en": "A symbolic honor from the company he founded: a small +1% on the reputation coefficient, no financial effect.",
+        "zh": "这是他创办的公司给予的象征性荣誉：口碑系数小幅 +1%，没有财务影响。"
+      },
+      "src": [
+        {
+          "name": "Nike · Nike renames its world headquarters to honor co-founder Philip H. Knight",
+          "url": "https://about.nike.com/en-GB/newsroom/releases/nike-renames-its-world-headquarters-to-honor-co-founder-philip-h-knight",
+          "type": "filing"
+        },
+        {
+          "name": "Hypebeast · Nike renames world headquarters after founder (2025-10)",
+          "url": "https://hypebeast.com/2025/10/nike-renames-world-headquarters-after-founder-philip-h-knight-campus-announcement",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2025-10-22",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 0,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Record PAC check",
+        "zh": "创纪录政治捐款"
+      },
+      "t": {
+        "en": "Gives a record $3 million to a Republican legislative committee in Oregon",
+        "zh": "向俄勒冈州一个共和党议会选举委员会捐出创纪录的 300 万美元"
+      },
+      "summary": {
+        "en": "State filings showed a $3 million contribution from Knight to Bring Balance to Salem, a committee that backs Republican candidates for the Oregon Legislature. Local media described it as his largest single political donation; he had given the same committee $2 million in 2023 and again in 2024. In March 2026 he gave $1 million to Chris Dudley's campaign for governor.",
+        "zh": "州政府的申报文件显示，奈特向支持共和党人竞选俄勒冈州议会的委员会「Bring Balance to Salem」捐款 300 万美元。当地媒体称这是他单笔金额最大的政治捐款；2023 年和 2024 年，他各向该委员会捐出 200 万美元。2026 年 3 月，他又向克里斯·达德利的州长竞选团队捐了 100 万美元。"
+      },
+      "why": {
+        "en": "Scored as neutral with rep = 0: political giving is read as good or bad depending on the reader, and the model takes no side. It is listed because he is one of the largest individual political donors in his home state. The date is the contribution date in the filing.",
+        "zh": "记为中性，rep = 0：政治捐款的好坏因读者立场而异，模型不作评判。列入是因为他是家乡所在州最大的个人政治捐款人之一。日期为申报文件中的捐款日期。"
+      },
+      "src": [
+        {
+          "name": "Willamette Week · Phil Knight writes record check to Republican legislative PAC (2025-11-24)",
+          "url": "https://www.wweek.com/news/state/2025/11/24/phil-knight-writes-record-check-to-republican-legislative-pac/",
+          "type": "news"
+        },
+        {
+          "name": "OPB · Phil Knight donates $1 million to Chris Dudley's governor race (2026-03-11)",
+          "url": "https://www.opb.org/article/2026/03/11/phil-knight-donates-one-million-chris-dudley-governor-race/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-04-01",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "11-year low",
+        "zh": "股价 11 年新低"
+      },
+      "t": {
+        "en": "Nike drops 15% to an 11-year low on a weak China outlook",
+        "zh": "中国市场前景疲弱，耐克下跌 15%，创 11 年新低"
+      },
+      "summary": {
+        "en": "Nike's fiscal third-quarter profit beat forecasts, but the company said sales would keep falling, with Greater China expected to drop about 20% in the following quarter, and pointed to tariffs and higher oil prices. The stock fell 15.5% to about $45. The slide continued: by late August the shares were below $39, a 12-year low.",
+        "zh": "耐克第三财季利润好于预期，但公司表示销售额还将继续下滑，预计大中华区下一季度降幅约 20%，并提到关税和油价上涨的影响。股价下跌 15.5%，至约 45 美元。跌势并未止住：到 8 月下旬，股价已跌破 39 美元，为 12 年来最低。"
+      },
+      "why": {
+        "en": "Fully priced by the market (rep = 0). The family's stake lost about $2.5 billion that day (estimate), and by this point was worth roughly a quarter of its 2021 peak.",
+        "zh": "完全由市场定价（rep = 0）。家族持股当天缩水约 25 亿美元（估算），此时的价值大约只有 2021 年高点的四分之一。"
+      },
+      "src": [
+        {
+          "name": "Yahoo Finance · Nike stock tumbles more than 13%, hits 11-year low (2026-04-01)",
+          "url": "https://finance.yahoo.com/news/nike-stock-tumbles-as-weakness-in-china-high-oil-prices-weigh-on-outlook-203010566.html",
+          "type": "news"
+        },
+        {
+          "name": "The Source · Nike stock hits 12-year low (2026-08-27)",
+          "url": "https://thesource.com/2026/08/27/nike-stock-hits-12-year-low-and-what-comes-next-is-hard-to-gauge/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · NKE price history",
+          "url": "https://finance.yahoo.com/quote/NKE/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2026-09-15",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "$1.1B Providence",
+        "zh": "11 亿建医院"
+      },
+      "t": {
+        "en": "Pledges $1.1 billion to Providence St. Vincent Medical Center",
+        "zh": "承诺向普罗维登斯圣文森特医疗中心捐赠 11 亿美元"
+      },
+      "summary": {
+        "en": "Providence announced a $1.1 billion pledge from Phil and Penny Knight, to be paid over ten years, for its St. Vincent hospital near Portland and its heart institute. Part of the money is to build a hospital tower for women's health, described as the first of its kind in Oregon.",
+        "zh": "普罗维登斯医疗集团宣布，菲尔·奈特和佩妮·奈特夫妇承诺在十年内捐赠 11 亿美元，用于波特兰附近的圣文森特医院及其心脏研究所。其中一部分将用来兴建一座女性健康专科大楼，据称是俄勒冈州第一座此类医院。"
+      },
+      "why": {
+        "en": "Reputation only: +2% on the reputation coefficient. Like the OHSU gift it is a multi-year pledge, so wealth does not drop at once.",
+        "zh": "只影响声誉：口碑系数 +2%。与对 OHSU 的捐赠一样，这是分多年支付的承诺，财富不会一次性减少。"
+      },
+      "src": [
+        {
+          "name": "OPB · Phil and Penny Knight pledge $1.1 billion to Providence St. Vincent (2026-09-15)",
+          "url": "https://www.opb.org/article/2026/09/15/phil-penny-knight-billion-donation-providence-st-vincent/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-09-23",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.03,
+      "s": {
+        "en": "$1B to Oregon",
+        "zh": "再捐母校 10 亿"
+      },
+      "t": {
+        "en": "Commits $1 billion to found an engineering college at the University of Oregon",
+        "zh": "承诺捐赠 10 亿美元，在俄勒冈大学创办工程学院"
+      },
+      "summary": {
+        "en": "The University of Oregon announced a $1 billion commitment from Phil and Penny Knight to create the Knight College of Engineering on the science campus they had already funded, bringing their gifts to that campus to $2 billion. It came eight days after the Providence pledge, while Nike's shares were near a 12-year low.",
+        "zh": "俄勒冈大学宣布，菲尔·奈特和佩妮·奈特夫妇承诺捐赠 10 亿美元，在他们此前出资兴建的科学园区内创办奈特工程学院，使他们对该园区的捐赠累计达到 20 亿美元。这距离向普罗维登斯作出承诺只隔了八天，而当时耐克股价正处在 12 年低点附近。"
+      },
+      "why": {
+        "en": "+3% on the reputation coefficient. With this gift the model's sanity check is: about 21% of Nike at $36.66 is roughly $11.4 billion, plus an estimated $13.9 billion outside Nike, close to the $25.3 billion Forbes showed for \"Phil Knight & family\" on November 25, 2026. The outside-wealth figure is the difference between the Forbes total and the Nike stake, not a reported number.",
+        "zh": "口碑系数 +3%。模型在此处的校验结果是：约 21% 的耐克股份按 36.66 美元计算约为 114 亿美元，加上估算的 139 亿美元耐克以外财富，与《福布斯》2026 年 11 月 25 日给出的「菲尔·奈特及家族」253 亿美元基本一致。耐克以外财富是用《福布斯》总额减去耐克持股倒推出来的，并非公开披露的数字。"
+      },
+      "src": [
+        {
+          "name": "OPB · Knights pledge $1 billion to University of Oregon to create engineering college (2026-09-23)",
+          "url": "https://www.opb.org/article/2026/09/23/phil-penny-knight-donation-oregon/",
+          "type": "news"
+        },
+        {
+          "name": "Forbes · Phil Knight & family profile",
+          "url": "https://www.forbes.com/profile/phil-knight/",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}

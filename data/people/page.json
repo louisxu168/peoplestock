@@ -1,0 +1,1880 @@
+{
+  "id": "page",
+  "name": {
+    "en": "Larry Page",
+    "zh": "拉里·佩奇"
+  },
+  "ticker": "PAGE",
+  "born": "1973-03-26",
+  "color": "#7CC4FF",
+  "initials": "LP",
+  "tagline": {
+    "en": "Turned a Stanford thesis into Google, then stepped out of sight as his fortune kept growing",
+    "zh": "把斯坦福的博士课题做成了 Google，然后淡出公众视野，财富却继续增长"
+  },
+  "tags": [
+    {
+      "en": "Google co-founder",
+      "zh": "Google 联合创始人"
+    },
+    {
+      "en": "PageRank",
+      "zh": "PageRank"
+    },
+    {
+      "en": "Alphabet",
+      "zh": "Alphabet"
+    },
+    {
+      "en": "Controlling holder",
+      "zh": "控股股东"
+    }
+  ],
+  "privates": [
+    {
+      "label": {
+        "en": "Pre-IPO Google stake + early savings (estimate)",
+        "zh": "Google 上市前股权 + 早期积蓄（估算）"
+      },
+      "until": "2004-08-18",
+      "anchors": [
+        [
+          "1995",
+          5000
+        ],
+        [
+          "1998-08",
+          20000
+        ],
+        [
+          "1998-09-04",
+          1500000
+        ],
+        [
+          "1999-06-07",
+          16000000
+        ],
+        [
+          "2001-08",
+          150000000
+        ],
+        [
+          "2003-06",
+          1200000000
+        ],
+        [
+          "2004-04-29",
+          3000000000
+        ],
+        [
+          "2004-08-18",
+          3239000000
+        ]
+      ]
+    },
+    {
+      "label": {
+        "en": "Wealth outside Alphabet (cash from share sales, real estate, private ventures; estimate)",
+        "zh": "Alphabet 以外的财富（售股所得现金、房产及私人项目，估算）"
+      },
+      "from": "2004-08-19",
+      "anchors": [
+        [
+          "2004-08-19",
+          40000000
+        ],
+        [
+          "2005-12",
+          1000000000
+        ],
+        [
+          "2006-12",
+          2600000000
+        ],
+        [
+          "2008-12",
+          3500000000
+        ],
+        [
+          "2012-12",
+          3500000000
+        ],
+        [
+          "2015",
+          4500000000
+        ],
+        [
+          "2018",
+          6000000000
+        ],
+        [
+          "2022",
+          10000000000
+        ],
+        [
+          "2024",
+          12000000000
+        ],
+        [
+          "2026-11",
+          14000000000
+        ]
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "sym": "GOOGL",
+      "label": {
+        "en": "Alphabet stake (Class B + Class C)",
+        "zh": "Alphabet 持股（B 类 + C 类）"
+      },
+      "from": "2004-08-19",
+      "own": [
+        [
+          "2004-08-19",
+          0.1405
+        ],
+        [
+          "2004-12",
+          0.1373
+        ],
+        [
+          "2005-12",
+          0.112
+        ],
+        [
+          "2006-12",
+          0.0944
+        ],
+        [
+          "2008-12",
+          0.091
+        ],
+        [
+          "2010-12",
+          0.086
+        ],
+        [
+          "2012-12",
+          0.0775
+        ],
+        [
+          "2014-12",
+          0.0666
+        ],
+        [
+          "2016-12",
+          0.0622
+        ],
+        [
+          "2018-12",
+          0.059
+        ],
+        [
+          "2020-12",
+          0.0593
+        ],
+        [
+          "2022-12",
+          0.0614
+        ],
+        [
+          "2023-12",
+          0.0625
+        ],
+        [
+          "2024-12",
+          0.0638
+        ],
+        [
+          "2025-12",
+          0.0644
+        ],
+        [
+          "2026-11",
+          0.0646
+        ]
+      ],
+      "shares": [
+        [
+          "2004-08-19",
+          10848800000
+        ],
+        [
+          "2004-12",
+          10980000000
+        ],
+        [
+          "2006-12",
+          12360000000
+        ],
+        [
+          "2008-12",
+          12600000000
+        ],
+        [
+          "2010-12",
+          12840000000
+        ],
+        [
+          "2012-12",
+          13200000000
+        ],
+        [
+          "2014-12",
+          13600000000
+        ],
+        [
+          "2016-12",
+          13820000000
+        ],
+        [
+          "2018-12",
+          13900000000
+        ],
+        [
+          "2019-12",
+          13760000000
+        ],
+        [
+          "2020-12",
+          13500000000
+        ],
+        [
+          "2021-12",
+          13240000000
+        ],
+        [
+          "2022-12",
+          12850000000
+        ],
+        [
+          "2023-12",
+          12460000000
+        ],
+        [
+          "2024-12",
+          12210000000
+        ],
+        [
+          "2025-12",
+          12100000000
+        ],
+        [
+          "2026-11",
+          12060000000
+        ]
+      ]
+    }
+  ],
+  "human": [
+    [
+      "1973-03-26",
+      300000
+    ],
+    [
+      "1991",
+      500000
+    ],
+    [
+      "1995",
+      1500000
+    ],
+    [
+      "1998-09-04",
+      3000000
+    ],
+    [
+      "1999-06-07",
+      6000000
+    ],
+    [
+      "2001-08-06",
+      12000000
+    ],
+    [
+      "2004-08-19",
+      40000000
+    ],
+    [
+      "2011-04-04",
+      120000000
+    ],
+    [
+      "2015-08-10",
+      200000000
+    ],
+    [
+      "2019-12-03",
+      80000000
+    ],
+    [
+      "2025",
+      80000000
+    ]
+  ],
+  "audience": [
+    [
+      "1973-03-26",
+      0
+    ],
+    [
+      "1998-09-04",
+      1000
+    ],
+    [
+      "2000",
+      100000
+    ],
+    [
+      "2004-08",
+      2000000
+    ],
+    [
+      "2008",
+      5000000
+    ],
+    [
+      "2011-04",
+      12000000
+    ],
+    [
+      "2015",
+      20000000
+    ],
+    [
+      "2019-12",
+      20000000
+    ],
+    [
+      "2026-11",
+      22000000
+    ]
+  ],
+  "media": [
+    [
+      "1973-03-26",
+      0
+    ],
+    [
+      "1998-09",
+      0.1
+    ],
+    [
+      "2000",
+      1
+    ],
+    [
+      "2004-04",
+      8
+    ],
+    [
+      "2004-08",
+      14
+    ],
+    [
+      "2008",
+      12
+    ],
+    [
+      "2011-04",
+      22
+    ],
+    [
+      "2015-08",
+      22
+    ],
+    [
+      "2018-09",
+      18
+    ],
+    [
+      "2019-12",
+      15
+    ],
+    [
+      "2021",
+      6
+    ],
+    [
+      "2024",
+      5
+    ],
+    [
+      "2025-11",
+      12
+    ],
+    [
+      "2026-11",
+      12
+    ]
+  ],
+  "chapters": [
+    {
+      "from": "1973-03-26",
+      "t": {
+        "en": "Michigan childhood",
+        "zh": "密歇根少年"
+      },
+      "desc": {
+        "en": "Grows up among computers in East Lansing and studies engineering at the University of Michigan",
+        "zh": "在东兰辛与电脑为伴长大，在密歇根大学学习工程"
+      }
+    },
+    {
+      "from": "1995",
+      "t": {
+        "en": "Stanford and BackRub",
+        "zh": "斯坦福与 BackRub"
+      },
+      "desc": {
+        "en": "Meets Sergey Brin, turns a thesis on web links into a search engine and writes the PageRank paper",
+        "zh": "结识谢尔盖·布林，把关于网页链接的课题做成搜索引擎，写出 PageRank 论文"
+      }
+    },
+    {
+      "from": "1998-09-04",
+      "t": {
+        "en": "Garage to IPO",
+        "zh": "从车库到上市"
+      },
+      "desc": {
+        "en": "Founds Google, raises venture money, finds a business in search ads and hands the CEO title to Eric Schmidt",
+        "zh": "创立 Google，拿到风险投资，靠搜索广告找到商业模式，并把 CEO 头衔交给埃里克·施密特"
+      }
+    },
+    {
+      "from": "2004-08-19",
+      "t": {
+        "en": "The triumvirate years",
+        "zh": "三人共治"
+      },
+      "desc": {
+        "en": "Runs products beside Schmidt and Brin as Google lists, buys Android and YouTube and rides out the 2008 crash",
+        "zh": "与施密特、布林共同掌舵，主管产品；Google 上市，收购 Android 和 YouTube，熬过 2008 年的暴跌"
+      }
+    },
+    {
+      "from": "2011-04-04",
+      "t": {
+        "en": "CEO again",
+        "zh": "重掌帅印"
+      },
+      "desc": {
+        "en": "Takes back the top job, narrows the product line, buys Motorola and DeepMind and backs long-range bets",
+        "zh": "重新出任 CEO，精简产品线，收购摩托罗拉和 DeepMind，支持各种长期项目"
+      }
+    },
+    {
+      "from": "2015-08-10",
+      "t": {
+        "en": "Alphabet",
+        "zh": "Alphabet 时代"
+      },
+      "desc": {
+        "en": "Creates a holding company above Google while antitrust fines, a Senate no-show and a staff walkout pile up",
+        "zh": "在 Google 之上设立控股公司；与此同时，反垄断罚单、缺席参议院听证和员工罢工接连而来"
+      }
+    },
+    {
+      "from": "2019-12-03",
+      "t": {
+        "en": "Out of sight",
+        "zh": "淡出幕后"
+      },
+      "desc": {
+        "en": "Leaves management but keeps control; the AI boom lifts his fortune past $300 billion before a sharp fall",
+        "zh": "退出管理层但保留控制权；人工智能热潮把他的身家推过 3000 亿美元，随后大幅回落"
+      }
+    }
+  ],
+  "events": [
+    {
+      "d": "1973-03-26",
+      "p": "day",
+      "cat": "origin",
+      "dir": 0,
+      "mag": 1,
+      "rep": 0,
+      "s": {
+        "en": "Born in Michigan",
+        "zh": "出生密歇根"
+      },
+      "t": {
+        "en": "Born in Lansing, Michigan",
+        "zh": "出生于密歇根州兰辛"
+      },
+      "summary": {
+        "en": "Larry Page was born in Lansing, Michigan, and grew up in neighboring East Lansing in a household full of computers and science magazines. He has said he knew early that he wanted to invent things.",
+        "zh": "拉里·佩奇出生在密歇根州兰辛，在相邻的东兰辛长大，家里到处是电脑和科技杂志。他说自己很早就知道长大要搞发明。"
+      },
+      "why": {
+        "en": "Starting point, not scored. Human capital begins at the average level for a child born in the United States.",
+        "zh": "起点事件，不计分。人力资本以美国同龄人的平均水平作为初始值。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Larry Page",
+          "url": "https://en.wikipedia.org/wiki/Larry_Page",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1995",
+      "p": "year",
+      "cat": "education",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Michigan degree",
+        "zh": "密歇根大学毕业"
+      },
+      "t": {
+        "en": "Graduates from the University of Michigan and heads to Stanford",
+        "zh": "从密歇根大学毕业，前往斯坦福读博"
+      },
+      "summary": {
+        "en": "He earned a bachelor's degree in computer engineering with honors from the University of Michigan, then entered Stanford's computer science PhD program, where he met fellow student Sergey Brin.",
+        "zh": "他以优等成绩拿到密歇根大学计算机工程学士学位，随后进入斯坦福大学计算机科学博士项目，在那里认识了同学谢尔盖·布林。"
+      },
+      "why": {
+        "en": "An education step: the human-capital target rises with a strong engineering degree and a place in a top PhD program. Only the year is confirmed, so the date is year precision.",
+        "zh": "学历台阶：拿到扎实的工科学位并进入顶尖博士项目，人力资本目标值上调。只能确认年份，因此日期精度为“年”。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Larry Page",
+          "url": "https://en.wikipedia.org/wiki/Larry_Page",
+          "type": "wiki"
+        },
+        {
+          "name": "Google · Our story",
+          "url": "https://about.google/company-info/our-story/",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "1996-08",
+      "p": "month",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "BackRub goes live",
+        "zh": "BackRub 上线"
+      },
+      "t": {
+        "en": "BackRub, the search engine that became Google, runs on Stanford's servers",
+        "zh": "Google 的前身 BackRub 在斯坦福服务器上运行"
+      },
+      "summary": {
+        "en": "For his doctoral research Page set out to map the links between web pages. With Brin he built BackRub, a search engine that ranked a page by the links pointing to it. An early version was available on Stanford's website by August 1996.",
+        "zh": "为了博士课题，佩奇着手梳理网页之间的链接关系。他和布林一起做出了搜索引擎 BackRub，按照指向某个网页的链接来给它排序。到 1996 年 8 月，早期版本已经可以在斯坦福的网站上使用。"
+      },
+      "why": {
+        "en": "A research project with no market value yet, so financial capital does not move. It is the technical root of everything later, so the reputation coefficient gets a small +1%.",
+        "zh": "这还只是没有市场价值的研究项目，金融资本不动。但它是后来一切的技术源头，口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · History of Google",
+          "url": "https://en.wikipedia.org/wiki/History_of_Google",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Larry Page",
+          "url": "https://en.wikipedia.org/wiki/Larry_Page",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1998-04",
+      "p": "month",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "PageRank paper",
+        "zh": "PageRank 论文"
+      },
+      "t": {
+        "en": "Page and Brin publish the paper describing Google and PageRank",
+        "zh": "佩奇与布林发表介绍 Google 和 PageRank 的论文"
+      },
+      "summary": {
+        "en": "The two students published \"The Anatomy of a Large-Scale Hypertextual Web Search Engine\", which described a prototype called Google and the PageRank method named after Page. It became one of the most cited papers in computer science.",
+        "zh": "两位学生发表了论文《大规模超文本网络搜索引擎剖析》，介绍了名为 Google 的原型系统，以及以佩奇名字命名的 PageRank 算法。它后来成为计算机科学领域被引用最多的论文之一。"
+      },
+      "why": {
+        "en": "Academic credit that no valuation captures at this point, so the reputation coefficient gets +2%.",
+        "zh": "这是当时任何估值都反映不了的学术声誉，口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Larry Page",
+          "url": "https://en.wikipedia.org/wiki/Larry_Page",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1998-08",
+      "p": "month",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "First $100K check",
+        "zh": "首张 10 万支票"
+      },
+      "t": {
+        "en": "Andy Bechtolsheim writes a $100,000 check to a company that does not exist yet",
+        "zh": "安迪·贝希托尔斯海姆给尚未成立的公司开出 10 万美元支票"
+      },
+      "summary": {
+        "en": "Sun Microsystems co-founder Andy Bechtolsheim saw a demo and wrote a $100,000 check made out to \"Google Inc.\" before the company had been incorporated. Other early backers followed within months.",
+        "zh": "太阳微系统公司联合创始人安迪·贝希托尔斯海姆看完演示后，开出一张抬头为“Google Inc.”的 10 万美元支票，而当时公司还没有注册。几个月内又有其他早期投资人跟进。"
+      },
+      "why": {
+        "en": "The first outside money. The stake anchor rises to a small estimated value; the terms of the angel round were never published, so the figure is a rough estimate.",
+        "zh": "第一笔外部资金。持股价值锚点上调到一个较小的估算值；天使轮的条款从未公开，所以这个数字只是粗略估算。"
+      },
+      "fin": {
+        "en": "Estimated stake after the angel money: around $1.5 million.",
+        "zh": "天使资金到位后的估算持股价值：约 150 万美元。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · History of Google",
+          "url": "https://en.wikipedia.org/wiki/History_of_Google",
+          "type": "wiki"
+        },
+        {
+          "name": "Google · Our story",
+          "url": "https://about.google/company-info/our-story/",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "1998-09-04",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.02,
+      "s": {
+        "en": "Founds Google",
+        "zh": "创立 Google"
+      },
+      "t": {
+        "en": "Google is incorporated in a Menlo Park garage, with Page as CEO",
+        "zh": "Google 在门洛帕克的一间车库里注册成立，佩奇任 CEO"
+      },
+      "summary": {
+        "en": "Page and Brin incorporated Google and set up in a garage rented from Susan Wojcicki in Menlo Park, California. Page, then 25, became the first chief executive and both founders put their PhDs on hold.",
+        "zh": "佩奇和布林注册成立 Google，在加州门洛帕克向苏珊·沃西基租来的车库里办公。25 岁的佩奇出任首任 CEO，两位创始人都中断了博士学业。"
+      },
+      "why": {
+        "en": "The turning point of his life: from this day he owns founder equity. Financial capital switches from student savings to an estimated stake value, and human capital starts climbing toward the level of a startup founder.",
+        "zh": "人生转折点：从这一天起他持有创始人股权。金融资本从学生积蓄切换为估算的股权价值，人力资本开始向“创业公司创始人”的水平爬升。"
+      },
+      "fin": {
+        "en": "Founder equity enters the model (valued by interpolating between funding events).",
+        "zh": "创始人股权进入模型（私有阶段按各次融资事件插值估算）。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · History of Google",
+          "url": "https://en.wikipedia.org/wiki/History_of_Google",
+          "type": "wiki"
+        },
+        {
+          "name": "Google · Our story",
+          "url": "https://about.google/company-info/our-story/",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "1999-06-07",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "$25M from VCs",
+        "zh": "获投 2500 万"
+      },
+      "t": {
+        "en": "Kleiner Perkins and Sequoia invest $25 million",
+        "zh": "凯鹏华盈与红杉资本投资 2500 万美元"
+      },
+      "summary": {
+        "en": "Google announced $25 million in equity funding led by Sequoia Capital and Kleiner Perkins, two rival venture firms that rarely shared a deal. Michael Moritz and John Doerr joined the board.",
+        "zh": "Google 宣布获得 2500 万美元股权融资，由红杉资本和凯鹏华盈共同领投——这两家互为对手的风投机构很少同投一个项目。迈克尔·莫里茨和约翰·杜尔加入董事会。"
+      },
+      "why": {
+        "en": "First institutional round. The stake anchor steps up to roughly $16 million. This is an estimate: the valuation was not disclosed and is taken from press reports of about $100 million, times an ownership share of about one sixth.",
+        "zh": "第一轮机构融资。持股价值锚点上调到约 1600 万美元。这是估算：估值没有披露，这里采用媒体报道的约 1 亿美元，乘以约六分之一的持股比例。"
+      },
+      "fin": {
+        "en": "Estimated stake: about $16 million.",
+        "zh": "估算持股价值：约 1600 万美元。"
+      },
+      "src": [
+        {
+          "name": "Google press release · Google Receives $25 Million in Equity Funding (1999-06-07)",
+          "url": "http://googlepress.blogspot.com/1999/06/google-receives-25-million-in-equity.html",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · History of Google",
+          "url": "https://en.wikipedia.org/wiki/History_of_Google",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2000-10-23",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "AdWords launches",
+        "zh": "AdWords 上线"
+      },
+      "t": {
+        "en": "Google launches AdWords, its self-service ad program",
+        "zh": "Google 推出自助广告系统 AdWords"
+      },
+      "summary": {
+        "en": "Google opened a self-service program that let any business buy small text ads shown next to search results for chosen keywords. About 350 advertisers had tried the test version. Search advertising went on to supply most of the company's revenue.",
+        "zh": "Google 开放了一套自助广告系统，任何企业都可以购买与特定关键词匹配、显示在搜索结果旁边的小段文字广告。测试阶段约有 350 家广告主试用。搜索广告后来贡献了公司绝大部分收入。"
+      },
+      "why": {
+        "en": "The moment a popular search engine got a business model. The money shows up in later valuations; the reputation coefficient gets +2% for being CEO when it launched.",
+        "zh": "这是一款受欢迎的搜索引擎找到商业模式的时刻。收益体现在之后的估值里；作为上线时的 CEO，口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Google press release · Google Launches Self-Service Advertising Program (2000-10-23)",
+          "url": "http://googlepress.blogspot.com/2000/10/google-launches-self-service.html",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2001-08-06",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Schmidt named CEO",
+        "zh": "施密特接任 CEO"
+      },
+      "t": {
+        "en": "Eric Schmidt becomes CEO; Page moves to President, Products",
+        "zh": "埃里克·施密特出任 CEO，佩奇改任产品总裁"
+      },
+      "summary": {
+        "en": "At the urging of the company's investors, Google brought in former Novell chief Eric Schmidt as chief executive. Page gave up the CEO title and became President, Products, while Brin became President, Technology. The three ran the company together for the next decade.",
+        "zh": "在投资人的推动下，Google 请来前 Novell 掌门人埃里克·施密特担任首席执行官。佩奇交出 CEO 头衔，改任产品总裁，布林任技术总裁。此后十年，三人共同管理公司。"
+      },
+      "why": {
+        "en": "Scored as mixed: he lost the top title, but the arrangement kept the founders in control and helped the company grow up. No reputation shock.",
+        "zh": "记为好坏参半：他失去了最高头衔，但这一安排让创始人保住了控制权，也帮助公司走向成熟。不计口碑冲击。"
+      },
+      "src": [
+        {
+          "name": "Google press release · Google Names Dr. Eric Schmidt Chief Executive Officer (2001-08-06)",
+          "url": "http://googlepress.blogspot.com/2001/08/google-names-dr-eric-schmidt-chief.html",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2004",
+      "p": "year",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.02,
+      "s": {
+        "en": "Marconi Prize",
+        "zh": "获马可尼奖"
+      },
+      "t": {
+        "en": "Receives the Marconi Prize with Sergey Brin",
+        "zh": "与布林共同获得马可尼奖"
+      },
+      "summary": {
+        "en": "Page and Brin were awarded the Marconi Prize, a leading honor in communications engineering, for inventing the Google search engine. The same year Page was elected to the National Academy of Engineering.",
+        "zh": "佩奇和布林因发明 Google 搜索引擎获得通信工程领域的重要奖项马可尼奖。同年，佩奇当选美国国家工程院院士。"
+      },
+      "why": {
+        "en": "A pure reputation event from his engineering peers, so the reputation coefficient gets +2%. Only the year is confirmed.",
+        "zh": "来自工程界同行的纯声誉事件，口碑系数 +2%。只能确认年份。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Marconi Prize",
+          "url": "https://en.wikipedia.org/wiki/Marconi_Prize",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Larry Page",
+          "url": "https://en.wikipedia.org/wiki/Larry_Page",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2004-04-29",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Files to go public",
+        "zh": "递交招股书"
+      },
+      "t": {
+        "en": "Google files for an IPO with a founders' letter written by Page",
+        "zh": "Google 递交上市申请，附佩奇执笔的创始人公开信"
+      },
+      "summary": {
+        "en": "Google filed its registration statement with the SEC. It opened with a letter signed by Page and Brin, \"An Owner's Manual for Google's Shareholders\", which said Google was not a conventional company and explained that a two-class share structure would leave the founders with significant control.",
+        "zh": "Google 向美国证监会递交注册文件。文件开头是佩奇和布林署名的一封信《Google 股东手册》，信中称 Google 不是一家传统公司，并说明双重股权结构会让创始人保有重大控制权。"
+      },
+      "why": {
+        "en": "The filing revealed the company's finances for the first time and set the tone for founder-controlled technology listings. The reputation coefficient gets +2%; the value itself arrives with the IPO.",
+        "zh": "这份文件首次公开了公司的财务状况，也为此后创始人控股的科技公司上市定下了基调。口碑系数 +2%；价值本身随 IPO 体现。"
+      },
+      "src": [
+        {
+          "name": "SEC EDGAR · Google Form S-1 (2004-04-29)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1288776/000119312504073639/ds1.htm",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2004-08-19",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.02,
+      "s": {
+        "en": "Nasdaq IPO at $85",
+        "zh": "纳斯达克上市"
+      },
+      "t": {
+        "en": "Google lists on Nasdaq at $85 a share, valued at about $23 billion",
+        "zh": "Google 以每股 85 美元在纳斯达克上市，市值约 230 亿美元"
+      },
+      "summary": {
+        "en": "Google sold shares through an unusual online auction, raising about $1.67 billion at $85 a share, below the range it first proposed. The stock closed its first day near $100. Page sold a small part of his holding and kept about 38 million shares.",
+        "zh": "Google 采用少见的网上竞价方式发行股票，以每股 85 美元募资约 16.7 亿美元，定价低于最初提出的区间。首日收盘价接近 100 美元。佩奇卖出了一小部分持股，保留约 3800 万股。"
+      },
+      "why": {
+        "en": "Anchor switch: from this day financial capital = ownership × shares outstanding × the daily close. His remaining stake of about 14% was worth roughly $3.2 billion at the offer price. The share count is taken from the prospectus and his year-end 2004 ownership filing.",
+        "zh": "锚点切换：从这一天起，金融资本 = 持股比例 × 总股本 × 当日收盘价。他剩下的约 14% 股份按发行价计算约值 32 亿美元。持股数量依据招股书和他 2004 年底的持股申报文件。"
+      },
+      "fin": {
+        "en": "Priced daily from the GOOGL quote from here on.",
+        "zh": "此后按 GOOGL 日线逐日计价。"
+      },
+      "src": [
+        {
+          "name": "SEC EDGAR · Google IPO prospectus (424B4)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1288776/000119312504143377/d424b4.htm",
+          "type": "filing"
+        },
+        {
+          "name": "SEC EDGAR · Larry Page Schedule 13G (holdings at 2004-12-31)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001288776/000119312505029615/dsc13g.htm",
+          "type": "filing"
+        },
+        {
+          "name": "Yahoo Finance · GOOGL price history",
+          "url": "https://finance.yahoo.com/quote/GOOGL/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2005-07",
+      "p": "month",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Buys Android",
+        "zh": "收购 Android"
+      },
+      "t": {
+        "en": "Google buys the startup Android for at least $50 million",
+        "zh": "Google 以至少 5000 万美元收购初创公司 Android"
+      },
+      "summary": {
+        "en": "Google quietly acquired Android Inc., a small company building software for mobile phones. The first Android phone, the T-Mobile G1, was announced in September 2008, and the system later became the most widely used mobile software in the world.",
+        "zh": "Google 低调收购了开发手机软件的小公司 Android Inc.。第一款 Android 手机 T-Mobile G1 于 2008 年 9 月发布，这套系统后来成为全球使用最广的移动操作系统。"
+      },
+      "why": {
+        "en": "Tiny in price and invisible to the market at the time. The long-run value sits in the share price; the reputation coefficient gets +2% for a deal Page backed as head of products. Sources give the month, not the day.",
+        "zh": "交易金额很小，当时市场几乎没有察觉。长期价值已体现在股价里；这笔交易由时任产品总裁的佩奇支持，口碑系数 +2%。资料只给出月份，没有具体日期。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Android (operating system)",
+          "url": "https://en.wikipedia.org/wiki/Android_(operating_system)",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Larry Page",
+          "url": "https://en.wikipedia.org/wiki/Larry_Page",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2006-10-09",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Buys YouTube",
+        "zh": "收购 YouTube"
+      },
+      "t": {
+        "en": "Google agrees to buy YouTube for $1.65 billion in stock",
+        "zh": "Google 宣布以 16.5 亿美元股票收购 YouTube"
+      },
+      "summary": {
+        "en": "Google announced an all-stock deal for YouTube, a video site that was less than two years old and faced copyright complaints. It was Google's largest purchase up to then.",
+        "zh": "Google 宣布以全股票方式收购 YouTube。这家视频网站成立还不到两年，正面临版权方面的投诉。这是 Google 当时金额最大的一笔收购。"
+      },
+      "why": {
+        "en": "Questioned as expensive at the time and later seen as a bargain. The value is carried by the share price; a small +1% for the decision by the three-person leadership.",
+        "zh": "当时被质疑买贵了，后来被认为相当划算。价值由股价体现；三人领导层共同作出这个决定，口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "Google press release · Google To Acquire YouTube for $1.65 Billion in Stock (2006-10-09)",
+          "url": "http://googlepress.blogspot.com/2006/10/google-to-acquire-youtube-for-165_09.html",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2008-11-24",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Crisis low",
+        "zh": "金融危机低点"
+      },
+      "t": {
+        "en": "Shares hit their financial-crisis low, 65% below the 2007 peak",
+        "zh": "股价触及金融危机低点，较 2007 年高点下跌 65%"
+      },
+      "summary": {
+        "en": "As the global financial crisis cut advertising budgets, Google's stock closed at its lowest level of the downturn on this day, about 65% under its peak of November 2007. It recovered most of the loss within a year.",
+        "zh": "全球金融危机压缩了广告预算，Google 股价在这一天收于本轮下跌的最低点，比 2007 年 11 月的高点低约 65%。一年之内，股价收复了大部分失地。"
+      },
+      "why": {
+        "en": "A market-wide fall that is fully in the share price, so no reputation shock (rep = 0).",
+        "zh": "这是全市场的下跌，已完全体现在股价里，不计口碑冲击（rep = 0）。"
+      },
+      "src": [
+        {
+          "name": "Yahoo Finance · GOOGL price history",
+          "url": "https://finance.yahoo.com/quote/GOOGL/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2011-04-04",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.02,
+      "s": {
+        "en": "CEO again",
+        "zh": "重任 CEO"
+      },
+      "t": {
+        "en": "Page returns as Google's chief executive after ten years",
+        "zh": "时隔十年，佩奇重新出任 Google CEO"
+      },
+      "summary": {
+        "en": "Page took back the chief executive role from Eric Schmidt, who became executive chairman. The change had been announced on January 20. Page reorganized the company around a few product areas and closed dozens of smaller projects.",
+        "zh": "佩奇从埃里克·施密特手中接回首席执行官职务，施密特转任执行董事长。这一变动已在 1 月 20 日宣布。佩奇围绕少数几个产品领域重组公司，并关停了数十个小项目。"
+      },
+      "why": {
+        "en": "Human capital steps up to the level of a chief executive of one of the world's largest companies. The stock barely moved on the day; the reputation coefficient gets +2%.",
+        "zh": "人力资本上调到“全球最大公司之一的 CEO”的水平。当天股价几乎没有变化；口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Official Google Blog · An update from the Chairman (2011-01-20)",
+          "url": "https://googleblog.blogspot.com/2011/01/update-from-chairman.html",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Larry Page",
+          "url": "https://en.wikipedia.org/wiki/Larry_Page",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2011-08-15",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Motorola deal",
+        "zh": "收购摩托罗拉"
+      },
+      "t": {
+        "en": "Announces the $12.5 billion purchase of Motorola Mobility",
+        "zh": "宣布以 125 亿美元收购摩托罗拉移动"
+      },
+      "summary": {
+        "en": "Four months into his term Page announced Google's largest acquisition, mainly to gain Motorola's patents and protect Android from lawsuits. In January 2014 Google agreed to sell the handset business to Lenovo for about $2.9 billion while keeping most of the patents.",
+        "zh": "上任四个月后，佩奇宣布了 Google 史上最大的一笔收购，主要目的是拿到摩托罗拉的专利、保护 Android 免受诉讼。2014 年 1 月，Google 同意以约 29 亿美元把手机业务卖给联想，同时保留大部分专利。"
+      },
+      "why": {
+        "en": "Scored as mixed: the patents had defensive value, but the hardware business was sold at a far lower price. The cost is in the share price, so rep = 0.",
+        "zh": "记为好坏参半：专利有防御价值，但硬件业务后来以低得多的价格卖出。成本已体现在股价里，rep = 0。"
+      },
+      "src": [
+        {
+          "name": "Official Google Blog · Supercharging Android: Google to Acquire Motorola Mobility (2011-08-15)",
+          "url": "https://googleblog.blogspot.com/2011/08/supercharging-android-google-to-acquire.html",
+          "type": "filing"
+        },
+        {
+          "name": "Official Google Blog · Lenovo to acquire Motorola Mobility (2014-01-29)",
+          "url": "https://googleblog.blogspot.com/2014/01/lenovo-to-acquire-motorola-mobility.html",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2011-08-24",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 2,
+      "rep": -0.01,
+      "s": {
+        "en": "$500M forfeiture",
+        "zh": "被没收 5 亿"
+      },
+      "t": {
+        "en": "Google forfeits $500 million over ads for Canadian online pharmacies",
+        "zh": "Google 因加拿大网上药店广告被没收 5 亿美元"
+      },
+      "summary": {
+        "en": "Google agreed to forfeit $500 million to the U.S. government for having allowed Canadian online pharmacies to advertise prescription drugs to American consumers through AdWords. It was among the largest forfeitures in U.S. history at the time.",
+        "zh": "Google 同意向美国政府上缴 5 亿美元，原因是它曾允许加拿大网上药店通过 AdWords 向美国消费者投放处方药广告。这在当时是美国历史上金额最大的没收案之一。"
+      },
+      "why": {
+        "en": "The company had already set the money aside, so the stock did not react. The reputation coefficient takes -1% because it happened in his first months as CEO.",
+        "zh": "公司此前已为此计提款项，股价没有反应。事情发生在他出任 CEO 的头几个月，口碑系数 -1%。"
+      },
+      "src": [
+        {
+          "name": "U.S. Department of Justice · Google forfeits $500 million (press release)",
+          "url": "https://www.justice.gov/archives/opa/pr/google-forfeits-500-million-generated-online-ads-prescription-drug-sales-canadian-online",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2012-04-12",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 3,
+      "rep": -0.01,
+      "s": {
+        "en": "Non-voting shares",
+        "zh": "无投票权新股"
+      },
+      "t": {
+        "en": "Announces a new class of non-voting shares to preserve founder control",
+        "zh": "宣布增设无投票权股份，以维持创始人控制权"
+      },
+      "summary": {
+        "en": "Together with quarterly results, Google proposed giving every shareholder one new non-voting Class C share for each share held, in effect a two-for-one split. In a letter Page said the aim was to keep the founders' voting control as new stock was issued. The Class C shares were distributed in April 2014 after a shareholder lawsuit was settled.",
+        "zh": "在发布季度财报的同时，Google 提议向每位股东按每股派发一股没有投票权的 C 类新股，效果相当于一拆二。佩奇在信中说，这样做是为了在今后增发股票时保住创始人的投票控制权。一起股东诉讼和解后，C 类股于 2014 年 4 月派发。"
+      },
+      "why": {
+        "en": "Scored as mixed. His economic stake did not change, so financial capital is unaffected. Governance critics objected to locking in control, so the reputation coefficient takes a small -1%. Share counts in the model are adjusted for this split.",
+        "zh": "记为好坏参半。他的经济持股没有变化，金融资本不受影响。公司治理方面的批评者反对锁定控制权，口碑系数小幅 -1%。模型中的股本数量已按这次拆股调整。"
+      },
+      "src": [
+        {
+          "name": "New Statesman · Control freaks: Google's stock split (2012-04)",
+          "url": "https://www.newstatesman.com/business/economics/2012/04/control-freaks-googles-stock-split",
+          "type": "news"
+        },
+        {
+          "name": "Khaleej Times · Google to split stock to keep power with founders",
+          "url": "https://www.khaleejtimes.com/business/markets/google-to-split-stock-to-keep-power-with-founders",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2014-01-26",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Buys DeepMind",
+        "zh": "收购 DeepMind"
+      },
+      "t": {
+        "en": "Google buys the London AI lab DeepMind",
+        "zh": "Google 收购伦敦人工智能实验室 DeepMind"
+      },
+      "summary": {
+        "en": "Google confirmed that it was acquiring DeepMind, a small artificial-intelligence research company in London, for a price reported at between $400 million and $650 million. The lab later produced AlphaGo and AlphaFold and became the core of Google's AI work.",
+        "zh": "Google 确认收购伦敦的小型人工智能研究公司 DeepMind，据报道价格在 4 亿至 6.5 亿美元之间。这家实验室后来做出了 AlphaGo 和 AlphaFold，并成为 Google 人工智能研发的核心。"
+      },
+      "why": {
+        "en": "Too small to move the stock then. The +2% on the reputation coefficient is for an early bet on AI made while he was CEO; the price was never officially disclosed.",
+        "zh": "当时金额太小，不足以影响股价。口碑系数 +2% 是因为他在任 CEO 期间较早押注人工智能；收购价格从未正式披露。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Google DeepMind",
+          "url": "https://en.wikipedia.org/wiki/Google_DeepMind",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2014-11-13",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.03,
+      "s": {
+        "en": "Fortune's top exec",
+        "zh": "财富年度人物"
+      },
+      "t": {
+        "en": "Named Fortune's Businessperson of the Year",
+        "zh": "当选《财富》杂志年度商业人物"
+      },
+      "summary": {
+        "en": "Fortune put Page at the top of its annual ranking of business leaders, citing three years of revenue growth above 20% together with long-range projects such as self-driving cars and internet balloons.",
+        "zh": "《财富》杂志把佩奇排在年度商业领袖榜首位，理由是公司连续三年收入增长超过 20%，同时还在推进自动驾驶汽车、互联网气球等长期项目。"
+      },
+      "why": {
+        "en": "A pure reputation event that the share price does not capture, so the reputation coefficient gets +3%.",
+        "zh": "纯声誉事件，股价反映不了，因此口碑系数 +3%。"
+      },
+      "src": [
+        {
+          "name": "Fortune · Google's Larry Page: The most ambitious CEO in the universe (2014-11-13)",
+          "url": "https://fortune.com/2014/11/13/googles-larry-page-the-most-ambitious-ceo-in-the-universe/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2015-07-17",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "+16% in one day",
+        "zh": "单日大涨 16%"
+      },
+      "t": {
+        "en": "Shares jump 16% after earnings, adding about $65 billion in value",
+        "zh": "财报后股价单日上涨 16%，市值增加约 650 亿美元"
+      },
+      "summary": {
+        "en": "Second-quarter results beat expectations and the new finance chief, Ruth Porat, signaled tighter control of spending. The stock rose 16.3%, at the time the largest one-day gain in market value for any U.S. company.",
+        "zh": "二季度业绩好于预期，新任首席财务官露丝·波拉特释放出严控开支的信号。股价上涨 16.3%，创下当时美国上市公司单日市值增幅的最高纪录。"
+      },
+      "why": {
+        "en": "Fully priced by the market, so no extra reputation shock (rep = 0). His stake gained roughly $4 billion that day.",
+        "zh": "完全由市场定价，不再额外计口碑（rep = 0）。他的持股当天增值约 40 亿美元。"
+      },
+      "src": [
+        {
+          "name": "Yahoo Finance · GOOGL price history",
+          "url": "https://finance.yahoo.com/quote/GOOGL/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2015-08-10",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.02,
+      "s": {
+        "en": "Creates Alphabet",
+        "zh": "成立 Alphabet"
+      },
+      "t": {
+        "en": "Announces Alphabet, a holding company with Page as CEO",
+        "zh": "宣布成立控股公司 Alphabet，佩奇任 CEO"
+      },
+      "summary": {
+        "en": "In a blog post titled \"G is for Google\", Page announced that Google would become a subsidiary of a new parent, Alphabet, which he would run with Brin as president. Sundar Pichai took over as chief executive of Google. The restructuring was completed on October 2, 2015.",
+        "zh": "佩奇在题为《G 代表 Google》的博文中宣布，Google 将成为新母公司 Alphabet 的子公司，Alphabet 由他担任 CEO、布林担任总裁。桑达尔·皮查伊接任 Google 首席执行官。重组于 2015 年 10 月 2 日完成。"
+      },
+      "why": {
+        "en": "The stock rose about 4% the next day, which the price carries. The +2% on the reputation coefficient is for a structure that many large technology groups later studied.",
+        "zh": "次日股价上涨约 4%，由股价自身反映。口碑系数 +2% 是因为这一架构后来被许多大型科技集团研究借鉴。"
+      },
+      "src": [
+        {
+          "name": "Official Google Blog · G is for Google (2015-08-10)",
+          "url": "https://googleblog.blogspot.com/2015/08/google-alphabet.html",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Alphabet Inc.",
+          "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2016-02-01",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Most valuable firm",
+        "zh": "市值全球第一"
+      },
+      "t": {
+        "en": "Alphabet passes Apple as the world's most valuable listed company",
+        "zh": "Alphabet 超过苹果，成为全球市值最高的上市公司"
+      },
+      "summary": {
+        "en": "After strong fourth-quarter results, Alphabet's market value moved above Apple's, making it the most valuable publicly traded company. Apple took the top position back two days later.",
+        "zh": "在强劲的四季度业绩推动下，Alphabet 市值超过苹果，成为全球市值最高的上市公司。两天后，苹果重新夺回第一。"
+      },
+      "why": {
+        "en": "A milestone that is entirely a matter of share price, so rep = 0.",
+        "zh": "这个里程碑完全是股价的结果，rep = 0。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Alphabet Inc.",
+          "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · GOOGL price history",
+          "url": "https://finance.yahoo.com/quote/GOOGL/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2017-06-27",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.01,
+      "s": {
+        "en": "EU fine €2.4B",
+        "zh": "欧盟罚 24 亿欧"
+      },
+      "t": {
+        "en": "The European Commission fines Google €2.42 billion over shopping search",
+        "zh": "欧盟委员会就购物搜索对 Google 罚款 24.2 亿欧元"
+      },
+      "summary": {
+        "en": "The Commission found that Google had abused its dominance in search by giving its own comparison-shopping service an illegal advantage over rivals. It was the largest EU antitrust fine up to that time. Google contested the decision in court.",
+        "zh": "欧盟委员会认定，Google 滥用搜索领域的支配地位，让自家的比价购物服务获得相对竞争对手的非法优势。这是当时欧盟开出的最大一笔反垄断罚单。Google 就此向法院提起诉讼。"
+      },
+      "why": {
+        "en": "The stock fell 2.5% that day, which the price carries. A formal finding of abuse under his leadership costs a further -1% on the reputation coefficient.",
+        "zh": "当天股价下跌 2.5%，由股价自身反映。在他任内被正式认定滥用市场地位，口碑系数再 -1%。"
+      },
+      "src": [
+        {
+          "name": "European Commission · Press release IP/17/1784",
+          "url": "https://ec.europa.eu/commission/presscorner/detail/en/IP_17_1784",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2018-07-18",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.01,
+      "s": {
+        "en": "EU fine €4.3B",
+        "zh": "欧盟罚 43 亿欧"
+      },
+      "t": {
+        "en": "The European Commission fines Google €4.34 billion over Android",
+        "zh": "欧盟委员会就 Android 对 Google 罚款 43.4 亿欧元"
+      },
+      "summary": {
+        "en": "The Commission ruled that Google had imposed illegal restrictions on Android phone makers and mobile network operators to protect its search engine. The fine was the largest the EU had ever imposed on a single company.",
+        "zh": "欧盟委员会裁定，Google 为巩固自家搜索引擎的地位，对 Android 手机厂商和移动运营商施加了非法限制。这是欧盟有史以来对单一公司开出的最高罚款。"
+      },
+      "why": {
+        "en": "The market had expected it and the stock did not move. The reputation coefficient takes -1% for a second formal finding in thirteen months.",
+        "zh": "市场早有预期，股价没有变化。十三个月内第二次被正式认定违规，口碑系数 -1%。"
+      },
+      "src": [
+        {
+          "name": "European Commission · Press release IP/18/4581",
+          "url": "https://ec.europa.eu/commission/presscorner/detail/en/IP_18_4581",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2018-09-05",
+      "p": "day",
+      "cat": "reputation",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.03,
+      "s": {
+        "en": "The empty chair",
+        "zh": "国会空椅子"
+      },
+      "t": {
+        "en": "Senators leave an empty chair for Google after Page declines to testify",
+        "zh": "佩奇拒绝出席听证，参议员为 Google 留了一把空椅子"
+      },
+      "summary": {
+        "en": "The Senate Intelligence Committee invited Page to a hearing on foreign interference through online platforms. He declined, and the committee turned down the lawyer Google offered instead. Facebook's and Twitter's leaders testified beside an empty chair with a Google name card, and senators from both parties criticized the absence.",
+        "zh": "参议院情报委员会邀请佩奇出席有关外国势力利用网络平台进行干预的听证会。他没有接受邀请，委员会也拒绝了 Google 提出的由公司律师代替出席的方案。Facebook 和 Twitter 的负责人在一把摆着 Google 名牌的空椅子旁作证，两党参议员都批评了他的缺席。"
+      },
+      "why": {
+        "en": "The stock fell 1% and the price carries that. The image of the absent chief executive became shorthand for his withdrawal from public view, so the reputation coefficient takes -3%.",
+        "zh": "当天股价下跌 1%，由股价自身反映。“缺席的 CEO”这一画面成了他淡出公众视野的代名词，口碑系数 -3%。"
+      },
+      "src": [
+        {
+          "name": "U.S. Senate Intelligence Committee · Hearing record (2018-09-05)",
+          "url": "https://www.intelligence.senate.gov/hearings/open-hearing-foreign-influence-operations%E2%80%99-use-social-media-platforms-company-witnesses",
+          "type": "filing"
+        },
+        {
+          "name": "Fox News · Google gets empty chair treatment at Senate Intel hearing",
+          "url": "https://www.foxnews.com/tech/google-gets-empty-chair-treatment-at-senate-intel-hearing",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2018-11-01",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.02,
+      "s": {
+        "en": "Staff walkout",
+        "zh": "员工大罢工"
+      },
+      "t": {
+        "en": "More than 20,000 Google employees walk out over handling of misconduct",
+        "zh": "两万多名 Google 员工罢工，抗议公司处理不当行为的方式"
+      },
+      "summary": {
+        "en": "A week earlier the New York Times had reported that Google gave Android creator Andy Rubin a $90 million exit package in 2014, when Page was chief executive, after a misconduct complaint the company found credible. Rubin disputed the account. Employees around the world left their desks in protest, and Google later ended forced arbitration for staff.",
+        "zh": "一周之前，《纽约时报》报道称，2014 年佩奇任 CEO 期间，在一项针对 Android 创始人安迪·鲁宾的不当行为投诉被公司认定可信之后，Google 仍给了他 9000 万美元的离职补偿。鲁宾否认了这一说法。世界各地的员工离开工位抗议，Google 随后取消了针对员工的强制仲裁。"
+      },
+      "why": {
+        "en": "The stock did not react. The decisions in question were made on his watch, so the reputation coefficient takes -2%. The account of the exit package comes from press reporting and is contested by Rubin.",
+        "zh": "股价没有反应。相关决定是在他任内作出的，口碑系数 -2%。关于离职补偿的说法来自媒体报道，鲁宾本人对此提出异议。"
+      },
+      "src": [
+        {
+          "name": "Fortune · Google paid Android inventor $90 million after accusation (2018-10-25)",
+          "url": "https://fortune.com/2018/10/25/google-paid-andy-rubin-millions-to-keep-quiet-on-sexual-accuation/",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · 2018 Google walkouts",
+          "url": "https://en.wikipedia.org/wiki/2018_Google_walkouts",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2019-12-03",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 5,
+      "rep": 0,
+      "s": {
+        "en": "Steps down",
+        "zh": "卸任 CEO"
+      },
+      "t": {
+        "en": "Steps down as Alphabet CEO and hands the company to Sundar Pichai",
+        "zh": "卸任 Alphabet CEO，把公司交给桑达尔·皮查伊"
+      },
+      "summary": {
+        "en": "In a joint letter Page and Brin said Alphabet no longer needed two chief executives and a president. Pichai became CEO of both Google and Alphabet. The founders stayed on the board and kept their controlling votes.",
+        "zh": "佩奇和布林在联名信中表示，Alphabet 不再需要两位 CEO 加一位总裁。皮查伊同时出任 Google 和 Alphabet 的 CEO。两位创始人留任董事，并继续握有控制性的投票权。"
+      },
+      "why": {
+        "en": "Scored as neutral: the stock rose slightly and his stake was unchanged. Human capital steps down because he no longer holds an operating role, while his wealth stays tied to the share price.",
+        "zh": "记为中性：股价小幅上涨，他的持股没有变化。由于不再担任经营职务，人力资本下调；财富仍然与股价挂钩。"
+      },
+      "src": [
+        {
+          "name": "Google · A letter from Larry and Sergey (2019-12-03)",
+          "url": "https://blog.google/inside-google/alphabet/letter-from-larry-and-sergey/",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2020-10-20",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.01,
+      "s": {
+        "en": "DOJ antitrust suit",
+        "zh": "司法部反垄断诉讼"
+      },
+      "t": {
+        "en": "The U.S. Justice Department sues Google for monopolizing search",
+        "zh": "美国司法部起诉 Google 垄断搜索市场"
+      },
+      "summary": {
+        "en": "The Justice Department and eleven states filed an antitrust lawsuit accusing Google of unlawfully maintaining monopolies in search and search advertising through exclusive distribution deals, many of them signed while Page led the company.",
+        "zh": "美国司法部联合十一个州提起反垄断诉讼，指控 Google 通过排他性的分发协议非法维持在搜索和搜索广告领域的垄断地位。其中许多协议签订于佩奇掌管公司期间。"
+      },
+      "why": {
+        "en": "The stock rose that day, as investors had expected the case. A small -1% on the reputation coefficient for the start of the largest U.S. antitrust case in technology in two decades.",
+        "zh": "投资者对此早有预期，当天股价反而上涨。这是二十年来美国科技领域最大的反垄断案，口碑系数小幅 -1%。"
+      },
+      "src": [
+        {
+          "name": "U.S. Department of Justice · Justice Department sues monopolist Google (press release)",
+          "url": "https://www.justice.gov/opa/pr/justice-department-sues-monopolist-google-violating-antitrust-laws",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · United States v. Google LLC (2020)",
+          "url": "https://en.wikipedia.org/wiki/United_States_v._Google_LLC_(2020)",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2022-09",
+      "p": "month",
+      "cat": "career",
+      "dir": -1,
+      "mag": 2,
+      "rep": -0.01,
+      "s": {
+        "en": "Kitty Hawk closes",
+        "zh": "Kitty Hawk 关停"
+      },
+      "t": {
+        "en": "Kitty Hawk, the flying-car company Page backed, winds down",
+        "zh": "佩奇出资的飞行汽车公司 Kitty Hawk 宣布关停"
+      },
+      "summary": {
+        "en": "Kitty Hawk, an electric aircraft startup that Page had funded since its beginnings as Zee.Aero in 2010, announced that it was winding down. Its joint venture with Boeing, Wisk Aero, carried on.",
+        "zh": "电动飞行器初创公司 Kitty Hawk 宣布停止运营。它的前身是 2010 年成立的 Zee.Aero，一直由佩奇出资支持。它与波音的合资公司 Wisk Aero 继续运营。"
+      },
+      "why": {
+        "en": "A personal venture outside Alphabet. The amount he invested was never disclosed, so outside wealth is not adjusted; the reputation coefficient takes a small -1%.",
+        "zh": "这是 Alphabet 之外的个人项目。他投入的金额从未披露，因此不调整公司以外的财富；口碑系数小幅 -1%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Kitty Hawk Corporation",
+          "url": "https://en.wikipedia.org/wiki/Kitty_Hawk_Corporation",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2023-02-08",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Bard stumble",
+        "zh": "Bard 演示翻车"
+      },
+      "t": {
+        "en": "Shares fall almost 8% after Google's Bard chatbot errs in a demo",
+        "zh": "Google 聊天机器人 Bard 演示出错，股价下跌近 8%"
+      },
+      "summary": {
+        "en": "Two days after Google announced Bard, its answer to ChatGPT, promotional material showed the chatbot giving a wrong answer about a space telescope. The stock fell 7.7% and about $100 billion of market value disappeared. Press reports said Page and Brin had been drawn back into strategy meetings on the company's response.",
+        "zh": "Google 宣布推出对标 ChatGPT 的 Bard 两天后，宣传材料里的聊天机器人在回答一个有关太空望远镜的问题时出了错。股价下跌 7.7%，市值蒸发约 1000 亿美元。据媒体报道，佩奇和布林已被请回来参加公司应对策略的会议。"
+      },
+      "why": {
+        "en": "Fully priced by the market, so rep = 0. He held no operating role, so no personal reputation shock is added.",
+        "zh": "完全由市场定价，rep = 0。他当时不担任经营职务，不另计个人口碑冲击。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Google Gemini (chatbot)",
+          "url": "https://en.wikipedia.org/wiki/Gemini_(chatbot)",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · GOOGL price history",
+          "url": "https://finance.yahoo.com/quote/GOOGL/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2024-08-05",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 4,
+      "rep": -0.02,
+      "s": {
+        "en": "Ruled a monopolist",
+        "zh": "被判垄断"
+      },
+      "t": {
+        "en": "A federal judge rules that Google illegally maintained a search monopoly",
+        "zh": "联邦法官裁定 Google 非法维持搜索垄断"
+      },
+      "summary": {
+        "en": "Judge Amit Mehta found that Google had broken antitrust law by paying to be the default search engine on phones and browsers, which kept its monopolies in general search and search text advertising. Google said it would appeal.",
+        "zh": "法官阿米特·梅塔认定，Google 通过付费成为手机和浏览器的默认搜索引擎，维持了在通用搜索和搜索文字广告领域的垄断，违反了反垄断法。Google 表示将提起上诉。"
+      },
+      "why": {
+        "en": "The stock fell 4.5% on a day when the whole market dropped; the price carries that. The finding covers practices built during his years in charge, so the reputation coefficient takes -2%.",
+        "zh": "当天大盘普跌，股价下跌 4.5%，由股价自身反映。裁决涉及的做法形成于他主政的年份，口碑系数 -2%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · United States v. Google LLC (2020)",
+          "url": "https://en.wikipedia.org/wiki/United_States_v._Google_LLC_(2020)",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · GOOGL price history",
+          "url": "https://finance.yahoo.com/quote/GOOGL/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2025-03-06",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "Dynatomics report",
+        "zh": "新公司曝光"
+      },
+      "t": {
+        "en": "Press reports reveal Dynatomics, Page's AI manufacturing startup",
+        "zh": "媒体披露佩奇的 AI 制造初创公司 Dynatomics"
+      },
+      "summary": {
+        "en": "The Information reported that Page was working with a small team on Dynatomics, a company that wants to use artificial intelligence to design products that factories can then build. It is run by a former Kitty Hawk technology chief. Neither Page nor the company commented. The date is that of the report.",
+        "zh": "科技媒体 The Information 报道，佩奇正与一个小团队做一家名为 Dynatomics 的公司，希望用人工智能设计出可以直接交给工厂生产的产品。公司由 Kitty Hawk 的前技术负责人主持。佩奇和该公司均未置评。此处日期为报道日期。"
+      },
+      "why": {
+        "en": "A private project with no disclosed valuation, so financial capital is unchanged. A small +1% for a return to building something. Based on press reporting, not on a company statement.",
+        "zh": "这是没有披露估值的私人项目，金融资本不变。重新动手做新东西，口碑系数小幅 +1%。信息来自媒体报道，而非公司声明。"
+      },
+      "src": [
+        {
+          "name": "TechCrunch · Google co-founder Larry Page reportedly has a new AI startup (2025-03-06)",
+          "url": "https://techcrunch.com/2025/03/06/google-co-founder-larry-page-reportedly-has-a-new-ai-startup/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2025-09-02",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "Keeps Chrome",
+        "zh": "保住 Chrome"
+      },
+      "t": {
+        "en": "The judge declines to break up Google; shares rise 9% the next day",
+        "zh": "法官未下令拆分 Google，次日股价上涨 9%"
+      },
+      "summary": {
+        "en": "In the remedies phase of the search case, Judge Mehta refused the government's request to force a sale of the Chrome browser or Android. He barred exclusive search contracts and ordered Google to share some search data with rivals. The stock gained 9.1% on September 3, and on September 15 Alphabet's market value passed $3 trillion.",
+        "zh": "在搜索垄断案的补救措施阶段，梅塔法官没有同意政府提出的强制出售 Chrome 浏览器或 Android 的要求。他禁止 Google 签订排他性的搜索协议，并要求它向竞争对手共享部分搜索数据。9 月 3 日股价上涨 9.1%；9 月 15 日，Alphabet 市值突破 3 万亿美元。"
+      },
+      "why": {
+        "en": "Fully priced by the market, so rep = 0. His stake gained roughly $15 billion on September 3. Both sides have appealed.",
+        "zh": "完全由市场定价，rep = 0。9 月 3 日他的持股增值约 150 亿美元。双方均已上诉。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · United States v. Google LLC (2020)",
+          "url": "https://en.wikipedia.org/wiki/United_States_v._Google_LLC_(2020)",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Alphabet Inc.",
+          "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · GOOGL price history",
+          "url": "https://finance.yahoo.com/quote/GOOGL/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2025-11-24",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "No. 2 richest",
+        "zh": "全球第二富"
+      },
+      "t": {
+        "en": "Passes Larry Ellison to become the world's second-richest person",
+        "zh": "超过拉里·埃里森，成为全球第二富豪"
+      },
+      "summary": {
+        "en": "Alphabet's shares rose about 6% as investors welcomed the Gemini 3 model released the week before. Forbes estimated Page's fortune at about $255 billion, ahead of Oracle's Larry Ellison and behind only Elon Musk.",
+        "zh": "投资者看好前一周发布的 Gemini 3 模型，Alphabet 股价上涨约 6%。福布斯估计佩奇的身家约为 2550 亿美元，超过甲骨文的拉里·埃里森，仅次于埃隆·马斯克。"
+      },
+      "why": {
+        "en": "The gain is in the share price. The model's value for this day is about $262 billion, close to the Forbes figure. The ranking itself brings attention the price does not measure, so the reputation coefficient gets +2%.",
+        "zh": "涨幅已体现在股价里。模型当天的数值约为 2620 亿美元，与福布斯的数字接近。排名本身带来了股价衡量不到的关注度，口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Forbes Australia · Larry Page climbs to No. 2, bumping Larry Ellison (2025-11-25)",
+          "url": "https://www.forbes.com.au/news/billionaires/global-rich-list-larry-page-climbs-to-no-2-bumping-larry-ellison/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · GOOGL price history",
+          "url": "https://finance.yahoo.com/quote/GOOGL/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2026-01",
+      "p": "month",
+      "cat": "wealth",
+      "dir": 0,
+      "mag": 3,
+      "rep": -0.01,
+      "s": {
+        "en": "Leaves California",
+        "zh": "迁出加州"
+      },
+      "t": {
+        "en": "Moves his family office and companies out of California before a wealth-tax vote",
+        "zh": "在财富税公投前把家族办公室和旗下公司迁出加州"
+      },
+      "summary": {
+        "en": "Press reports based on state filings said Page had reincorporated his family office, Koop, and several other entities in Delaware in late December 2025. He also bought two neighboring estates in Miami for about $173 million. The moves came as California prepared to vote on a one-time 5% tax on billionaires resident in the state on January 1, 2026.",
+        "zh": "多家媒体根据州政府备案文件报道，佩奇已在 2025 年 12 月下旬把家族办公室 Koop 和另外几家实体改在特拉华州注册。他还以约 1.73 亿美元买下迈阿密两处相邻的庄园。此时加州正准备就一项提案举行公投：对 2026 年 1 月 1 日居住在该州的亿万富翁一次性征收 5% 的税。"
+      },
+      "why": {
+        "en": "Scored as mixed: a legal step that may save him a large tax bill, which also drew criticism. Financial capital is unchanged; the reputation coefficient takes a small -1%. He has not commented publicly, and the account rests on filings and press reports from early January.",
+        "zh": "记为好坏参半：这是合法的安排，可能为他省下一大笔税，但也招来了批评。金融资本不变；口碑系数小幅 -1%。他本人没有公开回应，以上内容依据的是 1 月初的备案文件和媒体报道。"
+      },
+      "src": [
+        {
+          "name": "TechCrunch · Larry Page loosens business ties to CA amid proposed wealth tax (2026-01-07)",
+          "url": "https://techcrunch.com/2026/01/07/larry-page-loosens-business-ties-to-ca-amid-states-proposed-wealth-tax-report/",
+          "type": "news"
+        },
+        {
+          "name": "Fortune · Larry Page buys $173 million of Miami estates (2026-01-08)",
+          "url": "https://fortune.com/2026/01/08/google-billionaire-larry-page-moves-to-florida-wealth-tax-jeff-bezos-playbook/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-04-30",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Above $300B",
+        "zh": "身家破 3000 亿"
+      },
+      "t": {
+        "en": "His fortune passes $300 billion as Alphabet jumps 10% on earnings",
+        "zh": "Alphabet 财报后大涨 10%，他的身家突破 3000 亿美元"
+      },
+      "summary": {
+        "en": "First-quarter results beat forecasts, with cloud revenue up 63%, and Alphabet raised its 2026 spending plan to as much as $190 billion. The stock rose about 10%. Forbes put Page's net worth at about $301 billion, the first time it had passed $300 billion.",
+        "zh": "一季度业绩好于预期，云业务收入增长 63%，Alphabet 把 2026 年的资本开支计划上调到最高 1900 亿美元。股价上涨约 10%。福布斯估计佩奇的净资产约为 3010 亿美元，首次突破 3000 亿美元。"
+      },
+      "why": {
+        "en": "Fully priced by the market, so rep = 0. The model's value at that day's close is about $313 billion; Forbes took its figure earlier in the session.",
+        "zh": "完全由市场定价，rep = 0。模型按当天收盘价计算约为 3130 亿美元；福布斯的数字取自当天盘中较早的时点。"
+      },
+      "src": [
+        {
+          "name": "Forbes Australia · Larry Page's worth over $300 billion for first time",
+          "url": "https://www.forbes.com.au/news/billionaires/larry-pages-worth-over-300-billion-for-first-time-amid-alphabet-earnings-rally/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · GOOGL price history",
+          "url": "https://finance.yahoo.com/quote/GOOGL/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2026-10-29",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "Worst day: -13%",
+        "zh": "史上最大跌幅"
+      },
+      "t": {
+        "en": "Alphabet falls 12.6%, its worst day since the IPO, erasing about $500 billion",
+        "zh": "Alphabet 下跌 12.6%，创上市以来最大单日跌幅，市值蒸发约 5000 亿美元"
+      },
+      "summary": {
+        "en": "Third-quarter results showed negative free cash flow of about $9 billion and search advertising below forecasts, while the company kept its 2026 spending guidance at $195 billion to $205 billion. The drop was larger than the previous record of 11.6% set in March 2020.",
+        "zh": "三季度财报显示自由现金流为负约 90 亿美元，搜索广告收入低于预期，而公司仍维持 2026 年 1950 亿至 2050 亿美元的资本开支指引。这次跌幅超过了 2020 年 3 月创下的 11.6% 的纪录。"
+      },
+      "why": {
+        "en": "Fully priced by the market, so rep = 0. His stake lost roughly $32 billion that day.",
+        "zh": "完全由市场定价，rep = 0。他的持股当天缩水约 320 亿美元。"
+      },
+      "src": [
+        {
+          "name": "CNBC · Alphabet tanks nearly 13% for worst day ever (2026-10-29)",
+          "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · GOOGL price history",
+          "url": "https://finance.yahoo.com/quote/GOOGL/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2026-11",
+      "p": "month",
+      "cat": "wealth",
+      "dir": 0,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Tax vote fails",
+        "zh": "财富税被否"
+      },
+      "t": {
+        "en": "California voters reject Proposition 40, the one-time billionaire tax",
+        "zh": "加州选民否决第 40 号提案（一次性亿万富翁税）"
+      },
+      "summary": {
+        "en": "Voters turned down the measure by about 53% to 47%. It would have applied to billionaires living in California on January 1, 2026. Fortune had estimated that Page would have owed close to $15 billion had he still been a resident.",
+        "zh": "选民以约 53% 对 47% 否决了这项提案。它原本适用于 2026 年 1 月 1 日居住在加州的亿万富翁。《财富》杂志此前估算，如果佩奇仍是加州居民，需要缴纳近 150 亿美元。"
+      },
+      "why": {
+        "en": "Scored as neutral: no tax was due either way after his move, so financial capital and reputation are unchanged. The result was called in the days after the November election, so the date is month precision.",
+        "zh": "记为中性：他迁出之后，无论结果如何都不必缴这笔税，金融资本和口碑均不变。结果是在 11 月选举后的几天内才确定的，因此日期精度为“月”。"
+      },
+      "src": [
+        {
+          "name": "CalMatters · California voters reject Prop. 40 billionaire tax",
+          "url": "https://calmatters.org/politics/elections/2026/11/prop-40-billionaire-tax-defeated/",
+          "type": "news"
+        },
+        {
+          "name": "Fortune · Larry Page left California before its billionaire tax cutoff (2026-10-20)",
+          "url": "https://fortune.com/2026/10/20/larry-page-left-california-before-its-billionaire-tax-cutoff-and-spent-173-million-on-miami-mansions-hed-avoid-nearly-15-billion-if-it-passes/",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}

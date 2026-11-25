@@ -1,0 +1,1988 @@
+{
+  "id": "su",
+  "name": {
+    "en": "Lisa Su",
+    "zh": "苏姿丰"
+  },
+  "ticker": "LSU",
+  "born": "1969-11-07",
+  "color": "#FF9EC4",
+  "initials": "LS",
+  "tagline": {
+    "en": "The engineer who took AMD from under $2 a share to a trillion-dollar AI chipmaker",
+    "zh": "把 AMD 从不到 2 美元一股带到万亿美元 AI 芯片公司的工程师"
+  },
+  "tags": [
+    {
+      "en": "AMD Chair/CEO",
+      "zh": "AMD 董事长/CEO"
+    },
+    {
+      "en": "Semiconductors",
+      "zh": "半导体"
+    },
+    {
+      "en": "Turnaround",
+      "zh": "扭亏为盈"
+    },
+    {
+      "en": "AI chips",
+      "zh": "AI 芯片"
+    }
+  ],
+  "privates": [
+    {
+      "label": {
+        "en": "Savings and equity from Texas Instruments, IBM and Freescale (estimate)",
+        "zh": "德州仪器、IBM、飞思卡尔时期的积蓄与股权（估算）"
+      },
+      "anchors": [
+        [
+          "1994",
+          20000
+        ],
+        [
+          "1995-02",
+          40000
+        ],
+        [
+          "2000",
+          400000
+        ],
+        [
+          "2007-06",
+          2500000
+        ],
+        [
+          "2011-12",
+          6000000
+        ],
+        [
+          "2020",
+          9000000
+        ],
+        [
+          "2026-11",
+          12000000
+        ]
+      ]
+    },
+    {
+      "label": {
+        "en": "Cash from AMD pay and sold AMD shares, after tax (estimate)",
+        "zh": "AMD 薪酬及售出 AMD 股票所得现金，税后（估算）"
+      },
+      "from": "2012-01-03",
+      "anchors": [
+        [
+          "2012-01-03",
+          200000
+        ],
+        [
+          "2014-10",
+          1500000
+        ],
+        [
+          "2016-12",
+          8000000
+        ],
+        [
+          "2018-12",
+          40000000
+        ],
+        [
+          "2019-12",
+          80000000
+        ],
+        [
+          "2020-12",
+          140000000
+        ],
+        [
+          "2021-12",
+          190000000
+        ],
+        [
+          "2023-05",
+          220000000
+        ],
+        [
+          "2024-04",
+          300000000
+        ],
+        [
+          "2025-10",
+          380000000
+        ],
+        [
+          "2026-03",
+          410000000
+        ],
+        [
+          "2026-11",
+          500000000
+        ]
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "sym": "AMD",
+      "label": {
+        "en": "AMD stake (shares owned + exercisable options)",
+        "zh": "AMD 持股（已持有股票 + 可行权期权）"
+      },
+      "from": "2012-01-03",
+      "own": [
+        [
+          "2012-01-03",
+          0.00002
+        ],
+        [
+          "2013-03",
+          0.000625
+        ],
+        [
+          "2015-02",
+          0.00215
+        ],
+        [
+          "2017-02",
+          0.00579
+        ],
+        [
+          "2019-03",
+          0.00621
+        ],
+        [
+          "2021-03",
+          0.00457
+        ],
+        [
+          "2022-02-13",
+          0.00463
+        ],
+        [
+          "2022-02-14",
+          0.00346
+        ],
+        [
+          "2023-03",
+          0.0035
+        ],
+        [
+          "2025-03",
+          0.00293
+        ],
+        [
+          "2026-03",
+          0.00264
+        ],
+        [
+          "2026-11",
+          0.00251
+        ]
+      ],
+      "shares": [
+        [
+          "2012-01-03",
+          700000000
+        ],
+        [
+          "2013-03",
+          714000000
+        ],
+        [
+          "2015-02",
+          778000000
+        ],
+        [
+          "2017-02",
+          941000000
+        ],
+        [
+          "2019-03",
+          1082000000
+        ],
+        [
+          "2021-03",
+          1215000000
+        ],
+        [
+          "2022-02-13",
+          1207000000
+        ],
+        [
+          "2022-02-14",
+          1630000000
+        ],
+        [
+          "2023-03",
+          1609000000
+        ],
+        [
+          "2025-03",
+          1616000000
+        ],
+        [
+          "2026-03",
+          1630000000
+        ],
+        [
+          "2026-11",
+          1640000000
+        ]
+      ]
+    }
+  ],
+  "human": [
+    [
+      "1969-11-07",
+      100000
+    ],
+    [
+      "1973",
+      300000
+    ],
+    [
+      "1986",
+      600000
+    ],
+    [
+      "1994",
+      1500000
+    ],
+    [
+      "2000",
+      3000000
+    ],
+    [
+      "2007-06",
+      6000000
+    ],
+    [
+      "2012-01-03",
+      10000000
+    ],
+    [
+      "2014-10-08",
+      20000000
+    ],
+    [
+      "2017-03-02",
+      40000000
+    ],
+    [
+      "2020-05-27",
+      80000000
+    ],
+    [
+      "2022-02-14",
+      120000000
+    ],
+    [
+      "2024-12-10",
+      200000000
+    ],
+    [
+      "2025-10-06",
+      260000000
+    ],
+    [
+      "2026-09-21",
+      300000000
+    ]
+  ],
+  "audience": [
+    [
+      "1969-11-07",
+      0
+    ],
+    [
+      "1998",
+      1000
+    ],
+    [
+      "2007",
+      5000
+    ],
+    [
+      "2012",
+      20000
+    ],
+    [
+      "2014-10",
+      100000
+    ],
+    [
+      "2017",
+      500000
+    ],
+    [
+      "2019",
+      1200000
+    ],
+    [
+      "2021",
+      2500000
+    ],
+    [
+      "2023",
+      4000000
+    ],
+    [
+      "2024",
+      6000000
+    ],
+    [
+      "2025",
+      8000000
+    ],
+    [
+      "2026-11",
+      12000000
+    ]
+  ],
+  "media": [
+    [
+      "1969-11-07",
+      0
+    ],
+    [
+      "1998",
+      0.1
+    ],
+    [
+      "2002",
+      0.2
+    ],
+    [
+      "2007-06",
+      0.4
+    ],
+    [
+      "2012",
+      0.8
+    ],
+    [
+      "2014-10",
+      2
+    ],
+    [
+      "2017-03",
+      4
+    ],
+    [
+      "2019",
+      6
+    ],
+    [
+      "2022-02",
+      9
+    ],
+    [
+      "2023-06",
+      12
+    ],
+    [
+      "2024-12",
+      16
+    ],
+    [
+      "2025-10",
+      22
+    ],
+    [
+      "2026-09",
+      30
+    ],
+    [
+      "2026-11",
+      30
+    ]
+  ],
+  "chapters": [
+    {
+      "from": "1969-11-07",
+      "t": {
+        "en": "Tainan to Queens",
+        "zh": "从台南到皇后区"
+      },
+      "desc": {
+        "en": "Born in Taiwan, raised in New York City, drawn to engineering early and admitted to the Bronx High School of Science",
+        "zh": "出生在台湾，在纽约长大，从小喜欢动手做工程，考入布朗克斯科学高中"
+      }
+    },
+    {
+      "from": "1986",
+      "t": {
+        "en": "MIT years",
+        "zh": "麻省理工岁月"
+      },
+      "desc": {
+        "en": "Three electrical-engineering degrees at MIT, ending with a doctorate on advanced transistors",
+        "zh": "在麻省理工拿到电气工程的三个学位，最后以先进晶体管研究获得博士学位"
+      }
+    },
+    {
+      "from": "1995-02",
+      "t": {
+        "en": "IBM and Freescale",
+        "zh": "IBM 与飞思卡尔"
+      },
+      "desc": {
+        "en": "Copper interconnects and the Cell chip at IBM, then her first executive roles at Freescale",
+        "zh": "在 IBM 做铜互连和 Cell 芯片，随后在飞思卡尔第一次担任高管"
+      }
+    },
+    {
+      "from": "2012-01-03",
+      "t": {
+        "en": "Joining AMD",
+        "zh": "加入 AMD"
+      },
+      "desc": {
+        "en": "Arrives as AMD nears collapse, wins the game-console contracts and is made chief executive within three years",
+        "zh": "在 AMD 濒临崩溃时到任，拿下游戏主机订单，不到三年出任首席执行官"
+      }
+    },
+    {
+      "from": "2014-10-08",
+      "t": {
+        "en": "The turnaround",
+        "zh": "绝地翻身"
+      },
+      "desc": {
+        "en": "Bets the company on the Zen design; Ryzen and EPYC bring AMD back against Intel",
+        "zh": "把公司押在 Zen 架构上；Ryzen 和 EPYC 让 AMD 重新与英特尔抗衡"
+      }
+    },
+    {
+      "from": "2020-10-27",
+      "t": {
+        "en": "Bigger than Intel",
+        "zh": "超越英特尔"
+      },
+      "desc": {
+        "en": "Buys Xilinx, becomes chair, and sees AMD pass Intel in market value before a PC slump halves the stock",
+        "zh": "收购赛灵思、出任董事长，AMD 市值超过英特尔，随后 PC 寒冬让股价腰斩"
+      }
+    },
+    {
+      "from": "2023-06-13",
+      "t": {
+        "en": "AI challenger",
+        "zh": "AI 挑战者"
+      },
+      "desc": {
+        "en": "Takes on Nvidia with Instinct accelerators, signs OpenAI and Meta, and leads AMD past $1 trillion",
+        "zh": "用 Instinct 加速器挑战英伟达，签下 OpenAI 和 Meta，带领 AMD 市值突破 1 万亿美元"
+      }
+    }
+  ],
+  "events": [
+    {
+      "d": "1969-11-07",
+      "p": "day",
+      "cat": "origin",
+      "dir": 0,
+      "mag": 1,
+      "rep": 0,
+      "s": {
+        "en": "Born in Tainan",
+        "zh": "出生台南"
+      },
+      "t": {
+        "en": "Born in Tainan, Taiwan",
+        "zh": "出生于台湾台南"
+      },
+      "summary": {
+        "en": "Lisa Su was born in Tainan, Taiwan. She moved to the United States with her parents at the age of three and grew up in Queens, New York, where she took apart and repaired remote-controlled cars as a child.",
+        "zh": "苏姿丰出生在台湾台南。三岁时随父母移居美国，在纽约皇后区长大，小时候就喜欢把遥控车拆开再修好。"
+      },
+      "why": {
+        "en": "Starting point, not scored. Human capital starts below the U.S. average and steps up once she is growing up in New York (the year of the move is approximate, so it is not a separate event).",
+        "zh": "起点事件，不计分。人力资本初始值低于美国平均水平，到纽约生活后上调一档（移居的具体年份只能大致确定，所以不单列事件）。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Lisa Su",
+          "url": "https://en.wikipedia.org/wiki/Lisa_Su",
+          "type": "wiki"
+        },
+        {
+          "name": "MIT News · Lisa Su to deliver the 2026 Commencement address (2025-12-11)",
+          "url": "https://news.mit.edu/2025/lisa-su-mit-2026-commencement-address-1211",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "1986",
+      "p": "year",
+      "cat": "education",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Bronx Sci to MIT",
+        "zh": "布朗克斯到 MIT"
+      },
+      "t": {
+        "en": "Graduates from the Bronx High School of Science and enters MIT",
+        "zh": "从布朗克斯科学高中毕业，进入麻省理工学院"
+      },
+      "summary": {
+        "en": "She finished high school at the Bronx High School of Science, one of New York City's selective public schools, and started at MIT that autumn, choosing electrical engineering.",
+        "zh": "她从纽约市的重点公立学校布朗克斯科学高中毕业，同年秋天进入麻省理工学院，选了电气工程专业。"
+      },
+      "why": {
+        "en": "An education step: the human-capital target rises on entry to a top engineering school. Only the year is known, so the date is year precision.",
+        "zh": "学历台阶：进入顶尖工科院校，人力资本目标值上调。只能确认年份，因此日期精度为“年”。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Lisa Su",
+          "url": "https://en.wikipedia.org/wiki/Lisa_Su",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Bronx High School of Science",
+          "url": "https://en.wikipedia.org/wiki/Bronx_High_School_of_Science",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1994",
+      "p": "year",
+      "cat": "education",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "MIT PhD",
+        "zh": "MIT 博士"
+      },
+      "t": {
+        "en": "Earns a PhD in electrical engineering from MIT and joins Texas Instruments",
+        "zh": "获得麻省理工电气工程博士学位，加入德州仪器"
+      },
+      "summary": {
+        "en": "After a bachelor's degree in 1990 and a master's in 1991, she completed her MIT doctorate in 1994 with research on silicon-on-insulator transistors. The same year she took her first industry job at Texas Instruments.",
+        "zh": "继 1990 年本科、1991 年硕士之后，她在 1994 年完成麻省理工的博士学业，研究方向是绝缘体上硅（SOI）晶体管。同年她进入德州仪器，开始第一份业界工作。"
+      },
+      "why": {
+        "en": "The main education step: the human-capital target moves to the level of a strong technical doctorate (about $1.5 million). Savings from her first salary start the financial line; the amounts are estimates.",
+        "zh": "最主要的学历台阶：人力资本目标值升到“名校技术博士”的水平（约 150 万美元）。第一份工资带来的积蓄让金融资本曲线起步，金额为估算。"
+      },
+      "src": [
+        {
+          "name": "MIT News · Lisa Su to deliver the 2026 Commencement address (2025-12-11)",
+          "url": "https://news.mit.edu/2025/lisa-su-mit-2026-commencement-address-1211",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Lisa Su",
+          "url": "https://en.wikipedia.org/wiki/Lisa_Su",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1995-02",
+      "p": "month",
+      "cat": "career",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Joins IBM",
+        "zh": "加入 IBM"
+      },
+      "t": {
+        "en": "Joins IBM as a research staff member in device physics",
+        "zh": "加入 IBM，任器件物理研究员"
+      },
+      "summary": {
+        "en": "After less than a year at Texas Instruments she moved to IBM's research organization, where she worked on semiconductor devices and later rose to vice president of the company's semiconductor research and development center.",
+        "zh": "在德州仪器工作不到一年后，她转到 IBM 的研究部门从事半导体器件工作，后来升任 IBM 半导体研发中心副总裁。"
+      },
+      "why": {
+        "en": "The start of twelve years at IBM. A career step with no reputation effect yet; savings and IBM equity are estimated in the private line.",
+        "zh": "IBM 十二年生涯的起点。属于职业台阶，暂无口碑效应；积蓄和 IBM 股权按估算计入非上市资产。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Lisa Su",
+          "url": "https://en.wikipedia.org/wiki/Lisa_Su",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1998",
+      "p": "year",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Copper chips",
+        "zh": "铜互连芯片"
+      },
+      "t": {
+        "en": "IBM brings copper-interconnect chips to market",
+        "zh": "IBM 铜互连芯片投产"
+      },
+      "summary": {
+        "en": "IBM brought to market chips that used copper instead of aluminum for their internal wiring, a technology it had announced the year before, which made them up to about 20% faster. Su played an important part in working out how to keep copper from contaminating the devices during manufacturing.",
+        "zh": "IBM 把前一年宣布的铜互连技术推向市场：芯片内部连线用铜代替铝，速度最高提升约 20%。苏姿丰在解决“制造过程中铜污染器件”这一难题上起了重要作用。"
+      },
+      "why": {
+        "en": "The technical achievement that made her name inside the industry: +1% on the reputation coefficient and a first small rise in the media baseline. Only the year is certain.",
+        "zh": "这是让她在业内出名的技术成果：口碑系数 +1%，媒体热度基线第一次小幅上调。只能确认年份。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Lisa Su",
+          "url": "https://en.wikipedia.org/wiki/Lisa_Su",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Copper interconnects",
+          "url": "https://en.wikipedia.org/wiki/Copper_interconnects",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2000",
+      "p": "year",
+      "cat": "career",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "Gerstner aide",
+        "zh": "郭士纳技术助理"
+      },
+      "t": {
+        "en": "Serves as technical assistant to IBM CEO Lou Gerstner, then founds Emerging Products",
+        "zh": "担任 IBM CEO 郭士纳的技术助理，随后创建新兴产品部门"
+      },
+      "summary": {
+        "en": "She spent a year as technical assistant to IBM's chief executive, then set up and ran the Emerging Products group. In that role she represented IBM in the joint project with Sony and Toshiba that produced the Cell processor used in the PlayStation 3.",
+        "zh": "她做了一年 IBM 首席执行官的技术助理，之后创建并领导新兴产品部门。在这个岗位上，她代表 IBM 参与了与索尼、东芝的合作项目，这个项目的成果就是后来用在 PlayStation 3 上的 Cell 处理器。"
+      },
+      "why": {
+        "en": "The move from research into business leadership raises the human-capital target. The Cell project also gave her the game-console relationships that mattered later at AMD. Dated to the year of the assistant role; the Cell work ran over the following years.",
+        "zh": "从研究岗位转向业务管理，人力资本目标值上调。Cell 项目也让她积累了游戏主机方面的人脉，后来在 AMD 派上了用场。日期取担任助理的年份，Cell 项目在此后几年间展开。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Lisa Su",
+          "url": "https://en.wikipedia.org/wiki/Lisa_Su",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Cell (processor)",
+          "url": "https://en.wikipedia.org/wiki/Cell_(processor)",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2002",
+      "p": "year",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 1,
+      "rep": 0.01,
+      "s": {
+        "en": "TR100 innovator",
+        "zh": "TR100 青年创新者"
+      },
+      "t": {
+        "en": "Named to MIT Technology Review's list of top young innovators",
+        "zh": "入选《麻省理工科技评论》青年创新者榜单"
+      },
+      "summary": {
+        "en": "MIT Technology Review included her in its TR100 list of leading innovators under 35, citing her work on new low-power chip products at IBM.",
+        "zh": "《麻省理工科技评论》把她选入 35 岁以下创新者 TR100 榜单，主要依据是她在 IBM 开发低功耗芯片新产品的工作。"
+      },
+      "why": {
+        "en": "A footnote-level honor: +1% on the reputation coefficient. Sources give both 2001 and 2002; the magazine's own list says 2002.",
+        "zh": "脚注级别的荣誉：口碑系数 +1%。资料中 2001 和 2002 两种说法都有，杂志自己的榜单页面写的是 2002 年。"
+      },
+      "src": [
+        {
+          "name": "MIT Technology Review · Innovators Under 35: Lisa Su",
+          "url": "https://innovatorsunder35.com/the-list/lisa-su",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Lisa Su",
+          "url": "https://en.wikipedia.org/wiki/Lisa_Su",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2007-06",
+      "p": "month",
+      "cat": "career",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Freescale CTO",
+        "zh": "飞思卡尔 CTO"
+      },
+      "t": {
+        "en": "Joins Freescale Semiconductor as chief technology officer",
+        "zh": "加入飞思卡尔半导体，任首席技术官"
+      },
+      "summary": {
+        "en": "She left IBM to become chief technology officer of Freescale, the former Motorola chip unit then owned by private-equity firms. From September 2008 she ran its networking and multimedia business, and she stayed until the end of 2011, the year the company returned to the stock market.",
+        "zh": "她离开 IBM，出任飞思卡尔的首席技术官——这家公司原是摩托罗拉的芯片部门，当时由私募基金持有。2008 年 9 月起她转而负责网络与多媒体业务，一直做到 2011 年底；飞思卡尔也在 2011 年重新上市。"
+      },
+      "why": {
+        "en": "Her first C-level job and first full business unit, so the human-capital target rises to about $6 million. Her Freescale pay and equity were never disclosed in detail; the private line uses a rough estimate.",
+        "zh": "第一次进入最高管理层，也第一次独立掌管完整的业务部门，人力资本目标值升到约 600 万美元。她在飞思卡尔的薪酬和股权没有详细披露，非上市资产只是粗略估算。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Lisa Su",
+          "url": "https://en.wikipedia.org/wiki/Lisa_Su",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Freescale Semiconductor",
+          "url": "https://en.wikipedia.org/wiki/Freescale_Semiconductor",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2012-01-03",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0,
+      "s": {
+        "en": "Joins AMD",
+        "zh": "加入 AMD"
+      },
+      "t": {
+        "en": "Joins AMD as senior vice president and general manager, Global Business Units",
+        "zh": "加入 AMD，任高级副总裁兼全球事业部总经理"
+      },
+      "summary": {
+        "en": "AMD announced her hiring in December 2011 and she started on January 3, 2012, reporting to chief executive Rory Read and running the company's product businesses. Two weeks later she received her first equity: about 717,000 stock options and 299,000 restricted stock units.",
+        "zh": "AMD 在 2011 年 12 月宣布聘用她，她于 2012 年 1 月 3 日到任，向首席执行官罗瑞·里德汇报，负责公司的各产品事业部。两周后她拿到第一批股权：约 71.7 万份期权和 29.9 万股限制性股票。"
+      },
+      "why": {
+        "en": "The decision that defines the rest of her life, so it is one of the few magnitude-5 events. From this day part of her financial capital is priced from the AMD quote. The ownership fraction counts shares she owns plus options she can already exercise, as reported in AMD proxy statements; unvested grants are not counted, so the line starts near zero.",
+        "zh": "这个决定塑造了她此后的人生，因此是少数几个 5 级事件之一。从这一天起，她的一部分金融资本按 AMD 股价计价。持股比例的口径是：已持有的股票加上已可行权的期权（取自 AMD 历年委托书）；未归属的授予不计入，所以曲线几乎从零起步。"
+      },
+      "fin": {
+        "en": "AMD closed at $5.48 that day. Her counted stake was close to zero.",
+        "zh": "当天 AMD 收于 5.48 美元。按上述口径，她的持股几乎为零。"
+      },
+      "src": [
+        {
+          "name": "AMD · Press release: AMD to appoint Dr. Lisa Su (2011-12-15)",
+          "url": "https://ir.amd.com/news-events/press-releases/detail/200/amd-to-appoint-dr-lisa-su-as-senior-vice-president-and-general-manager-global-business-units",
+          "type": "filing"
+        },
+        {
+          "name": "SEC EDGAR · AMD 2013 proxy statement (DEF 14A)",
+          "url": "https://www.sec.gov/Archives/edgar/data/2488/000119312513124372/d496377ddef14a.htm",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2012-11-16",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "AMD under $2",
+        "zh": "AMD 跌破 2 美元"
+      },
+      "t": {
+        "en": "AMD shares close at $1.86, the low point of the decade",
+        "zh": "AMD 股价收于 1.86 美元，为十年最低"
+      },
+      "summary": {
+        "en": "Ten months after she arrived, AMD stock closed at $1.86, down about two thirds since January, as PC sales fell and the company kept losing money. Investors openly questioned whether AMD could survive.",
+        "zh": "她到任十个月后，AMD 股价收于 1.86 美元，比年初跌去约三分之二。当时个人电脑销量下滑，公司持续亏损，投资者公开质疑 AMD 能否活下去。"
+      },
+      "why": {
+        "en": "Fully priced by the market, so no reputation shock (rep = 0). Her own stake was still tiny, so her wealth barely moved; the event matters as the baseline against which the turnaround is measured.",
+        "zh": "完全由市场定价，不额外扣口碑（rep = 0）。她当时的持股还很少，个人财富几乎不受影响；这个事件的意义在于，它是衡量后来那场翻身仗的起点。"
+      },
+      "src": [
+        {
+          "name": "Yahoo Finance · AMD price history",
+          "url": "https://finance.yahoo.com/quote/AMD/history",
+          "type": "market"
+        },
+        {
+          "name": "Wikipedia · AMD",
+          "url": "https://en.wikipedia.org/wiki/AMD",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2013-11-15",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Console chips",
+        "zh": "主机芯片"
+      },
+      "t": {
+        "en": "PlayStation 4 launches on AMD chips, followed a week later by Xbox One",
+        "zh": "PlayStation 4 搭载 AMD 芯片上市，一周后 Xbox One 跟进"
+      },
+      "summary": {
+        "en": "Sony's PlayStation 4 went on sale in North America with a custom AMD processor, and Microsoft's Xbox One followed on November 22. Su, who ran AMD's business units, played a prominent part in winning both designs, which gave the company steady income outside the PC market.",
+        "zh": "索尼 PlayStation 4 在北美开售，用的是 AMD 定制处理器；微软 Xbox One 于 11 月 22 日跟进。当时负责 AMD 各事业部的苏姿丰在拿下这两份订单的过程中起了重要作用，让公司在个人电脑之外有了一块稳定的收入。"
+      },
+      "why": {
+        "en": "The revenue shows up in the share price. The small +1% is for the diversification strategy she was credited with: non-PC products went from about 10% of sales in 2012 to about 40% by early 2015.",
+        "zh": "收入已反映在股价里。口碑系数小幅 +1%，对应外界归功于她的多元化战略：非 PC 产品占销售额的比例从 2012 年的约 10% 升到 2015 年初的约 40%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Lisa Su",
+          "url": "https://en.wikipedia.org/wiki/Lisa_Su",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · PlayStation 4",
+          "url": "https://en.wikipedia.org/wiki/PlayStation_4",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2014-10-08",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.02,
+      "s": {
+        "en": "Becomes AMD CEO",
+        "zh": "出任 AMD CEO"
+      },
+      "t": {
+        "en": "Named president and chief executive officer of AMD",
+        "zh": "出任 AMD 总裁兼首席执行官"
+      },
+      "summary": {
+        "en": "AMD's board appointed her president and chief executive, effective immediately, in place of Rory Read. She had been chief operating officer since July. The stock closed at $3.28 that day and fell about 10% the next day; the whole company was worth less than $3 billion.",
+        "zh": "AMD 董事会任命她为总裁兼首席执行官，即日生效，接替罗瑞·里德。此前她自 7 月起担任首席运营官。当天股价收于 3.28 美元，次日下跌约 10%；整家公司的市值不到 30 亿美元。"
+      },
+      "why": {
+        "en": "Magnitude 5: the job she is known for. Human capital steps up to the level of a public-company CEO. The +2% on the reputation coefficient is modest because few people at the time expected the turnaround to work.",
+        "zh": "5 级事件：她最为人所知的职位。人力资本跃升到上市公司 CEO 的水平。口碑系数只 +2%，因为当时很少有人相信她能把公司救回来。"
+      },
+      "fin": {
+        "en": "Her counted stake was about 0.2% of AMD, worth roughly $5 million.",
+        "zh": "按口径计算，她当时持有 AMD 约 0.2%，价值约 500 万美元。"
+      },
+      "src": [
+        {
+          "name": "AMD · Press release: AMD appoints Dr. Lisa Su as president and CEO",
+          "url": "https://ir.amd.com/news-events/press-releases/detail/568/amd-appoints-dr-lisa-su-as-president-and-chief-executive-officer",
+          "type": "filing"
+        },
+        {
+          "name": "SEC EDGAR · AMD Form 8-K (2014-10-08)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000002488/000119312514366751/d802345d8k.htm",
+          "type": "filing"
+        },
+        {
+          "name": "Yahoo Finance · AMD price history",
+          "url": "https://finance.yahoo.com/quote/AMD/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2016-04-21",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "China licensing",
+        "zh": "对华技术授权"
+      },
+      "t": {
+        "en": "Announces a $293 million server-chip licensing venture in China; shares jump 52%",
+        "zh": "宣布在中国成立 2.93 亿美元的服务器芯片授权合资公司，股价大涨 52%"
+      },
+      "summary": {
+        "en": "Alongside first-quarter results, AMD said it would license processor technology to a joint venture with a Chinese investment group, THATIC, for $293 million in milestone payments plus royalties. The stock rose 52% the next day to $3.99, one of the biggest one-day gains in its history.",
+        "zh": "在发布一季度财报的同时，AMD 宣布把处理器技术授权给与中国投资机构天津海光（THATIC）成立的合资公司，可按进度获得 2.93 亿美元授权费，另有版税。次日股价上涨 52%，收于 3.99 美元，是公司历史上最大的单日涨幅之一。"
+      },
+      "why": {
+        "en": "Fully priced by the market (rep = 0). It was the first sign that investors believed the company would stay solvent long enough to ship its new Zen processors.",
+        "zh": "完全由市场定价（rep = 0）。这是投资者第一次相信，公司能撑到新一代 Zen 处理器上市。"
+      },
+      "src": [
+        {
+          "name": "AMD · Press release: 2016 first quarter results",
+          "url": "https://ir.amd.com/news-events/press-releases/detail/683/amd-reports-2016-first-quarter-results",
+          "type": "filing"
+        },
+        {
+          "name": "Yahoo Finance · AMD price history",
+          "url": "https://finance.yahoo.com/quote/AMD/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2017-03-02",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.04,
+      "s": {
+        "en": "Ryzen launch",
+        "zh": "Ryzen 发布"
+      },
+      "t": {
+        "en": "Ryzen 7 desktop processors go on sale, built on the new Zen core",
+        "zh": "基于全新 Zen 核心的 Ryzen 7 桌面处理器上市"
+      },
+      "summary": {
+        "en": "AMD released its Ryzen 7 chips, the first products based on the Zen design that the company had been developing for about four years. For the first time in a decade AMD had desktop processors that could compete with Intel's best on performance.",
+        "zh": "AMD 推出 Ryzen 7 处理器，这是公司花了大约四年研发的 Zen 架构的第一批产品。十年来 AMD 第一次拥有在性能上能与英特尔高端产品抗衡的桌面处理器。"
+      },
+      "why": {
+        "en": "Magnitude 5: the product the turnaround is remembered for. The revenue is in the share price, which had already risen about fivefold in the year before launch. The +4% on the reputation coefficient is for delivering a long, risky engineering bet on schedule.",
+        "zh": "5 级事件：这场翻身仗最具代表性的产品。收入已反映在股价里——发布前一年股价已经涨了约五倍。口碑系数 +4%，是因为她把一场周期长、风险高的工程豪赌按时兑现了。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Ryzen",
+          "url": "https://en.wikipedia.org/wiki/Ryzen",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · AMD",
+          "url": "https://en.wikipedia.org/wiki/AMD",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2017-06-20",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "EPYC launch",
+        "zh": "EPYC 发布"
+      },
+      "t": {
+        "en": "Launches EPYC server processors and returns to the data center",
+        "zh": "发布 EPYC 服务器处理器，重返数据中心"
+      },
+      "summary": {
+        "en": "At an event in Austin, AMD launched the EPYC 7000 series, server chips with up to 32 cores, with HPE, Dell and other large server makers announcing systems. AMD's share of the server market had fallen to almost nothing before this.",
+        "zh": "在奥斯汀的发布会上，AMD 推出最多 32 核的 EPYC 7000 系列服务器芯片，惠普企业、戴尔等大型服务器厂商同步发布了新机型。在此之前，AMD 在服务器市场的份额几乎归零。"
+      },
+      "why": {
+        "en": "The start of the business that later became AMD's largest. The value arrives slowly through the share price; +2% on the reputation coefficient for re-entering a market most analysts had written off.",
+        "zh": "这是后来成为 AMD 最大业务的起点。价值通过股价慢慢体现；重新打入多数分析师已经放弃的市场，口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "AMD · Press release: EPYC datacenter processor launches",
+          "url": "https://ir.amd.com/news-events/press-releases/detail/773/amd-epyc-datacenter-processor-launches-with-record-setting-performance-optimized-platforms-and-global-server-ecosystem-support",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Epyc",
+          "url": "https://en.wikipedia.org/wiki/Epyc",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2019-07-07",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "7nm Ryzen 3000",
+        "zh": "7 纳米 Ryzen"
+      },
+      "t": {
+        "en": "Ryzen 3000 goes on sale, putting AMD ahead of Intel in manufacturing technology",
+        "zh": "Ryzen 3000 上市，AMD 在制造工艺上领先英特尔"
+      },
+      "summary": {
+        "en": "AMD started selling Ryzen 3000 desktop chips based on the Zen 2 design and made by TSMC on a 7-nanometer process, while Intel was still struggling to move beyond 14 nanometers. Matching server chips followed in August.",
+        "zh": "AMD 开始销售基于 Zen 2 架构、由台积电用 7 纳米工艺代工的 Ryzen 3000 桌面处理器，而英特尔当时仍难以走出 14 纳米。配套的服务器芯片在 8 月跟进。"
+      },
+      "why": {
+        "en": "The market share gains are in the stock. +2% on the reputation coefficient for the earlier decision to move production to TSMC, which paid off here.",
+        "zh": "市场份额的增长已体现在股价里。口碑系数 +2%，对应她此前把生产转向台积电的决定——这一步在这里得到了回报。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Zen 2",
+          "url": "https://en.wikipedia.org/wiki/Zen_2",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · AMD",
+          "url": "https://en.wikipedia.org/wiki/AMD",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2020-05-27",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Top-paid CEO",
+        "zh": "薪酬最高的 CEO"
+      },
+      "t": {
+        "en": "First woman to top the Associated Press survey of CEO pay",
+        "zh": "成为首位登顶美联社 CEO 薪酬榜的女性"
+      },
+      "summary": {
+        "en": "The Associated Press and Equilar reported that her 2019 pay package, valued at $58.5 million, was the largest among S&P 500 chief executives, the first time a woman led the survey. Most of it was a one-time stock award tied to performance targets.",
+        "zh": "美联社与 Equilar 的调查显示，她 2019 年的薪酬方案价值 5850 万美元，在标普 500 公司首席执行官中排名第一，这是该榜单首次由女性居首。其中大部分是与业绩目标挂钩的一次性股票奖励。"
+      },
+      "why": {
+        "en": "Awards enter financial capital only when they vest, through the ownership anchors, so there is no jump here. The event mainly raises human capital (her market price as an executive) and adds +1% to the reputation coefficient.",
+        "zh": "股权奖励只有在归属后才通过持股锚点进入金融资本，所以这里没有跳升。这个事件主要抬高人力资本（她作为高管的市场价码），口碑系数 +1%。"
+      },
+      "src": [
+        {
+          "name": "Associated Press via News4JAX · AMD's Lisa Su is first woman to top AP's CEO pay analysis",
+          "url": "https://www.news4jax.com/business/2020/05/27/amds-lisa-su-is-first-woman-to-top-aps-ceo-pay-analysis/",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Lisa Su",
+          "url": "https://en.wikipedia.org/wiki/Lisa_Su",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2020-10-27",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.01,
+      "s": {
+        "en": "Xilinx deal",
+        "zh": "收购赛灵思"
+      },
+      "t": {
+        "en": "Agrees to buy Xilinx in an all-stock deal valued at $35 billion",
+        "zh": "宣布以全股票方式收购赛灵思，交易价值 350 亿美元"
+      },
+      "summary": {
+        "en": "AMD agreed to acquire Xilinx, the leading maker of programmable chips, paying 1.7234 AMD shares for each Xilinx share. It was by far the largest acquisition in AMD's history, made possible by a share price that had risen more than twentyfold in five years.",
+        "zh": "AMD 同意收购可编程芯片龙头赛灵思，每股赛灵思换 1.7234 股 AMD 股票。这是 AMD 历史上规模最大的收购，之所以做得成，是因为公司股价五年里涨了二十多倍。"
+      },
+      "why": {
+        "en": "The stock fell about 4% on the day, which the price series carries. The new shares diluted her ownership fraction when the deal closed in 2022. +1% on the reputation coefficient for the scale of the move.",
+        "zh": "当天股价下跌约 4%，由股价序列反映。交易在 2022 年完成时增发的新股稀释了她的持股比例。这一步的魄力带来口碑系数 +1%。"
+      },
+      "src": [
+        {
+          "name": "AMD · Press release: AMD to acquire Xilinx",
+          "url": "https://ir.amd.com/news-events/press-releases/detail/977/amd-to-acquire-xilinx-creating-the-industrys-high-performance-computing-leader",
+          "type": "filing"
+        },
+        {
+          "name": "Yahoo Finance · AMD price history",
+          "url": "https://finance.yahoo.com/quote/AMD/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2021",
+      "p": "year",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.02,
+      "s": {
+        "en": "Noyce Medal",
+        "zh": "诺伊斯奖章"
+      },
+      "t": {
+        "en": "Becomes the first woman to receive the IEEE Robert N. Noyce Medal",
+        "zh": "成为首位获得 IEEE 罗伯特·诺伊斯奖章的女性"
+      },
+      "summary": {
+        "en": "The IEEE gave her its Robert N. Noyce Medal, one of the highest honors in the semiconductor field, for leadership in high-performance processors. No woman had received it before.",
+        "zh": "IEEE 授予她罗伯特·诺伊斯奖章，这是半导体领域的最高荣誉之一，表彰她在高性能处理器方面的领导作用。此前没有女性获得过这一奖章。"
+      },
+      "why": {
+        "en": "A pure reputation event that the share price cannot see: +2%. Only the award year is used.",
+        "zh": "纯声誉事件，股价反映不了：口碑系数 +2%。日期只取获奖年份。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · IEEE Robert N. Noyce Medal",
+          "url": "https://en.wikipedia.org/wiki/IEEE_Robert_N._Noyce_Medal",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Lisa Su",
+          "url": "https://en.wikipedia.org/wiki/Lisa_Su",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2022-02-14",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.01,
+      "s": {
+        "en": "Xilinx closes",
+        "zh": "赛灵思交割"
+      },
+      "t": {
+        "en": "Completes the Xilinx acquisition and becomes chair of the board",
+        "zh": "完成对赛灵思的收购，并出任董事会主席"
+      },
+      "summary": {
+        "en": "AMD closed the Xilinx purchase, issuing roughly 428 million new shares; at AMD's share price that day the deal was worth close to $50 billion. In the same month Su added the title of board chair to that of chief executive.",
+        "zh": "AMD 完成对赛灵思的收购，增发约 4.28 亿股新股；按当天股价计算，交易价值接近 500 亿美元。同月，苏姿丰在首席执行官之外兼任董事会主席。"
+      },
+      "why": {
+        "en": "Shares outstanding jump from about 1.2 billion to about 1.6 billion, so her ownership fraction drops by a quarter on this date while the value of her stake is unchanged. +1% for holding both top posts.",
+        "zh": "总股本从约 12 亿股跳到约 16 亿股，她的持股比例在这一天下降约四分之一，但持股市值不变。身兼两个最高职位，口碑系数 +1%。"
+      },
+      "fin": {
+        "en": "Ownership anchor: about 0.46% before closing, about 0.35% after.",
+        "zh": "持股锚点：交割前约 0.46%，交割后约 0.35%。"
+      },
+      "src": [
+        {
+          "name": "AMD · Press release: AMD completes acquisition of Xilinx",
+          "url": "https://ir.amd.com/news-events/press-releases/detail/1047/amd-completes-acquisition-of-xilinx",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Lisa Su",
+          "url": "https://en.wikipedia.org/wiki/Lisa_Su",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2022-02-15",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.03,
+      "s": {
+        "en": "Passes Intel",
+        "zh": "市值超英特尔"
+      },
+      "t": {
+        "en": "AMD's market value passes Intel's for the first time",
+        "zh": "AMD 市值首次超过英特尔"
+      },
+      "summary": {
+        "en": "The day after the Xilinx shares were issued, AMD stock rose about 6% and the company ended the day worth about $197.8 billion, slightly more than Intel. Seven years earlier AMD had been worth less than $3 billion.",
+        "zh": "赛灵思换股完成后的第二天，AMD 股价上涨约 6%，收盘市值约 1978 亿美元，略高于英特尔。七年前，AMD 的市值还不到 30 亿美元。"
+      },
+      "why": {
+        "en": "The price move is in the stock. The symbolic moment, the smaller rival overtaking the company that had dominated it for fifty years, is what the market cannot price: +3% on the reputation coefficient. The lead changed hands several times in 2022.",
+        "zh": "股价变动已在股票里。市场无法定价的是它的象征意义——被压制了五十年的小对手反超老大：口碑系数 +3%。2022 年内两家的市值排名又来回交替过几次。"
+      },
+      "src": [
+        {
+          "name": "Tom's Hardware · AMD's market cap surpasses Intel for the first time in history",
+          "url": "https://www.tomshardware.com/news/amds-market-cap-surpasses-intel",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · AMD price history",
+          "url": "https://finance.yahoo.com/quote/AMD/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2022-04-07",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.02,
+      "s": {
+        "en": "MIT names Bldg 12",
+        "zh": "MIT 大楼冠名"
+      },
+      "t": {
+        "en": "MIT announces that Building 12, home of MIT.nano, will carry her name",
+        "zh": "麻省理工宣布以她的名字命名 MIT.nano 所在的 12 号楼"
+      },
+      "summary": {
+        "en": "MIT said its nanotechnology building would become the Lisa T. Su Building after a gift from her. The institute described her as the first alumna to make a gift for a building that bears her own name.",
+        "zh": "麻省理工宣布，在她捐赠之后，学院的纳米技术大楼将命名为“苏姿丰楼”。校方称，她是第一位出资并以自己名字冠名大楼的女校友。"
+      },
+      "why": {
+        "en": "The amount of the gift was not published, so nothing is deducted from financial capital. +2% on the reputation coefficient.",
+        "zh": "捐赠金额没有公布，因此不从金融资本中扣减。口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "MIT News · MIT to name Building 12, home of MIT.nano, in honor of Lisa Su",
+          "url": "https://news.mit.edu/2022/mit-name-building-12-home-mitnano-honor-lisa-su-0407",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2022-10-06",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "PC slump warning",
+        "zh": "PC 寒冬预警"
+      },
+      "t": {
+        "en": "Warns that quarterly revenue will miss by about $1 billion as PC demand collapses",
+        "zh": "预警季度收入将比指引少约 10 亿美元，PC 需求骤降"
+      },
+      "summary": {
+        "en": "AMD said third-quarter revenue would be about $5.6 billion instead of the $6.7 billion it had forecast, because PC makers were cutting chip orders to clear inventory. The stock fell about 14% the next day and ended 2022 down more than half.",
+        "zh": "AMD 表示三季度收入约为 56 亿美元，低于此前预计的 67 亿美元，原因是电脑厂商为清库存削减了芯片订单。次日股价下跌约 14%，2022 年全年跌幅超过一半。"
+      },
+      "why": {
+        "en": "Fully priced by the market (rep = 0). Her stake lost more than half its value over the year, the largest fall of her time as chief executive up to then.",
+        "zh": "完全由市场定价（rep = 0）。她的持股市值在这一年里缩水一半以上，是她出任 CEO 以来到当时为止最大的一次回撤。"
+      },
+      "src": [
+        {
+          "name": "SEC EDGAR · AMD preliminary third quarter 2022 results (8-K exhibit)",
+          "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248822000163/q322earnings_prelimxfina.htm",
+          "type": "filing"
+        },
+        {
+          "name": "CNBC · AMD warns of third-quarter revenue shortfall",
+          "url": "https://www.cnbc.com/2022/10/06/amd-warns-of-third-quarter-revenue-shortfall-on-weaker-pc-demand-supply-chain-issues.html",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · AMD price history",
+          "url": "https://finance.yahoo.com/quote/AMD/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2023-06-13",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "MI300X preview",
+        "zh": "MI300X 亮相"
+      },
+      "t": {
+        "en": "Previews the Instinct MI300X accelerator for generative AI",
+        "zh": "预览面向生成式 AI 的 Instinct MI300X 加速器"
+      },
+      "summary": {
+        "en": "At a data-center event in San Francisco, Su showed the MI300X, a graphics-based accelerator with enough memory to run large language models, and said it would launch later in the year. It was AMD's first direct answer to Nvidia's lead in AI chips.",
+        "zh": "在旧金山的数据中心发布会上，苏姿丰展示了 MI300X——一款内存大到足以运行大语言模型的 GPU 加速器，并表示将在年内上市。这是 AMD 对英伟达 AI 芯片领先地位的第一次正面回应。"
+      },
+      "why": {
+        "en": "The stock fell about 4% on the day, which is in the price. +1% for committing the company publicly to the AI accelerator market.",
+        "zh": "当天股价下跌约 4%，这已在价格里。公开把公司押向 AI 加速器市场，口碑系数 +1%。"
+      },
+      "src": [
+        {
+          "name": "AMD · Press release (2023-06-13): data center and AI portfolio",
+          "url": "https://www.amd.com/en/newsroom/press-releases/2023-6-13-amd-expands-leadership-data-center-portfolio-with-.html",
+          "type": "filing"
+        },
+        {
+          "name": "Yahoo Finance · AMD price history",
+          "url": "https://finance.yahoo.com/quote/AMD/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2023-12-06",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.01,
+      "s": {
+        "en": "MI300 ships",
+        "zh": "MI300 上市"
+      },
+      "t": {
+        "en": "Launches the Instinct MI300 series with Microsoft and Oracle as customers",
+        "zh": "正式发布 Instinct MI300 系列，微软和甲骨文成为客户"
+      },
+      "summary": {
+        "en": "At its \"Advancing AI\" event AMD announced that MI300X accelerators were available, with Microsoft offering them in its Azure cloud and Oracle planning to do the same. The stock rose about 10% the next day.",
+        "zh": "在“Advancing AI”发布会上，AMD 宣布 MI300X 加速器正式供货，微软在 Azure 云上提供相关实例，甲骨文也计划跟进。次日股价上涨约 10%。"
+      },
+      "why": {
+        "en": "The start of AMD's AI accelerator revenue, priced by the stock. +1% on the reputation coefficient for getting large cloud buyers to adopt a second supplier.",
+        "zh": "AMD 的 AI 加速器收入从这里起步，由股价定价。让大型云厂商接受“第二供应商”，口碑系数 +1%。"
+      },
+      "src": [
+        {
+          "name": "AMD · Press release: Instinct MI300 series",
+          "url": "https://ir.amd.com/news-events/press-releases/detail/1173/amd-delivers-leadership-portfolio-of-data-center-ai",
+          "type": "filing"
+        },
+        {
+          "name": "Yahoo Finance · AMD price history",
+          "url": "https://finance.yahoo.com/quote/AMD/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2024-04",
+      "p": "month",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Billionaire",
+        "zh": "身家过十亿"
+      },
+      "t": {
+        "en": "Forbes lists her as a billionaire for the first time, at about $1.3 billion",
+        "zh": "《福布斯》首次把她列为亿万富翁，身家约 13 亿美元"
+      },
+      "summary": {
+        "en": "Forbes estimated her fortune at about $1.3 billion after AMD shares roughly tripled from their 2022 low. She is one of very few people to become a billionaire as a hired chief executive rather than as a founder; her stake in AMD was only about 0.3%.",
+        "zh": "在 AMD 股价从 2022 年低点上涨约两倍之后，《福布斯》估计她的身家约为 13 亿美元。靠受聘担任 CEO 而不是创业成为亿万富翁的人极少，她是其中之一；她持有的 AMD 股份只有约 0.3%。"
+      },
+      "why": {
+        "en": "A check on the model rather than a new input: stake plus estimated cash from earlier share sales gives about $1.2 billion for this month, close to the Forbes figure. +2% on the reputation coefficient for the milestone itself.",
+        "zh": "这更像是对模型的一次校验而不是新输入：持股加上此前售股所得现金的估算，这个月合计约 12 亿美元，与《福布斯》的数字接近。里程碑本身带来口碑系数 +2%。"
+      },
+      "fin": {
+        "en": "Model total for April 2024: about $1.2 billion against Forbes' $1.3 billion.",
+        "zh": "模型在 2024 年 4 月的合计值约 12 亿美元，《福布斯》为 13 亿美元。"
+      },
+      "src": [
+        {
+          "name": "NBC Los Angeles (CNBC Make It) · A decade ago she took over a struggling chipmaker, now she's worth $1 billion",
+          "url": "https://www.nbclosangeles.com/news/business/money-report/a-decade-ago-she-took-over-a-struggling-chipmaker-now-shes-worth-1-billion-everything-takes-time/3582890/",
+          "type": "news"
+        },
+        {
+          "name": "Tom's Hardware · AMD CEO Lisa Su reportedly hits $1 billion net worth",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/amd-ceo-lisa-su-reportedly-hits-dollar1-billion-net-worth-on-back-of-ai-boom",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2024-08-19",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "ZT Systems deal",
+        "zh": "收购 ZT 系统"
+      },
+      "t": {
+        "en": "Agrees to buy server builder ZT Systems for $4.9 billion",
+        "zh": "宣布以 49 亿美元收购服务器厂商 ZT Systems"
+      },
+      "summary": {
+        "en": "AMD agreed to buy ZT Systems, a company that designs and builds server racks for the largest cloud operators, in cash and stock. The aim was to sell complete AI systems instead of chips alone. The deal closed on March 31, 2025, and AMD said it would sell off ZT's manufacturing operations.",
+        "zh": "AMD 同意以现金加股票收购 ZT Systems，这家公司为大型云服务商设计和制造整机柜服务器。收购的目的是从只卖芯片转向出售完整的 AI 系统。交易于 2025 年 3 月 31 日完成，AMD 表示会把 ZT 的制造业务转手出售。"
+      },
+      "why": {
+        "en": "The stock rose about 4% on the day, carried by the price. +1% on the reputation coefficient; the systems expertise later underpinned the Helios rack product.",
+        "zh": "当天股价上涨约 4%，由价格反映。口碑系数 +1%；这支系统设计团队后来支撑起了 Helios 整机柜产品。"
+      },
+      "src": [
+        {
+          "name": "AMD · Press release: AMD completes acquisition of ZT Systems",
+          "url": "https://ir.amd.com/news-events/press-releases/detail/1240/amd-completes-acquisition-of-zt-systems",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · AMD",
+          "url": "https://en.wikipedia.org/wiki/AMD",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2024-12-10",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.04,
+      "s": {
+        "en": "TIME CEO of Year",
+        "zh": "时代年度 CEO"
+      },
+      "t": {
+        "en": "Named TIME's CEO of the Year for 2024",
+        "zh": "当选《时代》周刊 2024 年度 CEO"
+      },
+      "summary": {
+        "en": "TIME chose her as its CEO of the Year, pointing to the nearly fifty-fold rise in AMD shares since she took over and to the company's growing AI chip business. The magazine also noted that AMD remained a distant second to Nvidia in that market.",
+        "zh": "《时代》周刊把她选为年度 CEO，理由是她上任以来 AMD 股价上涨近五十倍，以及公司不断增长的 AI 芯片业务。杂志同时指出，AMD 在这个市场上仍远远落后于英伟达。"
+      },
+      "why": {
+        "en": "A reputation event the stock does not carry; AMD shares actually fell during 2024. +4% on the reputation coefficient for an honor covered worldwide.",
+        "zh": "股价反映不了的声誉事件——2024 年 AMD 股价其实是下跌的。这项荣誉被全球媒体报道，口碑系数 +4%。"
+      },
+      "src": [
+        {
+          "name": "TIME · CEO of the Year 2024: Lisa Su",
+          "url": "https://time.com/7200909/ceo-of-the-year-2024-lisa-su/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2025-04-15",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "China export curbs",
+        "zh": "对华出口管制"
+      },
+      "t": {
+        "en": "Discloses a charge of up to $800 million from new U.S. limits on AI chip exports to China",
+        "zh": "披露美国对华 AI 芯片出口新规将带来最多 8 亿美元损失"
+      },
+      "summary": {
+        "en": "AMD told investors that a new U.S. licence requirement for shipping its MI308 accelerators to China could cost it up to about $800 million in inventory and purchase commitments. The stock fell about 7% the next day, a week after touching its lowest level in two years.",
+        "zh": "AMD 告知投资者，美国对向中国出口 MI308 加速器新设的许可要求，可能导致最多约 8 亿美元的库存和采购承诺损失。次日股价下跌约 7%；一周前股价刚刚触及两年来的最低点。"
+      },
+      "why": {
+        "en": "Fully priced by the market (rep = 0). The cause was government policy, not a management decision, so no reputation shock is applied.",
+        "zh": "完全由市场定价（rep = 0）。起因是政府政策而非管理层决策，不施加口碑冲击。"
+      },
+      "src": [
+        {
+          "name": "SEC EDGAR · AMD Form 8-K (2025-04-15)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248825000039/amd-20250415.htm",
+          "type": "filing"
+        },
+        {
+          "name": "TechCrunch · AMD takes $800M charge on US license requirement for AI chips",
+          "url": "https://techcrunch.com/2025/04/16/amd-takes-800m-charge-on-us-license-requirement-for-ai-chips/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · AMD price history",
+          "url": "https://finance.yahoo.com/quote/AMD/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2025-10-06",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.03,
+      "s": {
+        "en": "OpenAI: 6 GW",
+        "zh": "OpenAI 6 吉瓦"
+      },
+      "t": {
+        "en": "Signs a 6-gigawatt chip supply agreement with OpenAI; shares rise 24%",
+        "zh": "与 OpenAI 签下 6 吉瓦芯片供应协议，股价大涨 24%"
+      },
+      "summary": {
+        "en": "OpenAI agreed to deploy 6 gigawatts of AMD accelerators over several years, starting with 1 gigawatt of MI450 chips in the second half of 2026. In return AMD gave OpenAI a warrant for up to 160 million shares, about 10% of the company, vesting as purchases and share-price targets are met. The stock rose 23.7% to $203.71.",
+        "zh": "OpenAI 同意在数年内部署 6 吉瓦的 AMD 加速器，首批 1 吉瓦的 MI450 芯片将在 2026 年下半年交付。作为交换，AMD 向 OpenAI 发行最多 1.6 亿股的认股权证，约占公司股份的 10%，按采购进度和股价目标分批生效。股价上涨 23.7%，收于 203.71 美元。"
+      },
+      "why": {
+        "en": "Magnitude 5: the deal that made AMD a first-rank AI supplier. The gain is in the stock, and her stake rose by roughly $180 million in a day. The +3% is for winning the customer; critics called the warrant structure circular financing, which keeps the score below the maximum.",
+        "zh": "5 级事件：这笔交易让 AMD 成为第一梯队的 AI 供应商。涨幅已在股价里，她的持股一天内增值约 1.8 亿美元。口碑系数 +3% 对应的是拿下这个客户；批评者认为认股权证的安排属于“循环融资”，因此没有给到上限。"
+      },
+      "fin": {
+        "en": "Stake value about $0.9 billion at the close.",
+        "zh": "收盘时持股市值约 9 亿美元。"
+      },
+      "src": [
+        {
+          "name": "OpenAI · AMD and OpenAI announce strategic partnership",
+          "url": "https://openai.com/index/openai-amd-strategic-partnership/",
+          "type": "filing"
+        },
+        {
+          "name": "The Register · OpenAI and AMD join forces",
+          "url": "https://www.theregister.com/2025/10/06/openai_and_amd_join_forces/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · AMD price history",
+          "url": "https://finance.yahoo.com/quote/AMD/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2025-12-11",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.03,
+      "s": {
+        "en": "TIME Person of Yr",
+        "zh": "时代年度人物"
+      },
+      "t": {
+        "en": "Named among the \"Architects of AI\", TIME's Person of the Year for 2025",
+        "zh": "作为“AI 的缔造者”之一入选《时代》周刊 2025 年度人物"
+      },
+      "summary": {
+        "en": "TIME gave its Person of the Year title to a group it called the Architects of AI. Su appears on the cover with Jensen Huang, Elon Musk, Mark Zuckerberg, Dario Amodei and other industry leaders.",
+        "zh": "《时代》周刊把年度人物授予一个群体——“AI 的缔造者”。苏姿丰与黄仁勋、马斯克、扎克伯格、达里奥·阿莫代伊等业界领袖一同出现在封面上。"
+      },
+      "why": {
+        "en": "A shared honor, so it scores below her individual award a year earlier: +3% on the reputation coefficient. The stock did not move on the day.",
+        "zh": "这是集体荣誉，所以得分低于一年前她个人获得的奖项：口碑系数 +3%。当天股价没有变化。"
+      },
+      "src": [
+        {
+          "name": "Fortune · TIME names the Architects of AI as its 2025 Person of the Year",
+          "url": "https://fortune.com/2025/12/11/time-names-the-architects-of-ai-as-its-2025-person-of-the-year/",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Lisa Su",
+          "url": "https://en.wikipedia.org/wiki/Lisa_Su",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2026-02-03",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "-17% on outlook",
+        "zh": "指引不及预期"
+      },
+      "t": {
+        "en": "Record quarter, but shares fall 17% on the outlook",
+        "zh": "季度业绩创纪录，但股价因指引下跌 17%"
+      },
+      "summary": {
+        "en": "AMD reported fourth-quarter 2025 revenue of about $10.3 billion, the first time it passed $10 billion in a quarter, but forecast about $9.8 billion for the following quarter, a step down. Analysts also noted that part of the upside came from chip sales to China. The stock fell 17.3% the next day to $200.19.",
+        "zh": "AMD 公布 2025 年四季度收入约 103 亿美元，单季首次突破 100 亿美元，但预计下一季度收入约 98 亿美元，环比下降。分析师还指出，超预期的部分有一些来自对华芯片销售。次日股价下跌 17.3%，收于 200.19 美元。"
+      },
+      "why": {
+        "en": "Fully priced by the market (rep = 0). Her stake lost about $180 million in a day.",
+        "zh": "完全由市场定价（rep = 0）。她的持股一天内缩水约 1.8 亿美元。"
+      },
+      "src": [
+        {
+          "name": "The Motley Fool · Stock market today, Feb. 4: AMD slides",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/02/04/stock-market-today-feb-4-advanced-micro-devices-slides-as-wall-street-adjusts-ai-revenue-expectations/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · AMD fundamentals praised by analysts after Q4 report sparks sell-off",
+          "url": "https://finance.yahoo.com/news/amd-fundamentals-praised-analysts-q4-183900771.html",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · AMD price history",
+          "url": "https://finance.yahoo.com/quote/AMD/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2026-02-24",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.01,
+      "s": {
+        "en": "Meta: 6 GW",
+        "zh": "Meta 6 吉瓦"
+      },
+      "t": {
+        "en": "Signs a second 6-gigawatt agreement, with Meta",
+        "zh": "与 Meta 签下第二份 6 吉瓦协议"
+      },
+      "summary": {
+        "en": "Meta agreed to deploy up to 6 gigawatts of AMD accelerators, beginning with custom MI450-based chips in the second half of 2026, and to be the lead customer for AMD's next server processors. As with OpenAI, AMD issued a warrant for up to 160 million shares tied to purchases and share-price targets. The stock rose 8.8%.",
+        "zh": "Meta 同意部署最多 6 吉瓦的 AMD 加速器，首批基于 MI450 的定制芯片将在 2026 年下半年交付，并成为 AMD 下一代服务器处理器的首发客户。与 OpenAI 的交易一样，AMD 发行了最多 1.6 亿股、与采购量和股价目标挂钩的认股权证。股价上涨 8.8%。"
+      },
+      "why": {
+        "en": "Priced by the stock. If both warrants vest in full, existing shareholders, including Su, are diluted by close to a fifth; the model will show that through the shares-outstanding anchors as it happens. +1% on the reputation coefficient.",
+        "zh": "由股价定价。如果两份认股权证全部生效，包括苏姿丰在内的现有股东将被稀释近五分之一；模型会在实际发生时通过总股本锚点体现。口碑系数 +1%。"
+      },
+      "src": [
+        {
+          "name": "AMD · AMD and Meta announce expanded strategic partnership",
+          "url": "https://newsroom.amd.com/news/amd-and-meta-announce-expanded-strategic-partnersh/",
+          "type": "filing"
+        },
+        {
+          "name": "The Register · AMD copy-pastes 6 GW chips-for-stock deal in new Meta agreement",
+          "url": "https://www.theregister.com/2026/02/24/amd_copypastes_openai_6gw_chipsforstock/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · AMD price history",
+          "url": "https://finance.yahoo.com/quote/AMD/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2026-05-05",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "+19% on Q1",
+        "zh": "一季报后涨 19%"
+      },
+      "t": {
+        "en": "First-quarter results and outlook send shares up 19% to a record",
+        "zh": "一季度业绩和指引推动股价上涨 19%，创历史新高"
+      },
+      "summary": {
+        "en": "AMD reported first-quarter revenue of $10.25 billion, up 38% from a year earlier, with data-center revenue up 57%, and forecast about $11.2 billion for the next quarter, well above expectations. The stock rose 18.6% the next day to $421.39.",
+        "zh": "AMD 公布一季度收入 102.5 亿美元，同比增长 38%，其中数据中心收入增长 57%；公司预计下一季度收入约 112 亿美元，远高于市场预期。次日股价上涨 18.6%，收于 421.39 美元。"
+      },
+      "why": {
+        "en": "Fully priced by the market (rep = 0). Her stake gained close to $300 million in a day. Two weeks later Forbes was reported to put her fortune at about $2.4 billion, in line with the model.",
+        "zh": "完全由市场定价（rep = 0）。她的持股一天内增值近 3 亿美元。两周后有报道称《福布斯》估计她的身家约为 24 亿美元，与模型结果一致。"
+      },
+      "src": [
+        {
+          "name": "AMD · AMD reports first quarter 2026 financial results",
+          "url": "https://newsroom.amd.com/news/amd-reports-first-quarter-2026-financial-results/",
+          "type": "filing"
+        },
+        {
+          "name": "SiliconANGLE · AMD's stock rises on surging demand for CPUs and GPUs",
+          "url": "https://siliconangle.com/2026/05/05/amds-stock-rises-surging-demand-cpus-gpus-ai-workloads/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · AMD price history",
+          "url": "https://finance.yahoo.com/quote/AMD/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2026-09-21",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.04,
+      "s": {
+        "en": "$1 trillion AMD",
+        "zh": "AMD 市值破万亿"
+      },
+      "t": {
+        "en": "AMD's market value passes $1 trillion",
+        "zh": "AMD 市值突破 1 万亿美元"
+      },
+      "summary": {
+        "en": "AMD shares rose about 10% to $615.52, taking the company's value above $1 trillion for the first time, the fourth U.S. chip company to reach that level. When Su became chief executive in 2014 the company was worth less than $3 billion. The value slipped back under the line in the weeks that followed.",
+        "zh": "AMD 股价上涨约 10%，收于 615.52 美元，公司市值首次突破 1 万亿美元，成为第四家达到这一水平的美国芯片公司。2014 年苏姿丰出任 CEO 时，公司市值还不到 30 亿美元。此后几周，市值又回落到这条线以下。"
+      },
+      "why": {
+        "en": "Magnitude 5. The money is in the stock: her stake was worth about $2.5 billion at the close. The +4% on the reputation coefficient is for the full arc, a more than 300-fold rise in company value under one hired chief executive.",
+        "zh": "5 级事件。钱已在股价里：收盘时她的持股约值 25 亿美元。口碑系数 +4% 对应的是整段历程——一位受聘的 CEO 任内，公司市值增长 300 多倍。"
+      },
+      "fin": {
+        "en": "Stake about $2.5 billion; model total about $3.0 billion.",
+        "zh": "持股约 25 亿美元；模型合计约 30 亿美元。"
+      },
+      "src": [
+        {
+          "name": "The Register · Perpetual underdog AMD joins the $1T club",
+          "url": "https://www.theregister.com/systems/2026/09/21/perpetual-underdog-amd-nips-at-nvidias-heels-as-it-joins-the-1t-club/5297998",
+          "type": "news"
+        },
+        {
+          "name": "PC Gamer · AMD's market cap just blasted through the $1 trillion barrier",
+          "url": "https://www.pcgamer.com/hardware/processors/amds-market-cap-just-blasted-through-the-usd1-trillion-barrier/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · AMD price history",
+          "url": "https://finance.yahoo.com/quote/AMD/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2026-09-28",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Buys World Labs",
+        "zh": "李飞飞加盟"
+      },
+      "t": {
+        "en": "Agrees to buy Fei-Fei Li's World Labs for about $8.2 billion in stock",
+        "zh": "宣布以约 82 亿美元股票收购李飞飞创办的 World Labs"
+      },
+      "summary": {
+        "en": "AMD agreed to acquire World Labs, an AI startup that builds models of three-dimensional environments, in an all-stock deal. Founder Fei-Fei Li was to join AMD as executive vice president and chief scientist. It is AMD's second-largest acquisition after Xilinx and was reported complete on November 16.",
+        "zh": "AMD 同意以全股票方式收购 World Labs，这是一家开发三维环境模型的 AI 创业公司。创始人李飞飞将加入 AMD，出任执行副总裁兼首席科学家。这是 AMD 继赛灵思之后的第二大收购，据报道已于 11 月 16 日完成。"
+      },
+      "why": {
+        "en": "The stock fell about 4% on the day, which the price carries, and the new shares dilute her fraction slightly. A small +1% for bringing a leading AI research group in-house; whether the price was right is not yet known.",
+        "zh": "当天股价下跌约 4%，由价格反映；增发的新股也略微稀释了她的持股比例。把一支顶尖的 AI 研究团队收归旗下，口碑系数小幅 +1%；这个价格值不值，目前还无从判断。"
+      },
+      "src": [
+        {
+          "name": "TechCrunch · AMD will acquire Fei-Fei Li's World Labs for $8.2 billion",
+          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+          "type": "news"
+        },
+        {
+          "name": "Fortune · AMD acquires World Labs",
+          "url": "https://fortune.com/2026/09/28/amd-acquires-world-labs-startup-fei-fei-li-8-2-billion/",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · AMD",
+          "url": "https://en.wikipedia.org/wiki/AMD",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2026-10-08",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.05,
+      "s": {
+        "en": "Medal of Science",
+        "zh": "国家科学奖章"
+      },
+      "t": {
+        "en": "Receives the U.S. National Medal of Science",
+        "zh": "获颁美国国家科学奖章"
+      },
+      "summary": {
+        "en": "She received the National Medal of Science, the highest honor the United States gives to scientists and engineers, at a ceremony in Washington. The citation recognized her leadership in semiconductor engineering and high-performance computing.",
+        "zh": "她在华盛顿的颁奖仪式上获颁国家科学奖章，这是美国授予科学家和工程师的最高荣誉。颁奖词表彰她在半导体工程和高性能计算领域的领导作用。"
+      },
+      "why": {
+        "en": "The highest national recognition of her career and invisible to the share price: +5% on the reputation coefficient.",
+        "zh": "这是她职业生涯中最高的国家级荣誉，股价完全反映不了：口碑系数 +5%。"
+      },
+      "src": [
+        {
+          "name": "AMD · Lisa Su receives the National Medal of Science",
+          "url": "https://newsroom.amd.com/news/lisa-su-national-medal-science/",
+          "type": "filing"
+        },
+        {
+          "name": "The White House · President Trump presents National Medals of Science and National Medals of Technology and Innovation",
+          "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-presents-national-medals-of-science-and-national-medals-of-technology-and-innovation/",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2026-11-03",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 0,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Record Q3",
+        "zh": "三季度创纪录"
+      },
+      "t": {
+        "en": "Record third quarter, followed by a 17% one-day fall in a market-wide sell-off",
+        "zh": "三季度业绩创纪录，随后在全市场抛售中单日下跌 17%"
+      },
+      "summary": {
+        "en": "AMD reported third-quarter revenue of $13.4 billion, up 45%, with data-center revenue almost doubling to $8.5 billion, and forecast about $17 billion for the fourth quarter. Two days later the stock fell 17.3% to $404.40 on a day when the whole market dropped sharply.",
+        "zh": "AMD 公布三季度收入 134 亿美元，同比增长 45%，其中数据中心收入接近翻倍，达到 85 亿美元；公司预计四季度收入约 170 亿美元。两天后，在大盘整体大跌的一天，股价下跌 17.3%，收于 404.40 美元。"
+      },
+      "why": {
+        "en": "Scored as mixed and fully priced (rep = 0): the business results were the best in the company's history, while the share price swung by double digits several times during the month for reasons that mostly lay outside the company.",
+        "zh": "记为好坏参半，完全由市场定价（rep = 0）：经营业绩是公司历史上最好的，但这个月股价多次出现两位数的波动，原因大多在公司之外。"
+      },
+      "src": [
+        {
+          "name": "AMD · AMD reports third quarter 2026 financial results",
+          "url": "https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results",
+          "type": "filing"
+        },
+        {
+          "name": "Trefis · What just happened to AMD stock? (2026-11-06)",
+          "url": "https://www.trefis.com/stock/amd/articles/623346/what-just-happened-to-amd-stock/2026-11-06",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · AMD price history",
+          "url": "https://finance.yahoo.com/quote/AMD/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2026-11-12",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.02,
+      "s": {
+        "en": "Yahoo CEO of Year",
+        "zh": "雅虎财经年度 CEO"
+      },
+      "t": {
+        "en": "Named Yahoo Finance's CEO of the Year for 2026",
+        "zh": "当选雅虎财经 2026 年度 CEO"
+      },
+      "summary": {
+        "en": "Yahoo Finance named her its CEO of the Year, citing the rise in AMD shares during 2026 and the company's brief spell above $1 trillion in value. A report the next day put the Forbes estimate of her fortune at about $3 billion.",
+        "zh": "雅虎财经把她评为年度 CEO，理由是 2026 年 AMD 股价的涨幅以及公司市值一度突破 1 万亿美元。次日有报道称，《福布斯》对她身家的估算约为 30 亿美元。"
+      },
+      "why": {
+        "en": "Ordinary good press on top of larger honors the same year: +2% on the reputation coefficient. With the stock at $585 that day the model gives about $2.9 billion, close to the reported Forbes figure.",
+        "zh": "在同年更重要的荣誉之外，这属于普通的正面报道：口碑系数 +2%。当天股价为 585 美元，模型算出约 29 亿美元，与报道中的《福布斯》数字接近。"
+      },
+      "fin": {
+        "en": "Model total about $2.9 billion against a reported Forbes estimate of about $3 billion.",
+        "zh": "模型合计约 29 亿美元，报道中的《福布斯》估算约 30 亿美元。"
+      },
+      "src": [
+        {
+          "name": "Gulf News · Lisa Su, CEO of the year",
+          "url": "https://gulfnews.com/technology/lisa-su-ceo-of-the-year-will-she-replace-jensen-huang-or-compete-head-on-with-nvidia-1.500747033",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Lisa Su",
+          "url": "https://en.wikipedia.org/wiki/Lisa_Su",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2026-11-19",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Short report",
+        "zh": "做空报告"
+      },
+      "t": {
+        "en": "A short-seller report on AMD's China exposure hits the shares",
+        "zh": "一份针对 AMD 中国业务的做空报告打压股价"
+      },
+      "summary": {
+        "en": "Hunterbrook, an investment firm that said it was betting against AMD shares, published a report claiming the company has significant exposure to Chinese customers covered by U.S. export restrictions. AMD had not publicly responded when the report was first covered. The stock fell 7.7% that day and kept falling the next.",
+        "zh": "投资机构 Hunterbrook 发布报告，声称 AMD 对受美国出口管制的中国客户有较大业务敞口；该机构同时表明自己在做空 AMD 股票。报告最初被报道时，AMD 尚未公开回应。当天股价下跌 7.7%，次日继续下跌。"
+      },
+      "why": {
+        "en": "The claims come from a party that profits if the stock falls and have not been confirmed, so no reputation shock is applied (rep = 0). The price move is carried by the stock.",
+        "zh": "这些说法出自股价下跌便可获利的一方，且尚未得到证实，因此不施加口碑冲击（rep = 0）。股价变动由股票自身反映。"
+      },
+      "src": [
+        {
+          "name": "The Motley Fool · Why AMD stock was plunging on Thursday",
+          "url": "https://www.fool.com/investing/2026/11/19/why-amd-stock-was-plunging-on-thursday/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · AMD price history",
+          "url": "https://finance.yahoo.com/quote/AMD/history",
+          "type": "market"
+        }
+      ]
+    }
+  ]
+}

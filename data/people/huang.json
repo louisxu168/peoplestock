@@ -1,0 +1,1514 @@
+{
+  "id": "huang",
+  "name": {
+    "en": "Colin Huang",
+    "zh": "黄峥"
+  },
+  "ticker": "PDDH",
+  "born": "1980-01-01",
+  "color": "#FFD84D",
+  "initials": "CH",
+  "tagline": {
+    "en": "Built Pinduoduo and Temu on rock-bottom prices, then left the stage in 2021",
+    "zh": "靠极致低价做出拼多多和 Temu，2021 年退到幕后"
+  },
+  "tags": [
+    {
+      "en": "Pinduoduo founder",
+      "zh": "拼多多创始人"
+    },
+    {
+      "en": "Temu",
+      "zh": "Temu"
+    },
+    {
+      "en": "Ex-Google engineer",
+      "zh": "前谷歌工程师"
+    },
+    {
+      "en": "Stepped back in 2021",
+      "zh": "2021 年卸任"
+    }
+  ],
+  "privates": [
+    {
+      "label": {
+        "en": "Savings, early ventures and pre-IPO Pinduoduo stake (estimate)",
+        "zh": "积蓄、早期创业项目和拼多多上市前股权（估算）"
+      },
+      "until": "2018-07-25",
+      "anchors": [
+        [
+          "2004",
+          20000
+        ],
+        [
+          "2007",
+          3000000
+        ],
+        [
+          "2010",
+          5000000
+        ],
+        [
+          "2015-09",
+          20000000
+        ],
+        [
+          "2016-06",
+          250000000
+        ],
+        [
+          "2017-04",
+          800000000
+        ],
+        [
+          "2018-03-05",
+          5200000000
+        ],
+        [
+          "2018-07-25",
+          9854600000
+        ]
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "sym": "PDD",
+      "label": {
+        "en": "PDD Holdings stake (ADS-equivalent)",
+        "zh": "拼多多控股持股（按 ADS 折算）"
+      },
+      "from": "2018-07-26",
+      "own": [
+        [
+          "2018-07-26",
+          0.4682
+        ],
+        [
+          "2019-03",
+          0.446
+        ],
+        [
+          "2020-02",
+          0.433
+        ],
+        [
+          "2020-06-30",
+          0.433
+        ],
+        [
+          "2020-07-01",
+          0.294
+        ],
+        [
+          "2022-02-28",
+          0.2787
+        ],
+        [
+          "2023-02-28",
+          0.265
+        ],
+        [
+          "2024-02-29",
+          0.254
+        ],
+        [
+          "2025-02-28",
+          0.248
+        ],
+        [
+          "2025-12-31",
+          0.2476
+        ],
+        [
+          "2026-11",
+          0.2476
+        ]
+      ],
+      "shares": [
+        [
+          "2018-07-26",
+          1107786000
+        ],
+        [
+          "2019-03",
+          1162800000
+        ],
+        [
+          "2020-02",
+          1197700000
+        ],
+        [
+          "2020-06-30",
+          1197700000
+        ],
+        [
+          "2020-07-01",
+          1198800000
+        ],
+        [
+          "2022-02-28",
+          1264386000
+        ],
+        [
+          "2023-02-28",
+          1329950000
+        ],
+        [
+          "2024-02-29",
+          1387500000
+        ],
+        [
+          "2025-02-28",
+          1421100000
+        ],
+        [
+          "2025-12-31",
+          1423396000
+        ],
+        [
+          "2026-11",
+          1423396000
+        ]
+      ]
+    }
+  ],
+  "human": [
+    [
+      "1980-01-01",
+      30000
+    ],
+    [
+      "1998",
+      150000
+    ],
+    [
+      "2002",
+      400000
+    ],
+    [
+      "2004",
+      1500000
+    ],
+    [
+      "2007",
+      3000000
+    ],
+    [
+      "2015-09",
+      5000000
+    ],
+    [
+      "2018-07-26",
+      30000000
+    ],
+    [
+      "2020-01",
+      50000000
+    ],
+    [
+      "2021-03-17",
+      30000000
+    ],
+    [
+      "2026-11",
+      30000000
+    ]
+  ],
+  "audience": [
+    [
+      "1980-01-01",
+      0
+    ],
+    [
+      "2007",
+      1000
+    ],
+    [
+      "2015-09",
+      10000
+    ],
+    [
+      "2017",
+      200000
+    ],
+    [
+      "2018-07",
+      2000000
+    ],
+    [
+      "2019",
+      4000000
+    ],
+    [
+      "2021",
+      10000000
+    ],
+    [
+      "2023",
+      12000000
+    ],
+    [
+      "2024-08",
+      20000000
+    ],
+    [
+      "2026-11",
+      20000000
+    ]
+  ],
+  "media": [
+    [
+      "1980-01-01",
+      0
+    ],
+    [
+      "2007",
+      0.1
+    ],
+    [
+      "2015-09",
+      0.3
+    ],
+    [
+      "2017",
+      1
+    ],
+    [
+      "2018-07",
+      6
+    ],
+    [
+      "2020-07",
+      8
+    ],
+    [
+      "2021-03",
+      10
+    ],
+    [
+      "2022",
+      5
+    ],
+    [
+      "2023-11",
+      8
+    ],
+    [
+      "2024-08",
+      14
+    ],
+    [
+      "2025",
+      8
+    ],
+    [
+      "2026-11",
+      7
+    ]
+  ],
+  "chapters": [
+    {
+      "from": "1980-01-01",
+      "t": {
+        "en": "Hangzhou to Wisconsin",
+        "zh": "从杭州到威斯康星"
+      },
+      "desc": {
+        "en": "A factory workers' son tests into Hangzhou's best schools, studies computer science at Zhejiang University and goes to the United States",
+        "zh": "工人家庭的孩子一路考进杭州最好的学校，在浙江大学读计算机，随后赴美留学"
+      }
+    },
+    {
+      "from": "2004",
+      "t": {
+        "en": "Google and first startups",
+        "zh": "谷歌与早期创业"
+      },
+      "desc": {
+        "en": "Joins Google as an engineer, lunches with Warren Buffett, then leaves to start an online electronics shop and other small companies",
+        "zh": "加入谷歌做工程师，跟着段永平与巴菲特吃了顿午餐，之后辞职做电商网站等小公司"
+      }
+    },
+    {
+      "from": "2015-09",
+      "t": {
+        "en": "Building Pinduoduo",
+        "zh": "创办拼多多"
+      },
+      "desc": {
+        "en": "Group buying inside WeChat grows from fruit sales to hundreds of millions of shoppers in under three years",
+        "zh": "借助微信里的拼团，从卖水果做到数亿用户，用了不到三年"
+      }
+    },
+    {
+      "from": "2018-07-26",
+      "t": {
+        "en": "Listed and scaling",
+        "zh": "上市与扩张"
+      },
+      "desc": {
+        "en": "A Nasdaq listing, a counterfeit-goods storm, and subsidies that pull big-city shoppers onto the app",
+        "zh": "纳斯达克上市、假货风波，以及把大城市用户拉进来的“百亿补贴”"
+      }
+    },
+    {
+      "from": "2020-07-01",
+      "t": {
+        "en": "Founder steps back",
+        "zh": "创始人退后"
+      },
+      "desc": {
+        "en": "Gives up the CEO job, hands away a third of his stake, then leaves the board as the company passes Alibaba in shoppers",
+        "zh": "交出 CEO 职位，转出约三分之一持股，又在公司买家数超过阿里之际离开董事会"
+      }
+    },
+    {
+      "from": "2022-09",
+      "t": {
+        "en": "Temu and headwinds",
+        "zh": "Temu 与逆风"
+      },
+      "desc": {
+        "en": "Temu takes the model abroad and makes him China's richest person for a few weeks; tariffs and regulators then weigh on the stock",
+        "zh": "Temu 把这套模式带到海外，让他一度成为中国首富；随后关税和监管压住了股价"
+      }
+    }
+  ],
+  "events": [
+    {
+      "d": "1980",
+      "p": "year",
+      "cat": "origin",
+      "dir": 0,
+      "mag": 1,
+      "rep": 0,
+      "s": {
+        "en": "Born in Hangzhou",
+        "zh": "出生杭州"
+      },
+      "t": {
+        "en": "Born in Hangzhou, Zhejiang",
+        "zh": "出生于浙江杭州"
+      },
+      "summary": {
+        "en": "Colin Huang (Huang Zheng) was born in 1980 on the outskirts of Hangzhou to parents who worked in a factory. At about twelve he was admitted to Hangzhou Foreign Language School, one of the city's most selective schools.",
+        "zh": "黄峥 1980 年出生在杭州市郊，父母都是工厂工人。大约 12 岁时，他考入杭州最难进的学校之一——杭州外国语学校。"
+      },
+      "why": {
+        "en": "Starting point, not scored. Only the birth year is reliably public; Wikipedia lists January 1, which this file uses as a placeholder for the anchor lists. Human capital starts at a low level typical for China in 1980.",
+        "zh": "起点事件，不计分。公开可靠的信息只有出生年份；维基百科写的是 1 月 1 日，本文件仅把它作为各锚点序列的占位起点。人力资本以 1980 年中国的较低水平起步。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Colin Huang",
+          "url": "https://en.wikipedia.org/wiki/Colin_Huang",
+          "type": "wiki"
+        },
+        {
+          "name": "Forbes · Colin Huang profile",
+          "url": "https://www.forbes.com/profile/colin-huang/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "1998",
+      "p": "year",
+      "cat": "education",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Zhejiang Univ.",
+        "zh": "入读浙大"
+      },
+      "t": {
+        "en": "Enters the honors college of Zhejiang University",
+        "zh": "进入浙江大学竺可桢学院"
+      },
+      "summary": {
+        "en": "He was recommended for admission to Chu Kochen Honors College at Zhejiang University, where he majored in computer science.",
+        "zh": "他被保送进入浙江大学竺可桢学院，主修计算机科学。"
+      },
+      "why": {
+        "en": "An education step: a place in the honors program of a top Chinese university raises the human-capital target. Only the year is known.",
+        "zh": "学历台阶：进入国内顶尖大学的荣誉学院，人力资本目标值上调。只能确认年份。"
+      },
+      "src": [
+        {
+          "name": "Our China Story · The unique philosophy of Pinduoduo's founder Huang Zheng",
+          "url": "https://www.ourchinastory.com/en/16334",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Colin Huang",
+          "url": "https://en.wikipedia.org/wiki/Colin_Huang",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2004",
+      "p": "year",
+      "cat": "education",
+      "dir": 1,
+      "mag": 1,
+      "rep": 0,
+      "s": {
+        "en": "Wisconsin master's",
+        "zh": "威斯康星硕士"
+      },
+      "t": {
+        "en": "Earns a master's in computer science at Wisconsin–Madison",
+        "zh": "获威斯康星大学麦迪逊分校计算机硕士学位"
+      },
+      "summary": {
+        "en": "After Zhejiang University he studied in the United States and received a master's degree in computer science from the University of Wisconsin–Madison in 2004. During his studies he interned at Microsoft.",
+        "zh": "从浙大毕业后他赴美留学，2004 年获得威斯康星大学麦迪逊分校计算机科学硕士学位。读书期间曾在微软实习。"
+      },
+      "why": {
+        "en": "An education step. A U.S. graduate degree in computer science lifts the human-capital target to about $1.5 million.",
+        "zh": "学历台阶。一张美国计算机硕士文凭把人力资本目标值抬到约 150 万美元。"
+      },
+      "src": [
+        {
+          "name": "Forbes · Colin Huang profile",
+          "url": "https://www.forbes.com/profile/colin-huang/",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Colin Huang",
+          "url": "https://en.wikipedia.org/wiki/Colin_Huang",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2004",
+      "p": "year",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Joins Google",
+        "zh": "加入谷歌"
+      },
+      "t": {
+        "en": "Starts work as an engineer at Google in the United States",
+        "zh": "在美国加入谷歌任工程师"
+      },
+      "summary": {
+        "en": "He began his career at Google in 2004, the year the company went public, working as a software engineer and later a project manager.",
+        "zh": "2004 年他在谷歌开始职业生涯，先做软件工程师，后来做项目经理。那一年正是谷歌上市之年。"
+      },
+      "why": {
+        "en": "First job and first savings, so the private-wealth series starts here. Reports say his Google shares gave him financial independence; the model uses a rough estimate of a few million dollars by 2007.",
+        "zh": "第一份工作和第一笔积蓄，私有财富序列从这里开始。有报道称谷歌股票让他实现了财务自由；模型粗略估算到 2007 年为几百万美元。"
+      },
+      "fin": {
+        "en": "Private-wealth series starts (estimate).",
+        "zh": "私有财富序列起步（估算）。"
+      },
+      "src": [
+        {
+          "name": "Forbes · Colin Huang profile",
+          "url": "https://www.forbes.com/profile/colin-huang/",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Colin Huang",
+          "url": "https://en.wikipedia.org/wiki/Colin_Huang",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2006",
+      "p": "year",
+      "cat": "career",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Google China",
+        "zh": "回国建谷歌中国"
+      },
+      "t": {
+        "en": "Returns to China to help set up Google's operations there",
+        "zh": "回国参与组建谷歌中国"
+      },
+      "summary": {
+        "en": "In 2006 he moved back to China as part of the team, led by Kai-Fu Lee, that expanded Google's services in the country.",
+        "zh": "2006 年他回到国内，加入李开复带领的团队，参与谷歌在中国的业务拓展。"
+      },
+      "why": {
+        "en": "A career step with no priced effect. It gave him first-hand experience of the Chinese internet market shortly before he left to start his own company.",
+        "zh": "职业台阶，没有可定价的财务影响。这段经历让他在创业前近距离接触了中国互联网市场。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Colin Huang",
+          "url": "https://en.wikipedia.org/wiki/Colin_Huang",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2006",
+      "p": "year",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Lunch with Buffett",
+        "zh": "巴菲特午餐"
+      },
+      "t": {
+        "en": "Joins Duan Yongping at the charity lunch with Warren Buffett",
+        "zh": "随段永平出席巴菲特慈善午餐"
+      },
+      "summary": {
+        "en": "Electronics entrepreneur Duan Yongping, a fellow Zhejiang University alumnus, won the 2006 charity auction for lunch with Warren Buffett with a bid of $620,100 and took the 26-year-old Huang along. Huang later said the meal taught him the value of simplicity and common sense, and has called Duan his most important mentor.",
+        "zh": "同为浙大校友的企业家段永平以 62.01 万美元拍下 2006 年的巴菲特慈善午餐，并带上了 26 岁的黄峥。黄峥后来说，这顿饭让他明白了简单和常识的力量；他也把段永平称为自己最重要的导师。"
+      },
+      "why": {
+        "en": "No money involved for him. The story became a fixed part of his public image and signals the mentor network behind his later ventures, so the reputation coefficient gets a small +1%. The auction closed in late June 2006; the exact day of the lunch is not confirmed, so the date is year precision.",
+        "zh": "他本人没有任何资金进出。但这个故事成了他公众形象的固定组成部分，也显示出他后来创业背后的导师人脉，口碑系数小幅 +1%。拍卖在 2006 年 6 月底结束，午餐的具体日期无法确认，因此精度为“年”。"
+      },
+      "src": [
+        {
+          "name": "Caixin Global · The Chinese tycoons who won a Buffett lunch (2019-07-25)",
+          "url": "https://www.caixinglobal.com/2019-07-25/chart-of-the-day-the-chinese-tycoons-who-won-a-buffett-lunch-101443851.html",
+          "type": "news"
+        },
+        {
+          "name": "Our China Story · The unique philosophy of Pinduoduo's founder Huang Zheng",
+          "url": "https://www.ourchinastory.com/en/16334",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2007",
+      "p": "year",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Leaves Google",
+        "zh": "离开谷歌创业"
+      },
+      "t": {
+        "en": "Quits Google and starts the online electronics shop Ouku",
+        "zh": "从谷歌辞职，创办电商网站欧酷"
+      },
+      "summary": {
+        "en": "He resigned from Google in 2007 and founded Ouku.com, an online retailer of consumer electronics and home appliances. It was the first of several small companies he ran before Pinduoduo.",
+        "zh": "2007 年他从谷歌辞职，创办了销售消费电子和家电的电商网站欧酷网。这是他在拼多多之前经营的几家小公司中的第一家。"
+      },
+      "why": {
+        "en": "From employee to founder: the human-capital target rises. The financial value of these early ventures is small and only roughly estimated.",
+        "zh": "从雇员变成创始人，人力资本目标值上调。这些早期项目的财务价值不大，只能粗略估算。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Colin Huang",
+          "url": "https://en.wikipedia.org/wiki/Colin_Huang",
+          "type": "wiki"
+        },
+        {
+          "name": "Forbes · Colin Huang profile",
+          "url": "https://www.forbes.com/profile/colin-huang/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2010",
+      "p": "year",
+      "cat": "career",
+      "dir": 0,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Sells Ouku",
+        "zh": "卖掉欧酷"
+      },
+      "t": {
+        "en": "Sells Ouku and moves on to e-commerce services and online games",
+        "zh": "出售欧酷，转做电商代运营和网络游戏"
+      },
+      "summary": {
+        "en": "Ouku was sold in 2010, reportedly for about $2.2 million. He went on to run a business that operated online stores for brands and, from 2011, an online games studio called Xinyoudi.",
+        "zh": "欧酷在 2010 年被出售，据报道价格约为 220 万美元。此后他先做了为品牌代运营网店的业务，2011 年起又做了网络游戏工作室新游地（Xinyoudi）。"
+      },
+      "why": {
+        "en": "A modest exit, scored as neutral. The sale price comes from secondary reporting and the private-wealth anchor for these years is a rough estimate.",
+        "zh": "一次规模不大的退出，记为中性。出售价格来自二手报道，这几年的私有财富锚点是粗略估算。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Colin Huang",
+          "url": "https://en.wikipedia.org/wiki/Colin_Huang",
+          "type": "wiki"
+        },
+        {
+          "name": "Forbes · Colin Huang profile",
+          "url": "https://www.forbes.com/profile/colin-huang/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2015-09",
+      "p": "month",
+      "cat": "career",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.02,
+      "s": {
+        "en": "Starts Pinduoduo",
+        "zh": "拼多多上线"
+      },
+      "t": {
+        "en": "Launches Pinduoduo, a group-buying marketplace",
+        "zh": "推出拼团购物平台拼多多"
+      },
+      "summary": {
+        "en": "Earlier in 2015 he had started Pinhaohuo, which sold fresh fruit directly to shoppers who teamed up for a lower price. In September his games company incubated Pinduoduo, a marketplace that let outside merchants sell the same way, spreading through invitations shared with friends on WeChat.",
+        "zh": "2015 年早些时候，他先做了拼好货，让用户拼团低价买水果。同年 9 月，他的游戏公司内部孵化出拼多多：一个让第三方商家用同样方式卖货的平台，靠用户在微信里邀请好友拼单迅速传播。"
+      },
+      "why": {
+        "en": "The turning point of his life. From here the private series is dominated by his founder stake, valued by interpolating between funding rounds (all estimates). The prospectus confirms that operations began in 2015; the September date comes from secondary reporting.",
+        "zh": "人生转折点。从这里开始，私有财富序列主要由创始人股权构成，按各轮融资之间插值估算。招股书确认业务始于 2015 年；9 月这一时间来自二手报道。"
+      },
+      "fin": {
+        "en": "Founder equity enters the model (estimate).",
+        "zh": "创始人股权进入模型（估算）。"
+      },
+      "src": [
+        {
+          "name": "SEC EDGAR · Pinduoduo IPO prospectus (424B4)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1737806/000104746918005204/a2236308z424b4.htm",
+          "type": "filing"
+        },
+        {
+          "name": "Our China Story · The unique philosophy of Pinduoduo's founder Huang Zheng",
+          "url": "https://www.ourchinastory.com/en/16334",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2016-06",
+      "p": "month",
+      "cat": "career",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Two firms combine",
+        "zh": "拼好货并入"
+      },
+      "t": {
+        "en": "Pinhaohuo and Pinduoduo are combined into one company",
+        "zh": "拼好货与拼多多合并为一家公司"
+      },
+      "summary": {
+        "en": "In June 2016 the entity behind Pinhaohuo acquired all of the company that ran Pinduoduo, putting the direct-sales business and the marketplace under one roof. The direct-sales side was wound down by early 2017 and the company became a pure marketplace.",
+        "zh": "2016 年 6 月，拼好货的运营主体全资收购了拼多多的运营公司，自营业务和平台业务合到了一起。到 2017 年初，自营业务逐步停掉，公司变成纯平台模式。"
+      },
+      "why": {
+        "en": "A structural step that made the later funding rounds possible. The private anchor for mid-2016 (about $250 million for his stake) is an estimate; round valuations from this period were not officially disclosed.",
+        "zh": "为之后几轮融资铺路的结构性一步。2016 年年中的私有锚点（他的持股约值 2.5 亿美元）是估算，这一时期的融资估值没有官方披露。"
+      },
+      "src": [
+        {
+          "name": "SEC EDGAR · Pinduoduo IPO prospectus (424B4)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1737806/000104746918005204/a2236308z424b4.htm",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2018-03-05",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.01,
+      "s": {
+        "en": "Tencent-backed D",
+        "zh": "腾讯加持 D 轮"
+      },
+      "t": {
+        "en": "Series D shares are issued, with Tencent as strategic backer",
+        "zh": "D 轮优先股发行，腾讯成为战略股东"
+      },
+      "summary": {
+        "en": "Pinduoduo issued its Series D preferred shares, carried in its accounts at about RMB 8.7 billion (roughly $1.4 billion), a few weeks after signing a strategic cooperation agreement with Tencent. The prospectus later listed Tencent as a principal shareholder, and Pinduoduo's access to WeChat traffic and payments was central to its growth.",
+        "zh": "在与腾讯签署战略合作框架协议几周后，拼多多发行了 D 轮优先股，账面金额约 87 亿元人民币（约 14 亿美元）。招股书后来把腾讯列为主要股东；微信的流量入口和支付是拼多多增长的关键。"
+      },
+      "why": {
+        "en": "The last private round before the IPO. The stake anchor of about $5.2 billion is an estimate: his roughly 2.07 billion shares times the price implied by the Series D carrying value. Press reports at the time put the company's valuation as high as about $15 billion.",
+        "zh": "上市前的最后一轮私募融资。约 52 亿美元的持股锚点为估算：他约 20.7 亿股乘以 D 轮账面金额对应的每股价格。当时媒体报道的公司估值最高约 150 亿美元。"
+      },
+      "fin": {
+        "en": "Estimated stake: about $5.2 billion.",
+        "zh": "估算持股价值：约 52 亿美元。"
+      },
+      "src": [
+        {
+          "name": "SEC EDGAR · Pinduoduo IPO prospectus (424B4)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1737806/000104746918005204/a2236308z424b4.htm",
+          "type": "filing"
+        },
+        {
+          "name": "Bloomberg · Ex-Googler's e-commerce site is said valued at about $15 billion (2018-04-12)",
+          "url": "https://www.bloomberg.com/news/articles/2018-04-12/ex-googler-s-e-commerce-site-is-said-valued-at-about-15-billion",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2018-07-26",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.02,
+      "s": {
+        "en": "Nasdaq IPO at $19",
+        "zh": "纳斯达克上市"
+      },
+      "t": {
+        "en": "Pinduoduo lists on Nasdaq at $19 per ADS and jumps 40%",
+        "zh": "拼多多以每份 ADS 19 美元登陆纳斯达克，首日涨四成"
+      },
+      "summary": {
+        "en": "Less than three years after launch, Pinduoduo raised about $1.6 billion by selling 85.6 million American depositary shares at $19 each. The stock closed its first day at $26.70. Huang kept all the Class B shares, about 46.8% of the company and close to 90% of the votes.",
+        "zh": "上线不到三年，拼多多以每份 19 美元的价格发行 8560 万份美国存托股票，募资约 16 亿美元。首日收于 26.70 美元。黄峥持有全部 B 类股，约占公司 46.8% 的股份和近 90% 的投票权。"
+      },
+      "why": {
+        "en": "Anchor switch: from this day financial capital = ownership × ADS-equivalent shares × the daily close. About 519 million ADS-equivalent shares were worth $9.9 billion at the offer price and about $13.8 billion at the first close.",
+        "zh": "锚点切换：从这一天起，金融资本 = 持股比例 × 折算 ADS 总数 × 当日收盘价。他约 5.19 亿份折算 ADS 按发行价值约 99 亿美元，按首日收盘价值约 138 亿美元。"
+      },
+      "fin": {
+        "en": "Priced daily from the PDD quote from here on.",
+        "zh": "此后按 PDD 日线逐日计价。"
+      },
+      "src": [
+        {
+          "name": "SEC EDGAR · Pinduoduo IPO prospectus (424B4)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1737806/000104746918005204/a2236308z424b4.htm",
+          "type": "filing"
+        },
+        {
+          "name": "Fortune · A former Google employee just became one of China's richest people (2018-07-27)",
+          "url": "https://fortune.com/2018/07/27/pdd-ipo-colin-huang-net-worth/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · PDD price history",
+          "url": "https://finance.yahoo.com/quote/PDD/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2018-08-01",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.03,
+      "s": {
+        "en": "Fake-goods probe",
+        "zh": "假货风波"
+      },
+      "t": {
+        "en": "Regulators order a counterfeit-goods probe days after the IPO",
+        "zh": "上市数日后，监管部门要求调查假货问题"
+      },
+      "summary": {
+        "en": "After Chinese media reported knock-off and imitation brands on the platform, the State Administration for Market Regulation told Shanghai authorities to investigate. The stock fell about 10% that day and briefly traded below the IPO price. Huang said the company would deal with the problem over time and described it as a stage a growing marketplace goes through.",
+        "zh": "国内媒体报道平台上有山寨和傍名牌商品后，国家市场监督管理总局要求上海有关部门展开调查。当天股价下跌约 10%，盘中一度跌破发行价。黄峥表示公司会逐步解决假货问题，并称这是电商平台成长中会经历的阶段。"
+      },
+      "why": {
+        "en": "The price drop is in the stock. The label of a platform for fakes stuck to the company and its founder for years, which the price alone does not capture, so the reputation coefficient takes -3%.",
+        "zh": "股价下跌已由股票反映。但“假货平台”的标签此后多年一直贴在公司和创始人身上，这是股价本身反映不了的，因此口碑系数 -3%。"
+      },
+      "src": [
+        {
+          "name": "Caixin Global · Pinduoduo tumbles below IPO price amid fake goods probe (2018-08-02)",
+          "url": "https://www.caixinglobal.com/2018-08-02/pinduoduo-tumbles-below-ipo-price-amid-fake-goods-probe-101310762.html",
+          "type": "news"
+        },
+        {
+          "name": "Reuters via The Star · China to probe Pinduoduo over reports of counterfeit goods (2018-08-01)",
+          "url": "https://www.thestar.com.my/tech/tech-news/2018/08/01/china-to-probe-online-discounter-pinduoduo-over-reports-of-counterfeit-goods",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2019-04",
+      "p": "month",
+      "cat": "reputation",
+      "dir": -1,
+      "mag": 2,
+      "rep": -0.01,
+      "s": {
+        "en": "USTR blacklist",
+        "zh": "列入恶名市场"
+      },
+      "t": {
+        "en": "The U.S. Trade Representative adds Pinduoduo to its Notorious Markets list",
+        "zh": "美国贸易代表办公室把拼多多列入“恶名市场”名单"
+      },
+      "summary": {
+        "en": "In April 2019 the Office of the U.S. Trade Representative named Pinduoduo for the first time in its annual list of markets reported to sell counterfeit goods. The platform stayed on the list in later editions.",
+        "zh": "2019 年 4 月，美国贸易代表办公室首次把拼多多列入其年度“恶名市场”名单，该名单收录被指销售假冒商品的市场。此后几年拼多多一直在名单上。"
+      },
+      "why": {
+        "en": "No direct financial effect and little market reaction. It extended the counterfeit criticism to an official foreign list, so the reputation coefficient takes a small -1%.",
+        "zh": "没有直接的财务影响，市场反应也很小。但假货批评由此延伸到外国官方名单，口碑系数小幅 -1%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Pinduoduo",
+          "url": "https://en.wikipedia.org/wiki/Pinduoduo",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2019-06",
+      "p": "month",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "10B subsidies",
+        "zh": "百亿补贴"
+      },
+      "t": {
+        "en": "Launches the \"10 billion yuan subsidies\" campaign",
+        "zh": "推出“百亿补贴”"
+      },
+      "summary": {
+        "en": "For the June 18 shopping festival Pinduoduo began paying down the prices of branded goods such as iPhones out of its own pocket, often together with the brands. The program became permanent. In the following months the share of orders from large cities rose and monthly active users grew by almost 90% from a year earlier.",
+        "zh": "借“618”大促，拼多多开始自掏腰包补贴 iPhone 等品牌商品的售价，不少是和品牌方一起做的。这个项目后来变成常设。此后几个月，来自大城市的订单占比上升，月活跃用户同比增长近九成。"
+      },
+      "why": {
+        "en": "The move that took the app beyond bargain hunters in small towns and was later copied by its rivals. The financial result is in the share price; a small +1% for changing how the brand was seen.",
+        "zh": "这一步让拼多多走出了“小城镇便宜货”的圈子，后来被对手纷纷效仿。财务结果已体现在股价里；因为改变了品牌形象，口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "Caixin Global · After conquering the bargain basement, Pinduoduo sets sights on big cities (2019-08-30)",
+          "url": "https://www.caixinglobal.com/2019-08-30/in-depth-after-conquering-the-bargain-basement-pinduoduo-sets-sights-on-big-cities-101457077.html",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2020-07-01",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 4,
+      "rep": 0.03,
+      "s": {
+        "en": "Quits as CEO",
+        "zh": "卸任 CEO"
+      },
+      "t": {
+        "en": "Hands the CEO job to Chen Lei and gives away a third of his stake",
+        "zh": "把 CEO 交给陈磊，并转出约三分之一持股"
+      },
+      "summary": {
+        "en": "Pinduoduo announced that chief technology officer Chen Lei would become CEO while Huang stayed on as chairman. A filing the day before showed his stake had fallen from 43.3% to 29.4%: shares went to a charitable foundation, to the Pinduoduo Partnership to fund science research and management incentives, and, according to press reports, to an early angel investor.",
+        "zh": "拼多多宣布由首席技术官陈磊接任 CEO，黄峥留任董事长。前一天的文件显示，他的持股从 43.3% 降到了 29.4%：一部分捐给慈善基金，一部分转给拼多多合伙人集体用于支持科研和管理层激励，另据媒体报道还有一部分转给了早期天使投资人。"
+      },
+      "why": {
+        "en": "Scored as mixed. The shares he gave away were worth about $14 billion at that day's price and leave his stake for good, so the ownership anchor steps down on this date. The reputation coefficient gets +3% for the scale of the gift and an orderly succession while still about 40.",
+        "zh": "记为好坏参半。他转出的股份按当天股价约值 140 亿美元，并且永久离开了他名下，所以持股比例锚点在这一天下调。捐赠的规模加上 40 岁上下就完成有序交接，口碑系数 +3%。"
+      },
+      "fin": {
+        "en": "Stake falls from about 519 million to about 352 million ADS-equivalent shares (roughly $44 billion to $30 billion at the day's close).",
+        "zh": "持股从约 5.19 亿份折算 ADS 降到约 3.52 亿份（按当日收盘价，从约 440 亿美元降到约 300 亿美元）。"
+      },
+      "src": [
+        {
+          "name": "SEC EDGAR · Pinduoduo 6-K, management changes (2020-07-01)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1737806/000110465920079379/a20-23912_1ex99d1.htm",
+          "type": "filing"
+        },
+        {
+          "name": "Fortune · His wealth surged $25 billion, then he quit as CEO (2020-07-03)",
+          "url": "https://fortune.com/2020/07/03/colin-huang-net-worth-quits-pinduoduo-ceo/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2021-01-04",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.03,
+      "s": {
+        "en": "Overwork outcry",
+        "zh": "加班争议"
+      },
+      "t": {
+        "en": "An employee's death sets off a national debate about overwork",
+        "zh": "员工去世引发全国性的加班争议"
+      },
+      "summary": {
+        "en": "Pinduoduo confirmed that an employee in her early twenties had collapsed on the way home after midnight in late December and died. A post from the company's account on a Q&A site, which appeared to shrug off the death, drew wide anger; the company first called it fake and then said a contractor had posted it. Shanghai's labor authority opened an inquiry into working conditions at the company.",
+        "zh": "拼多多证实，一名二十出头的女员工 12 月底凌晨下班途中倒地，经抢救无效去世。公司账号在问答网站上发出的一条看似漠视此事的言论激起众怒；公司先称截图不实，后又表示是外包人员发布。上海市劳动保障部门对公司的用工情况展开调查。"
+      },
+      "why": {
+        "en": "The stock fell about 6% that day, which the price carries. The damage to the company's standing as an employer, and to the image of its founder and chairman, is not in the price, so the reputation coefficient takes -3%. Included as a public corporate matter; nothing beyond what the company and authorities stated is used.",
+        "zh": "当天股价下跌约 6%，这部分由股价反映。但公司作为雇主的声誉以及创始人兼董事长的形象受到的损害不在股价里，因此口碑系数 -3%。此事作为公司公共事务收录，只采用公司和官方已公开说明的内容。"
+      },
+      "src": [
+        {
+          "name": "Fortune (Bloomberg) · Pinduoduo employee's death renews 996 controversy (2021-01-04)",
+          "url": "https://fortune.com/2021/01/04/china-996-work-culture-pinduoduo-death/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2021-02-17",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Record close $203",
+        "zh": "股价历史高点"
+      },
+      "t": {
+        "en": "Shares reach their record close near $203",
+        "zh": "股价创下约 203 美元的收盘纪录"
+      },
+      "summary": {
+        "en": "Pinduoduo's ADS closed at $202.82, more than ten times the IPO price and still the highest close on record. The pandemic had pushed shopping online and the company's user numbers were closing in on Alibaba's.",
+        "zh": "拼多多 ADS 收于 202.82 美元，是发行价的十倍多，至今仍是历史最高收盘价。疫情把消费推到线上，公司的用户规模正在逼近阿里巴巴。"
+      },
+      "why": {
+        "en": "Entirely a market event, so rep = 0. His stake of about 352 million ADS-equivalent shares was worth roughly $71 billion, the peak of his financial capital in this model.",
+        "zh": "纯市场事件，rep = 0。他约 3.52 亿份折算 ADS 的持股约值 710 亿美元，是本模型中他金融资本的最高点。"
+      },
+      "src": [
+        {
+          "name": "Yahoo Finance · PDD price history",
+          "url": "https://finance.yahoo.com/quote/PDD/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2021-03-17",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "Tops Alibaba users",
+        "zh": "买家数超阿里"
+      },
+      "t": {
+        "en": "Pinduoduo passes Alibaba in annual active buyers",
+        "zh": "拼多多年活跃买家数超过阿里巴巴"
+      },
+      "summary": {
+        "en": "Fourth-quarter results showed 788.4 million people had bought on Pinduoduo during 2020, up 35% in a year and ahead of the 779 million Alibaba reported for its Chinese shopping sites. It made the five-year-old company the country's largest e-commerce platform by number of customers.",
+        "zh": "四季度财报显示，2020 年在拼多多下过单的用户达到 7.884 亿，同比增长 35%，超过阿里巴巴旗下国内电商平台公布的 7.79 亿。这家成立五年的公司由此成为国内用户数最多的电商平台。"
+      },
+      "why": {
+        "en": "The value of the user base is in the share price. Overtaking the incumbent on its main measure is a symbolic win the price does not fully express, so the reputation coefficient gets +2%.",
+        "zh": "用户规模的价值已体现在股价里。但在对手最看重的指标上实现超越，是股价难以完全表达的象征性胜利，口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "SEC EDGAR · Pinduoduo 6-K, fourth-quarter 2020 results and board change (2021-03-17)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1737806/000110465921038019/a21-10044_1ex99d2.htm",
+          "type": "filing"
+        },
+        {
+          "name": "Caixin Global · Founder departs as Pinduoduo takes China's e-commerce crown from Alibaba (2021-03-18)",
+          "url": "https://www.caixinglobal.com/2021-03-18/founder-departs-as-pinduoduo-takes-chinas-e-commerce-crown-from-alibaba-101676771.html",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2021-03-17",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 5,
+      "rep": 0.01,
+      "s": {
+        "en": "Quits as chairman",
+        "zh": "卸任董事长"
+      },
+      "t": {
+        "en": "Steps down as chairman and gives up his super-voting rights",
+        "zh": "辞任董事长，放弃超级投票权"
+      },
+      "summary": {
+        "en": "On the same day as the results, Huang left the board and Chen Lei became chairman. The ten-votes-per-share rights on his stock were removed, he entrusted his votes to the board and extended the lock-up on his shares by three years. In a letter to shareholders he said he wanted to do research in food science and life sciences.",
+        "zh": "财报发布当天，黄峥离开董事会，陈磊接任董事长。他名下股份的 1:10 超级投票权随之取消，投票权委托给董事会，股份锁定期再延长三年。他在致股东信中说，想去做食品科学和生命科学方面的研究。"
+      },
+      "why": {
+        "en": "Scored as mixed. The shares fell about 7% that day, which the price carries. He kept his economic stake, so ownership does not change; the human-capital target is lowered because he no longer runs the company. A small +1% for giving up control voluntarily.",
+        "zh": "记为好坏参半。当天股价下跌约 7%，由股价反映。他保留了经济权益，持股比例不变；由于不再执掌公司，人力资本目标值下调。主动放弃控制权，口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "SEC EDGAR · Pinduoduo 6-K, fourth-quarter 2020 results and board change (2021-03-17)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1737806/000110465921038019/a21-10044_1ex99d2.htm",
+          "type": "filing"
+        },
+        {
+          "name": "CNBC · Pinduoduo founder Colin Huang steps down as chairman (2021-03-17)",
+          "url": "https://www.cnbc.com/2021/03/17/pinduoduo-founder-colin-huang-steps-down-as-chairman.html",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2022-09",
+      "p": "month",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.01,
+      "s": {
+        "en": "Temu launches",
+        "zh": "Temu 上线"
+      },
+      "t": {
+        "en": "Temu launches in the United States",
+        "zh": "Temu 在美国上线"
+      },
+      "summary": {
+        "en": "Pinduoduo's parent opened Temu, a shopping app that ships low-priced goods from Chinese manufacturers directly to customers abroad. Within weeks it was the most-downloaded shopping app in the United States, and it expanded to dozens of countries over the next two years.",
+        "zh": "拼多多的母公司推出购物应用 Temu，把中国工厂的低价商品直接寄给海外消费者。几周之内它就成了美国下载量最高的购物应用，此后两年扩展到数十个国家。"
+      },
+      "why": {
+        "en": "Huang no longer held any post, but Temu is what made the company, and his fortune, a global story. The value is in the share price; a small +1% because the founder is credited with the model it exports.",
+        "zh": "此时黄峥已不担任任何职务，但正是 Temu 让这家公司和他的财富成了全球话题。价值体现在股价里；Temu 输出的正是他创立的模式，口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Temu",
+          "url": "https://en.wikipedia.org/wiki/Temu",
+          "type": "wiki"
+        },
+        {
+          "name": "Caixin Global · PDD's e-commerce startup Temu makes splashy Super Bowl debut (2023-02-14)",
+          "url": "https://www.caixinglobal.com/2023-02-14/pdds-e-commerce-startup-temu-makes-splashy-super-bowl-debut-101997530.html",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2023-02-12",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "Super Bowl ad",
+        "zh": "超级碗广告"
+      },
+      "t": {
+        "en": "Temu advertises during the Super Bowl",
+        "zh": "Temu 在超级碗投放广告"
+      },
+      "summary": {
+        "en": "Five months after its launch, Temu ran 30-second spots during the Super Bowl inviting viewers to \"shop like a billionaire\". It bought Super Bowl airtime again in 2024, alongside $15 million in giveaways.",
+        "zh": "上线五个月后，Temu 在超级碗比赛期间播出 30 秒广告，口号是“像亿万富翁一样购物”。2024 年它再次买下超级碗广告时段，并配套送出 1500 万美元的赠品和优惠。"
+      },
+      "why": {
+        "en": "A marketing milestone that put the brand in front of the largest U.S. television audience of the year. Small effects on the audience and media baselines and +1% on the reputation coefficient.",
+        "zh": "营销上的里程碑：品牌出现在美国全年收视最高的电视节目里。受众和媒体热度基线小幅上调，口碑系数 +1%。"
+      },
+      "src": [
+        {
+          "name": "Caixin Global · PDD's e-commerce startup Temu makes splashy Super Bowl debut (2023-02-14)",
+          "url": "https://www.caixinglobal.com/2023-02-14/pdds-e-commerce-startup-temu-makes-splashy-super-bowl-debut-101997530.html",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Temu",
+          "url": "https://en.wikipedia.org/wiki/Temu",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2023-11-30",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "Worth > Alibaba",
+        "zh": "市值超阿里"
+      },
+      "t": {
+        "en": "PDD's market value moves above Alibaba's for the first time",
+        "zh": "拼多多市值首次超过阿里巴巴"
+      },
+      "summary": {
+        "en": "Two days after PDD reported that quarterly revenue had almost doubled, sending the stock up 18% in a day, its market value moved past Alibaba's and made it China's most valuable e-commerce company. The two swapped places several times over the following months.",
+        "zh": "拼多多公布季度收入接近翻倍、股价单日大涨 18% 的两天后，它的市值超过了阿里巴巴，成为中国市值最高的电商公司。此后几个月里，两家公司的排名数次互换。"
+      },
+      "why": {
+        "en": "The gain is in the share price. Passing the company that defined Chinese e-commerce, eight years after starting from nothing, is the kind of symbol the price does not hold, so the reputation coefficient gets +2%.",
+        "zh": "涨幅已体现在股价里。从零起步八年后超过定义了中国电商的那家公司，这种象征意义是股价装不下的，口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "TechCrunch · As Temu shakes up global e-commerce, PDD nears overtaking Alibaba (2023-11-30)",
+          "url": "https://techcrunch.com/2023/11/30/as-temu-shakes-up-global-ecommerce-pdd-nears-overtaking-alibaba/",
+          "type": "news"
+        },
+        {
+          "name": "CNBC via NBC New York · How Temu parent PDD dethroned Alibaba (2024-05-28)",
+          "url": "https://www.nbcnewyork.com/news/business/money-report/how-temu-parent-pdd-dethroned-alibaba-to-become-chinas-most-valuable-e-commerce-company/5455748/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · PDD price history",
+          "url": "https://finance.yahoo.com/quote/PDD/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2024-08-08",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "China's richest",
+        "zh": "登顶中国首富"
+      },
+      "t": {
+        "en": "Becomes China's richest person on the Bloomberg index",
+        "zh": "按彭博指数成为中国首富"
+      },
+      "summary": {
+        "en": "The Bloomberg Billionaires Index put his fortune at $48.6 billion, ahead of bottled-water magnate Zhong Shanshan, who had led the Chinese ranking since 2021.",
+        "zh": "彭博亿万富豪指数显示，他的身家达到 486 亿美元，超过自 2021 年起一直居首的农夫山泉创始人钟睒睒。"
+      },
+      "why": {
+        "en": "The wealth is already in the share price: about 352 million ADS-equivalent shares at $138 is $48.6 billion, which matches the Bloomberg figure. The title raises his media baseline, and the reputation coefficient gets +2%.",
+        "zh": "财富本身已在股价里：约 3.52 亿份折算 ADS 乘以 138 美元约为 486 亿美元，与彭博的数字一致。“首富”头衔抬高了他的媒体热度基线，口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Fortune (Bloomberg) · Temu's founder becomes China's richest person (2024-08-09)",
+          "url": "https://fortune.com/asia/2024/08/09/colin-huang-pdd-founder-pinduoduo-temu-china-richest-person-overtakes-zhong-shanshan/",
+          "type": "news"
+        },
+        {
+          "name": "Fortune · Temu's founder lost his title as China's richest person 20 days after winning it (2024-08-28)",
+          "url": "https://fortune.com/2024/08/28/temu-founder-colin-huang-billionaire-richest-man/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2024-08-26",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "-28.5% in one day",
+        "zh": "暴跌 28.5%"
+      },
+      "t": {
+        "en": "Shares fall 28.5% after a revenue miss and a warning on profit",
+        "zh": "收入不及预期并预警利润，股价单日下跌 28.5%"
+      },
+      "summary": {
+        "en": "Second-quarter revenue came in below forecasts, and management said that sales growth would slow, that the recent pace could not be sustained amid intense competition, and that there would be no buybacks or dividends for the foreseeable future. It was the stock's largest one-day fall, and Huang lost the top spot among China's richest less than three weeks after gaining it.",
+        "zh": "二季度收入低于预期，管理层表示销售增长会放缓，在激烈竞争下此前的增速难以持续，并且在可预见的未来不会回购或分红。这是该股上市以来最大的单日跌幅，黄峥登上首富位置不到三周就让出了第一。"
+      },
+      "why": {
+        "en": "Fully priced by the market, so no extra reputation shock (rep = 0). His stake lost about $14 billion in a day, in line with the $14.1 billion Bloomberg reported.",
+        "zh": "完全由市场定价，不再额外扣口碑（rep = 0）。他的持股一天缩水约 140 亿美元，与彭博报道的 141 亿美元相符。"
+      },
+      "src": [
+        {
+          "name": "Fortune (Bloomberg) · PDD's record plunge wipes $14 billion from Colin Huang's wealth (2024-08-26)",
+          "url": "https://fortune.com/2024/08/26/ppd-stock-temu-colin-huang-wealth-14-billion-china-richest-person/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · PDD price history",
+          "url": "https://finance.yahoo.com/quote/PDD/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2024-10",
+      "p": "month",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 2,
+      "rep": -0.01,
+      "s": {
+        "en": "EU probes Temu",
+        "zh": "欧盟调查 Temu"
+      },
+      "t": {
+        "en": "The European Commission opens formal proceedings against Temu",
+        "zh": "欧盟委员会对 Temu 启动正式调查程序"
+      },
+      "summary": {
+        "en": "The Commission opened an investigation under the Digital Services Act into whether Temu does enough to keep illegal products off its marketplace, among other concerns. It followed complaints from European consumer groups earlier in the year.",
+        "zh": "欧盟委员会依据《数字服务法》立案，调查 Temu 在阻止非法商品上架等方面是否尽到义务。此前欧洲的消费者组织已在当年提出投诉。"
+      },
+      "why": {
+        "en": "The start of a regulatory file that led to a fine in 2026. Little immediate price effect; a small -1% on the reputation coefficient for the business he founded coming under formal scrutiny in a major market.",
+        "zh": "这是一条监管线索的起点，最终在 2026 年走到罚款。对股价的即时影响很小；他创立的业务在一个主要市场受到正式调查，口碑系数小幅 -1%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Temu",
+          "url": "https://en.wikipedia.org/wiki/Temu",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2025-04-02",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "De minimis ends",
+        "zh": "小额免税取消"
+      },
+      "t": {
+        "en": "The U.S. ends duty-free entry for small parcels from China",
+        "zh": "美国取消中国小额包裹的免税待遇"
+      },
+      "summary": {
+        "en": "A U.S. executive order ended the \"de minimis\" exemption, which had let parcels worth $800 or less enter duty-free, for goods from mainland China and Hong Kong from May 2, 2025. Temu's direct-from-factory model had relied on it. Temu then stopped shipping goods straight from China to U.S. customers and turned to sellers with stock already in the country.",
+        "zh": "美国一项行政令宣布，自 2025 年 5 月 2 日起取消对中国内地和香港商品的“小额豁免”——此前价值不超过 800 美元的包裹可以免税入境。Temu 的工厂直发模式正是建立在这项政策之上。此后 Temu 停止从中国直接向美国消费者发货，转向在美国本地有库存的卖家。"
+      },
+      "why": {
+        "en": "A policy shock to Temu's largest market. The stock fell about 12% over the next two sessions, during a broad tariff sell-off, and the price carries the effect, so rep = 0.",
+        "zh": "这是对 Temu 最大市场的一次政策冲击。此后两个交易日，在关税引发的普跌中股价累计下跌约 12%，影响由股价反映，rep = 0。"
+      },
+      "src": [
+        {
+          "name": "The White House · Fact sheet on closing the de minimis exemption (2025-04-02)",
+          "url": "https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-closes-de-minimis-exemptions-to-combat-chinas-role-in-americas-synthetic-opioid-crisis/",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Temu",
+          "url": "https://en.wikipedia.org/wiki/Temu",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2025-05-27",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Profit down 47%",
+        "zh": "利润降 47%"
+      },
+      "t": {
+        "en": "First-quarter profit falls 47% and the shares drop 14%",
+        "zh": "一季度净利润下降 47%，股价下跌 14%"
+      },
+      "summary": {
+        "en": "PDD reported net profit of 14.7 billion yuan for the first quarter of 2025, down 47% and far below forecasts, on revenue of 95.7 billion yuan. Management pointed to heavy spending to support merchants amid fierce competition at home; reports also cited the changes in U.S. tariffs. The stock closed down 13.6%.",
+        "zh": "拼多多公布 2025 年一季度净利润 147 亿元人民币，同比下降 47%，远低于预期；收入为 957 亿元。管理层解释说，在国内激烈竞争下公司加大了对商家的扶持投入；报道还提到美国关税政策变化的影响。当天股价收跌 13.6%。"
+      },
+      "why": {
+        "en": "An earnings day, fully priced by the market (rep = 0). His stake lost close to $6 billion.",
+        "zh": "财报日行情，完全由市场定价（rep = 0）。他的持股缩水近 60 亿美元。"
+      },
+      "src": [
+        {
+          "name": "Reuters via Profit · Temu owner PDD Holdings reports 47% drop in Q1 net profit (2025-05-28)",
+          "url": "https://profit.pakistantoday.com.pk/2025/05/28/temu-owner-pdd-holdings-reports-47-drop-in-q1-net-profit/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · PDD price history",
+          "url": "https://finance.yahoo.com/quote/PDD/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2025-07-28",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 2,
+      "rep": -0.01,
+      "s": {
+        "en": "EU: Temu in breach",
+        "zh": "欧盟初步认定"
+      },
+      "t": {
+        "en": "The EU preliminarily finds Temu in breach of the Digital Services Act",
+        "zh": "欧盟初步认定 Temu 违反《数字服务法》"
+      },
+      "summary": {
+        "en": "The European Commission's preliminary view was that Temu had not properly assessed the risk of illegal products being sold on its marketplace. A test-purchase exercise found that shoppers were very likely to come across non-compliant items such as baby toys and small electronics.",
+        "zh": "欧盟委员会的初步结论是，Temu 没有恰当评估平台上出现非法商品的风险。一次抽样购买测试发现，消费者很容易买到婴儿玩具、小型电子产品等不合规商品。"
+      },
+      "why": {
+        "en": "A preliminary finding with no penalty yet, so the financial effect is small. The reputation coefficient takes -1% for an official finding against the company's best-known brand abroad.",
+        "zh": "这只是初步认定，尚无处罚，财务影响有限。针对公司海外最知名品牌的官方认定，口碑系数 -1%。"
+      },
+      "src": [
+        {
+          "name": "European Commission · Commission preliminarily finds Temu in breach of the DSA (2025-07-28)",
+          "url": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-relation-illegal-products-its",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2025-12-19",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Co-chairmen named",
+        "zh": "联席董事长"
+      },
+      "t": {
+        "en": "PDD names Zhao Jiazhen co-chairman alongside Chen Lei",
+        "zh": "拼多多任命赵佳臻为联席董事长，与陈磊搭档"
+      },
+      "summary": {
+        "en": "On the day of its annual meeting, PDD's board made co-CEO Zhao Jiazhen co-chairman, so that he and Chen Lei now share both the chairman and CEO titles. Both are members of the founding team Huang assembled. Huang himself holds no post and remains the largest shareholder.",
+        "zh": "在年度股东大会当天，拼多多董事会任命联席 CEO 赵佳臻为联席董事长，他和陈磊由此同时共同担任董事长和 CEO。两人都出自黄峥当年组建的创始团队。黄峥本人不担任任何职务，仍是第一大股东。"
+      },
+      "why": {
+        "en": "A governance change in the company that holds nearly all his wealth, scored as neutral. The shares rose about 3.5% that day, which the price carries.",
+        "zh": "他几乎全部财富所在公司的一次治理变动，记为中性。当天股价上涨约 3.5%，由股价反映。"
+      },
+      "src": [
+        {
+          "name": "Reuters via The Star · PDD Holdings appoints co-CEO Zhao as co-chairman (2025-12-19)",
+          "url": "https://www.thestar.com.my/tech/tech-news/2025/12/19/temu-owner-pdd-holdings-appoints-co-ceo-zhao-as-co-chairman-of-board",
+          "type": "news"
+        },
+        {
+          "name": "SEC EDGAR · PDD Holdings annual report for 2025 (20-F)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1737806/000110465926050727/0001104659-26-050727-index.htm",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2026-04-17",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.02,
+      "s": {
+        "en": "1.5B yuan fine",
+        "zh": "被罚 15 亿元"
+      },
+      "t": {
+        "en": "China's market regulator fines Pinduoduo about 1.5 billion yuan",
+        "zh": "市场监管总局对拼多多罚款约 15 亿元"
+      },
+      "summary": {
+        "en": "The State Administration for Market Regulation fined seven platforms a total of 3.6 billion yuan for letting food sellers without verified licences operate, so-called ghost takeout shops. Pinduoduo's penalty of about 1.5 billion yuan ($220 million) was the largest, and it was told to stop adding new bakery shops for several months. The company said it accepted the decision.",
+        "zh": "国家市场监督管理总局因平台放任未核验资质的食品商家经营（即所谓“幽灵外卖”），对七家平台合计罚款 36 亿元。拼多多被罚约 15 亿元（约 2.2 亿美元），在七家中金额最高，并被要求数月内暂停新增蛋糕类店铺。公司表示接受处罚决定。"
+      },
+      "why": {
+        "en": "Small next to quarterly profit of more than 25 billion yuan, and the stock hardly moved. The reputation coefficient takes -2% because the largest penalty in the group went to the company he founded.",
+        "zh": "与单季超过 250 亿元的利润相比金额不大，股价几乎没有反应。但七家平台中最重的一张罚单落在他创立的公司头上，口碑系数 -2%。"
+      },
+      "src": [
+        {
+          "name": "Caixin Global · China fines e-commerce giants $527 million for allowing unverified merchants (2026-04-17)",
+          "url": "https://www.caixinglobal.com/2026-04-17/china-fines-e-commerce-giants-527-million-for-allowing-unverified-merchants-102435253.html",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-05-28",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.01,
+      "s": {
+        "en": "EU fines Temu",
+        "zh": "欧盟罚 Temu"
+      },
+      "t": {
+        "en": "The EU fines Temu €200 million under the Digital Services Act",
+        "zh": "欧盟依据《数字服务法》对 Temu 罚款 2 亿欧元"
+      },
+      "summary": {
+        "en": "The European Commission confirmed its earlier finding and fined Temu €200 million, the largest penalty so far under the Digital Services Act, for failing to assess properly the risk of illegal products on its marketplace. Temu said it disagreed and called the fine disproportionate.",
+        "zh": "欧盟委员会确认了此前的初步认定，以未能恰当评估平台上非法商品的风险为由，对 Temu 罚款 2 亿欧元，这是《数字服务法》实施以来金额最高的一笔罚款。Temu 表示不认同这一决定，认为罚款金额过重。"
+      },
+      "why": {
+        "en": "The amount is modest for a company of this size. The stock fell about 4% that day, but the model does not attribute the move to the fine alone. A further -1% on the reputation coefficient as the proceedings opened in 2024 end in a formal decision.",
+        "zh": "对这种体量的公司来说金额不算大。当天股价下跌约 4%，但模型不把这一跌幅单独归因于罚款。2024 年开启的调查以正式决定收场，口碑系数再 -1%。"
+      },
+      "src": [
+        {
+          "name": "European Commission · Commission fines Temu €200 million for breaching the DSA (2026-05-28)",
+          "url": "https://digital-strategy.ec.europa.eu/en/news/commission-fines-temu-eu200-million-breaching-digital-services-act",
+          "type": "filing"
+        }
+      ]
+    }
+  ]
+}
