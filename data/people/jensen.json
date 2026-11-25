@@ -1,0 +1,1248 @@
+{
+  "id": "jensen",
+  "name": {
+    "en": "Jensen Huang",
+    "zh": "黄仁勋"
+  },
+  "ticker": "JHH",
+  "born": "1963-02-17",
+  "color": "#B8F25B",
+  "initials": "JH",
+  "tagline": {
+    "en": "From Denny's dishwasher to king of AI compute",
+    "zh": "从 Denny's 洗碗工到 AI 算力之王"
+  },
+  "tags": [
+    {
+      "en": "NVIDIA founder/CEO",
+      "zh": "NVIDIA 创始人/CEO"
+    },
+    {
+      "en": "Leather jacket",
+      "zh": "皮衣"
+    },
+    {
+      "en": "GPU",
+      "zh": "GPU"
+    },
+    {
+      "en": "AI infrastructure",
+      "zh": "AI 基建"
+    }
+  ],
+  "privates": [
+    {
+      "label": {
+        "en": "Pre-IPO NVIDIA equity + personal savings",
+        "zh": "NVIDIA 上市前股权 + 个人储蓄"
+      },
+      "until": "1999-01-21",
+      "anchors": [
+        ["1980", 2000],
+        ["1984-06", 10000],
+        ["1993-04-04", 80000],
+        ["1993-06", 600000],
+        ["1995-06", 2000000],
+        ["1996-06", 600000],
+        ["1997-08", 3000000],
+        ["1998-06", 15000000],
+        ["1999-01-21", 45000000]
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "sym": "NVDA",
+      "label": {
+        "en": "NVIDIA shares",
+        "zh": "NVIDIA 持股"
+      },
+      "from": "1999-01-22",
+      "own": [
+        ["1999-01", 0.09],
+        ["2004", 0.06],
+        ["2010", 0.045],
+        ["2016", 0.04],
+        ["2026-11", 0.035]
+      ],
+      "shares": [
+        ["1999-01", 14400000000],
+        ["2003", 19800000000],
+        ["2008", 22400000000],
+        ["2013", 23000000000],
+        ["2016", 21600000000],
+        ["2020", 24600000000],
+        ["2026-11", 24300000000]
+      ]
+    }
+  ],
+  "human": [
+    ["1963-02-17", 300000],
+    ["1978", 500000],
+    ["1984-06", 1500000],
+    ["1985", 2000000],
+    ["1992-06", 3500000],
+    ["1993-04-05", 5000000],
+    ["1999-01", 15000000],
+    ["2005", 30000000],
+    ["2015", 60000000],
+    ["2023", 200000000],
+    ["2025", 300000000]
+  ],
+  "audience": [
+    ["1963-02-17", 0],
+    ["1993", 1000],
+    ["1999", 20000],
+    ["2006", 50000],
+    ["2016", 300000],
+    ["2020", 1000000],
+    ["2023-01", 2000000],
+    ["2024-01", 6000000],
+    ["2025-01", 10000000],
+    ["2026-11", 13000000]
+  ],
+  "media": [
+    ["1963-02-17", 0],
+    ["1993", 0.1],
+    ["1999", 1],
+    ["2010", 2],
+    ["2020", 6],
+    ["2023", 20],
+    ["2024", 35],
+    ["2026-11", 40]
+  ],
+  "chapters": [
+    {
+      "from": "1963-02-17",
+      "t": {
+        "en": "Uprooted youth",
+        "zh": "少年漂泊"
+      },
+      "desc": {
+        "en": "Born in Tainan, sent to a US boarding school at 9, working at Denny's at 15",
+        "zh": "台南出生，9 岁赴美进寄宿学校，15 岁在 Denny's 打工"
+      }
+    },
+    {
+      "from": "1984-06",
+      "t": {
+        "en": "Chip engineer",
+        "zh": "芯片工程师"
+      },
+      "desc": {
+        "en": "Designs chips at AMD and LSI Logic while earning a Stanford master's part-time",
+        "zh": "AMD、LSI Logic 做芯片设计，边工作边读斯坦福硕士"
+      }
+    },
+    {
+      "from": "1993-04-05",
+      "t": {
+        "en": "Near-death startup",
+        "zh": "创业九死一生"
+      },
+      "desc": {
+        "en": "Founds NVIDIA in a Denny's booth; recovers from the NV1 failure with the RIVA 128",
+        "zh": "在 Denny's 卡座创立 NVIDIA；NV1 失利后靠 RIVA 128 翻盘"
+      }
+    },
+    {
+      "from": "1999-01-22",
+      "t": {
+        "en": "The GPU era",
+        "zh": "GPU 时代与上市沉浮"
+      },
+      "desc": {
+        "en": "GeForce defines the GPU, CUDA lays the groundwork, and the stock loses 80% in 2008",
+        "zh": "GeForce 定义 GPU，CUDA 埋下伏笔，2008 年股价跌去八成"
+      }
+    },
+    {
+      "from": "2012-09-30",
+      "t": {
+        "en": "Betting on deep learning",
+        "zh": "押注深度学习"
+      },
+      "desc": {
+        "en": "AlexNet wins on GeForce cards and NVIDIA turns fully toward AI",
+        "zh": "AlexNet 用 GeForce 夺冠，NVIDIA 全面转向 AI"
+      }
+    },
+    {
+      "from": "2022-11-30",
+      "t": {
+        "en": "King of AI compute",
+        "zh": "AI 算力之王"
+      },
+      "desc": {
+        "en": "ChatGPT sets off demand; market cap goes from $1T to $5T",
+        "zh": "ChatGPT 引爆需求，市值从 1 万亿走到 5 万亿"
+      }
+    }
+  ],
+  "events": [
+    {
+      "d": "1963-02-17",
+      "p": "day",
+      "cat": "origin",
+      "dir": 0,
+      "mag": 1,
+      "rep": 0,
+      "s": {
+        "en": "Born in Tainan",
+        "zh": "出生台南"
+      },
+      "t": {
+        "en": "Born in Tainan, Taiwan",
+        "zh": "出生于台湾台南"
+      },
+      "summary": {
+        "en": "Jensen Huang was born in Tainan and spent part of his early childhood in Thailand with his family.",
+        "zh": "黄仁勋生于台南，幼年随家人在泰国生活。"
+      },
+      "why": {
+        "en": "Starting point, not scored. Human capital starts at the average for his US age group.",
+        "zh": "起点事件，不计分；人力资本以美国同龄人平均水平为初始值。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1973",
+      "p": "year",
+      "cat": "origin",
+      "dir": -1,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "US boarding school",
+        "zh": "赴美寄宿学校"
+      },
+      "t": {
+        "en": "Sent to the US at 9 and ends up at a boarding school for troubled youth",
+        "zh": "9岁被送往美国，误入\"问题少年\"寄宿学校"
+      },
+      "summary": {
+        "en": "He and his older brother were sent to Oneida Baptist Institute in Kentucky. Relatives thought it was a prestigious school; it was in fact a boarding school for troubled teenagers. He has recalled cleaning the dormitory toilets every day.",
+        "zh": "他和哥哥被送到肯塔基州的 Oneida Baptist Institute。亲戚以为是名校，实际是一所管教问题青少年的寄宿学校；他曾回忆自己每天要打扫宿舍厕所。"
+      },
+      "why": {
+        "en": "A period of hardship: human capital is held down rather than rising. He later retold the story many times, and it became part of the backstory behind his reputation capital.",
+        "zh": "逆境期：人力资本不升反压，但后来被他反复讲述，成为日后声誉资本的\"故事底仓\"。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1978",
+      "p": "year",
+      "cat": "origin",
+      "dir": 0,
+      "mag": 1,
+      "rep": 0.01,
+      "s": {
+        "en": "Works at Denny's",
+        "zh": "Denny's 打工"
+      },
+      "t": {
+        "en": "Works at Denny's at 15: washing dishes, busing tables, waiting on customers",
+        "zh": "15岁在 Denny's 打工：洗碗、收桌、当服务员"
+      },
+      "summary": {
+        "en": "He worked at the Denny's restaurant chain during high school. Years later, NVIDIA was conceived in a booth at a Denny's.",
+        "zh": "高中时在连锁餐厅 Denny's 打工。多年后 NVIDIA 恰好在一家 Denny's 的卡座里被构思出来。"
+      },
+      "why": {
+        "en": "Negligible financial value. The media cited it widely after 2023 as a humble-beginnings story, which adds slowly to reputation capital over the long term.",
+        "zh": "金融价值可忽略；作为\"草根叙事\"在 2023 年后被媒体大量引用，给声誉资本留下长期复利。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1984-06",
+      "p": "month",
+      "cat": "education",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "College degree",
+        "zh": "大学毕业"
+      },
+      "t": {
+        "en": "Graduates from Oregon State University in electrical engineering",
+        "zh": "俄勒冈州立大学电子工程学士毕业"
+      },
+      "summary": {
+        "en": "He earned a bachelor's degree in electrical engineering. His lab partner, Lori, later became his wife.",
+        "zh": "获得电子工程学士学位；在实验室搭档中结识了后来的妻子 Lori。"
+      },
+      "why": {
+        "en": "Education step: the human capital target rises from about $500K to about $1.5M, phased in smoothly with a time constant of about one year.",
+        "zh": "学历台阶：人力资本目标值从约 50 万上调至约 150 万美元，按约一年时间常数平滑爬升。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1985",
+      "p": "year",
+      "cat": "career",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Joins AMD",
+        "zh": "入职 AMD"
+      },
+      "t": {
+        "en": "Designs chips at AMD, then LSI Logic",
+        "zh": "加入 AMD、LSI Logic 做芯片设计"
+      },
+      "summary": {
+        "en": "After graduating he designed microprocessors at AMD, then spent nearly eight years at LSI Logic, where he moved into management.",
+        "zh": "毕业后先在 AMD 做微处理器设计，随后在 LSI Logic 工作近八年，转向管理岗位。"
+      },
+      "why": {
+        "en": "First high-skill job; human capital is raised slightly.",
+        "zh": "首份高技能工作，人力资本小幅上调。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1992-06",
+      "p": "year",
+      "cat": "education",
+      "dir": 1,
+      "mag": 1,
+      "rep": 0,
+      "s": {
+        "en": "Stanford master's",
+        "zh": "斯坦福硕士"
+      },
+      "t": {
+        "en": "Earns a Stanford master's in electrical engineering while working",
+        "zh": "斯坦福电子工程硕士（边工作边读）"
+      },
+      "summary": {
+        "en": "He completed a master's degree in electrical engineering at Stanford University while working full-time.",
+        "zh": "在职期间取得斯坦福大学电子工程硕士学位。"
+      },
+      "why": {
+        "en": "A degree from a top university; human capital is raised.",
+        "zh": "名校学历加成，人力资本上调。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1993-04-05",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.02,
+      "s": {
+        "en": "Founds NVIDIA",
+        "zh": "创立 NVIDIA"
+      },
+      "t": {
+        "en": "Founds NVIDIA with two co-founders in a Denny's booth",
+        "zh": "与两位联合创始人在 Denny's 卡座里创立 NVIDIA"
+      },
+      "summary": {
+        "en": "He co-founded NVIDIA with Chris Malachowsky and Curtis Priem with about $40,000 in starting capital. Sequoia Capital and other firms invested later that year.",
+        "zh": "与 Chris Malachowsky、Curtis Priem 共同创立 NVIDIA，起步资金约 4 万美元，同年获得红杉资本等机构的早期投资。"
+      },
+      "why": {
+        "en": "A turning point: he now holds equity in a company. Financial capital switches from personal savings to the value of his founder's stake.",
+        "zh": "人生转折点：开始持有一家公司的股权。金融资本从个人储蓄切换为\"创始人股权估值\"。"
+      },
+      "fin": {
+        "en": "Equity value enters the model (interpolated from funding-round valuations while private)",
+        "zh": "股权估值进入模型（私有期按融资估值插值）"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Nvidia",
+          "url": "https://en.wikipedia.org/wiki/Nvidia",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1996",
+      "p": "year",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "NV1 fails",
+        "zh": "NV1 失利·濒临倒闭"
+      },
+      "t": {
+        "en": "NV1 fails, leaving the company \"30 days\" from going under",
+        "zh": "NV1 失利，公司离倒闭只剩\"30天\""
+      },
+      "summary": {
+        "en": "NVIDIA's first chip, the NV1, was built around quadrilateral rendering, which was incompatible with the industry standard, and it sold poorly. Work on a next-generation chip for Sega had to be stopped. The company laid off much of its staff. Huang told Sega the truth, and Sega still invested about $5M, which kept the company alive. \"We are 30 days from going out of business\" later became one of his standard lines.",
+        "zh": "首款芯片 NV1 押注四边形渲染，与业界主流不兼容，卖不动；为世嘉开发的下一代芯片被迫叫停。公司大幅裁员，黄仁勋向世嘉坦白，对方仍投资约 500 万美元帮公司续命。\"我们离破产只有 30 天\"后来成了他的口头禅。"
+      },
+      "why": {
+        "en": "Equity value is cut sharply (about -70%). This is the closest NVIDIA has come to failing.",
+        "zh": "股权估值大幅下修（约 -70%），这是 NVIDIA 历史上最接近死亡的时刻。"
+      },
+      "fin": {
+        "en": "Private valuation: about $2M → about $600K",
+        "zh": "私有估值：约 200 万 → 约 60 万美元"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · NV1",
+          "url": "https://en.wikipedia.org/wiki/NV1",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Nvidia",
+          "url": "https://en.wikipedia.org/wiki/Nvidia",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1997-08",
+      "p": "month",
+      "cat": "career",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "RIVA 128 rebound",
+        "zh": "RIVA 128 翻盘"
+      },
+      "t": {
+        "en": "RIVA 128 launches and rescues the company",
+        "zh": "RIVA 128 发布，绝境翻盘"
+      },
+      "summary": {
+        "en": "The RIVA 128, built for the mainstream Direct3D standard, sold well and brought the company back from the brink.",
+        "zh": "转向主流 Direct3D 架构的 RIVA 128 大卖，公司起死回生。"
+      },
+      "why": {
+        "en": "The product proves itself → the next funding round is priced higher and equity value recovers.",
+        "zh": "产品验证 → 下一轮融资估值抬升，股权价值回升。"
+      },
+      "fin": {
+        "en": "Private valuation: about $600K → about $3M",
+        "zh": "私有估值：约 60 万 → 约 300 万美元"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · RIVA 128",
+          "url": "https://en.wikipedia.org/wiki/RIVA_128",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1999-01-22",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.03,
+      "s": {
+        "en": "Nasdaq IPO",
+        "zh": "纳斯达克上市"
+      },
+      "t": {
+        "en": "Lists on Nasdaq at $12 a share",
+        "zh": "纳斯达克上市，发行价 12 美元"
+      },
+      "summary": {
+        "en": "NVIDIA went public on Nasdaq and rose sharply on its first day. From this day on, Huang's financial capital has a real daily market price.",
+        "zh": "NVIDIA 在纳斯达克 IPO，首日大涨。从这一天起，黄仁勋的金融资本有了每日真实报价。"
+      },
+      "why": {
+        "en": "Anchor switch: financial capital = ownership share × shares outstanding × that day's share price (split-adjusted).",
+        "zh": "锚点切换：金融资本 = 持股比例 × 总股本 × 当日股价（拆股复权）。"
+      },
+      "fin": {
+        "en": "Valued daily from NVDA closing prices from here on",
+        "zh": "开始按 NVDA 日线逐日计价"
+      },
+      "src": [
+        {
+          "name": "Yahoo Finance · NVDA price history",
+          "url": "https://finance.yahoo.com/quote/NVDA/history",
+          "type": "market"
+        },
+        {
+          "name": "SEC EDGAR · NVIDIA insider filings",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001045810&type=4",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "1999-08-31",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.03,
+      "s": {
+        "en": "GeForce 256",
+        "zh": "GeForce 256"
+      },
+      "t": {
+        "en": "GeForce 256 launches and NVIDIA introduces the term \"GPU\"",
+        "zh": "GeForce 256 发布，NVIDIA 提出 \"GPU\" 概念"
+      },
+      "summary": {
+        "en": "NVIDIA called the GeForce 256 \"the world's first GPU\". The name went on to define the whole product category.",
+        "zh": "NVIDIA 将 GeForce 256 称为\"世界上第一款 GPU\"，这个名字后来定义了整个品类。"
+      },
+      "why": {
+        "en": "Naming a category is a long-term reputation asset. Reputation factor +3%, released gradually along a decay curve.",
+        "zh": "品类定义权 = 长期声誉资产；口碑系数 +3%，按衰减曲线慢慢释放。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · GeForce 256",
+          "url": "https://en.wikipedia.org/wiki/GeForce_256",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2000-03",
+      "p": "month",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Xbox deal",
+        "zh": "Xbox 订单"
+      },
+      "t": {
+        "en": "Wins the graphics chip contract for Microsoft's first Xbox",
+        "zh": "拿下微软初代 Xbox 图形芯片订单"
+      },
+      "summary": {
+        "en": "Microsoft chose NVIDIA to supply the graphics processor for the original Xbox.",
+        "zh": "微软选择 NVIDIA 为初代 Xbox 提供图形处理器。"
+      },
+      "why": {
+        "en": "An endorsement from a major customer. It shows up mainly in the share price, so the model does not count it again.",
+        "zh": "大客户背书，主要通过股价体现，模型不重复加分。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Xbox",
+          "url": "https://en.wikipedia.org/wiki/Xbox_(console)",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2002",
+      "p": "year",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.02,
+      "s": {
+        "en": "Dot-com bust",
+        "zh": "泡沫破裂"
+      },
+      "t": {
+        "en": "Dot-com bust and a troubled product launch drag the stock down all year",
+        "zh": "泡沫破裂 + 新品不顺，股价全年重挫"
+      },
+      "summary": {
+        "en": "The dot-com crash pulled down technology stocks. At the same time, the new GeForce FX was delayed and poorly received.",
+        "zh": "互联网泡沫破裂拖累科技股，同时新一代 GeForce FX 研发延误、口碑不佳。"
+      },
+      "why": {
+        "en": "Financial capital is reflected automatically in the share price. The weaker product reputation takes a further 2% off the reputation factor.",
+        "zh": "金融资本由股价自动反映；产品口碑下滑另扣口碑系数 -2%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Nvidia",
+          "url": "https://en.wikipedia.org/wiki/Nvidia",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2006-11",
+      "p": "month",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "CUDA launches",
+        "zh": "CUDA 问世"
+      },
+      "t": {
+        "en": "CUDA launches, opening GPUs to general-purpose computing",
+        "zh": "CUDA 问世：让 GPU 能做通用计算"
+      },
+      "summary": {
+        "en": "Wall Street saw it at the time as a side project that weighed on margins, and it paid nothing back for years. More than a decade later it became NVIDIA's strongest competitive advantage in AI.",
+        "zh": "当时华尔街把它看成拖累毛利的\"副业\"，多年没有回报；十多年后它成了 AI 时代 NVIDIA 最深的护城河。"
+      },
+      "why": {
+        "en": "A typical compounding event: short-term financial contribution ≈ 0, while human and reputation capital grow slowly over the long term.",
+        "zh": "典型的复利型事件：短期金融贡献 ≈ 0，人力资本与声誉资本长期缓慢增值。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · CUDA",
+          "url": "https://en.wikipedia.org/wiki/CUDA",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2008-07-03",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 4,
+      "rep": -0.03,
+      "s": {
+        "en": "Chip defect plunge",
+        "zh": "芯片缺陷暴跌"
+      },
+      "t": {
+        "en": "Laptop chip defect and lowered forecast send the stock down about 30% in a day",
+        "zh": "笔记本芯片缺陷 + 下调预期，单日暴跌约三成"
+      },
+      "summary": {
+        "en": "The company disclosed that some laptop GPUs were defective and that it would take a charge, and it cut its revenue forecast. The stock fell sharply in one day.",
+        "zh": "公司披露部分笔记本 GPU 存在缺陷需计提损失，并下调营收预期，股价单日重挫。"
+      },
+      "why": {
+        "en": "Financial capital is reflected in NVDA daily prices. The quality problem takes a further 3% off the reputation factor.",
+        "zh": "金融资本由 NVDA 日线反映；质量问题叠加扣口碑系数 -3%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Nvidia",
+          "url": "https://en.wikipedia.org/wiki/Nvidia",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · NVDA price history",
+          "url": "https://finance.yahoo.com/quote/NVDA/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2008-11",
+      "p": "month",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Financial crisis",
+        "zh": "金融危机"
+      },
+      "t": {
+        "en": "Financial crisis: stock falls about 80% from its peak",
+        "zh": "金融危机：股价较高点跌去约八成"
+      },
+      "summary": {
+        "en": "The global financial crisis came on top of product problems, and NVDA fell steadily from its 2007 high.",
+        "zh": "全球金融危机叠加产品问题，NVDA 从 2007 年高点一路下跌。"
+      },
+      "why": {
+        "en": "A market-wide decline, driven entirely by the share price. No extra reputation penalty.",
+        "zh": "系统性下跌，纯股价驱动，不额外扣声誉。"
+      },
+      "src": [
+        {
+          "name": "Yahoo Finance · NVDA price history",
+          "url": "https://finance.yahoo.com/quote/NVDA/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2012-09-30",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.04,
+      "s": {
+        "en": "AlexNet",
+        "zh": "AlexNet"
+      },
+      "t": {
+        "en": "AlexNet wins ImageNet using two GeForce cards",
+        "zh": "AlexNet 用两块 GeForce 显卡夺得 ImageNet 冠军"
+      },
+      "summary": {
+        "en": "AlexNet, trained by a University of Toronto team on two GTX 580 cards, won by a wide margin. This marked the start of the deep learning era, and GPUs became the standard hardware for AI training.",
+        "zh": "多伦多大学团队用两块 GTX 580 训练的 AlexNet 大幅领先，深度学习时代由此开启，GPU 成为 AI 训练的标准硬件。"
+      },
+      "why": {
+        "en": "The CUDA investment starts to pay off. The share price did not react at the time, but the reputation factor among AI researchers rises 4% (released slowly).",
+        "zh": "CUDA 的复利开始兑现：当时股价无反应，但 AI 圈口碑系数 +4%（缓慢释放）。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · AlexNet",
+          "url": "https://en.wikipedia.org/wiki/AlexNet",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2016-08",
+      "p": "month",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.02,
+      "s": {
+        "en": "DGX-1 to OpenAI",
+        "zh": "DGX-1 送 OpenAI"
+      },
+      "t": {
+        "en": "Hand-delivers the first DGX-1 supercomputer to OpenAI",
+        "zh": "亲手把第一台 DGX-1 超算送给 OpenAI"
+      },
+      "summary": {
+        "en": "Huang personally delivered the first DGX-1 AI supercomputer to OpenAI. The photo was widely recirculated after ChatGPT took off.",
+        "zh": "黄仁勋把首台 DGX-1 AI 超级计算机亲自送到 OpenAI。这个画面在 ChatGPT 爆火后被反复引用。"
+      },
+      "why": {
+        "en": "A reputation event whose significance only became clear later. Reputation factor +2%.",
+        "zh": "典型\"埋伏笔\"的声誉事件，口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Nvidia DGX",
+          "url": "https://en.wikipedia.org/wiki/Nvidia_DGX",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2018-11-16",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.02,
+      "s": {
+        "en": "Crypto bust",
+        "zh": "加密退潮"
+      },
+      "t": {
+        "en": "Crypto demand fades and inventory piles up; stock falls nearly 20% after earnings",
+        "zh": "加密货币退潮、库存积压，财报后单日大跌近两成"
+      },
+      "summary": {
+        "en": "A sudden drop in crypto-mining demand left a glut of gaming graphics cards, and guidance came in far below expectations.",
+        "zh": "挖矿需求骤降导致游戏显卡库存积压，业绩指引大幅低于预期。"
+      },
+      "why": {
+        "en": "Financial capital is reflected in the share price. Doubts about the company's reliance on crypto take 2% off the reputation factor.",
+        "zh": "金融资本由股价反映；对\"加密货币依赖\"的质疑扣口碑系数 -2%。"
+      },
+      "src": [
+        {
+          "name": "Yahoo Finance · NVDA price history",
+          "url": "https://finance.yahoo.com/quote/NVDA/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2020-04-27",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "Buys Mellanox",
+        "zh": "收购 Mellanox"
+      },
+      "t": {
+        "en": "Completes the roughly $6.9B acquisition of Mellanox",
+        "zh": "完成约 69 亿美元收购 Mellanox"
+      },
+      "summary": {
+        "en": "NVIDIA acquired Mellanox, an Israeli networking chip company, adding data center networking to its lineup.",
+        "zh": "收购以色列网络芯片公司 Mellanox，补齐数据中心互联能力。"
+      },
+      "why": {
+        "en": "A strategic move, reflected mainly in the share price.",
+        "zh": "战略布局，主要由股价反映。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Mellanox",
+          "url": "https://en.wikipedia.org/wiki/Mellanox_Technologies",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2020-09-13",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Arm deal announced",
+        "zh": "宣布收购 Arm"
+      },
+      "t": {
+        "en": "Announces $40B deal to acquire Arm",
+        "zh": "宣布 400 亿美元收购 Arm"
+      },
+      "summary": {
+        "en": "NVIDIA announced it would acquire Arm, the chip architecture company, in what was described as one of the largest deals in semiconductor history.",
+        "zh": "宣布收购芯片架构公司 Arm，号称半导体史上最大交易之一。"
+      },
+      "why": {
+        "en": "A signal of ambition. Reputation factor +1%.",
+        "zh": "野心信号，口碑系数 +1%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Arm Holdings",
+          "url": "https://en.wikipedia.org/wiki/Arm_Holdings",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2022-02-08",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 2,
+      "rep": -0.01,
+      "s": {
+        "en": "Arm deal collapses",
+        "zh": "Arm 告吹"
+      },
+      "t": {
+        "en": "Arm acquisition abandoned under regulatory pressure",
+        "zh": "收购 Arm 因监管阻力告吹"
+      },
+      "summary": {
+        "en": "The deal was called off after opposition from regulators in the US, the UK, the EU and elsewhere.",
+        "zh": "面对美、英、欧盟等监管机构的反对，交易终止。"
+      },
+      "why": {
+        "en": "A strategic setback. Reputation factor -1%.",
+        "zh": "战略受挫，口碑系数 -1%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Arm Holdings",
+          "url": "https://en.wikipedia.org/wiki/Arm_Holdings",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2022-10-07",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "China export curbs",
+        "zh": "对华出口管制"
+      },
+      "t": {
+        "en": "US imposes export controls on advanced chips to China",
+        "zh": "美国出台对华高端芯片出口管制"
+      },
+      "summary": {
+        "en": "The US Commerce Department restricted exports of advanced AI chips to China, affecting some NVIDIA products.",
+        "zh": "美国商务部限制向中国出口高端 AI 芯片，NVIDIA 的部分产品受影响。"
+      },
+      "why": {
+        "en": "An external policy shock, reflected in the share price. No personal reputation penalty.",
+        "zh": "外部政策冲击，由股价反映，不扣个人声誉。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Nvidia",
+          "url": "https://en.wikipedia.org/wiki/Nvidia",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2022-11-30",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.05,
+      "s": {
+        "en": "ChatGPT launches",
+        "zh": "ChatGPT 发布"
+      },
+      "t": {
+        "en": "ChatGPT launches and the AI arms race begins",
+        "zh": "ChatGPT 发布，AI 军备竞赛开始"
+      },
+      "summary": {
+        "en": "Training and running large AI models depend almost entirely on NVIDIA GPUs, and the demand curve changed for good from this point.",
+        "zh": "大模型的训练和推理几乎都依赖 NVIDIA GPU，需求曲线从此彻底改变。"
+      },
+      "why": {
+        "en": "An external trigger that starts the steepest climb of his career. Reputation factor +5%, and the baseline level of media attention begins to rise.",
+        "zh": "外部引爆点，开启\"人生主升浪\"；口碑系数 +5%，媒体热度基线开始抬升。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · ChatGPT",
+          "url": "https://en.wikipedia.org/wiki/ChatGPT",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2023-05-24",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.03,
+      "s": {
+        "en": "Blowout guidance",
+        "zh": "指引大超预期"
+      },
+      "t": {
+        "en": "Revenue guidance far exceeds expectations; stock jumps about 24% the next day",
+        "zh": "营收指引大超预期，次日股价大涨约 24%"
+      },
+      "summary": {
+        "en": "The company issued quarterly revenue guidance far above Wall Street estimates. It was the first time the market grasped the scale of AI demand.",
+        "zh": "公司给出远超华尔街预期的季度营收指引，市场第一次意识到 AI 需求的规模。"
+      },
+      "why": {
+        "en": "The one-day jump in financial capital is reflected in the share price. NVIDIA becomes established as the \"picks and shovels\" supplier of AI. Reputation factor +3%.",
+        "zh": "金融资本单日跳升由股价反映；\"AI 卖铲人\"叙事确立，口碑系数 +3%。"
+      },
+      "src": [
+        {
+          "name": "Yahoo Finance · NVDA price history",
+          "url": "https://finance.yahoo.com/quote/NVDA/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2023-05-30",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "$1T market cap",
+        "zh": "市值破万亿"
+      },
+      "t": {
+        "en": "Market cap passes $1T for the first time",
+        "zh": "市值首次突破 1 万亿美元"
+      },
+      "summary": {
+        "en": "NVIDIA became the first chip company with a market value above $1 trillion.",
+        "zh": "NVIDIA 成为首家市值突破万亿美元的芯片公司。"
+      },
+      "why": {
+        "en": "The milestone brings a peak in media attention.",
+        "zh": "里程碑效应带来媒体热度峰值。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Nvidia",
+          "url": "https://en.wikipedia.org/wiki/Nvidia",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2024-03-18",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.03,
+      "s": {
+        "en": "GTC Blackwell",
+        "zh": "GTC Blackwell"
+      },
+      "t": {
+        "en": "Unveils Blackwell at GTC 2024, dubbed the \"Woodstock of AI\"",
+        "zh": "GTC 2024 发布 Blackwell，被称为\"AI 界的伍德斯托克\""
+      },
+      "summary": {
+        "en": "The developer conference was held in a hockey arena and felt like a rock concert. NVIDIA unveiled its next-generation Blackwell architecture there.",
+        "zh": "在一座冰球馆里开发者大会开得像摇滚演唱会，发布新一代 Blackwell 架构。"
+      },
+      "why": {
+        "en": "A high point for his personal profile, with peaks in both media coverage and search interest. Reputation factor +3%.",
+        "zh": "个人 IP 高光时刻，媒体与搜索热度双峰；口碑系数 +3%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Blackwell",
+          "url": "https://en.wikipedia.org/wiki/Blackwell_(microarchitecture)",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2024-06-02",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.03,
+      "s": {
+        "en": "Computex frenzy",
+        "zh": "Computex 旋风"
+      },
+      "t": {
+        "en": "\"Jensanity\" at Computex in Taipei",
+        "zh": "台北 Computex \"黄仁勋旋风\""
+      },
+      "summary": {
+        "en": "In Taiwan he gave a keynote, visited night markets and signed autographs for fans. Crowds gathered wherever he went, and he drew celebrity-level attention across the Chinese-speaking world.",
+        "zh": "在台湾演讲、逛夜市、给粉丝签名，所到之处被围观，在华语圈掀起明星级热潮。"
+      },
+      "why": {
+        "en": "Audience size jumps as he reaches a mainstream Chinese-speaking audience. Reputation factor +3%. Follower growth is phased in along a smooth curve rather than as a one-day jump.",
+        "zh": "受众规模跃升（华语圈破圈），口碑系数 +3%；粉丝增长按平滑曲线计入，不做一天跳涨。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2024-06-18",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "Most valuable firm",
+        "zh": "全球市值第一"
+      },
+      "t": {
+        "en": "Briefly passes Microsoft to become the world's most valuable company",
+        "zh": "市值一度超过微软，登顶全球第一"
+      },
+      "summary": {
+        "en": "NVIDIA briefly became the most valuable company in the world.",
+        "zh": "NVIDIA 短暂成为全球市值最高的公司。"
+      },
+      "why": {
+        "en": "A milestone peak in attention. The financial side is reflected in the share price.",
+        "zh": "里程碑热度峰值，金融部分由股价反映。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Nvidia",
+          "url": "https://en.wikipedia.org/wiki/Nvidia",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2025-01-27",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 5,
+      "rep": -0.02,
+      "s": {
+        "en": "DeepSeek shock",
+        "zh": "DeepSeek 冲击"
+      },
+      "t": {
+        "en": "DeepSeek shock: about $589B in market value lost in one day",
+        "zh": "DeepSeek 冲击：单日蒸发约 5,890 亿美元"
+      },
+      "summary": {
+        "en": "The Chinese company DeepSeek released a low-cost, high-performing model. Investors worried that demand for computing power had been overestimated, and NVDA fell about 17% in one day, the largest single-day loss of market value in US stock market history.",
+        "zh": "中国公司 DeepSeek 发布低成本高性能模型，市场担心算力需求被高估，NVDA 单日暴跌约 17%，创美股单日市值损失纪录。"
+      },
+      "why": {
+        "en": "The one-day drop in financial capital is reflected in the share price. The challenge to the compute-demand thesis takes 2% off the reputation factor. The concern later proved unfounded, and the factor recovers as the penalty decays.",
+        "zh": "金融资本单日大跌由股价反映；\"算力叙事被挑战\"扣口碑系数 -2%，但后续被证伪，系数随衰减修复。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · DeepSeek",
+          "url": "https://en.wikipedia.org/wiki/DeepSeek",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · NVDA price history",
+          "url": "https://finance.yahoo.com/quote/NVDA/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2025-04-15",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "H20 restricted",
+        "zh": "H20 受限"
+      },
+      "t": {
+        "en": "H20 exports to China require a license; about $5.5B charge expected",
+        "zh": "H20 对华出口需许可，预计计提约 55 亿美元"
+      },
+      "summary": {
+        "en": "The US government began requiring a license to export H20 chips to China. The company expected related losses of about $5.5B.",
+        "zh": "美国政府要求 H20 芯片对华出口需申请许可，公司预计相关损失约 55 亿美元。"
+      },
+      "why": {
+        "en": "A policy shock, reflected in the share price.",
+        "zh": "政策冲击，由股价反映。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Nvidia",
+          "url": "https://en.wikipedia.org/wiki/Nvidia",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2025-07-09",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "$4T market cap",
+        "zh": "市值 4 万亿"
+      },
+      "t": {
+        "en": "Becomes the world's first $4T company",
+        "zh": "全球首家市值 4 万亿美元公司"
+      },
+      "summary": {
+        "en": "NVIDIA's market value passed $4 trillion for the first time during trading.",
+        "zh": "NVIDIA 市值盘中首次突破 4 万亿美元。"
+      },
+      "why": {
+        "en": "A milestone peak in attention.",
+        "zh": "里程碑热度峰值。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Nvidia",
+          "url": "https://en.wikipedia.org/wiki/Nvidia",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2025-10-29",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "$5T market cap",
+        "zh": "市值 5 万亿"
+      },
+      "t": {
+        "en": "Becomes the world's first $5T company",
+        "zh": "全球首家市值 5 万亿美元公司"
+      },
+      "summary": {
+        "en": "Less than four months after reaching $4 trillion, its market value passed $5 trillion.",
+        "zh": "距 4 万亿不到四个月，市值再破 5 万亿美元。"
+      },
+      "why": {
+        "en": "A milestone peak in attention.",
+        "zh": "里程碑热度峰值。"
+      },
+      "src": [
+        {
+          "name": "Outlook Business · Nvidia hits $5T",
+          "url": "https://www.outlookbusiness.com/corporate/nvidia-ceo-jensen-huang-net-worth-rises-by-5bn-as-chip-maker-hits-5-trillion-valuation",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}

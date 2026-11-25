@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PeopleStock · every life is a chart</title>
+<meta name="description" content="PeopleStock draws the lives of public figures as candlestick charts. Real stock prices as the anchor, sourced events as the story. Open data, open algorithm.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Silkscreen:wght@400;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="logo" href="#/">
+    <div class="logo-mark">P$</div>
+    <div>
+      <div class="logo-word">PEOPLESTOCK</div>
+      <div class="logo-sub" data-i18n="tagline"></div>
+    </div>
+  </a>
+  <nav class="nav">
+    <a class="btn btn-small" href="#/" id="navHome" data-i18n="nav_home"></a>
+    <a class="btn btn-small" href="#/compare" id="navCompare" data-i18n="nav_compare"></a>
+  </nav>
+  <nav class="people" id="people"></nav>
+  <div class="topbar-right">
+    <a class="btn btn-small" id="ghLink" target="_blank" rel="noopener" data-i18n="nav_github" hidden></a>
+    <button class="btn btn-small" id="langToggle">中文</button>
+    <button class="btn btn-small" id="colorToggle"></button>
+  </div>
+</header>
+
+<div class="card boot" id="boot" data-i18n="loading"></div>
+
+<!-- ───── home: leaderboard ───── -->
+<div id="viewHome" hidden>
+  <section class="card home-hero">
+    <div>
+      <h1 data-i18n="hero_title"></h1>
+      <p data-i18n="hero_sub"></p>
+    </div>
+    <div class="stats stats-3" id="homeStats"></div>
+  </section>
+  <div class="home-grid">
+    <section class="card">
+      <div class="card-title"><span data-i18n="lb_title"></span><span class="range-note muted" data-i18n="lb_hint"></span></div>
+      <div class="tbl-wrap tall"><table class="evt lb" id="lbTable"></table></div>
+    </section>
+    <section class="card">
+      <div class="card-title"><span data-i18n="feed_title"></span></div>
+      <div class="feed" id="feed"></div>
+    </section>
+  </div>
+</div>
+
+<!-- ───── person ───── -->
+<div id="viewPerson" hidden>
+  <section class="card entry" id="entry"></section>
+  <main class="layout">
+    <div class="main-col">
+      <section class="card chart-card">
+        <div class="chapters" id="chapters"></div>
+        <div class="chart-bar">
+          <div class="legend" id="legend"></div>
+          <div class="toolbar">
+            <button class="btn btn-small" id="zoomOut" title="-">－</button>
+            <button class="btn btn-small" id="zoomIn" title="+">＋</button>
+            <label class="sel"><span data-i18n="k_label"></span>
+              <select id="tfSel">
+                <option value="auto" data-i18n="tf_auto"></option><option value="D" data-i18n="tf_D"></option><option value="W" data-i18n="tf_W"></option><option value="M" data-i18n="tf_M"></option><option value="Y" data-i18n="tf_Y"></option>
+              </select>
+            </label>
+            <button class="btn btn-small" id="scaleBtn"></button>
+            <button class="btn btn-play" id="playBtn"></button>
+          </div>
+        </div>
+        <div class="chart-wrap" id="chartWrap">
+          <canvas id="chart"></canvas>
+          <div class="tooltip" id="tooltip"></div>
+        </div>
+        <div class="compo" id="compo"></div>
+      </section>
+
+      <section class="card table-card">
+        <div class="card-title"><span data-i18n="tbl_title"></span><span class="range-note" id="rangeNote"></span></div>
+        <div class="chips" id="filters"></div>
+        <div class="tbl-wrap" id="tblWrap"><table class="evt" id="evTable"></table></div>
+        <p class="muted tbl-note" data-i18n="tbl_note"></p>
+      </section>
+    </div>
+    <aside class="side"><section class="card dossier" id="dossier"></section></aside>
+  </main>
+</div>
+
+<!-- ───── compare ───── -->
+<div id="viewCompare" hidden>
+  <section class="card">
+    <div class="card-title"><span data-i18n="cmp_title"></span>
+      <span class="toolbar"><span class="seg" id="cmpMode"><button data-m="age" data-i18n="cmp_age"></button><button data-m="year" data-i18n="cmp_year"></button></span></span>
+    </div>
+    <p class="cmp-sub" data-i18n="cmp_sub"></p>
+    <div class="chips" id="cmpPick"></div>
+    <div class="chart-wrap" id="cmpWrap"><canvas id="cmpChart"></canvas><div class="tooltip" id="cmpTip"></div></div>
+    <p class="muted tbl-note" data-i18n="cmp_note"></p>
+  </section>
+  <section class="card" style="margin-top:18px">
+    <div class="card-title"><span data-i18n="cmp_tbl"></span></div>
+    <div class="tbl-wrap tall"><table class="evt" id="cmpTable"></table></div>
+  </section>
+</div>
+
+<details class="card algo" id="method">
+  <summary class="card-title"><span data-i18n="m_title"></span><span class="pill pill-pink" data-i18n="m_ver"></span></summary>
+  <div class="formula" data-i18n="m_formula"></div>
+  <div class="algo-grid">
+    <div class="algo-item"><div class="algo-h c-fin-bg" data-i18n="m_fin_h"></div><p data-i18n="m_fin"></p></div>
+    <div class="algo-item"><div class="algo-h c-hum-bg" data-i18n="m_hum_h"></div><p data-i18n="m_hum"></p></div>
+    <div class="algo-item"><div class="algo-h c-rep-bg" data-i18n="m_rep_h"></div><p data-i18n="m_rep"></p></div>
+    <div class="algo-item"><div class="algo-h" style="background:#111;color:#fff" data-i18n="m_att_h"></div><p data-i18n="m_att"></p></div>
+  </div>
+  <div class="anti" data-i18n="m_anti"></div>
+  <p style="margin:10px 0 0"><a id="methodLink" target="_blank" rel="noopener" data-i18n="m_more" hidden></a></p>
+</details>
+
+<p class="disclaimer" data-i18n="disclaimer"></p>
+<footer class="foot" id="foot"></footer>
+
+<script src="src/model.js"></script>
+<script src="src/i18n.js"></script>
+<script src="src/app.js"></script>
+</body>
+</html>

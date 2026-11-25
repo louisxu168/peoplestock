@@ -1,0 +1,1677 @@
+{
+  "id": "buffett",
+  "name": {
+    "en": "Warren Buffett",
+    "zh": "沃伦·巴菲特"
+  },
+  "ticker": "WEB",
+  "born": "1930-08-30",
+  "color": "#FFD84D",
+  "initials": "WB",
+  "tagline": {
+    "en": "From Omaha paperboy to the most famous investor alive, then giving it all away",
+    "zh": "从奥马哈报童到“股神”，再把财富几乎全部捐出"
+  },
+  "tags": [
+    {
+      "en": "Berkshire Hathaway",
+      "zh": "伯克希尔·哈撒韦"
+    },
+    {
+      "en": "Value investing",
+      "zh": "价值投资"
+    },
+    {
+      "en": "Oracle of Omaha",
+      "zh": "奥马哈先知"
+    },
+    {
+      "en": "Philanthropy",
+      "zh": "慈善捐赠"
+    }
+  ],
+  "privates": [
+    {
+      "label": {
+        "en": "Savings, partnership stake and Berkshire shares before daily price data (estimates)",
+        "zh": "个人储蓄、合伙基金权益及有日线数据之前的伯克希尔持股（估算）"
+      },
+      "until": "1980-03-16",
+      "anchors": [
+        ["1936", 20],
+        ["1942", 120],
+        ["1945", 6000],
+        ["1950", 9800],
+        ["1951", 20000],
+        ["1956", 174000],
+        ["1962", 1025000],
+        ["1966", 7000000],
+        ["1969-12", 25000000],
+        ["1973", 34000000],
+        ["1974-12", 19000000],
+        ["1977", 67000000],
+        ["1980-03-16", 128066900]
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "sym": "BRK-A",
+      "label": {
+        "en": "Berkshire Hathaway stake (Class A equivalent)",
+        "zh": "伯克希尔·哈撒韦持股（折合 A 类股）"
+      },
+      "from": "1980-03-17",
+      "own": [
+        ["1980-03-17", 0.43],
+        ["1983-07", 0.414],
+        ["1996-06", 0.394],
+        ["1998-12-20", 0.383],
+        ["1998-12-22", 0.313],
+        ["2006-06", 0.308],
+        ["2006-07", 0.295],
+        ["2010-02-11", 0.258],
+        ["2010-02-13", 0.243],
+        ["2015-07", 0.1875],
+        ["2020-07", 0.156],
+        ["2021-07", 0.158],
+        ["2022-07", 0.156],
+        ["2023-07", 0.15],
+        ["2024-07", 0.1447],
+        ["2025-06-26", 0.1435],
+        ["2025-06-27", 0.1378],
+        ["2025-11-10", 0.1365],
+        ["2026-07-13", 0.1371],
+        ["2026-07-14", 0.1315],
+        ["2026-11-15", 0.1329],
+        ["2026-11-16", 0.1286],
+        ["2026-11-25", 0.1286]
+      ],
+      "shares": [
+        ["1980-03-17", 1027000],
+        ["1982-12", 986500],
+        ["1983-07", 1146900],
+        ["1996-06", 1206000],
+        ["1998-12-20", 1240000],
+        ["1998-12-22", 1519000],
+        ["2006-06", 1541000],
+        ["2010-02-11", 1552000],
+        ["2010-02-13", 1648000],
+        ["2015-07", 1643000],
+        ["2019-01", 1641000],
+        ["2020-01", 1625000],
+        ["2021-01", 1544000],
+        ["2022-01", 1477000],
+        ["2023-01", 1460000],
+        ["2024-01", 1443000],
+        ["2024-07", 1437000],
+        ["2026-01", 1438200],
+        ["2026-07", 1431500],
+        ["2026-10", 1418900],
+        ["2026-11-25", 1416500]
+      ]
+    }
+  ],
+  "human": [
+    ["1930-08-30", 300000],
+    ["1947", 500000],
+    ["1951", 1500000],
+    ["1956", 5000000],
+    ["1965-05", 20000000],
+    ["1980", 50000000],
+    ["1988", 100000000],
+    ["2000", 200000000],
+    ["2008", 300000000],
+    ["2020", 200000000],
+    ["2026-01", 100000000],
+    ["2026-09-18", 50000000]
+  ],
+  "audience": [
+    ["1930-08-30", 0],
+    ["1956", 20],
+    ["1970", 1000],
+    ["1980", 50000],
+    ["1990", 1000000],
+    ["2000", 5000000],
+    ["2008", 15000000],
+    ["2015", 25000000],
+    ["2020", 35000000],
+    ["2025-05", 45000000],
+    ["2026-11", 45000000]
+  ],
+  "media": [
+    ["1930-08-30", 0],
+    ["1956", 0.05],
+    ["1969", 0.5],
+    ["1977", 1],
+    ["1985", 3],
+    ["1991", 8],
+    ["1999", 12],
+    ["2008", 30],
+    ["2012", 22],
+    ["2020", 22],
+    ["2025-05", 35],
+    ["2026-01", 25],
+    ["2026-11", 20]
+  ],
+  "chapters": [
+    {
+      "from": "1930-08-30",
+      "t": {
+        "en": "Omaha Boyhood",
+        "zh": "奥马哈少年"
+      },
+      "desc": {
+        "en": "Born in Omaha during the Depression; delivers newspapers, runs small businesses and buys his first stock at 11",
+        "zh": "大萧条年代生于奥马哈；送报纸、做小生意，11 岁买下第一只股票"
+      }
+    },
+    {
+      "from": "1950",
+      "t": {
+        "en": "Graham's Student",
+        "zh": "师从格雷厄姆"
+      },
+      "desc": {
+        "en": "Studies under Benjamin Graham at Columbia, then works for him in New York as a securities analyst",
+        "zh": "在哥伦比亚大学师从本杰明·格雷厄姆，随后到纽约为他做证券分析师"
+      }
+    },
+    {
+      "from": "1956",
+      "t": {
+        "en": "The Partnership Years",
+        "zh": "合伙基金岁月"
+      },
+      "desc": {
+        "en": "Runs other people's money from Omaha, beats the market every year and becomes a millionaire",
+        "zh": "在奥马哈替别人管钱，年年跑赢大盘，成为百万富翁"
+      }
+    },
+    {
+      "from": "1965-05",
+      "t": {
+        "en": "Building Berkshire",
+        "zh": "打造伯克希尔"
+      },
+      "desc": {
+        "en": "Takes over a failing textile mill and turns it into a holding company powered by insurance float",
+        "zh": "接手一家衰落的纺织厂，用保险浮存金把它改造成控股公司"
+      }
+    },
+    {
+      "from": "1985",
+      "t": {
+        "en": "Oracle of Omaha",
+        "zh": "奥马哈先知"
+      },
+      "desc": {
+        "en": "Billionaire status, Coca-Cola, the Salomon rescue, General Re and sitting out the dot-com bubble",
+        "zh": "成为亿万富豪，买入可口可乐、拯救所罗门、收购通用再保险，并拒绝追逐互联网泡沫"
+      }
+    },
+    {
+      "from": "2006-06",
+      "t": {
+        "en": "Giving It Away",
+        "zh": "散尽千金"
+      },
+      "desc": {
+        "en": "Pledges his fortune to charity while making his largest deals: the 2008 rescues, BNSF and Apple",
+        "zh": "承诺捐出财富，同时做成一生中最大的几笔交易：2008 年救市投资、BNSF 铁路与苹果"
+      }
+    },
+    {
+      "from": "2025-05-03",
+      "t": {
+        "en": "Handing Over",
+        "zh": "交棒"
+      },
+      "desc": {
+        "en": "Passes the CEO job to Greg Abel, then the chairmanship, and speeds up his giving",
+        "zh": "把 CEO 交给格雷格·阿贝尔，随后卸任董事长，并加快捐赠节奏"
+      }
+    }
+  ],
+  "events": [
+    {
+      "d": "1930-08-30",
+      "p": "day",
+      "cat": "origin",
+      "dir": 0,
+      "mag": 1,
+      "rep": 0,
+      "s": {
+        "en": "Born in Omaha",
+        "zh": "生于奥马哈"
+      },
+      "t": {
+        "en": "Born in Omaha, Nebraska",
+        "zh": "出生于内布拉斯加州奥马哈"
+      },
+      "summary": {
+        "en": "Warren Buffett is born in Omaha, less than a year after the 1929 stock market crash.",
+        "zh": "沃伦·巴菲特生于奥马哈，此时距 1929 年股市大崩盘还不到一年。"
+      },
+      "why": {
+        "en": "Starting point, no score. Human capital starts at the average for an American child.",
+        "zh": "起点事件，不计分；人力资本以美国同龄人平均水平为初始值。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Warren Buffett",
+          "url": "https://en.wikipedia.org/wiki/Warren_Buffett",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1942",
+      "p": "year",
+      "cat": "origin",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "First stock at 11",
+        "zh": "11岁首次买股"
+      },
+      "t": {
+        "en": "Buys his first stock at age 11",
+        "zh": "11 岁买下人生第一只股票"
+      },
+      "summary": {
+        "en": "At 11 he buys three shares of Cities Service Preferred with money saved from small jobs. As a teenager he keeps saving from paper routes and small ventures.",
+        "zh": "11 岁时，他用打零工攒下的钱买了三股 Cities Service 优先股。少年时期继续靠送报纸和各种小生意攒钱。"
+      },
+      "why": {
+        "en": "Tiny in dollars, but it is the first financial capital in the model (about $120). The story is retold for decades, so a small reputation credit is added.",
+        "zh": "金额极小，却是模型里最早的金融资本（约 120 美元）。这个故事被讲了几十年，因此给少量声誉加分。"
+      },
+      "fin": {
+        "en": "Private value: about $120 (estimate)",
+        "zh": "私有估值：约 120 美元（估算）"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Warren Buffett",
+          "url": "https://en.wikipedia.org/wiki/Warren_Buffett",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1951",
+      "p": "year",
+      "cat": "education",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.01,
+      "s": {
+        "en": "Columbia + Graham",
+        "zh": "师从格雷厄姆"
+      },
+      "t": {
+        "en": "Earns a master's at Columbia under Benjamin Graham",
+        "zh": "在哥伦比亚大学师从格雷厄姆，获硕士学位"
+      },
+      "summary": {
+        "en": "He enrolls at Columbia in 1950 because Benjamin Graham, the father of value investing, teaches there, and graduates with a Master of Science in economics in 1951. From 1954 to 1956 he works for Graham's firm as a securities analyst.",
+        "zh": "1950 年，他因“价值投资之父”本杰明·格雷厄姆在哥伦比亚大学任教而入学，1951 年获经济学硕士学位。1954 至 1956 年，他在格雷厄姆的公司担任证券分析师。"
+      },
+      "why": {
+        "en": "Degree step plus the method he will use for life: the human capital target rises to about $1.5 million.",
+        "zh": "学历台阶，加上他将使用一生的投资方法：人力资本目标值上调至约 150 万美元。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Warren Buffett",
+          "url": "https://en.wikipedia.org/wiki/Warren_Buffett",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Benjamin Graham",
+          "url": "https://en.wikipedia.org/wiki/Benjamin_Graham",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1956",
+      "p": "year",
+      "cat": "career",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.02,
+      "s": {
+        "en": "Partnership opens",
+        "zh": "成立合伙基金"
+      },
+      "t": {
+        "en": "Starts the Buffett Partnership in Omaha",
+        "zh": "在奥马哈创办巴菲特合伙基金"
+      },
+      "summary": {
+        "en": "After Graham retires and closes his firm, Buffett returns to Omaha with about $174,000 in savings and starts investment partnerships that manage money for family, friends and neighbors.",
+        "zh": "格雷厄姆退休并关闭公司后，巴菲特带着约 17.4 万美元积蓄回到奥马哈，成立投资合伙企业，为亲友和邻居管理资金。"
+      },
+      "why": {
+        "en": "Life turning point: from employee to running his own fund. Human capital steps up to the level of a funded founder.",
+        "zh": "人生转折点：从雇员变成自己管理基金。人力资本上调到“获得资金的创始人”一档。"
+      },
+      "fin": {
+        "en": "Private value: about $174,000 (figure cited by Wikipedia)",
+        "zh": "私有估值：约 17.4 万美元（维基百科引用的数字）"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Warren Buffett",
+          "url": "https://en.wikipedia.org/wiki/Warren_Buffett",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1962",
+      "p": "year",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Millionaire",
+        "zh": "百万富翁"
+      },
+      "t": {
+        "en": "Becomes a millionaire and starts buying Berkshire Hathaway",
+        "zh": "成为百万富翁，开始买入伯克希尔·哈撒韦"
+      },
+      "summary": {
+        "en": "His partnerships hold about $7.2 million, of which more than $1 million is his own. The same year he begins buying shares of a struggling New England textile maker called Berkshire Hathaway for about $7.50 each.",
+        "zh": "他的合伙基金规模约 720 万美元，其中属于他本人的超过 100 万美元。同年，他开始以每股约 7.5 美元买入新英格兰一家经营困难的纺织企业——伯克希尔·哈撒韦。"
+      },
+      "why": {
+        "en": "Private net worth anchor of about $1.03 million, from figures cited by Wikipedia.",
+        "zh": "私有净资产锚点约 103 万美元，数字来自维基百科引用的资料。"
+      },
+      "fin": {
+        "en": "Private value: about $174,000 in 1956 to about $1.03 million",
+        "zh": "私有估值：1956 年约 17.4 万 → 约 103 万美元"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Warren Buffett",
+          "url": "https://en.wikipedia.org/wiki/Warren_Buffett",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Berkshire Hathaway",
+          "url": "https://en.wikipedia.org/wiki/Berkshire_Hathaway",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1965-05",
+      "p": "month",
+      "cat": "career",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.02,
+      "s": {
+        "en": "Controls Berkshire",
+        "zh": "入主伯克希尔"
+      },
+      "t": {
+        "en": "Takes control of Berkshire Hathaway",
+        "zh": "取得伯克希尔·哈撒韦控制权"
+      },
+      "summary": {
+        "en": "After buying shares aggressively, his partnership takes formal control of Berkshire Hathaway at a board meeting in early May 1965. He later called the purchase a mistake, because the textile business kept shrinking, but the company became the vehicle for everything that followed.",
+        "zh": "在大举增持之后，他的合伙基金于 1965 年 5 月初的董事会上正式接管伯克希尔·哈撒韦。他后来说这笔收购是个错误，因为纺织业务不断萎缩，但这家公司成了此后一切投资的载体。"
+      },
+      "why": {
+        "en": "Life-defining: he now runs an operating company whose cash he can reinvest. Human capital steps up to public-company CEO level.",
+        "zh": "人生定义性事件：他开始掌管一家可以把现金拿去再投资的实业公司。人力资本上调到上市公司 CEO 一档。"
+      },
+      "src": [
+        {
+          "name": "Berkshire Hathaway · 2014 shareholder letter",
+          "url": "https://www.berkshirehathaway.com/letters/2014ltr.pdf",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Berkshire Hathaway",
+          "url": "https://en.wikipedia.org/wiki/Berkshire_Hathaway",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1967-03",
+      "p": "month",
+      "cat": "career",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.01,
+      "s": {
+        "en": "National Indemnity",
+        "zh": "收购国民保险"
+      },
+      "t": {
+        "en": "Berkshire buys National Indemnity for $8.6 million",
+        "zh": "伯克希尔以 860 万美元收购国民保险公司"
+      },
+      "summary": {
+        "en": "Berkshire buys an Omaha insurer, National Indemnity. Insurance premiums are collected before claims are paid, and this pool of money, called float, becomes the main fuel for his investments.",
+        "zh": "伯克希尔收购奥马哈的国民保险公司。保费先收、赔款后付，这笔被称为“浮存金”的资金成为他日后投资的主要弹药。"
+      },
+      "why": {
+        "en": "The move that turned a textile company into an investment machine. Value shows up later through the growth of the Berkshire stake.",
+        "zh": "把纺织厂变成投资机器的关键一步。价值在之后通过伯克希尔持股的增长体现。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · National Indemnity Company",
+          "url": "https://en.wikipedia.org/wiki/National_Indemnity_Company",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Berkshire Hathaway",
+          "url": "https://en.wikipedia.org/wiki/Berkshire_Hathaway",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1969",
+      "p": "year",
+      "cat": "career",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.03,
+      "s": {
+        "en": "Closes partnership",
+        "zh": "解散合伙基金"
+      },
+      "t": {
+        "en": "Closes the partnership near a market top",
+        "zh": "在牛市高位解散合伙基金"
+      },
+      "summary": {
+        "en": "Saying he can no longer find bargains in an overheated market, he liquidates the partnership and hands the assets, including Berkshire shares, back to the partners. In 1970 he becomes chairman of Berkshire and makes it his only vehicle.",
+        "zh": "他表示在过热的市场里已找不到便宜货，于是清算合伙基金，把包括伯克希尔股票在内的资产分还给合伙人。1970 年他出任伯克希尔董事长，从此只经营这一家公司。"
+      },
+      "why": {
+        "en": "Walking away at the top built his reputation for discipline (+3%). His net worth of about $25 million at the time is a widely quoted estimate.",
+        "zh": "在高点主动收手，奠定了他“守纪律”的名声（口碑系数 +3%）。当时约 2,500 万美元的身家是被广泛引用的估算值。"
+      },
+      "fin": {
+        "en": "Private value: about $25 million (estimate)",
+        "zh": "私有估值：约 2,500 万美元（估算）"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Warren Buffett",
+          "url": "https://en.wikipedia.org/wiki/Warren_Buffett",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1972",
+      "p": "year",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "See's Candies",
+        "zh": "喜诗糖果"
+      },
+      "t": {
+        "en": "Buys See's Candies for $25 million",
+        "zh": "以 2,500 万美元买下喜诗糖果"
+      },
+      "summary": {
+        "en": "Through its affiliate Blue Chip Stamps, Berkshire buys the California chocolate maker See's Candies. Paying up for a strong brand, at Charlie Munger's urging, marks his shift from cheap stocks to great businesses.",
+        "zh": "伯克希尔通过关联公司蓝筹印花买下加州巧克力品牌喜诗糖果。在查理·芒格的推动下为强势品牌支付溢价，标志着他从“捡便宜货”转向“买好公司”。"
+      },
+      "why": {
+        "en": "A change of method more than a change of wealth. Small reputation credit; the money shows up through Berkshire's value.",
+        "zh": "方法的转变大于财富的变化。给少量声誉加分，财务影响通过伯克希尔的价值体现。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · See's Candies",
+          "url": "https://en.wikipedia.org/wiki/See%27s_Candies",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Berkshire Hathaway",
+          "url": "https://en.wikipedia.org/wiki/Berkshire_Hathaway",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1973",
+      "p": "year",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Washington Post",
+        "zh": "入股华盛顿邮报"
+      },
+      "t": {
+        "en": "Berkshire starts buying The Washington Post Company",
+        "zh": "伯克希尔开始买入华盛顿邮报公司"
+      },
+      "summary": {
+        "en": "Berkshire begins building a large stake in The Washington Post Company while media stocks are out of favor. It becomes one of his best-known long-term holdings.",
+        "zh": "在传媒股不受青睐之时，伯克希尔开始大量买入华盛顿邮报公司股票。这成为他最著名的长期持仓之一。"
+      },
+      "why": {
+        "en": "Investment inside Berkshire; counted through the stake value. Small reputation credit for a classic value purchase.",
+        "zh": "属于伯克希尔内部的投资，通过持股价值计入；作为经典价值投资案例给少量声誉加分。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Warren Buffett",
+          "url": "https://en.wikipedia.org/wiki/Warren_Buffett",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · The Washington Post",
+          "url": "https://en.wikipedia.org/wiki/The_Washington_Post",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1974",
+      "p": "year",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Bear market",
+        "zh": "70年代熊市"
+      },
+      "t": {
+        "en": "The 1973-74 bear market cuts his paper wealth",
+        "zh": "1973–74 年大熊市令账面财富缩水"
+      },
+      "summary": {
+        "en": "A deep bear market drags down nearly all stocks, Berkshire included. Widely quoted estimates put his net worth at about $34 million in 1973 and about $19 million a year later.",
+        "zh": "一轮深度熊市几乎拖累了所有股票，伯克希尔也不例外。被广泛引用的估算显示，他的身家从 1973 年的约 3,400 万美元降到一年后的约 1,900 万美元。"
+      },
+      "why": {
+        "en": "A market-wide fall, so no reputation penalty. The private anchors here are estimates, since there is no daily Berkshire price before 1980.",
+        "zh": "属于系统性下跌，不扣声誉。1980 年之前没有伯克希尔的日线数据，这里的私有锚点均为估算。"
+      },
+      "fin": {
+        "en": "Private value: about $34 million to about $19 million (estimates)",
+        "zh": "私有估值：约 3,400 万 → 约 1,900 万美元（估算）"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Warren Buffett",
+          "url": "https://en.wikipedia.org/wiki/Warren_Buffett",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1976",
+      "p": "year",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Bets on GEICO",
+        "zh": "抄底 GEICO"
+      },
+      "t": {
+        "en": "Buys into GEICO while it is near collapse",
+        "zh": "在 GEICO 濒临倒闭时出手买入"
+      },
+      "summary": {
+        "en": "The car insurer GEICO, a company he first bought as a student in 1951, comes close to failure. Berkshire starts buying its shares at very low prices and builds a large stake over the following years.",
+        "zh": "车险公司 GEICO 是他 1951 年还是学生时就买过的股票，此时濒临破产。伯克希尔以极低价格开始买入，并在随后几年建立起大额持股。"
+      },
+      "why": {
+        "en": "Buying a good business during a crisis became his trademark (+2% reputation). The gain itself is carried by Berkshire's value.",
+        "zh": "在危机中买入好公司，成为他的招牌打法（口碑系数 +2%）。收益本身由伯克希尔的价值体现。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · GEICO",
+          "url": "https://en.wikipedia.org/wiki/GEICO",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Warren Buffett",
+          "url": "https://en.wikipedia.org/wiki/Warren_Buffett",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1980-03-17",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 0,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Daily data starts",
+        "zh": "开始逐日计价"
+      },
+      "t": {
+        "en": "Daily Berkshire price data begins at $290 a share",
+        "zh": "伯克希尔日线数据起点：每股 290 美元"
+      },
+      "summary": {
+        "en": "Yahoo Finance's daily history for Berkshire's Class A stock starts on this day at $290 per share. With roughly 43% of about one million shares, his stake is worth around $128 million.",
+        "zh": "雅虎财经的伯克希尔 A 类股日线数据从这一天开始，股价 290 美元。他持有约 100 万股总股本中的约 43%，持股价值约 1.28 亿美元。"
+      },
+      "why": {
+        "en": "Anchor switch, not a real-world event: from here financial capital = ownership x shares x daily close. The 43% and share count are estimates from public reporting.",
+        "zh": "这是模型的锚点切换，并非现实事件：此后金融资本 = 持股比例 × 总股本 × 当日收盘价。43% 的持股比例和股本数为根据公开资料的估算。"
+      },
+      "fin": {
+        "en": "Priced daily from BRK-A; the stock has never split",
+        "zh": "开始按 BRK-A 日线逐日计价；该股从未拆股"
+      },
+      "src": [
+        {
+          "name": "Yahoo Finance · BRK-A historical prices",
+          "url": "https://finance.yahoo.com/quote/BRK-A/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "1985",
+      "p": "year",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.03,
+      "s": {
+        "en": "Billionaire",
+        "zh": "成为亿万富豪"
+      },
+      "t": {
+        "en": "Net worth passes $1 billion; the textile mills close",
+        "zh": "身家突破 10 亿美元；纺织厂关停"
+      },
+      "summary": {
+        "en": "His net worth passes $1 billion as Berkshire's share price climbs above $2,000. The same year Berkshire shuts its last textile operations, ending the business the company was named for.",
+        "zh": "随着伯克希尔股价升破 2,000 美元，他的身家突破 10 亿美元。同年，伯克希尔关闭了最后的纺织业务，公司名字所代表的老本行就此结束。"
+      },
+      "why": {
+        "en": "The wealth is already in the stock price. The reputation credit (+3%) is for the public status of being a self-made billionaire investor.",
+        "zh": "财富已体现在股价中。口碑系数 +3% 来自“白手起家的亿万富豪投资人”这一公众身份。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Warren Buffett",
+          "url": "https://en.wikipedia.org/wiki/Warren_Buffett",
+          "type": "wiki"
+        },
+        {
+          "name": "Berkshire Hathaway · 1985 shareholder letter",
+          "url": "https://www.berkshirehathaway.com/letters/1985.html",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "1988",
+      "p": "year",
+      "cat": "career",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.03,
+      "s": {
+        "en": "Buys Coca-Cola",
+        "zh": "买入可口可乐"
+      },
+      "t": {
+        "en": "Berkshire starts buying Coca-Cola",
+        "zh": "伯克希尔开始买入可口可乐"
+      },
+      "summary": {
+        "en": "Berkshire begins buying Coca-Cola stock and ends up with about 7% of the company for roughly $1 billion. He has never sold the core holding, and it became the textbook example of his buy-and-hold style.",
+        "zh": "伯克希尔开始买入可口可乐股票，最终以约 10 亿美元拿下公司约 7% 的股份。这笔核心持仓他从未卖出，成为“买入并长期持有”的教科书案例。"
+      },
+      "why": {
+        "en": "The investment gain is in Berkshire's price. The reputation credit (+3%) is for the lasting public image of the Coke investor.",
+        "zh": "投资收益已体现在伯克希尔股价中。口碑系数 +3% 来自“可口可乐投资人”这一持久的公众形象。"
+      },
+      "src": [
+        {
+          "name": "Berkshire Hathaway · 1988 shareholder letter",
+          "url": "https://www.berkshirehathaway.com/letters/1988.html",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Warren Buffett",
+          "url": "https://en.wikipedia.org/wiki/Warren_Buffett",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1991-08",
+      "p": "month",
+      "cat": "crisis",
+      "dir": 0,
+      "mag": 4,
+      "rep": 0.03,
+      "s": {
+        "en": "Salomon crisis",
+        "zh": "所罗门危机"
+      },
+      "t": {
+        "en": "Steps in as chairman of scandal-hit Salomon Brothers",
+        "zh": "所罗门兄弟爆出丑闻，他临危出任董事长"
+      },
+      "summary": {
+        "en": "Salomon Brothers, in which Berkshire had invested in 1987, admits that a trader broke the rules in US Treasury auctions, and its chief executive resigns. Buffett takes over as chairman, cooperates fully with regulators and keeps the firm alive.",
+        "zh": "伯克希尔 1987 年入股的所罗门兄弟承认交易员在美国国债拍卖中违规，其首席执行官辞职。巴菲特接任董事长，全面配合监管机构，保住了这家公司。"
+      },
+      "why": {
+        "en": "Berkshire's investment was at real risk, so direction is mixed. His handling of the crisis raised his standing with regulators and the public (+3%).",
+        "zh": "伯克希尔的投资一度面临实际风险，因此方向记为中性。他处理危机的方式提升了在监管层和公众中的声望（口碑系数 +3%）。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Salomon Brothers",
+          "url": "https://en.wikipedia.org/wiki/Salomon_Brothers",
+          "type": "wiki"
+        },
+        {
+          "name": "Berkshire Hathaway · 1991 shareholder letter",
+          "url": "https://www.berkshirehathaway.com/letters/1991.html",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "1996-01",
+      "p": "month",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Owns all of GEICO",
+        "zh": "全资收购 GEICO"
+      },
+      "t": {
+        "en": "Berkshire buys the rest of GEICO for $2.3 billion",
+        "zh": "伯克希尔以 23 亿美元买下 GEICO 剩余股份"
+      },
+      "summary": {
+        "en": "Berkshire, which already owned about half of GEICO, pays $2.3 billion for the other half. The car insurer becomes one of Berkshire's largest wholly owned businesses.",
+        "zh": "伯克希尔原本已持有 GEICO 约一半股份，此次再出资 23 亿美元买下另一半。这家车险公司成为伯克希尔最大的全资子公司之一。"
+      },
+      "why": {
+        "en": "A business deal that the stock price carries; no separate reputation score.",
+        "zh": "属于由股价反映的商业交易，不另计声誉分。"
+      },
+      "src": [
+        {
+          "name": "Berkshire Hathaway · 1995 shareholder letter",
+          "url": "https://www.berkshirehathaway.com/letters/1995.html",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · GEICO",
+          "url": "https://en.wikipedia.org/wiki/GEICO",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1996-05",
+      "p": "month",
+      "cat": "milestone",
+      "dir": 0,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "Class B shares",
+        "zh": "发行 B 类股"
+      },
+      "t": {
+        "en": "Berkshire creates lower-priced Class B shares",
+        "zh": "伯克希尔推出低价的 B 类股"
+      },
+      "summary": {
+        "en": "With one Class A share costing more than $30,000, Berkshire issues Class B shares worth one-thirtieth of an A share. The aim is to let small investors buy in directly instead of through high-fee funds built to copy Berkshire.",
+        "zh": "当时一股 A 类股价格超过 3 万美元，伯克希尔发行相当于三十分之一股 A 类股的 B 类股，让小投资者可以直接买入，而不必借道那些收费高昂、模仿伯克希尔的基金。"
+      },
+      "why": {
+        "en": "The model counts all shares as Class A equivalents, so this slightly raises the share count. Small credit for siding with small shareholders.",
+        "zh": "模型把所有股份折算成 A 类股，因此总股本略有增加。因站在小股东一边，给少量声誉加分。"
+      },
+      "src": [
+        {
+          "name": "Berkshire Hathaway · 1996 shareholder letter",
+          "url": "https://www.berkshirehathaway.com/letters/1996.html",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Berkshire Hathaway",
+          "url": "https://en.wikipedia.org/wiki/Berkshire_Hathaway",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1998-12",
+      "p": "month",
+      "cat": "career",
+      "dir": 0,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "General Re",
+        "zh": "收购通用再保险"
+      },
+      "t": {
+        "en": "Buys General Re for $22 billion in Berkshire stock",
+        "zh": "以 220 亿美元伯克希尔股票收购通用再保险"
+      },
+      "summary": {
+        "en": "Berkshire completes its largest deal to that date, buying the reinsurer General Re and paying in newly issued Berkshire shares. The share count jumps by more than a fifth, and General Re needed years of repair work afterward.",
+        "zh": "伯克希尔完成当时最大的一笔收购，以新发行的伯克希尔股票买下再保险公司通用再保险。总股本一次增加两成多，而通用再保险此后花了多年整顿。"
+      },
+      "why": {
+        "en": "Mixed result. Paying in stock cut his ownership from about 38% to about 31% without changing his share count; the model shows this in the own and shares anchors.",
+        "zh": "结果好坏参半。用股票支付使他的持股比例从约 38% 降到约 31%，但持股数量不变；模型通过持股比例和总股本锚点体现。"
+      },
+      "fin": {
+        "en": "Share count: about 1.24 million to about 1.52 million Class A equivalents",
+        "zh": "总股本（折合 A 类股）：约 124 万 → 约 152 万股"
+      },
+      "src": [
+        {
+          "name": "Berkshire Hathaway · 1998 shareholder letter",
+          "url": "https://www.berkshirehathaway.com/letters/1998htm.html",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Gen Re",
+          "url": "https://en.wikipedia.org/wiki/Gen_Re",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2000-03",
+      "p": "month",
+      "cat": "reputation",
+      "dir": 0,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Skips dot-com boom",
+        "zh": "拒追互联网泡沫"
+      },
+      "t": {
+        "en": "Refuses to buy internet stocks as the bubble peaks",
+        "zh": "互联网泡沫见顶，他坚持不买科技股"
+      },
+      "summary": {
+        "en": "While technology stocks soar, he will not buy businesses he says he cannot value, and Berkshire's shares fall far below their 1998 high. In his letter for 1999 he calls it the worst relative year of his career. The Nasdaq peaks in March 2000 and then collapses.",
+        "zh": "科技股狂飙之时，他坚持不买自己无法估值的公司，伯克希尔股价较 1998 年高点大幅回落。他在 1999 年度致股东信中称，这是他职业生涯中相对表现最差的一年。纳斯达克在 2000 年 3 月见顶后崩盘。"
+      },
+      "why": {
+        "en": "The price drop is already in the stock data. The reputation credit (+2%) reflects how the crash that followed proved his caution right.",
+        "zh": "股价下跌已由行情数据反映。口碑系数 +2% 反映的是随后的崩盘证明了他的谨慎。"
+      },
+      "src": [
+        {
+          "name": "Berkshire Hathaway · 1999 shareholder letter",
+          "url": "https://www.berkshirehathaway.com/letters/1999htm.html",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Dot-com bubble",
+          "url": "https://en.wikipedia.org/wiki/Dot-com_bubble",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2006-06",
+      "p": "month",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.06,
+      "s": {
+        "en": "Pledges fortune",
+        "zh": "承诺捐出财富"
+      },
+      "t": {
+        "en": "Pledges most of his fortune to the Gates Foundation and four others",
+        "zh": "承诺把大部分财富捐给盖茨基金会等五家基金会"
+      },
+      "summary": {
+        "en": "He announces that he will give away about 85% of his Berkshire shares in yearly installments, most of it to the Bill & Melinda Gates Foundation and the rest to four family foundations. At the time it is the largest charitable pledge ever made.",
+        "zh": "他宣布将把约 85% 的伯克希尔股票分年捐出，大部分捐给比尔及梅琳达·盖茨基金会，其余捐给四家家族基金会。这是当时史上最大的一笔慈善承诺。"
+      },
+      "why": {
+        "en": "Maximum reputation shock (+6%). From here his ownership falls every year by design, so his financial capital grows more slowly than Berkshire itself.",
+        "zh": "声誉冲击取上限（口碑系数 +6%）。此后他的持股比例每年按计划下降，因此金融资本的增速慢于伯克希尔本身。"
+      },
+      "fin": {
+        "en": "Ownership: about 31% in 2006, falling to about 13% by late 2026",
+        "zh": "持股比例：2006 年约 31% → 2026 年底约 13%"
+      },
+      "src": [
+        {
+          "name": "Berkshire Hathaway · Buffett's 2006 pledge letters",
+          "url": "https://www.berkshirehathaway.com/donate/webdonat.html",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Warren Buffett",
+          "url": "https://en.wikipedia.org/wiki/Warren_Buffett",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2008-03",
+      "p": "month",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "World's richest",
+        "zh": "登顶全球首富"
+      },
+      "t": {
+        "en": "Forbes names him the richest person in the world",
+        "zh": "被《福布斯》评为全球首富"
+      },
+      "summary": {
+        "en": "Forbes puts his fortune at about $62 billion, ahead of Bill Gates, who had held the top spot for 13 years.",
+        "zh": "《福布斯》估算他的财富约 620 亿美元，超过连续 13 年位居榜首的比尔·盖茨。"
+      },
+      "why": {
+        "en": "The money is in the stock price; the small credit (+2%) is for the headline. The model's stake value at that date is close to the Forbes figure.",
+        "zh": "财富已体现在股价中；少量加分（口碑系数 +2%）来自头条效应。模型在该日期算出的持股价值与福布斯数字接近。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Warren Buffett",
+          "url": "https://en.wikipedia.org/wiki/Warren_Buffett",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · The World's Billionaires",
+          "url": "https://en.wikipedia.org/wiki/The_World%27s_Billionaires",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2008-09-23",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.04,
+      "s": {
+        "en": "Goldman, GE deals",
+        "zh": "驰援高盛、GE"
+      },
+      "t": {
+        "en": "Invests $5 billion in Goldman Sachs at the height of the panic",
+        "zh": "金融恐慌最严重时向高盛投资 50 亿美元"
+      },
+      "summary": {
+        "en": "Days after Lehman Brothers fails, Berkshire buys $5 billion of Goldman Sachs preferred stock paying a 10% dividend, with rights to buy common shares. In October it makes a similar $3 billion deal with General Electric.",
+        "zh": "雷曼兄弟倒闭数日后，伯克希尔买入 50 亿美元高盛优先股，股息率 10%，并附带认购普通股的权利。10 月，它又与通用电气达成类似的 30 亿美元交易。"
+      },
+      "why": {
+        "en": "His money worked as a public vote of confidence when few others would lend (+4%). Berkshire's own shares still fell sharply in the crisis; that is in the price data.",
+        "zh": "在几乎无人愿意出钱的时候，他的资金相当于一张公开的信任票（口碑系数 +4%）。伯克希尔自身股价在危机中仍大幅下跌，这部分由行情数据反映。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Warren Buffett",
+          "url": "https://en.wikipedia.org/wiki/Warren_Buffett",
+          "type": "wiki"
+        },
+        {
+          "name": "Berkshire Hathaway · 2008 shareholder letter",
+          "url": "https://www.berkshirehathaway.com/letters/2008ltr.pdf",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2009-11-03",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.01,
+      "s": {
+        "en": "Buys BNSF railway",
+        "zh": "收购 BNSF 铁路"
+      },
+      "t": {
+        "en": "Agrees to buy the BNSF railroad, his biggest deal",
+        "zh": "宣布收购 BNSF 铁路，一生中最大的收购"
+      },
+      "summary": {
+        "en": "Berkshire agrees to buy the part of Burlington Northern Santa Fe it does not already own for about $26 billion in cash and stock. He calls it a bet on the long-term future of the American economy. The deal closes in February 2010.",
+        "zh": "伯克希尔同意以约 260 亿美元的现金加股票，收购其尚未持有的伯灵顿北方圣太菲铁路公司股份。他称这是对美国经济长期前景的押注。交易于 2010 年 2 月完成。"
+      },
+      "why": {
+        "en": "Mostly in the stock price. Berkshire issued new shares for part of the price, which lowered his ownership slightly; the anchors show this.",
+        "zh": "主要由股价反映。伯克希尔为部分对价增发了新股，使他的持股比例略有下降，锚点已体现。"
+      },
+      "fin": {
+        "en": "Share count: about 1.55 million to about 1.65 million Class A equivalents",
+        "zh": "总股本（折合 A 类股）：约 155 万 → 约 165 万股"
+      },
+      "src": [
+        {
+          "name": "Berkshire Hathaway · News release, Nov 3, 2009",
+          "url": "https://www.berkshirehathaway.com/news/nov0309.pdf",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · BNSF Railway",
+          "url": "https://en.wikipedia.org/wiki/BNSF_Railway",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2010",
+      "p": "year",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.03,
+      "s": {
+        "en": "The Giving Pledge",
+        "zh": "捐赠誓言"
+      },
+      "t": {
+        "en": "Launches the Giving Pledge with Bill and Melinda Gates",
+        "zh": "与盖茨夫妇共同发起“捐赠誓言”"
+      },
+      "summary": {
+        "en": "He and Bill and Melinda Gates start a campaign asking the world's wealthiest people to commit at least half of their fortunes to charity. Hundreds of billionaires have signed since.",
+        "zh": "他与比尔·盖茨、梅琳达·盖茨发起倡议，呼吁全球最富有的人承诺把至少一半财富用于慈善。此后已有数百位亿万富豪签署。"
+      },
+      "why": {
+        "en": "Pure reputation event (+3%): it has no effect on Berkshire's price.",
+        "zh": "纯声誉事件（口碑系数 +3%），对伯克希尔股价没有影响。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · The Giving Pledge",
+          "url": "https://en.wikipedia.org/wiki/The_Giving_Pledge",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2011-03-30",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 2,
+      "rep": -0.02,
+      "s": {
+        "en": "Sokol resigns",
+        "zh": "索科尔辞职"
+      },
+      "t": {
+        "en": "Top lieutenant David Sokol resigns over stock trades",
+        "zh": "得力干将戴维·索科尔因股票交易辞职"
+      },
+      "summary": {
+        "en": "Berkshire announces the resignation of David Sokol, long seen as a possible successor. Sokol had bought shares of the chemical company Lubrizol shortly before recommending that Berkshire acquire it. Buffett's first statement was criticized as too mild.",
+        "zh": "伯克希尔宣布戴维·索科尔辞职，他曾长期被视为接班人选之一。索科尔在向伯克希尔推荐收购化工企业路博润之前不久，自己买入了该公司股票。巴菲特最初的声明被批评过于温和。"
+      },
+      "why": {
+        "en": "A governance lapse inside a company known for trust: -2% reputation. The stock barely moved.",
+        "zh": "一家以信任著称的公司出现治理漏洞：口碑系数 -2%。股价几乎没有反应。"
+      },
+      "src": [
+        {
+          "name": "Berkshire Hathaway · News release, Mar 30, 2011",
+          "url": "https://www.berkshirehathaway.com/news/mar3011.pdf",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · David L. Sokol",
+          "url": "https://en.wikipedia.org/wiki/David_L._Sokol",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2016",
+      "p": "year",
+      "cat": "career",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "Apple investment",
+        "zh": "建仓苹果"
+      },
+      "t": {
+        "en": "Berkshire starts buying Apple, its most profitable investment",
+        "zh": "伯克希尔开始买入苹果，成为其最赚钱的一笔投资"
+      },
+      "summary": {
+        "en": "Berkshire begins with about $1 billion of Apple stock in early 2016 and keeps buying until it is by far the largest holding in the portfolio. For an investor famous for avoiding technology, it is a striking change, and it earns Berkshire well over $100 billion.",
+        "zh": "2016 年初，伯克希尔先买入约 10 亿美元苹果股票，此后不断加仓，直到它成为组合中遥遥领先的第一大持仓。对一位以回避科技股闻名的投资人来说，这是一次引人注目的转变，也为伯克希尔赚到远超 1,000 亿美元。"
+      },
+      "why": {
+        "en": "The gains are in Berkshire's price. The small credit (+2%) is for showing he could still change his mind in his late eighties.",
+        "zh": "收益已体现在伯克希尔股价中。少量加分（口碑系数 +2%）是因为他在近 90 岁时仍能改变看法。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Berkshire Hathaway",
+          "url": "https://en.wikipedia.org/wiki/Berkshire_Hathaway",
+          "type": "wiki"
+        },
+        {
+          "name": "Berkshire Hathaway · 2016 shareholder letter",
+          "url": "https://www.berkshirehathaway.com/letters/2016ltr.pdf",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2019-02",
+      "p": "month",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.02,
+      "s": {
+        "en": "Kraft Heinz hit",
+        "zh": "卡夫亨氏减值"
+      },
+      "t": {
+        "en": "Kraft Heinz writes down $15 billion; he admits overpaying",
+        "zh": "卡夫亨氏减值约 150 亿美元，他承认买贵了"
+      },
+      "summary": {
+        "en": "Kraft Heinz, in which Berkshire is the largest shareholder, writes down the value of its brands by about $15 billion and its shares plunge. Berkshire books a roughly $3 billion charge, and he says publicly that he paid too much for Kraft.",
+        "zh": "伯克希尔是卡夫亨氏的第一大股东。该公司将旗下品牌价值减记约 150 亿美元，股价暴跌。伯克希尔计提约 30 亿美元减值，他公开表示当初为卡夫出价过高。"
+      },
+      "why": {
+        "en": "The financial loss is in Berkshire's results and price. The -2% is for a rare, visible mistake in a big deal.",
+        "zh": "财务损失已体现在伯克希尔的业绩和股价中。口碑系数 -2% 是因为这是一次少见的、公开的大额失误。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Kraft Heinz",
+          "url": "https://en.wikipedia.org/wiki/Kraft_Heinz",
+          "type": "wiki"
+        },
+        {
+          "name": "Berkshire Hathaway · 2018 shareholder letter",
+          "url": "https://www.berkshirehathaway.com/letters/2018ltr.pdf",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2020-05-02",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.01,
+      "s": {
+        "en": "Sells all airlines",
+        "zh": "清仓航空股"
+      },
+      "t": {
+        "en": "Pandemic: reports a record loss and sells all airline stocks",
+        "zh": "疫情冲击：创纪录季度亏损，清仓全部航空股"
+      },
+      "summary": {
+        "en": "At an annual meeting held without an audience, Berkshire reports a first-quarter net loss of nearly $50 billion, mostly paper losses on stocks, and he reveals that it has sold its entire stakes in the four big US airlines. Unlike in 2008, he makes no large crisis purchases.",
+        "zh": "在一场没有现场观众的股东大会上，伯克希尔公布一季度净亏损近 500 亿美元（主要是股票的账面亏损），他还透露已清仓美国四大航空公司的全部持股。与 2008 年不同，这次他没有在危机中大举出手。"
+      },
+      "why": {
+        "en": "The fall is in the stock price. A small -1% for the criticism that he sold near the bottom and stayed on the sidelines.",
+        "zh": "下跌已由股价反映。因被批评“卖在低点、按兵不动”，口碑系数小幅 -1%。"
+      },
+      "src": [
+        {
+          "name": "Berkshire Hathaway · First quarter 2020 earnings release",
+          "url": "https://www.berkshirehathaway.com/news/may0220.pdf",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Warren Buffett",
+          "url": "https://en.wikipedia.org/wiki/Warren_Buffett",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2021-05",
+      "p": "month",
+      "cat": "career",
+      "dir": 0,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Abel named heir",
+        "zh": "确认阿贝尔接班"
+      },
+      "t": {
+        "en": "Greg Abel is confirmed as his eventual successor",
+        "zh": "格雷格·阿贝尔被确认为未来接班人"
+      },
+      "summary": {
+        "en": "After years of guessing by investors, Berkshire confirms that Greg Abel, who runs its non-insurance businesses, will become chief executive when Buffett leaves the job.",
+        "zh": "在投资者猜测多年之后，伯克希尔确认，负责非保险业务的格雷格·阿贝尔将在巴菲特卸任后出任首席执行官。"
+      },
+      "why": {
+        "en": "Removes the largest open question about the company. Small credit for orderly planning; no visible price effect.",
+        "zh": "消除了公司最大的悬念。因安排有序给少量加分；股价无明显反应。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Greg Abel",
+          "url": "https://en.wikipedia.org/wiki/Greg_Abel",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Berkshire Hathaway",
+          "url": "https://en.wikipedia.org/wiki/Berkshire_Hathaway",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2023-11-28",
+      "p": "day",
+      "cat": "milestone",
+      "dir": -1,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "Munger dies",
+        "zh": "芒格去世"
+      },
+      "t": {
+        "en": "Charlie Munger, his partner of decades, dies at 99",
+        "zh": "数十年的搭档查理·芒格去世，享年 99 岁"
+      },
+      "summary": {
+        "en": "Berkshire announces the death of its vice chairman, Charlie Munger. Buffett says the company could not have been built to its present standing without Munger's ideas and participation, and later calls him the architect of Berkshire.",
+        "zh": "伯克希尔宣布副董事长查理·芒格去世。巴菲特表示，没有芒格的思想和参与，公司不可能达到今天的地位；他后来称芒格是伯克希尔的“建筑师”。"
+      },
+      "why": {
+        "en": "Recorded as a public business event for Berkshire: the end of the two-man team that led it. No reputation score and no measurable price effect.",
+        "zh": "作为伯克希尔的公开商业事件记录：领导公司的二人组合就此落幕。不计声誉分，也没有可衡量的股价影响。"
+      },
+      "src": [
+        {
+          "name": "Berkshire Hathaway · News release, Nov 28, 2023",
+          "url": "https://www.berkshirehathaway.com/news/nov2823.pdf",
+          "type": "filing"
+        },
+        {
+          "name": "Berkshire Hathaway · 2023 shareholder letter",
+          "url": "https://www.berkshirehathaway.com/letters/2023ltr.pdf",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2024-08",
+      "p": "month",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "$1 trillion",
+        "zh": "市值破万亿"
+      },
+      "t": {
+        "en": "Berkshire's market value passes $1 trillion",
+        "zh": "伯克希尔市值突破 1 万亿美元"
+      },
+      "summary": {
+        "en": "Berkshire becomes the first American company outside the technology sector to be valued at more than $1 trillion.",
+        "zh": "伯克希尔成为美国首家市值超过 1 万亿美元的非科技公司。"
+      },
+      "why": {
+        "en": "The value is in the stock price; a small credit for the milestone headline.",
+        "zh": "价值已体现在股价中；因里程碑的头条效应给少量加分。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Berkshire Hathaway",
+          "url": "https://en.wikipedia.org/wiki/Berkshire_Hathaway",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2024-11-02",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Record cash pile",
+        "zh": "现金储备创纪录"
+      },
+      "t": {
+        "en": "Cash pile passes $300 billion after big Apple sales",
+        "zh": "大幅减持苹果后，现金储备突破 3,000 亿美元"
+      },
+      "summary": {
+        "en": "Berkshire's third-quarter report shows cash and Treasury bills of about $325 billion, a record at the time, after it sold a large part of its Apple stake and stopped buying back its own shares. It kept growing afterward, to roughly $370 billion by the end of 2025.",
+        "zh": "伯克希尔三季报显示，在卖出大量苹果股票并暂停回购之后，现金及国库券约为 3,250 亿美元，创下当时的纪录。此后继续增加，到 2025 年底约为 3,700 亿美元。"
+      },
+      "why": {
+        "en": "Read by some as caution about high stock prices and by others as a missed chance. Mixed, and fully reflected in Berkshire's price, so no reputation score.",
+        "zh": "有人解读为对高估值的谨慎，也有人认为是错失机会。评价不一，且已完全反映在伯克希尔股价中，因此不计声誉分。"
+      },
+      "src": [
+        {
+          "name": "Berkshire Hathaway · Third quarter 2024 earnings release",
+          "url": "https://www.berkshirehathaway.com/news/nov0224.pdf",
+          "type": "filing"
+        },
+        {
+          "name": "The Irish Times · Cash pile at the end of 2025",
+          "url": "https://www.irishtimes.com/business/2026/02/28/greg-abel-tells-berkshire-hathaway-investors-its-cash-pile-is-not-a-retreat-from-deal-making/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2025-05-03",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 5,
+      "rep": 0.03,
+      "s": {
+        "en": "Will step down",
+        "zh": "宣布卸任 CEO"
+      },
+      "t": {
+        "en": "Announces he will step down as CEO at the end of 2025",
+        "zh": "宣布将于 2025 年底卸任 CEO"
+      },
+      "summary": {
+        "en": "In the final minutes of the annual meeting, he surprises shareholders by saying he will ask the board to make Greg Abel chief executive at year-end. The board approves it the next day, with Buffett staying on as chairman. The crowd gives him a standing ovation.",
+        "zh": "在股东大会的最后几分钟，他出人意料地宣布，将提请董事会在年底任命格雷格·阿贝尔为首席执行官。董事会次日批准，巴菲特继续担任董事长。全场起立鼓掌。"
+      },
+      "why": {
+        "en": "The end of a 60-year run as chief executive. Berkshire's shares fell on the next trading day, which the price data carries; the +3% is for the wave of tributes to his record.",
+        "zh": "长达 60 年的 CEO 生涯画上句号。伯克希尔股价在下一个交易日下跌，这由行情数据反映；口碑系数 +3% 来自各界对他成就的集中致敬。"
+      },
+      "src": [
+        {
+          "name": "Berkshire Hathaway · News release, May 5, 2025",
+          "url": "https://www.berkshirehathaway.com/news/may0525.pdf",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Warren Buffett",
+          "url": "https://en.wikipedia.org/wiki/Warren_Buffett",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2025-11-10",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 0,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "\"Going quiet\"",
+        "zh": "“我将保持安静”"
+      },
+      "t": {
+        "en": "Says he is \"going quiet\" in a farewell letter",
+        "zh": "发表告别信，称自己将“保持安静”"
+      },
+      "summary": {
+        "en": "In a letter to shareholders he says he will no longer write Berkshire's annual report or take questions at the annual meeting, leaving that to Greg Abel, and will only send a yearly Thanksgiving message. He also gives about $1.35 billion of shares to four family foundations and says he will hold on to a large block of Class A shares while shareholders get to know Abel.",
+        "zh": "他在致股东信中表示，今后不再撰写伯克希尔年报，也不在股东大会上回答提问，这些都交给格雷格·阿贝尔，自己只在每年感恩节写一封信。他同时向四家家族基金会捐出约 13.5 亿美元的股票，并表示在股东熟悉阿贝尔之前，会继续持有大量 A 类股。"
+      },
+      "why": {
+        "en": "A widely read farewell (+2%). The gift lowers his ownership a little; the anchors show it.",
+        "zh": "一封被广泛阅读的告别信（口碑系数 +2%）。捐赠使持股比例略有下降，锚点已体现。"
+      },
+      "src": [
+        {
+          "name": "Berkshire Hathaway · News release, Nov 10, 2025",
+          "url": "https://www.berkshirehathaway.com/news/nov1025.pdf",
+          "type": "filing"
+        },
+        {
+          "name": "Fortune · Full text of Buffett's letter",
+          "url": "https://fortune.com/2025/11/10/read-full-warren-buffett-retirement-letter-berkshire-hathaway-shareholders",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-01-01",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "Abel becomes CEO",
+        "zh": "阿贝尔接任 CEO"
+      },
+      "t": {
+        "en": "Greg Abel takes over as CEO; Buffett stays as chairman",
+        "zh": "格雷格·阿贝尔接任 CEO，巴菲特留任董事长"
+      },
+      "summary": {
+        "en": "Greg Abel becomes president and chief executive of Berkshire Hathaway. Buffett, 95, remains chairman and the largest shareholder. In February Abel publishes his first annual letter and tells investors the company's huge cash holdings are not a retreat from investing.",
+        "zh": "格雷格·阿贝尔出任伯克希尔·哈撒韦总裁兼首席执行官。95 岁的巴菲特继续担任董事长，仍是第一大股东。2 月，阿贝尔发表首封年度致股东信，告诉投资者公司的巨额现金并不意味着退出投资。"
+      },
+      "why": {
+        "en": "He no longer runs the company, so the human capital target steps down. No reputation change: the handover went as announced.",
+        "zh": "他不再执掌公司，因此人力资本目标值下调。声誉不变：交接完全按计划进行。"
+      },
+      "src": [
+        {
+          "name": "Berkshire Hathaway · News release, May 5, 2025",
+          "url": "https://www.berkshirehathaway.com/news/may0525.pdf",
+          "type": "filing"
+        },
+        {
+          "name": "The Irish Times · Abel's first letter to shareholders",
+          "url": "https://www.irishtimes.com/business/2026/02/28/greg-abel-tells-berkshire-hathaway-investors-its-cash-pile-is-not-a-retreat-from-deal-making/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-05-02",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 0,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "Off the stage",
+        "zh": "首次坐在台下"
+      },
+      "t": {
+        "en": "Watches the annual meeting from the audience for the first time",
+        "zh": "首次以观众身份出席股东大会"
+      },
+      "summary": {
+        "en": "Greg Abel leads his first Berkshire annual meeting from the stage while Buffett sits in the audience. News reports describe a more business-focused event and a smaller crowd than in past years.",
+        "zh": "格雷格·阿贝尔首次在台上主持伯克希尔股东大会，巴菲特坐在台下。据媒体报道，这届大会更偏重业务讨论，到场人数也比往年少。"
+      },
+      "why": {
+        "en": "A symbolic moment in the handover. Small credit for publicly backing his successor; no price effect scored.",
+        "zh": "交接过程中的象征性时刻。因公开力挺接班人给少量加分；不计股价影响。"
+      },
+      "src": [
+        {
+          "name": "AP via WTOP · Abel leads his first annual meeting",
+          "url": "https://wtop.com/national/2026/05/new-berkshire-hathaway-ceo-greg-abel-begins-leading-first-annual-meeting-without-warren-buffett-on-stage/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-07-14",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 0,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "$6B gift",
+        "zh": "捐 60 亿美元"
+      },
+      "t": {
+        "en": "Gives about $6 billion and sets 2034 as the date to give away the rest",
+        "zh": "捐出约 60 亿美元，并定下 2034 年前捐完的目标"
+      },
+      "summary": {
+        "en": "He converts 8,000 Class A shares and donates the resulting 12 million Class B shares to four family foundations. He says all his remaining Berkshire shares will go to those four foundations by December 31, 2034. For the first time since 2006, the annual summer gift does not include the Gates Foundation.",
+        "zh": "他将 8,000 股 A 类股转换为 1,200 万股 B 类股，捐给四家家族基金会，并表示剩余的伯克希尔股票将在 2034 年 12 月 31 日前全部捐给这四家基金会。这是自 2006 年以来，夏季年度捐赠首次没有包含盖茨基金会。"
+      },
+      "why": {
+        "en": "The gift cuts his stake from 196,290 to 188,290 Class A shares, so financial capital steps down by about $6 billion. The +2% is for the act of giving.",
+        "zh": "这笔捐赠使他的持股从 196,290 股降至 188,290 股 A 类股，金融资本相应减少约 60 亿美元。口碑系数 +2% 来自捐赠行为本身。"
+      },
+      "fin": {
+        "en": "Ownership: about 13.7% to about 13.2%",
+        "zh": "持股比例：约 13.7% → 约 13.2%"
+      },
+      "src": [
+        {
+          "name": "Berkshire Hathaway · News release, Jul 14, 2026",
+          "url": "https://www.berkshirehathaway.com/news/jul1426.pdf",
+          "type": "filing"
+        },
+        {
+          "name": "InvestmentNews · Buffett's $6B giving plan",
+          "url": "https://www.investmentnews.com/practice-management/buffett-accelerates-6b-giving-plan-drops-gates-foundation-from-list/267418",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-09-18",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "Chairman emeritus",
+        "zh": "卸任董事长"
+      },
+      "t": {
+        "en": "Steps down as chairman after more than 50 years",
+        "zh": "卸任担任五十多年的董事长"
+      },
+      "summary": {
+        "en": "Berkshire names him chairman emeritus, effective immediately, and he stays on the board as a director. The board elects Howard G. Buffett, a director since 1993, as chairman, in line with the long-standing succession plan. In a letter to shareholders he says Greg Abel has exceeded his expectations as chief executive.",
+        "zh": "伯克希尔宣布他即日起改任名誉董事长，并继续担任董事。董事会按照长期既定的接班计划，选举自 1993 年起担任董事的霍华德·G·巴菲特为董事长。他在致股东信中说，格雷格·阿贝尔作为 CEO 的表现超出了他的预期。"
+      },
+      "why": {
+        "en": "His last executive title is gone, so the human capital target steps down again. The +2% is for a succession carried out exactly as promised.",
+        "zh": "他卸下最后一个实职头衔，人力资本目标值再次下调。口碑系数 +2% 是因为接班完全按承诺落实。"
+      },
+      "src": [
+        {
+          "name": "Berkshire Hathaway · News release, Sep 18, 2026",
+          "url": "https://www.berkshirehathaway.com/news/sep1826.pdf",
+          "type": "filing"
+        },
+        {
+          "name": "AP via WOWT · Buffett steps down as chairman",
+          "url": "https://www.wowt.com/2026/09/18/warren-buffett-steps-down-berkshire-hathaway-chairman/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-11-16",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 0,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "$5.5B more given",
+        "zh": "再捐 55 亿美元"
+      },
+      "t": {
+        "en": "Gives another $5.5 billion in his Thanksgiving message",
+        "zh": "在感恩节致信中再捐约 55 亿美元"
+      },
+      "summary": {
+        "en": "He converts 6,150 Class A shares and donates 9,225,000 Class B shares to the four family foundations, a far larger November gift than in earlier years. He is left with 182,140 Class A shares and says his confidence in Berkshire is as strong as ever.",
+        "zh": "他将 6,150 股 A 类股转换后，向四家家族基金会捐出 922.5 万股 B 类股，规模远超往年 11 月的捐赠。此后他还持有 182,140 股 A 类股，并表示对伯克希尔的信心一如既往。"
+      },
+      "why": {
+        "en": "Financial capital steps down by the size of the gift. After it, 182,140 shares at about $867,000 each (the close on November 25, 2026) come to roughly $158 billion.",
+        "zh": "金融资本按捐赠规模相应减少。捐赠后，182,140 股按每股约 86.7 万美元（2026 年 11 月 25 日收盘价）计算，约合 1,580 亿美元。"
+      },
+      "fin": {
+        "en": "Ownership: about 13.3% to about 12.9%",
+        "zh": "持股比例：约 13.3% → 约 12.9%"
+      },
+      "src": [
+        {
+          "name": "Berkshire Hathaway · News release, Nov 16, 2026",
+          "url": "https://www.berkshirehathaway.com/news/nov1626.pdf",
+          "type": "filing"
+        },
+        {
+          "name": "AP via WCAX · Buffett gifts about $5.5 billion",
+          "url": "https://www.wcax.com/news/2026/11/16/warren-buffett-says-kindness-compounds-he-gifts-about-55-billion-his-familys-foundations/",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}

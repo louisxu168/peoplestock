@@ -1,0 +1,1880 @@
+{
+  "id": "bezos",
+  "name": {
+    "en": "Jeff Bezos",
+    "zh": "杰夫·贝索斯"
+  },
+  "ticker": "BEZOS",
+  "born": "1964-01-12",
+  "color": "#FF9F43",
+  "initials": "JB",
+  "tagline": {
+    "en": "From a garage bookstore to the everything store, then rockets",
+    "zh": "从车库里的网上书店到“万货商店”，再到火箭"
+  },
+  "tags": [
+    {
+      "en": "Amazon founder",
+      "zh": "亚马逊创始人"
+    },
+    {
+      "en": "Blue Origin",
+      "zh": "蓝色起源"
+    },
+    {
+      "en": "Washington Post owner",
+      "zh": "华盛顿邮报老板"
+    },
+    {
+      "en": "Day 1",
+      "zh": "Day 1"
+    }
+  ],
+  "privates": [
+    {
+      "label": {
+        "en": "Amazon pre-IPO equity + personal savings",
+        "zh": "亚马逊上市前股权 + 个人储蓄"
+      },
+      "until": "1997-05-14",
+      "anchors": [
+        [
+          "1986",
+          5000
+        ],
+        [
+          "1990",
+          100000
+        ],
+        [
+          "1994-07-05",
+          500000
+        ],
+        [
+          "1995-07",
+          2000000
+        ],
+        [
+          "1996-06",
+          25000000
+        ],
+        [
+          "1997-05-14",
+          177900000
+        ]
+      ]
+    },
+    {
+      "label": {
+        "en": "Wealth outside Amazon: cash from share sales, Blue Origin, The Washington Post, Prometheus, real estate (estimate)",
+        "zh": "亚马逊以外的财富：减持所得现金、蓝色起源、《华盛顿邮报》、Prometheus、房产（估算）"
+      },
+      "from": "1997-05-15",
+      "anchors": [
+        [
+          "1997-05-15",
+          500000
+        ],
+        [
+          "1999",
+          20000000
+        ],
+        [
+          "2003",
+          150000000
+        ],
+        [
+          "2006",
+          600000000
+        ],
+        [
+          "2010",
+          1500000000
+        ],
+        [
+          "2013",
+          3000000000
+        ],
+        [
+          "2016",
+          4500000000
+        ],
+        [
+          "2018",
+          8000000000
+        ],
+        [
+          "2020-01",
+          12000000000
+        ],
+        [
+          "2021-01",
+          22000000000
+        ],
+        [
+          "2022-01",
+          30000000000
+        ],
+        [
+          "2024-01",
+          30000000000
+        ],
+        [
+          "2025-01",
+          40000000000
+        ],
+        [
+          "2025-08",
+          45000000000
+        ],
+        [
+          "2026-07-07",
+          48000000000
+        ],
+        [
+          "2026-09-30",
+          138000000000
+        ],
+        [
+          "2026-11",
+          140000000000
+        ]
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "sym": "AMZN",
+      "label": {
+        "en": "Amazon stake",
+        "zh": "亚马逊持股"
+      },
+      "from": "1997-05-15",
+      "own": [
+        [
+          "1997-05",
+          0.414
+        ],
+        [
+          "1999",
+          0.37
+        ],
+        [
+          "2001",
+          0.32
+        ],
+        [
+          "2004",
+          0.26
+        ],
+        [
+          "2008",
+          0.24
+        ],
+        [
+          "2011",
+          0.2
+        ],
+        [
+          "2015",
+          0.18
+        ],
+        [
+          "2018",
+          0.163
+        ],
+        [
+          "2019-07-01",
+          0.16
+        ],
+        [
+          "2019-08-01",
+          0.118
+        ],
+        [
+          "2020-03",
+          0.111
+        ],
+        [
+          "2021-03",
+          0.103
+        ],
+        [
+          "2022-03",
+          0.098
+        ],
+        [
+          "2024-01",
+          0.096
+        ],
+        [
+          "2024-03",
+          0.09
+        ],
+        [
+          "2025-03",
+          0.086
+        ],
+        [
+          "2025-08",
+          0.083
+        ],
+        [
+          "2026-03",
+          0.082
+        ],
+        [
+          "2026-11",
+          0.0815
+        ]
+      ],
+      "shares": [
+        [
+          "1997-05",
+          5726000000
+        ],
+        [
+          "1998",
+          5780000000
+        ],
+        [
+          "1999",
+          6370000000
+        ],
+        [
+          "2000",
+          6900000000
+        ],
+        [
+          "2002",
+          7460000000
+        ],
+        [
+          "2004",
+          8060000000
+        ],
+        [
+          "2007",
+          8280000000
+        ],
+        [
+          "2010",
+          8880000000
+        ],
+        [
+          "2013",
+          9080000000
+        ],
+        [
+          "2016",
+          9420000000
+        ],
+        [
+          "2019",
+          9820000000
+        ],
+        [
+          "2022",
+          10170000000
+        ],
+        [
+          "2024",
+          10390000000
+        ],
+        [
+          "2025",
+          10600000000
+        ],
+        [
+          "2026-03",
+          10750000000
+        ],
+        [
+          "2026-11",
+          10780000000
+        ]
+      ]
+    }
+  ],
+  "human": [
+    [
+      "1964-01-12",
+      300000
+    ],
+    [
+      "1982",
+      500000
+    ],
+    [
+      "1986",
+      1500000
+    ],
+    [
+      "1990",
+      3000000
+    ],
+    [
+      "1994-07-05",
+      5000000
+    ],
+    [
+      "1997-05",
+      15000000
+    ],
+    [
+      "1999",
+      30000000
+    ],
+    [
+      "2005",
+      60000000
+    ],
+    [
+      "2010",
+      100000000
+    ],
+    [
+      "2015",
+      200000000
+    ],
+    [
+      "2018",
+      300000000
+    ],
+    [
+      "2021-07-05",
+      250000000
+    ],
+    [
+      "2025-11-17",
+      300000000
+    ]
+  ],
+  "audience": [
+    [
+      "1964-01-12",
+      0
+    ],
+    [
+      "1994-07",
+      1000
+    ],
+    [
+      "1997-05",
+      50000
+    ],
+    [
+      "2000",
+      1000000
+    ],
+    [
+      "2008",
+      2000000
+    ],
+    [
+      "2015",
+      4000000
+    ],
+    [
+      "2018",
+      8000000
+    ],
+    [
+      "2021",
+      12000000
+    ],
+    [
+      "2024",
+      15000000
+    ],
+    [
+      "2026-11",
+      18000000
+    ]
+  ],
+  "media": [
+    [
+      "1964-01-12",
+      0
+    ],
+    [
+      "1994-07",
+      0.1
+    ],
+    [
+      "1997-05",
+      1
+    ],
+    [
+      "2000",
+      10
+    ],
+    [
+      "2003",
+      5
+    ],
+    [
+      "2008",
+      8
+    ],
+    [
+      "2013",
+      12
+    ],
+    [
+      "2017",
+      25
+    ],
+    [
+      "2019",
+      40
+    ],
+    [
+      "2021-07",
+      45
+    ],
+    [
+      "2023",
+      30
+    ],
+    [
+      "2025",
+      35
+    ],
+    [
+      "2026-11",
+      38
+    ]
+  ],
+  "chapters": [
+    {
+      "from": "1964-01-12",
+      "t": {
+        "en": "Early years",
+        "zh": "少年时代"
+      },
+      "desc": {
+        "en": "Born in Albuquerque, raised in Houston and Miami, top of his class, then Princeton",
+        "zh": "生于阿尔伯克基，在休斯敦和迈阿密长大，高中第一名毕业，考入普林斯顿"
+      }
+    },
+    {
+      "from": "1986",
+      "t": {
+        "en": "Wall Street years",
+        "zh": "华尔街岁月"
+      },
+      "desc": {
+        "en": "Fitel, Bankers Trust, then a fast rise at the hedge fund D. E. Shaw",
+        "zh": "Fitel、信孚银行，随后在对冲基金 D. E. Shaw 快速晋升"
+      }
+    },
+    {
+      "from": "1994-07-05",
+      "t": {
+        "en": "The bookstore bet",
+        "zh": "押注网上书店"
+      },
+      "desc": {
+        "en": "Quits finance, starts Amazon in a garage and opens the site in 1995",
+        "zh": "辞去金融工作，在车库里创办亚马逊，1995 年网站上线"
+      }
+    },
+    {
+      "from": "1997-05-15",
+      "t": {
+        "en": "Boom and bust",
+        "zh": "泡沫与崩盘"
+      },
+      "desc": {
+        "en": "IPO, Time's Person of the Year, then a 95% share-price collapse",
+        "zh": "上市、当选《时代》年度人物，随后股价暴跌 95%"
+      }
+    },
+    {
+      "from": "2002-01-22",
+      "t": {
+        "en": "The everything store",
+        "zh": "万货商店"
+      },
+      "desc": {
+        "en": "First profit, then Prime, AWS and Kindle turn a bookseller into a giant",
+        "zh": "首次盈利，Prime、AWS 和 Kindle 把一家书店变成巨头"
+      }
+    },
+    {
+      "from": "2013-08-05",
+      "t": {
+        "en": "Richest on Earth",
+        "zh": "世界首富"
+      },
+      "desc": {
+        "en": "Buys The Washington Post, lands rockets and tops the rich list as Amazon passes $1 trillion",
+        "zh": "买下《华盛顿邮报》，火箭成功回收，亚马逊市值破万亿美元，他登顶富豪榜"
+      }
+    },
+    {
+      "from": "2021-07-05",
+      "t": {
+        "en": "After the CEO job",
+        "zh": "卸任之后"
+      },
+      "desc": {
+        "en": "Spaceflight, big share sales, storms at the Post, Blue Origin's rise and a return as an AI chief",
+        "zh": "飞上太空、大笔减持、《邮报》风波、蓝色起源崛起，又以 AI 公司 CEO 身份重回一线"
+      }
+    }
+  ],
+  "events": [
+    {
+      "d": "1964-01-12",
+      "p": "day",
+      "cat": "origin",
+      "dir": 0,
+      "mag": 1,
+      "rep": 0,
+      "s": {
+        "en": "Born in New Mexico",
+        "zh": "生于新墨西哥"
+      },
+      "t": {
+        "en": "Born in Albuquerque, New Mexico",
+        "zh": "出生于美国新墨西哥州阿尔伯克基"
+      },
+      "summary": {
+        "en": "Jeff Bezos was born in Albuquerque. He grew up in Houston and Miami and finished high school in 1982 at the top of his class.",
+        "zh": "杰夫·贝索斯出生于阿尔伯克基，在休斯敦和迈阿密长大，1982 年以全年级第一的成绩高中毕业。"
+      },
+      "why": {
+        "en": "Starting point, no score. Human capital starts at the level of an average American child.",
+        "zh": "起点事件，不计分；人力资本以美国同龄人平均水平为初始值。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Jeff Bezos",
+          "url": "https://en.wikipedia.org/wiki/Jeff_Bezos",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1986",
+      "p": "year",
+      "cat": "education",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Princeton degree",
+        "zh": "普林斯顿毕业"
+      },
+      "t": {
+        "en": "Graduates from Princeton in electrical engineering and computer science",
+        "zh": "普林斯顿大学电气工程与计算机科学专业毕业"
+      },
+      "summary": {
+        "en": "He earned a Bachelor of Science in Engineering from Princeton with highest honors, then took his first job at Fitel, a small telecom start-up serving financial firms.",
+        "zh": "他以最高荣誉获得普林斯顿大学工程学学士学位，随后加入为金融机构做通信网络的小型创业公司 Fitel。"
+      },
+      "why": {
+        "en": "Degree step: the human-capital target rises to about $1.5 million and the model climbs toward it over roughly a year.",
+        "zh": "学历台阶：人力资本目标值上调至约 150 万美元，模型用大约一年时间平滑爬升。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Jeff Bezos",
+          "url": "https://en.wikipedia.org/wiki/Jeff_Bezos",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1990",
+      "p": "year",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Joins D. E. Shaw",
+        "zh": "加入德劭基金"
+      },
+      "t": {
+        "en": "Joins the hedge fund D. E. Shaw and becomes a senior vice president",
+        "zh": "加入对冲基金 D. E. Shaw，后升任高级副总裁"
+      },
+      "summary": {
+        "en": "After two years at Bankers Trust he moved to D. E. Shaw, a New York hedge fund built on computer-driven trading. By 1994 he was one of its senior vice presidents.",
+        "zh": "在信孚银行工作两年后，他转到以计算机量化交易起家的纽约对冲基金 D. E. Shaw，到 1994 年已是公司的高级副总裁之一。"
+      },
+      "why": {
+        "en": "A fast rise in a well-paid industry lifts human capital. His pay and savings in these years are not public, so the savings anchors are rough estimates.",
+        "zh": "在高薪行业快速晋升，人力资本上调。这一阶段的收入和储蓄没有公开数据，储蓄锚点为粗略估计。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Jeff Bezos",
+          "url": "https://en.wikipedia.org/wiki/Jeff_Bezos",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · D. E. Shaw & Co.",
+          "url": "https://en.wikipedia.org/wiki/D._E._Shaw_%26_Co.",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1994-07-05",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.02,
+      "s": {
+        "en": "Founds Amazon",
+        "zh": "创立亚马逊"
+      },
+      "t": {
+        "en": "Quits Wall Street and founds Amazon in a garage near Seattle",
+        "zh": "辞去华尔街工作，在西雅图附近的车库里创立亚马逊"
+      },
+      "summary": {
+        "en": "After reading that web use was growing about 2,300% a year, he left D. E. Shaw, drove west and incorporated the company that became Amazon in a rented house in Bellevue, Washington. His parents put in a large part of the early money, and he told early backers there was a 70% chance they would lose it.",
+        "zh": "看到互联网使用量每年增长约 2300% 的数据后，他离开 D. E. Shaw，一路向西，在华盛顿州贝尔维尤租来的房子里注册了后来的亚马逊。早期资金很大一部分来自父母，他告诉最初的投资人：有七成可能血本无归。"
+      },
+      "why": {
+        "en": "The turning point of his life: from a salary to founder equity. Financial capital switches from savings to an estimated value of his private stake.",
+        "zh": "人生转折点：从领薪水变为持有创始人股权。金融资本从个人储蓄切换为对未上市股权的估值。"
+      },
+      "fin": {
+        "en": "Founder equity enters the model (private value is interpolated between estimated anchors)",
+        "zh": "创始人股权进入模型（未上市阶段按估算锚点插值）"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Jeff Bezos",
+          "url": "https://en.wikipedia.org/wiki/Jeff_Bezos",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · History of Amazon",
+          "url": "https://en.wikipedia.org/wiki/History_of_Amazon",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1995-07-16",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Amazon.com opens",
+        "zh": "网站上线"
+      },
+      "t": {
+        "en": "Amazon.com opens to the public as an online bookstore",
+        "zh": "亚马逊网站作为网上书店正式对外营业"
+      },
+      "summary": {
+        "en": "The site went live selling books. Within about two months it was shipping to all 50 U.S. states and dozens of countries.",
+        "zh": "网站上线卖书，约两个月内订单就覆盖了美国全部 50 个州和数十个国家。"
+      },
+      "why": {
+        "en": "Proof that the idea worked. The value of his private stake rises along estimated anchors; the 1996 anchor follows the widely reported venture round that valued Amazon at about $60 million.",
+        "zh": "商业模式得到验证，未上市股权估值沿估算锚点上升；1996 年的锚点参考了当时广为报道的风投融资（公司估值约 6000 万美元）。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · History of Amazon",
+          "url": "https://en.wikipedia.org/wiki/History_of_Amazon",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Amazon (company)",
+          "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1997-05-15",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.03,
+      "s": {
+        "en": "Amazon IPO",
+        "zh": "亚马逊上市"
+      },
+      "t": {
+        "en": "Amazon goes public on Nasdaq at $18 a share",
+        "zh": "亚马逊在纳斯达克上市，发行价 18 美元"
+      },
+      "summary": {
+        "en": "Amazon sold 3 million shares at $18 and raised $54 million. Bezos kept 41.4% of the company, a stake worth about $178 million at the offer price.",
+        "zh": "亚马逊以每股 18 美元发行 300 万股，融资 5400 万美元。贝索斯保留 41.4% 的股份，按发行价计算约值 1.78 亿美元。"
+      },
+      "why": {
+        "en": "Anchor switch: from this day financial capital = ownership × shares outstanding × the daily AMZN close, all on today's split-adjusted basis ($18 then equals $0.075 now after splits totalling 240-for-1).",
+        "zh": "锚点切换：从这一天起，金融资本 = 持股比例 × 总股本 × AMZN 当日收盘价，全部按今天的拆股复权口径计算（历次拆股合计 1 拆 240，当年的 18 美元相当于现在的 0.075 美元）。"
+      },
+      "fin": {
+        "en": "Priced daily from AMZN from here on",
+        "zh": "此后按 AMZN 日线逐日计价"
+      },
+      "src": [
+        {
+          "name": "SEC EDGAR · Amazon.com IPO prospectus (424B1, 1997-05-15)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1018724/0000891020-97-000868.txt",
+          "type": "filing"
+        },
+        {
+          "name": "Yahoo Finance · AMZN price history",
+          "url": "https://finance.yahoo.com/quote/AMZN/history",
+          "type": "market"
+        },
+        {
+          "name": "Wikipedia · History of Amazon",
+          "url": "https://en.wikipedia.org/wiki/History_of_Amazon",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1999-12",
+      "p": "month",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.05,
+      "s": {
+        "en": "Person of the Year",
+        "zh": "时代年度人物"
+      },
+      "t": {
+        "en": "Named Time magazine's Person of the Year",
+        "zh": "当选《时代》周刊年度人物"
+      },
+      "summary": {
+        "en": "At 35 he was chosen as Time's Person of the Year for making online shopping part of everyday life. Amazon's share price peaked the same month.",
+        "zh": "35 岁的他因为让网上购物走进日常生活而当选《时代》年度人物。亚马逊股价也在同一个月见顶。"
+      },
+      "why": {
+        "en": "A burst of fame the share price cannot see: reputation +5% and a higher media baseline. The wealth itself is already in the stock.",
+        "zh": "股价体现不了的名气爆发：口碑系数 +5%，媒体基线上调。财富部分已包含在股价里。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Time Person of the Year",
+          "url": "https://en.wikipedia.org/wiki/Time_Person_of_the_Year",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Jeff Bezos",
+          "url": "https://en.wikipedia.org/wiki/Jeff_Bezos",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2000-09-08",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Founds Blue Origin",
+        "zh": "创立蓝色起源"
+      },
+      "t": {
+        "en": "Quietly founds the rocket company Blue Origin",
+        "zh": "低调创立火箭公司蓝色起源"
+      },
+      "summary": {
+        "en": "He set up Blue Origin near Seattle to lower the cost of reaching space. The company stayed almost secret for years and was paid for out of his own pocket.",
+        "zh": "他在西雅图附近成立蓝色起源，目标是降低进入太空的成本。公司多年几乎不对外露面，资金全部由他个人承担。"
+      },
+      "why": {
+        "en": "No score at the time: it was private, small and unknown. Its value shows up decades later in the 'wealth outside Amazon' line.",
+        "zh": "当时不计分：公司未上市、规模小、无人知晓。它的价值要到二十多年后才体现在“亚马逊以外的财富”一项里。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Blue Origin",
+          "url": "https://en.wikipedia.org/wiki/Blue_Origin",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2001-09",
+      "p": "month",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 5,
+      "rep": 0,
+      "s": {
+        "en": "Dot-com crash",
+        "zh": "互联网泡沫破裂"
+      },
+      "t": {
+        "en": "Dot-com crash: Amazon shares fall about 95% from their peak",
+        "zh": "互联网泡沫破裂：亚马逊股价较高点下跌约 95%"
+      },
+      "summary": {
+        "en": "From a high of about $113 in December 1999, the stock sank below $6 in the autumn of 2001. Amazon laid off staff, analysts questioned whether it would run out of cash, and Bezos's paper fortune shrank from about $10 billion to under $2 billion.",
+        "zh": "股价从 1999 年 12 月约 113 美元的高点，跌到 2001 年秋天不足 6 美元。亚马逊裁员，分析师质疑它会不会把现金烧光，贝索斯的账面财富从约 100 亿美元缩水到不足 20 亿美元。"
+      },
+      "why": {
+        "en": "The fall is carried entirely by the daily AMZN price, so reputation is left at 0 to avoid counting it twice.",
+        "zh": "这次下跌完全由 AMZN 日线体现，为避免重复计算，口碑系数记 0。"
+      },
+      "fin": {
+        "en": "Stake value falls about 95% with the share price",
+        "zh": "持股市值随股价下跌约 95%"
+      },
+      "src": [
+        {
+          "name": "Yahoo Finance · AMZN price history",
+          "url": "https://finance.yahoo.com/quote/AMZN/history",
+          "type": "market"
+        },
+        {
+          "name": "Wikipedia · Dot-com bubble",
+          "url": "https://en.wikipedia.org/wiki/Dot-com_bubble",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Jeff Bezos",
+          "url": "https://en.wikipedia.org/wiki/Jeff_Bezos",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2002-01-22",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.03,
+      "s": {
+        "en": "First profit",
+        "zh": "首次盈利"
+      },
+      "t": {
+        "en": "Amazon reports its first quarterly net profit",
+        "zh": "亚马逊公布首个季度净利润"
+      },
+      "summary": {
+        "en": "For the last quarter of 2001 Amazon reported a net profit of about $5 million, its first ever. The shares jumped, and the 'will it survive' question began to fade.",
+        "zh": "亚马逊公布 2001 年第四季度净利润约 500 万美元，这是公司史上第一次盈利。股价应声大涨，“它能不能活下去”的疑问开始消退。"
+      },
+      "why": {
+        "en": "The price jump is in the stock. Reputation +3% for proving the long-term plan to doubters.",
+        "zh": "股价上涨已由行情体现；长期战略经受住质疑，口碑系数 +3%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · History of Amazon",
+          "url": "https://en.wikipedia.org/wiki/History_of_Amazon",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · AMZN price history",
+          "url": "https://finance.yahoo.com/quote/AMZN/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2005-02-02",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "Prime launches",
+        "zh": "Prime 上线"
+      },
+      "t": {
+        "en": "Amazon Prime launches: $79 a year for unlimited two-day shipping",
+        "zh": "Amazon Prime 推出：每年 79 美元，不限次两日达"
+      },
+      "summary": {
+        "en": "Amazon offered members unlimited fast shipping for a flat yearly fee. It looked costly at the time and went on to become the core of Amazon's retail business, with well over 200 million members.",
+        "zh": "亚马逊推出按年收费、不限次数的快速配送会员。当时看起来代价不小，后来却成了零售业务的核心，会员数远超 2 亿。"
+      },
+      "why": {
+        "en": "A slow-compounding decision. Little effect on the price that day; reputation +2%, released gradually.",
+        "zh": "典型的慢复利决策：当天对股价影响很小，口碑系数 +2%，缓慢释放。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Amazon Prime",
+          "url": "https://en.wikipedia.org/wiki/Amazon_Prime",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2006-03-14",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.04,
+      "s": {
+        "en": "AWS begins",
+        "zh": "AWS 起步"
+      },
+      "t": {
+        "en": "Amazon Web Services opens its first cloud service, S3",
+        "zh": "亚马逊云服务 AWS 推出首个云产品 S3"
+      },
+      "summary": {
+        "en": "Amazon began renting out storage, and soon computing power, over the internet. Wall Street saw a distraction from retail; AWS later became the largest cloud provider and the source of most of Amazon's operating profit.",
+        "zh": "亚马逊开始通过互联网出租存储空间，随后是计算能力。华尔街当时认为这是不务正业；AWS 后来成了全球最大的云服务商，贡献了亚马逊大部分营业利润。"
+      },
+      "why": {
+        "en": "The market did not price it for years, so the model credits reputation (+4%) rather than money. The later profit arrives through the share price.",
+        "zh": "市场多年没有给它定价，所以模型记入口碑（+4%）而不是金钱；后来的利润通过股价体现。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Amazon S3",
+          "url": "https://en.wikipedia.org/wiki/Amazon_S3",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Amazon Web Services",
+          "url": "https://en.wikipedia.org/wiki/Amazon_Web_Services",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2007-11-19",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Kindle launches",
+        "zh": "Kindle 发布"
+      },
+      "t": {
+        "en": "Amazon launches the Kindle e-reader",
+        "zh": "亚马逊发布 Kindle 电子书阅读器"
+      },
+      "summary": {
+        "en": "The first Kindle cost $399 and sold out within hours. It made e-books a mass-market product and put Amazon into hardware.",
+        "zh": "第一代 Kindle 售价 399 美元，几小时内售罄。它让电子书成为大众消费品，也让亚马逊进入硬件领域。"
+      },
+      "why": {
+        "en": "Product success is mostly in the share price; a small reputation gain (+2%) for creating a category.",
+        "zh": "产品成功主要由股价体现；开创新品类，口碑系数小幅 +2%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Amazon Kindle",
+          "url": "https://en.wikipedia.org/wiki/Amazon_Kindle",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2013-08-05",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Buys the Post",
+        "zh": "买下华盛顿邮报"
+      },
+      "t": {
+        "en": "Agrees to buy The Washington Post for $250 million in cash",
+        "zh": "同意以 2.5 亿美元现金收购《华盛顿邮报》"
+      },
+      "summary": {
+        "en": "He bought the newspaper personally, not through Amazon, ending 80 years of Graham family ownership. The deal closed on October 1, 2013.",
+        "zh": "他以个人名义（而非通过亚马逊）买下这份报纸，结束了格雷厄姆家族 80 年的经营。交易于 2013 年 10 月 1 日完成。"
+      },
+      "why": {
+        "en": "Financially tiny for him: cash simply becomes a private asset. The score is for influence, with reputation +2% and a higher media baseline.",
+        "zh": "对他来说金额很小，只是现金换成了一项非上市资产。得分在于影响力：口碑系数 +2%，媒体基线上调。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · The Washington Post",
+          "url": "https://en.wikipedia.org/wiki/The_Washington_Post",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Jeff Bezos",
+          "url": "https://en.wikipedia.org/wiki/Jeff_Bezos",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2014-10-23",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 2,
+      "rep": -0.02,
+      "s": {
+        "en": "Fire Phone flop",
+        "zh": "手机项目失败"
+      },
+      "t": {
+        "en": "Amazon writes down $170 million on the failed Fire Phone",
+        "zh": "Fire Phone 惨败，亚马逊计提 1.7 亿美元损失"
+      },
+      "summary": {
+        "en": "The smartphone, a project Bezos pushed personally, sold poorly after its July 2014 launch. Three months later Amazon took a $170 million charge for unsold stock, and it stopped selling the phone the next year.",
+        "zh": "这款由贝索斯亲自推动的智能手机在 2014 年 7 月上市后销量惨淡。三个月后亚马逊为库存计提 1.7 亿美元损失，次年停售。"
+      },
+      "why": {
+        "en": "His most visible product miss. The cost is in the stock; reputation takes a small hit (-2%) that fades with time.",
+        "zh": "他最显眼的一次产品失误。财务损失已在股价里；口碑系数小幅 -2%，随时间衰减。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Fire Phone",
+          "url": "https://en.wikipedia.org/wiki/Fire_Phone",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2015-11-23",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.03,
+      "s": {
+        "en": "Rocket landing",
+        "zh": "火箭垂直着陆"
+      },
+      "t": {
+        "en": "Blue Origin's New Shepard flies to space and lands upright",
+        "zh": "蓝色起源 New Shepard 飞抵太空后垂直着陆"
+      },
+      "summary": {
+        "en": "The booster crossed the edge of space at about 100 km and came back to a soft vertical landing in West Texas, the first rocket to do so. It showed that reusable rockets could work.",
+        "zh": "火箭越过约 100 公里高的太空边界后，在得克萨斯州西部垂直软着陆，是第一枚做到这一点的火箭，证明了可重复使用火箭是可行的。"
+      },
+      "why": {
+        "en": "Blue Origin has no market price, so the achievement is scored as reputation (+3%).",
+        "zh": "蓝色起源没有市场报价，这项成就记为口碑（+3%）。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · New Shepard",
+          "url": "https://en.wikipedia.org/wiki/New_Shepard",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Blue Origin",
+          "url": "https://en.wikipedia.org/wiki/Blue_Origin",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2017-07-27",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Briefly richest",
+        "zh": "短暂登顶首富"
+      },
+      "t": {
+        "en": "Briefly passes Bill Gates as the world's richest person",
+        "zh": "一度超过比尔·盖茨，短暂成为世界首富"
+      },
+      "summary": {
+        "en": "A rise in Amazon shares before an earnings report pushed his fortune past $90 billion and above Gates for a few hours. He fell back to second place by the close.",
+        "zh": "财报发布前亚马逊股价上涨，他的财富突破 900 亿美元，在几小时内超过盖茨，收盘时又回到第二。"
+      },
+      "why": {
+        "en": "The money is in the share price. A small reputation bump (+1%) for the headline.",
+        "zh": "财富由股价体现；因登上头条，口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Jeff Bezos",
+          "url": "https://en.wikipedia.org/wiki/Jeff_Bezos",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · AMZN price history",
+          "url": "https://finance.yahoo.com/quote/AMZN/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2018-03-06",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.03,
+      "s": {
+        "en": "World's richest",
+        "zh": "登顶世界首富"
+      },
+      "t": {
+        "en": "Tops the Forbes billionaires list for the first time, at $112 billion",
+        "zh": "首次登顶福布斯富豪榜，身家 1120 亿美元"
+      },
+      "summary": {
+        "en": "Forbes named him the richest person in the world, the first to appear on its annual list with more than $100 billion. He held the top spot on the list for four years.",
+        "zh": "福布斯将他列为世界首富，他也是该年度榜单上第一位身家超过 1000 亿美元的人，并连续四年排名第一。"
+      },
+      "why": {
+        "en": "The wealth is already in the AMZN price. The title itself adds standing the price cannot show: reputation +3%, media baseline up.",
+        "zh": "财富已包含在 AMZN 股价中；“首富”头衔带来股价体现不了的地位：口碑系数 +3%，媒体基线上调。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · The World's Billionaires",
+          "url": "https://en.wikipedia.org/wiki/The_World%27s_Billionaires",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Jeff Bezos",
+          "url": "https://en.wikipedia.org/wiki/Jeff_Bezos",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2018-09-13",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.02,
+      "s": {
+        "en": "Day One Fund",
+        "zh": "第一天基金"
+      },
+      "t": {
+        "en": "Commits $2 billion to the Bezos Day One Fund",
+        "zh": "承诺出资 20 亿美元设立“第一天基金”"
+      },
+      "summary": {
+        "en": "After years of criticism for giving little, he pledged $2 billion to help homeless families and to build free preschools in low-income areas.",
+        "zh": "在因捐赠太少而被批评多年之后，他承诺拿出 20 亿美元，帮助无家可归的家庭，并在低收入社区开办免费幼儿园。"
+      },
+      "why": {
+        "en": "His first large public giving. Reputation +2%. The gift is small next to his fortune, so the wealth anchors are not changed.",
+        "zh": "他第一次大额公开捐赠，口碑系数 +2%。金额相对其财富很小，财富锚点不作调整。"
+      },
+      "src": [
+        {
+          "name": "CNBC · Bezos launches $2 billion Day One Fund",
+          "url": "https://www.cnbc.com/2018/09/13/bezos-launches-day-one-fund-to-help-homeless-families-and-create-preschools.html",
+          "type": "news"
+        },
+        {
+          "name": "Bezos Day One Fund · official site",
+          "url": "https://www.bezosdayonefund.org/",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Jeff Bezos",
+          "url": "https://en.wikipedia.org/wiki/Jeff_Bezos",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2019-04-04",
+      "p": "day",
+      "cat": "wealth",
+      "dir": -1,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "Stake cut to 12%",
+        "zh": "持股降至 12%"
+      },
+      "t": {
+        "en": "Divorce settlement transfers about 4% of Amazon; his stake falls from 16% to 12%",
+        "zh": "离婚财产分割转出约 4% 的亚马逊股份，持股从 16% 降至 12%"
+      },
+      "summary": {
+        "en": "Amazon disclosed in a regulatory filing that about 4% of its shares, roughly 19.7 million shares worth about $36 billion at the time, would be registered in MacKenzie Bezos's name. Jeff Bezos kept the other three quarters of the holding and the voting rights over all of it. The transfer was completed in July 2019.",
+        "zh": "亚马逊在监管文件中披露，约 4% 的公司股份（约 1970 万股，当时约值 360 亿美元）将登记在麦肯齐·贝索斯名下。杰夫·贝索斯保留原持股的四分之三，以及全部股份的投票权。股份转让于 2019 年 7 月完成。"
+      },
+      "why": {
+        "en": "A pure ownership change: the ownership anchor steps down by about 4 points in mid-2019. Only the financial fact is recorded, with no reputation score.",
+        "zh": "纯粹的持股变动：持股比例锚点在 2019 年年中下调约 4 个百分点。这里只记录财务事实，不计口碑分。"
+      },
+      "fin": {
+        "en": "Ownership: about 16% → about 12%",
+        "zh": "持股比例：约 16% → 约 12%"
+      },
+      "src": [
+        {
+          "name": "CNBC · Jeff Bezos to keep 75% of couple's Amazon stock",
+          "url": "https://www.cnbc.com/2019/04/04/mackenzie-bezos-to-keep-25-percent-of-couples-amazon-stock-after-finalizing-divorce.html",
+          "type": "news"
+        },
+        {
+          "name": "SEC EDGAR · Amazon.com 8-K filings",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001018724&type=8-K&dateb=20190430&owner=include&count=10",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2020-02-17",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.03,
+      "s": {
+        "en": "$10B Earth Fund",
+        "zh": "百亿地球基金"
+      },
+      "t": {
+        "en": "Pledges $10 billion to fight climate change through the Bezos Earth Fund",
+        "zh": "承诺出资 100 亿美元设立贝索斯地球基金，应对气候变化"
+      },
+      "summary": {
+        "en": "He announced the Bezos Earth Fund to pay scientists, activists and organisations working on climate and nature, with the money to be given out over about a decade.",
+        "zh": "他宣布成立贝索斯地球基金，资助从事气候与自然保护的科学家、活动人士和机构，资金计划在约十年内发放。"
+      },
+      "why": {
+        "en": "His largest philanthropic pledge. Reputation +3%. The money leaves over many years, so it is absorbed into the smooth 'wealth outside Amazon' anchors.",
+        "zh": "他迄今最大的一笔慈善承诺，口碑系数 +3%。资金分多年拨出，已平滑计入“亚马逊以外的财富”锚点。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Bezos Earth Fund",
+          "url": "https://en.wikipedia.org/wiki/Bezos_Earth_Fund",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2020-08-26",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "$200B fortune",
+        "zh": "身家首破两千亿"
+      },
+      "t": {
+        "en": "Becomes the first person worth more than $200 billion",
+        "zh": "成为史上第一个身家超过 2000 亿美元的人"
+      },
+      "summary": {
+        "en": "Amazon shares soared as the pandemic pushed shopping online. Forbes put his fortune at about $205 billion that afternoon, the first time anyone had crossed the mark.",
+        "zh": "疫情把购物推到线上，亚马逊股价飙升。福布斯当天下午估算他的财富约为 2050 亿美元，这是有史以来第一次有人越过这一关口。"
+      },
+      "why": {
+        "en": "Fully explained by the AMZN price, so no reputation score.",
+        "zh": "完全由 AMZN 股价解释，不计口碑分。"
+      },
+      "src": [
+        {
+          "name": "ABC News / GMA · Bezos net worth tops $200 billion",
+          "url": "https://www.goodmorningamerica.com/news/story/jeff-bezos-breaks-record-net-worth-tops-200-72631817",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · AMZN price history",
+          "url": "https://finance.yahoo.com/quote/AMZN/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2021-07-05",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 5,
+      "rep": 0.01,
+      "s": {
+        "en": "Steps down as CEO",
+        "zh": "卸任 CEO"
+      },
+      "t": {
+        "en": "Hands the Amazon CEO job to Andy Jassy and becomes executive chairman",
+        "zh": "卸任亚马逊 CEO，由安迪·贾西接任，自己转任执行董事长"
+      },
+      "summary": {
+        "en": "He announced the change on February 2, 2021, and it took effect on July 5, exactly 27 years after he founded the company. He said he would spend more time on Blue Origin, the Earth Fund, the Day One Fund and The Washington Post.",
+        "zh": "他在 2021 年 2 月 2 日宣布这一决定，7 月 5 日生效，这一天恰好是公司成立 27 周年。他表示将把更多时间投入蓝色起源、地球基金、第一天基金和《华盛顿邮报》。"
+      },
+      "why": {
+        "en": "End of an era, scored as mixed: he leaves on his own terms at the top, but the human-capital target dips a little because he no longer runs a company day to day.",
+        "zh": "一个时代的结束，记为中性：他在巅峰时主动交棒，但不再负责日常经营，人力资本目标值略有下调。"
+      },
+      "src": [
+        {
+          "name": "About Amazon · Email from Jeff Bezos to employees",
+          "url": "https://www.aboutamazon.com/news/company-news/email-from-jeff-bezos-to-employees",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Jeff Bezos",
+          "url": "https://en.wikipedia.org/wiki/Jeff_Bezos",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2021-07-20",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "Flies to space",
+        "zh": "亲自飞上太空"
+      },
+      "t": {
+        "en": "Flies to the edge of space on Blue Origin's first crewed flight",
+        "zh": "搭乘蓝色起源首次载人飞行抵达太空边缘"
+      },
+      "summary": {
+        "en": "He rode New Shepard's first flight with people on board. The trip lasted about ten minutes and reached 107 km. It drew huge audiences and also criticism of billionaire space tourism.",
+        "zh": "他搭乘 New Shepard 的首次载人飞行，全程约十分钟，最高到达 107 公里。这次飞行吸引了大量观众，也招来对“富豪太空旅游”的批评。"
+      },
+      "why": {
+        "en": "A lifelong goal reached and a peak in media attention. Public reaction was split, so the reputation gain is kept modest (+2%).",
+        "zh": "实现毕生目标，媒体关注度达到峰值。公众评价两极，口碑加分保持克制（+2%）。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Blue Origin NS-16",
+          "url": "https://en.wikipedia.org/wiki/Blue_Origin_NS-16",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2022-11-14",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.02,
+      "s": {
+        "en": "Giving pledge",
+        "zh": "承诺捐出多数财富"
+      },
+      "t": {
+        "en": "Says he will give away most of his fortune in his lifetime",
+        "zh": "表示将在有生之年捐出大部分财富"
+      },
+      "summary": {
+        "en": "In a CNN interview he said for the first time that he plans to give away the majority of his wealth, then about $124 billion, mainly to fight climate change and to support people who bring others together. He gave no timetable.",
+        "zh": "他在接受 CNN 采访时首次表示，计划捐出大部分财富（当时约 1240 亿美元），主要用于应对气候变化和支持能够弥合分歧的人，但没有给出时间表。"
+      },
+      "why": {
+        "en": "A statement of intent, not a transfer: reputation +2%, no change to wealth anchors.",
+        "zh": "这只是意向表态，并非实际转移：口碑系数 +2%，财富锚点不变。"
+      },
+      "src": [
+        {
+          "name": "NBC News · Bezos says he plans to give away most of his fortune",
+          "url": "https://www.nbcnews.com/business/business-news/jeff-bezos-says-give-away-124-billion-fortune-rcna57052",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2024-02-20",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 0,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Sells 50M shares",
+        "zh": "减持五千万股"
+      },
+      "t": {
+        "en": "Sells 50 million Amazon shares for about $8.5 billion in nine trading days",
+        "zh": "九个交易日内减持 5000 万股亚马逊，套现约 85 亿美元"
+      },
+      "summary": {
+        "en": "His first sale since 2021 was made under a pre-arranged trading plan and finished on February 20. Further sales in July and November took the 2024 total to more than $13 billion, and his stake fell below 9%.",
+        "zh": "这是他自 2021 年以来首次减持，按预先设定的交易计划执行，于 2 月 20 日完成。加上 7 月和 11 月的减持，2024 年全年套现超过 130 亿美元，持股比例降到 9% 以下。"
+      },
+      "why": {
+        "en": "Shares become cash, so total wealth barely moves: the ownership anchor steps down and the 'wealth outside Amazon' anchor steps up (after an estimate for tax). No reputation score.",
+        "zh": "股票换成现金，总财富基本不变：持股比例锚点下调，“亚马逊以外的财富”锚点上调（已粗略扣税）。不计口碑分。"
+      },
+      "fin": {
+        "en": "Ownership: about 9.6% → about 8.6% over 2024",
+        "zh": "持股比例：2024 年内约 9.6% → 约 8.6%"
+      },
+      "src": [
+        {
+          "name": "Bloomberg · Bezos wraps up 50 million Amazon stock sale",
+          "url": "https://www.bloomberg.com/news/articles/2024-02-21/bezos-wraps-up-50-million-amazon-stock-sale-netting-8-5-billion",
+          "type": "news"
+        },
+        {
+          "name": "GeekWire · Bezos unloads $3B of Amazon stock in latest sale",
+          "url": "https://www.geekwire.com/2024/jeff-bezos-unloads-3b-worth-of-amazon-stock-in-latest-sale/",
+          "type": "news"
+        },
+        {
+          "name": "SEC EDGAR · Bezos insider filings (Form 4)",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001043298&type=4&dateb=&owner=include&count=40",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2024-10-25",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.04,
+      "s": {
+        "en": "No endorsement",
+        "zh": "邮报取消背书"
+      },
+      "t": {
+        "en": "The Washington Post drops its presidential endorsement; over 250,000 readers cancel",
+        "zh": "《华盛顿邮报》取消总统候选人背书，25 万多读者退订"
+      },
+      "summary": {
+        "en": "Eleven days before the U.S. election the Post said it would no longer endorse presidential candidates. The paper's own reporters wrote that the owner made the call after an endorsement had been drafted. More than 250,000 digital subscribers cancelled within days. Bezos defended the move as a way to reduce the appearance of bias.",
+        "zh": "距美国大选还有 11 天时，《邮报》宣布今后不再为总统候选人背书。该报记者报道称，背书社论已经写好，是老板做出了这个决定。几天内超过 25 万数字订户退订。贝索斯辩称，此举是为了减少媒体给人的偏向印象。"
+      },
+      "why": {
+        "en": "The Post is private and small next to his fortune, so there is nothing for a share price to show. The damage is to trust: reputation -4%.",
+        "zh": "《邮报》是非上市资产，相对他的财富也很小，股价无从体现。受损的是公信力：口碑系数 -4%。"
+      },
+      "src": [
+        {
+          "name": "Fortune · Washington Post has lost over 250,000 subscribers",
+          "url": "https://fortune.com/2024/10/31/washington-post-250000-subscribers-jeff-bezos-no-presidential-endorsement/",
+          "type": "news"
+        },
+        {
+          "name": "Al Jazeera · Bezos defends decision to end presidential endorsements",
+          "url": "https://www.aljazeera.com/news/2024/10/29/washington-post-owner-defends-decision-to-end-presidential-endorsements",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · The Washington Post",
+          "url": "https://en.wikipedia.org/wiki/The_Washington_Post",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2025-01-16",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.03,
+      "s": {
+        "en": "New Glenn in orbit",
+        "zh": "新格伦入轨"
+      },
+      "t": {
+        "en": "Blue Origin's New Glenn reaches orbit on its first launch",
+        "zh": "蓝色起源新格伦火箭首飞即成功入轨"
+      },
+      "summary": {
+        "en": "After years of delays the 98-metre rocket lifted off from Cape Canaveral and reached orbit at the first attempt. The booster was lost while trying to land.",
+        "zh": "在多年延期之后，这枚高 98 米的火箭从卡纳维拉尔角升空，首飞即进入轨道。助推器在尝试着陆时损毁。"
+      },
+      "why": {
+        "en": "Blue Origin joins the small group of companies that can reach orbit, 25 years after it was founded. It is private, so the score is reputation (+3%).",
+        "zh": "成立 25 年后，蓝色起源终于进入能把载荷送入轨道的少数公司之列。公司未上市，记为口碑（+3%）。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · New Glenn",
+          "url": "https://en.wikipedia.org/wiki/New_Glenn",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · List of New Glenn launches",
+          "url": "https://en.wikipedia.org/wiki/List_of_New_Glenn_launches",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2025-02-26",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.03,
+      "s": {
+        "en": "Post opinion shift",
+        "zh": "邮报评论版转向"
+      },
+      "t": {
+        "en": "Orders the Post's opinion pages to focus on personal liberties and free markets",
+        "zh": "要求《邮报》评论版聚焦“个人自由”与“自由市场”"
+      },
+      "summary": {
+        "en": "He told staff the opinion section would write every day in support of those two ideas and that opposing views would be left to other publishers. The opinion editor resigned, and tens of thousands more subscribers reportedly cancelled.",
+        "zh": "他告诉员工，评论版今后每天都要为这两项理念撰文，反对的观点留给别的媒体去登。评论版主编辞职，据报道又有数万订户退订。"
+      },
+      "why": {
+        "en": "A second blow to the paper's standing in four months. Reputation -3%; no financial effect in the model.",
+        "zh": "四个月内报纸声誉第二次受创。口碑系数 -3%；模型中无财务影响。"
+      },
+      "src": [
+        {
+          "name": "AP via Philadelphia Inquirer · Bezos says opinion pages will defend free market and personal liberties",
+          "url": "https://www.inquirer.com/politics/nation/jeff-bezos-opinion-pages-washington-post-free-market-personal-liberties-20250226.html",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · The Washington Post",
+          "url": "https://en.wikipedia.org/wiki/The_Washington_Post",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2025-07",
+      "p": "month",
+      "cat": "wealth",
+      "dir": 0,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Sells 25M shares",
+        "zh": "再套现 57 亿"
+      },
+      "t": {
+        "en": "Sells 25 million more Amazon shares for about $5.7 billion",
+        "zh": "再次减持 2500 万股亚马逊，套现约 57 亿美元"
+      },
+      "summary": {
+        "en": "A trading plan disclosed in the spring allowed him to sell up to 25 million shares. He completed it in sales from late June to late July 2025 and was left with roughly 884 million shares.",
+        "zh": "春季披露的交易计划允许他最多出售 2500 万股。他在 2025 年 6 月底至 7 月底分批卖完，之后仍持有约 8.84 亿股。"
+      },
+      "why": {
+        "en": "Shares to cash again: ownership anchor down to about 8.3%, outside-wealth anchor up. No reputation score.",
+        "zh": "同样是股票换现金：持股比例锚点降至约 8.3%，亚马逊以外的财富锚点上调。不计口碑分。"
+      },
+      "src": [
+        {
+          "name": "Fortune · Bezos completes $5.7 billion Amazon share sale",
+          "url": "https://fortune.com/2025/07/28/jeff-bezos-amazon-stock-sale-philanthroy-wedding/",
+          "type": "news"
+        },
+        {
+          "name": "SEC EDGAR · Bezos insider filings (Form 4)",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001043298&type=4&dateb=&owner=include&count=40",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2025-11-13",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.03,
+      "s": {
+        "en": "Booster landing",
+        "zh": "助推器回收成功"
+      },
+      "t": {
+        "en": "New Glenn launches a NASA Mars mission and lands its booster",
+        "zh": "新格伦发射 NASA 火星探测任务，并成功回收助推器"
+      },
+      "summary": {
+        "en": "On its second flight New Glenn sent NASA's twin ESCAPADE probes on their way to Mars, and its first stage landed on a ship at sea. Only SpaceX had landed an orbital-class booster before.",
+        "zh": "新格伦第二次飞行把 NASA 的两颗 ESCAPADE 探测器送上前往火星的旅程，一级火箭降落在海上回收船上。此前只有 SpaceX 回收过轨道级助推器。"
+      },
+      "why": {
+        "en": "Technical proof that Blue Origin can compete on reusable rockets. Private company, so reputation +3%.",
+        "zh": "从技术上证明蓝色起源有能力在可回收火箭上竞争。公司未上市，记为口碑 +3%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · New Glenn",
+          "url": "https://en.wikipedia.org/wiki/New_Glenn",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · List of New Glenn launches",
+          "url": "https://en.wikipedia.org/wiki/List_of_New_Glenn_launches",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2025-11-17",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "CEO again: AI",
+        "zh": "重任 CEO"
+      },
+      "t": {
+        "en": "Returns to a CEO role as co-chief of the AI start-up Project Prometheus",
+        "zh": "出任 AI 创业公司 Project Prometheus 联席 CEO，重回一线"
+      },
+      "summary": {
+        "en": "Reports revealed he was co-leading, with scientist Vik Bajaj, a start-up that applies AI to engineering and manufacturing. It had raised $6.2 billion, part of it from Bezos himself. It was his first operating job since leaving the top post at Amazon.",
+        "zh": "媒体披露，他与科学家维克·巴贾吉共同领导一家把 AI 用于工程与制造的创业公司。公司已融资 62 亿美元，其中一部分来自贝索斯本人。这是他卸任亚马逊 CEO 后第一次担任经营职务。"
+      },
+      "why": {
+        "en": "Back to running a company: the human-capital target returns to its peak. His share of the start-up is not public, so the outside-wealth anchors rise only modestly.",
+        "zh": "重新经营一家公司，人力资本目标值回到峰值。他在这家公司的持股比例没有公开，因此亚马逊以外的财富锚点只作小幅上调。"
+      },
+      "fin": {
+        "en": "In June 2026 the company was reported to have raised a further $12 billion at a valuation of about $41 billion",
+        "zh": "2026 年 6 月有报道称该公司又融资 120 亿美元，估值约 410 亿美元"
+      },
+      "src": [
+        {
+          "name": "Fortune · Bezos is co-CEO of Project Prometheus",
+          "url": "https://fortune.com/2025/11/17/jeff-bezos-project-prometheus-co-ceo-ai-startup-6-2-billion",
+          "type": "news"
+        },
+        {
+          "name": "GeekWire · Prometheus raises $12B at $41B valuation (June 2026)",
+          "url": "https://www.geekwire.com/2026/bezos-ai-startup-prometheus-raises-12b-at-41b-valuation/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-02-04",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.04,
+      "s": {
+        "en": "Post cuts a third",
+        "zh": "邮报裁员三分之一"
+      },
+      "t": {
+        "en": "The Washington Post lays off about a third of its staff",
+        "zh": "《华盛顿邮报》裁掉约三分之一员工"
+      },
+      "summary": {
+        "en": "The cuts closed the sports section and sharply reduced the newsroom. Publisher Will Lewis resigned three days later, and the staff union called on Bezos to reverse the layoffs or sell the paper. He stayed on as owner and later named finance chief Jeff D'Onofrio as publisher.",
+        "zh": "裁员导致体育版关停，编辑部大幅缩编。三天后发行人威尔·刘易斯辞职，员工工会呼吁贝索斯撤回裁员决定，或者把报纸卖掉。他继续持有报纸，后来任命财务主管杰夫·德奥诺弗里奥为发行人。"
+      },
+      "why": {
+        "en": "The lowest point of his ownership of the Post in public opinion. Reputation -4%; the paper's value is too small to move the wealth anchors.",
+        "zh": "这是他入主《邮报》以来舆论评价的最低点。口碑系数 -4%；报纸的价值太小，不影响财富锚点。"
+      },
+      "src": [
+        {
+          "name": "PBS NewsHour · Days after big layoffs, publisher Will Lewis steps down",
+          "url": "https://www.pbs.org/newshour/nation/days-after-big-layoffs-at-the-washington-post-publisher-will-lewis-says-hes-stepping-down",
+          "type": "news"
+        },
+        {
+          "name": "Fortune · Washington Post publisher Will Lewis resigns after layoffs",
+          "url": "https://fortune.com/2026/02/08/washington-post-publisher-ceo-will-lewis-resignation-layoffs-cfo-jeff-donofrio-bezos/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-05-28",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.02,
+      "s": {
+        "en": "Rocket explodes",
+        "zh": "火箭测试爆炸"
+      },
+      "t": {
+        "en": "A New Glenn rocket explodes in a ground test and wrecks its only launch pad",
+        "zh": "新格伦火箭在地面测试中爆炸，唯一的发射台被毁"
+      },
+      "summary": {
+        "en": "The rocket blew up during an engine test at Cape Canaveral. Nobody was hurt, but the vehicle was destroyed and the pad badly damaged, grounding New Glenn. In November 2026 Blue Origin moved its planned return to flight to January 2027.",
+        "zh": "火箭在卡纳维拉尔角进行发动机点火测试时爆炸，无人受伤，但箭体全毁、发射台严重受损，新格伦被迫停飞。2026 年 11 月，蓝色起源把复飞时间推迟到 2027 年 1 月。"
+      },
+      "why": {
+        "en": "A serious setback for a private company with no daily price. Reputation -2%. The outside-wealth anchors are not cut, because investors valued Blue Origin at $130 billion six weeks later.",
+        "zh": "对一家没有每日报价的私人公司来说是严重挫折，口碑系数 -2%。亚马逊以外的财富锚点没有下调，因为六周后投资者仍给蓝色起源 1300 亿美元估值。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · New Glenn",
+          "url": "https://en.wikipedia.org/wiki/New_Glenn",
+          "type": "wiki"
+        },
+        {
+          "name": "Space.com · New Glenn to launch again before year end after explosion",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-says-new-glenn-rocket-will-launch-again-before-the-end-of-the-year-after-explosion",
+          "type": "news"
+        },
+        {
+          "name": "CNBC · Blue Origin pushes launch to January 2027",
+          "url": "https://www.cnbc.com/2026/11/05/blue-origin-launch-new-glenn.html",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-07-08",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "Blue Origin: $130B",
+        "zh": "蓝色起源估值千亿"
+      },
+      "t": {
+        "en": "Blue Origin is valued at $130 billion in its first outside fundraising",
+        "zh": "蓝色起源首次对外融资，估值 1300 亿美元"
+      },
+      "summary": {
+        "en": "After 26 years of paying for the company himself, Bezos opened Blue Origin to outside investors in a round of about $10 billion, including $2 billion of his own. In October the Bloomberg Billionaires Index began valuing his stake from that round, at about $140 billion for the company, which added roughly $85 billion to its estimate of his fortune and moved him to second richest in the world.",
+        "zh": "在自掏腰包 26 年之后，贝索斯首次让外部投资者入股蓝色起源，这轮融资约 100 亿美元，其中 20 亿来自他本人。10 月，彭博亿万富豪指数开始按这轮融资为他的持股估值（公司估值约 1400 亿美元），对他财富的估算因此增加约 850 亿美元，他升至全球第二富。"
+      },
+      "why": {
+        "en": "The largest jump in his wealth outside Amazon. The private anchor rises from about $48 billion to about $138 billion between July and the end of September. These are estimates from public reporting, not market prices.",
+        "zh": "这是他在亚马逊以外的财富最大的一次跃升。非上市资产锚点从 7 月的约 480 亿美元升至 9 月底的约 1380 亿美元。这些是依据公开报道的估算，并非市场报价。"
+      },
+      "fin": {
+        "en": "Wealth outside Amazon: about $48B → about $138B (estimate)",
+        "zh": "亚马逊以外的财富：约 480 亿 → 约 1380 亿美元（估算）"
+      },
+      "src": [
+        {
+          "name": "CNBC · Blue Origin valued at $130 billion in first outside round",
+          "url": "https://www.cnbc.com/2026/07/08/blue-origin-bezos-fundraising.html",
+          "type": "news"
+        },
+        {
+          "name": "Nairametrics · Bezos becomes world's second richest",
+          "url": "https://nairametrics.com/2026/10/12/jeff-bezos-hits-worlds-2nd-richest-status-as-net-worth-rises-122-billion-in-2026/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-08-03",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Amazon hits $3T",
+        "zh": "亚马逊破 3 万亿"
+      },
+      "t": {
+        "en": "Amazon passes $3 trillion in market value; Bezos files to sell up to 15 million shares",
+        "zh": "亚马逊市值突破 3 万亿美元，贝索斯申报减持最多 1500 万股"
+      },
+      "summary": {
+        "en": "Strong cloud results lifted Amazon to a record and a market value above $3 trillion. The next day a filing showed Bezos planned to sell up to 15 million shares under a trading plan; the first reported sale was about 1.2 million shares for roughly $350 million.",
+        "zh": "云业务业绩强劲，亚马逊股价创新高，市值突破 3 万亿美元。次日的申报文件显示，贝索斯计划按交易计划出售最多 1500 万股；首笔披露的卖出约 120 万股，套现约 3.5 亿美元。"
+      },
+      "why": {
+        "en": "All in the AMZN price, so no reputation score. Only the reported sale and gifts are reflected in the ownership anchor (about 878 million shares, or 8.15%, in November 2026).",
+        "zh": "全部体现在 AMZN 股价里，不计口碑分。持股比例锚点只反映已披露的卖出和捐赠（2026 年 11 月约 8.78 亿股，占 8.15%）。"
+      },
+      "src": [
+        {
+          "name": "The Next Web · Bezos files to sell $4 billion of Amazon shares",
+          "url": "https://thenextweb.com/news/bezos-4-billion-amazon-share-sale",
+          "type": "news"
+        },
+        {
+          "name": "Stocktwits · Bezos unloads $350M of Amazon stock",
+          "url": "https://stocktwits.com/news-articles/markets/equity/jeff-bezos-unloads-350-m-worth-of-amazon-stock/cZoIdw3RJem",
+          "type": "news"
+        },
+        {
+          "name": "SEC EDGAR · Bezos insider filings (Form 4)",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001043298&type=4&dateb=&owner=include&count=40",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2026-08-14",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "Liverpool FC stake",
+        "zh": "入股利物浦"
+      },
+      "t": {
+        "en": "Joins a group buying a minority stake in Liverpool FC",
+        "zh": "参与财团收购利物浦足球俱乐部少数股权"
+      },
+      "summary": {
+        "en": "Liverpool's owners agreed to sell a minority stake, reported at around 30%, to a group in which a Bezos-backed sports fund is an investor. He takes no seat at the club, and the deal still needed approval from football authorities when announced.",
+        "zh": "利物浦的东家同意向一个财团出售少数股权（据报道约 30%），贝索斯支持的一只体育基金是投资方之一。他不在俱乐部任职，交易宣布时仍需足球监管机构批准。"
+      },
+      "why": {
+        "en": "His first sports investment. Small next to his fortune and his own share is not public, so the wealth anchors are unchanged; a slight gain in audience reach (+1%).",
+        "zh": "他的第一笔体育投资。相对其财富金额很小，本人出资比例也未公开，财富锚点不变；受众面略有扩大（+1%）。"
+      },
+      "src": [
+        {
+          "name": "ESPN · Liverpool owners sell stake to Bezos-backed consortium",
+          "url": "https://www.espn.com/soccer/story/_/id/49610494/liverpool-owners-fsg-sell-stake-consortium-jeff-bezos-amit-bhatia",
+          "type": "news"
+        },
+        {
+          "name": "Al Jazeera · Liverpool to sell minority stake to consortium including Bezos",
+          "url": "https://www.aljazeera.com/sports/2026/8/14/liverpool-to-sell-minority-stake-to-consortium-including-jeff-bezos",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}

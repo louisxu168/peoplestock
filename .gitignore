@@ -1,0 +1,10 @@
+# Price data is downloaded, not committed: python scripts/fetch_prices.py
+data/prices/
+
+# local tooling and scratch
+.claude/
+shots/
+_site/
+daily.json
+__pycache__/
+.DS_Store

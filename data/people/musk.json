@@ -1,0 +1,1735 @@
+{
+  "id": "musk",
+  "name": {
+    "en": "Elon Musk",
+    "zh": "马斯克"
+  },
+  "ticker": "MUSK",
+  "born": "1971-06-28",
+  "color": "#7CC4FF",
+  "initials": "EM",
+  "tagline": {
+    "en": "Rockets, electric cars, Twitter, and one huge up or down candle after another",
+    "zh": "火箭、电动车、推特，和一根接一根的大阴大阳线"
+  },
+  "tags": [
+    {
+      "en": "SpaceX",
+      "zh": "SpaceX"
+    },
+    {
+      "en": "Tesla",
+      "zh": "Tesla"
+    },
+    {
+      "en": "xAI / X",
+      "zh": "xAI / X"
+    },
+    {
+      "en": "High volatility",
+      "zh": "高波动"
+    }
+  ],
+  "privates": [
+    {
+      "label": {
+        "en": "Early startup equity + cash (Zip2 / X.com / PayPal)",
+        "zh": "早期创业股权 + 现金（Zip2 / X.com / PayPal）"
+      },
+      "until": "2010-06-28",
+      "anchors": [
+        ["1984", 500],
+        ["1995-06", 10000],
+        ["1996-02", 1000000],
+        ["1998-06", 6000000],
+        ["1999-02-16", 22000000],
+        ["2000-03-30", 60000000],
+        ["2000-09-20", 45000000],
+        ["2002-02-15", 120000000],
+        ["2002-10-03", 180000000],
+        ["2004-04", 200000000],
+        ["2006-03-24", 190000000],
+        ["2007-06", 250000000],
+        ["2008-08-03", 120000000],
+        ["2008-09-28", 150000000],
+        ["2008-12-24", 250000000],
+        ["2009-06", 500000000],
+        ["2010-06-28", 1100000000]
+      ]
+    },
+    {
+      "label": {
+        "en": "SpaceX stake (while private, at funding-round valuation × about 42%)",
+        "zh": "SpaceX 持股（私有期，按融资估值 × 约 42%）"
+      },
+      "from": "2010-06-29",
+      "until": "2026-02-01",
+      "anchors": [
+        ["2010-06-29", 630000000],
+        ["2012-05-25", 2000000000],
+        ["2015-01-20", 5000000000],
+        ["2017-07", 8900000000],
+        ["2019-05", 14000000000],
+        ["2020-08", 19300000000],
+        ["2021-02", 31000000000],
+        ["2021-10", 42000000000],
+        ["2022-05", 53000000000],
+        ["2023-01", 57500000000],
+        ["2023-12", 76000000000],
+        ["2024-06", 88000000000],
+        ["2024-12-11", 147000000000],
+        ["2025-07", 168000000000],
+        ["2025-12-12", 336000000000],
+        ["2026-02-01", 350000000000]
+      ]
+    },
+    {
+      "label": {
+        "en": "X (Twitter) + xAI stake",
+        "zh": "X（推特）+ xAI 持股"
+      },
+      "from": "2022-10-27",
+      "until": "2026-02-01",
+      "anchors": [
+        ["2022-10-27", 25000000000],
+        ["2023-06", 12000000000],
+        ["2024-05-26", 23000000000],
+        ["2024-12-23", 37000000000],
+        ["2025-03-28", 60000000000],
+        ["2025-09", 100000000000],
+        ["2026-02-01", 115000000000]
+      ]
+    },
+    {
+      "label": {
+        "en": "Stake in merged SpaceX (incl. xAI) · pre-IPO",
+        "zh": "SpaceX（含 xAI）合并后持股 · 上市前"
+      },
+      "from": "2026-02-02",
+      "until": "2026-06-11",
+      "anchors": [
+        ["2026-02-02", 537000000000],
+        ["2026-06-11", 730000000000]
+      ]
+    },
+    {
+      "label": {
+        "en": "Other private companies (Neuralink, Boring, etc.)",
+        "zh": "其他私人公司（Neuralink、Boring 等）"
+      },
+      "from": "2016",
+      "anchors": [
+        ["2016", 100000000],
+        ["2018", 1500000000],
+        ["2022", 8000000000],
+        ["2026-11", 12000000000]
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "sym": "TSLA",
+      "label": {
+        "en": "Tesla shares",
+        "zh": "Tesla 持股"
+      },
+      "from": "2010-06-29",
+      "own": [
+        ["2010-06", 0.28],
+        ["2014", 0.27],
+        ["2016-11", 0.22],
+        ["2020-01", 0.2],
+        ["2021-11-05", 0.17],
+        ["2022-01", 0.165],
+        ["2022-12-31", 0.13],
+        ["2026-11", 0.13]
+      ],
+      "shares": [
+        ["2010-06", 1400000000],
+        ["2013-01", 1700000000],
+        ["2016-01", 1950000000],
+        ["2017-01", 2420000000],
+        ["2020-01", 2700000000],
+        ["2021-01", 2880000000],
+        ["2023-01", 3160000000],
+        ["2026-06", 3300000000]
+      ]
+    },
+    {
+      "sym": "SPCX",
+      "label": {
+        "en": "SpaceX shares (post-IPO)",
+        "zh": "SpaceX 持股（上市后）"
+      },
+      "from": "2026-06-12",
+      "own": [
+        ["2026-06", 0.415],
+        ["2026-11", 0.415]
+      ],
+      "shares": [
+        ["2026-06", 13000000000],
+        ["2026-11", 13000000000]
+      ]
+    }
+  ],
+  "options": {
+    "sym": "TSLA",
+    "label": {
+      "en": "Tesla 2018 pay package options",
+      "zh": "Tesla 2018 薪酬期权"
+    },
+    "n": 304000000,
+    "strike": 23.34,
+    "vest": [
+      ["2020-05-28", 0],
+      ["2022-06-30", 1]
+    ],
+    "factor": [
+      ["2018", 0.5],
+      ["2024-01-29", 0.5],
+      ["2024-01-30", 0],
+      ["2025-12-18", 0],
+      ["2025-12-19", 1]
+    ],
+    "from": "2018-03-21"
+  },
+  "human": [
+    ["1971-06-28", 300000],
+    ["1984", 400000],
+    ["1989-06", 400000],
+    ["1997-05", 1500000],
+    ["1999-02", 5000000],
+    ["2002-10", 10000000],
+    ["2008", 12000000],
+    ["2010", 20000000],
+    ["2015", 50000000],
+    ["2021", 200000000],
+    ["2025", 300000000]
+  ],
+  "audience": [
+    ["1971-06-28", 0],
+    ["1999", 10000],
+    ["2002", 50000],
+    ["2008", 200000],
+    ["2010", 500000],
+    ["2012", 1000000],
+    ["2015", 3000000],
+    ["2017", 8000000],
+    ["2018-01", 17000000],
+    ["2019-01", 25000000],
+    ["2020-01", 30000000],
+    ["2021-01", 45000000],
+    ["2022-01", 70000000],
+    ["2022-10", 110000000],
+    ["2023-01", 125000000],
+    ["2024-01", 168000000],
+    ["2025-01", 210000000],
+    ["2026-01", 225000000],
+    ["2026-11", 232000000]
+  ],
+  "media": [
+    ["1971-06-28", 0],
+    ["1999", 0.5],
+    ["2004", 1],
+    ["2008", 3],
+    ["2012", 8],
+    ["2018", 30],
+    ["2021", 50],
+    ["2022", 80],
+    ["2024", 90],
+    ["2026-11", 85]
+  ],
+  "chapters": [
+    {
+      "from": "1971-06-28",
+      "t": {
+        "en": "South African boyhood",
+        "zh": "南非少年"
+      },
+      "desc": {
+        "en": "Born in Pretoria, sells a video game at 12, leaves alone for Canada at 17",
+        "zh": "比勒陀利亚出生，12 岁卖游戏，17 岁独自去加拿大"
+      }
+    },
+    {
+      "from": "1995",
+      "t": {
+        "en": "Internet gold rush",
+        "zh": "互联网淘金"
+      },
+      "desc": {
+        "en": "Zip2, X.com, PayPal: his first fortune",
+        "zh": "Zip2、X.com、PayPal：第一桶金"
+      }
+    },
+    {
+      "from": "2002-03",
+      "t": {
+        "en": "Rockets and EVs",
+        "zh": "火箭与电动车"
+      },
+      "desc": {
+        "en": "Runs SpaceX and Tesla at once; both nearly go bankrupt in 2008",
+        "zh": "SpaceX、Tesla 两线作战，2008 年几乎同时破产"
+      }
+    },
+    {
+      "from": "2010-06-29",
+      "t": {
+        "en": "IPO and takeoff",
+        "zh": "上市与狂飙"
+      },
+      "desc": {
+        "en": "Tesla goes public and rockets land, but so does the \"funding secured\" affair",
+        "zh": "Tesla 上市，火箭回收，但也有\"资金已到位\"风波"
+      }
+    },
+    {
+      "from": "2020-05-30",
+      "t": {
+        "en": "World's richest person",
+        "zh": "登顶世界首富"
+      },
+      "desc": {
+        "en": "Crew Dragon succeeds and Tesla rises sevenfold in a year",
+        "zh": "载人龙飞船成功，Tesla 一年涨了 7 倍"
+      }
+    },
+    {
+      "from": "2022-10-27",
+      "t": {
+        "en": "Twitter and politics",
+        "zh": "推特与政治"
+      },
+      "desc": {
+        "en": "Buys Twitter, leads DOGE, breaks with Trump; his reputation swings widely",
+        "zh": "收购推特、主导 DOGE、与特朗普决裂，声誉大起大落"
+      }
+    },
+    {
+      "from": "2025-06-05",
+      "t": {
+        "en": "Trillionaire",
+        "zh": "万亿富翁"
+      },
+      "desc": {
+        "en": "Pay package restored; SpaceX merges with xAI and goes public",
+        "zh": "薪酬方案恢复，SpaceX 合并 xAI 后上市"
+      }
+    }
+  ],
+  "events": [
+    {
+      "d": "1971-06-28",
+      "p": "day",
+      "cat": "origin",
+      "dir": 0,
+      "mag": 1,
+      "rep": 0,
+      "s": {
+        "en": "Born in S. Africa",
+        "zh": "出生南非"
+      },
+      "t": {
+        "en": "Born in Pretoria, South Africa",
+        "zh": "出生于南非比勒陀利亚"
+      },
+      "summary": {
+        "en": "Elon Musk was born in Pretoria, South Africa. As a child he was absorbed in reading and computer programming.",
+        "zh": "马斯克生于南非比勒陀利亚，童年痴迷读书和电脑编程。"
+      },
+      "why": {
+        "en": "Starting point, not scored.",
+        "zh": "起点事件，不计分。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Elon Musk",
+          "url": "https://en.wikipedia.org/wiki/Elon_Musk",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1984",
+      "p": "year",
+      "cat": "origin",
+      "dir": 1,
+      "mag": 1,
+      "rep": 0.01,
+      "s": {
+        "en": "Sells Blastar",
+        "zh": "卖出游戏 Blastar"
+      },
+      "t": {
+        "en": "Sells his own video game, Blastar, for $500 at age 12",
+        "zh": "12岁卖出自制游戏 Blastar，赚到 500 美元"
+      },
+      "summary": {
+        "en": "He taught himself to program, wrote a space shooter called Blastar, and sold it to a computer magazine.",
+        "zh": "自学编程写出太空射击游戏 Blastar，卖给一家电脑杂志。"
+      },
+      "why": {
+        "en": "The amount is negligible, but it was his first revenue. It counts as part of the personal backstory behind his reputation.",
+        "zh": "金额可忽略，是他人生的\"第一笔营收\"，作为个人叙事计入声誉的故事底仓。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Elon Musk",
+          "url": "https://en.wikipedia.org/wiki/Elon_Musk",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1989-06",
+      "p": "year",
+      "cat": "origin",
+      "dir": 0,
+      "mag": 1,
+      "rep": 0,
+      "s": {
+        "en": "Moves to Canada",
+        "zh": "移居加拿大"
+      },
+      "t": {
+        "en": "Moves to Canada alone at 17",
+        "zh": "17岁独自移居加拿大"
+      },
+      "summary": {
+        "en": "He left South Africa for Canada and later enrolled at Queen's University.",
+        "zh": "离开南非前往加拿大，后进入女王大学就读。"
+      },
+      "why": {
+        "en": "A relocation, not scored.",
+        "zh": "人生迁移，不计分。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Elon Musk",
+          "url": "https://en.wikipedia.org/wiki/Elon_Musk",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1997-05",
+      "p": "year",
+      "cat": "education",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Two Penn degrees",
+        "zh": "宾大双学位"
+      },
+      "t": {
+        "en": "Earns degrees in physics and economics from the University of Pennsylvania",
+        "zh": "宾夕法尼亚大学物理 + 经济双学位"
+      },
+      "summary": {
+        "en": "He transferred from Queen's University to Penn, where he earned a bachelor's degree in physics and a bachelor's in economics from the Wharton School.",
+        "zh": "从女王大学转学到宾大，获得物理学学士和沃顿商学院经济学学士。"
+      },
+      "why": {
+        "en": "Education step: the human capital target is raised.",
+        "zh": "学历台阶：人力资本目标值上调。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Elon Musk",
+          "url": "https://en.wikipedia.org/wiki/Elon_Musk",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1995",
+      "p": "year",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Founds Zip2",
+        "zh": "退学创立 Zip2"
+      },
+      "t": {
+        "en": "Leaves a Stanford PhD program after two days to found Zip2",
+        "zh": "斯坦福博士入学两天退学，创立 Zip2"
+      },
+      "summary": {
+        "en": "He gave up a Stanford PhD program and, with his brother Kimbal, started Zip2, which supplied online city guides to newspapers.",
+        "zh": "放弃斯坦福博士项目，与弟弟 Kimbal 创办为报纸提供在线城市指南的 Zip2。"
+      },
+      "why": {
+        "en": "He moves from an employee path to a founder path and starts to hold equity.",
+        "zh": "从打工路径切换到创业路径，开始持有股权。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Zip2",
+          "url": "https://en.wikipedia.org/wiki/Zip2",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1999-02-16",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "Zip2 acquired",
+        "zh": "Zip2 被收购"
+      },
+      "t": {
+        "en": "Compaq buys Zip2 for about $307M; he receives about $22M",
+        "zh": "康柏以约 3.07 亿美元收购 Zip2，到手约 2,200 万"
+      },
+      "summary": {
+        "en": "He made his first fortune at 27.",
+        "zh": "27岁拿到人生第一桶金。"
+      },
+      "why": {
+        "en": "Financial capital turns from paper equity into cash, about $22M.",
+        "zh": "金融资本从纸面股权变成现金，约 2,200 万美元。"
+      },
+      "fin": {
+        "en": "Financial capital: about $6M → about $22M",
+        "zh": "金融资本：约 600 万 → 约 2,200 万美元"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Zip2",
+          "url": "https://en.wikipedia.org/wiki/Zip2",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1999-03",
+      "p": "month",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Founds X.com",
+        "zh": "创办 X.com"
+      },
+      "t": {
+        "en": "Puts about $12M into founding the online bank X.com",
+        "zh": "投入约 1,200 万创办网络银行 X.com"
+      },
+      "summary": {
+        "en": "He put most of his proceeds from the Zip2 sale into X.com, an online financial services company.",
+        "zh": "把卖 Zip2 的大部分钱押进在线金融公司 X.com。"
+      },
+      "why": {
+        "en": "A typical all-in reinvestment: cash becomes equity and his risk exposure grows.",
+        "zh": "典型的\"全仓再投资\"，现金变股权，风险敞口放大。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · X.com",
+          "url": "https://en.wikipedia.org/wiki/X.com_(bank)",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2000-09-20",
+      "p": "month",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.03,
+      "s": {
+        "en": "Ousted as CEO",
+        "zh": "被罢免 CEO"
+      },
+      "t": {
+        "en": "Removed as PayPal CEO while on his honeymoon",
+        "zh": "度蜜月期间被罢免 PayPal CEO"
+      },
+      "summary": {
+        "en": "After X.com merged with Confinity (the company that became PayPal), disagreements arose over technology and management. The board replaced him as CEO while he was out of the country.",
+        "zh": "X.com 与 Confinity 合并后（即后来的 PayPal），因技术路线和管理分歧，董事会趁他出国期间撤换了他的 CEO 职位。"
+      },
+      "why": {
+        "en": "Loss of control: his stake is valued at a discount. Reputation factor -3%.",
+        "zh": "失去控制权：持股估值折价，口碑系数 -3%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · PayPal",
+          "url": "https://en.wikipedia.org/wiki/PayPal",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2002-03",
+      "p": "month",
+      "cat": "career",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "Founds SpaceX",
+        "zh": "创立 SpaceX"
+      },
+      "t": {
+        "en": "Founds SpaceX",
+        "zh": "创立 SpaceX"
+      },
+      "summary": {
+        "en": "He founded Space Exploration Technologies with about $100M of his own money. The aim was to cut launch costs and eventually colonize Mars.",
+        "zh": "用自己的约 1 亿美元创办太空探索技术公司，目标是降低发射成本、最终殖民火星。"
+      },
+      "why": {
+        "en": "A high-risk, long-term bet. Financial capital does not change in the short term; human and reputation capital build up slowly.",
+        "zh": "高风险长期押注；短期金融资本无变化，人力资本与声誉资本缓慢积累。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · SpaceX",
+          "url": "https://en.wikipedia.org/wiki/SpaceX",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2002-10-03",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.03,
+      "s": {
+        "en": "eBay buys PayPal",
+        "zh": "PayPal 卖给 eBay"
+      },
+      "t": {
+        "en": "eBay buys PayPal for $1.5B; he receives about $176M",
+        "zh": "eBay 以 15 亿美元收购 PayPal，到手约 1.76 亿"
+      },
+      "summary": {
+        "en": "As one of PayPal's largest shareholders, he received about $176M before tax.",
+        "zh": "作为 PayPal 最大股东之一，税前获得约 1.76 亿美元。"
+      },
+      "why": {
+        "en": "Financial capital jumps into the hundreds of millions.",
+        "zh": "金融资本跃升至亿级。"
+      },
+      "fin": {
+        "en": "Financial capital: about $120M → about $180M",
+        "zh": "金融资本：约 1.2 亿 → 约 1.8 亿美元"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · PayPal",
+          "url": "https://en.wikipedia.org/wiki/PayPal",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2004-04",
+      "p": "month",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Invests in Tesla",
+        "zh": "投资 Tesla"
+      },
+      "t": {
+        "en": "Leads Tesla's Series A and becomes chairman",
+        "zh": "领投 Tesla A 轮，出任董事长"
+      },
+      "summary": {
+        "en": "He invested about $6.5M to lead Tesla's Series A round and became chairman and the largest shareholder.",
+        "zh": "投资约 650 万美元领投 Tesla A 轮融资，成为董事长和最大股东。"
+      },
+      "why": {
+        "en": "Cash becomes equity, adding another high-risk asset.",
+        "zh": "现金转为股权，新增一条高风险资产线。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Tesla",
+          "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2006-03-24",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.02,
+      "s": {
+        "en": "Falcon 1 fails #1",
+        "zh": "猎鹰1号首败"
+      },
+      "t": {
+        "en": "Falcon 1 fails on its first flight",
+        "zh": "猎鹰1号首飞失败"
+      },
+      "summary": {
+        "en": "The first launch failed about half a minute after liftoff.",
+        "zh": "首次发射升空约半分钟后失败。"
+      },
+      "why": {
+        "en": "SpaceX's valuation is marked down. Reputation factor -2%.",
+        "zh": "SpaceX 估值下修，口碑系数 -2%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Falcon 1",
+          "url": "https://en.wikipedia.org/wiki/Falcon_1",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2007-03-21",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 2,
+      "rep": -0.01,
+      "s": {
+        "en": "Falcon 1 fails #2",
+        "zh": "二次失败"
+      },
+      "t": {
+        "en": "Falcon 1 fails on its second launch",
+        "zh": "猎鹰1号第二次发射失败"
+      },
+      "summary": {
+        "en": "The second launch did not reach orbit.",
+        "zh": "第二次发射未能入轨。"
+      },
+      "why": {
+        "en": "Back-to-back failures keep the valuation under pressure.",
+        "zh": "连续失败，估值继续承压。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Falcon 1",
+          "url": "https://en.wikipedia.org/wiki/Falcon_1",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2008-08-03",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 5,
+      "rep": -0.04,
+      "s": {
+        "en": "Falcon 1 fails #3",
+        "zh": "三次失败·至暗"
+      },
+      "t": {
+        "en": "Falcon 1 fails a third time: his lowest point",
+        "zh": "猎鹰1号第三次失败：人生至暗时刻"
+      },
+      "summary": {
+        "en": "The third launch failed. At the same time Tesla was short of cash, the financial crisis had begun and his marriage had ended. He later said he had put in nearly all the money he had.",
+        "zh": "第三次发射失败。同期 Tesla 现金吃紧、金融危机爆发、个人婚姻破裂，他后来说自己几乎把钱全部投了进去。"
+      },
+      "why": {
+        "en": "Several assets are under pressure at once: private valuations are cut sharply (about -50%). Reputation factor -4%.",
+        "zh": "多条资产线同时承压：私有估值大幅下修（约 -50%），口碑系数 -4%。"
+      },
+      "fin": {
+        "en": "Financial capital: about $250M → about $120M",
+        "zh": "金融资本：约 2.5 亿 → 约 1.2 亿美元"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Falcon 1",
+          "url": "https://en.wikipedia.org/wiki/Falcon_1",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Elon Musk",
+          "url": "https://en.wikipedia.org/wiki/Elon_Musk",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2008-09-28",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.05,
+      "s": {
+        "en": "Falcon 1 in orbit",
+        "zh": "第四次入轨成功"
+      },
+      "t": {
+        "en": "Fourth launch succeeds: the first privately built liquid-fuel rocket to reach orbit",
+        "zh": "第四次发射成功：首枚入轨的私营液体燃料火箭"
+      },
+      "summary": {
+        "en": "With reportedly only enough money for one more attempt, Falcon 1 reached orbit on its fourth launch.",
+        "zh": "据称只够再发射一次的情况下，猎鹰1号第四次发射成功入轨。"
+      },
+      "why": {
+        "en": "A reversal from the brink: SpaceX's valuation recovers. Reputation factor +5%.",
+        "zh": "绝境反转，SpaceX 估值修复，口碑系数 +5%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Falcon 1",
+          "url": "https://en.wikipedia.org/wiki/Falcon_1",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2008-12-23",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.03,
+      "s": {
+        "en": "NASA contract",
+        "zh": "NASA 合同"
+      },
+      "t": {
+        "en": "Wins a roughly $1.6B NASA cargo contract",
+        "zh": "拿下 NASA 约 16 亿美元货运合同"
+      },
+      "summary": {
+        "en": "NASA awarded SpaceX a commercial resupply contract for the International Space Station. The next day, Christmas Eve, Tesla closed a rescue funding round. Both companies survived.",
+        "zh": "NASA 授予 SpaceX 国际空间站商业补给合同。第二天（平安夜）Tesla 完成救命融资，两家公司同时活了下来。"
+      },
+      "why": {
+        "en": "Two assets are out of danger at once, and private valuations are raised sharply.",
+        "zh": "两条资产线同时脱险，私有估值大幅上修。"
+      },
+      "fin": {
+        "en": "Financial capital: about $150M → about $250M",
+        "zh": "金融资本：约 1.5 亿 → 约 2.5 亿美元"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · SpaceX",
+          "url": "https://en.wikipedia.org/wiki/SpaceX",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Tesla",
+          "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2010-06-29",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.03,
+      "s": {
+        "en": "Tesla IPO",
+        "zh": "Tesla 上市"
+      },
+      "t": {
+        "en": "Tesla goes public at $17 a share",
+        "zh": "Tesla 上市，发行价 17 美元"
+      },
+      "summary": {
+        "en": "Tesla went public on Nasdaq. From this day on, Musk's largest asset has a real daily market price.",
+        "zh": "Tesla 在纳斯达克 IPO。从这天起，马斯克最大的一块资产有了每日真实报价。"
+      },
+      "why": {
+        "en": "Anchor switch: Tesla portion = ownership share × shares outstanding × TSLA daily price (split-adjusted). SpaceX is still interpolated from funding-round valuations.",
+        "zh": "锚点切换：Tesla 部分 = 持股比例 × 总股本 × TSLA 日线（拆股复权）；SpaceX 继续按融资估值插值。"
+      },
+      "fin": {
+        "en": "Valued daily from TSLA closing prices from here on",
+        "zh": "开始按 TSLA 日线逐日计价"
+      },
+      "src": [
+        {
+          "name": "Yahoo Finance · TSLA price history",
+          "url": "https://finance.yahoo.com/quote/TSLA/history",
+          "type": "market"
+        },
+        {
+          "name": "SEC EDGAR · Tesla",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001318605",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2012-05-25",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.04,
+      "s": {
+        "en": "Dragon reaches ISS",
+        "zh": "对接空间站"
+      },
+      "t": {
+        "en": "Dragon docks with the International Space Station, a first for a private company",
+        "zh": "龙飞船对接国际空间站，私营公司首次"
+      },
+      "summary": {
+        "en": "SpaceX became the first private company to send a spacecraft to the International Space Station.",
+        "zh": "SpaceX 成为第一家把飞船送到国际空间站的私营公司。"
+      },
+      "why": {
+        "en": "SpaceX's valuation is raised. Reputation factor +4%.",
+        "zh": "SpaceX 估值上修；口碑系数 +4%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · SpaceX Dragon",
+          "url": "https://en.wikipedia.org/wiki/SpaceX_Dragon",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2012-06-22",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Model S deliveries",
+        "zh": "Model S 交付"
+      },
+      "t": {
+        "en": "Model S deliveries begin",
+        "zh": "Model S 开始交付"
+      },
+      "summary": {
+        "en": "Deliveries began of the first mass-produced car Tesla designed in-house. It later became the benchmark for premium electric cars.",
+        "zh": "Tesla 首款自主设计的量产车开始交付，后来成为高端电动车标杆。"
+      },
+      "why": {
+        "en": "The product is delivered as promised, which is reflected in the share price. Reputation +2%.",
+        "zh": "产品兑现，由股价反映；口碑 +2%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Tesla Model S",
+          "url": "https://en.wikipedia.org/wiki/Tesla_Model_S",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2015-12-21",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.04,
+      "s": {
+        "en": "Booster landing",
+        "zh": "火箭首次回收"
+      },
+      "t": {
+        "en": "Falcon 9 first stage lands on land for the first time",
+        "zh": "猎鹰9号一级火箭首次陆地回收成功"
+      },
+      "summary": {
+        "en": "The first stage of an orbital-class rocket landed upright for the first time, making reusable rockets a reality.",
+        "zh": "轨道级火箭第一级首次成功垂直着陆，可复用火箭成为现实。"
+      },
+      "why": {
+        "en": "SpaceX's main competitive advantage is established. Reputation factor +4%.",
+        "zh": "SpaceX 核心护城河确立；口碑系数 +4%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Falcon 9",
+          "url": "https://en.wikipedia.org/wiki/Falcon_9",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2016-09-01",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.02,
+      "s": {
+        "en": "Pad explosion",
+        "zh": "发射台爆炸"
+      },
+      "t": {
+        "en": "Falcon 9 explodes on the pad during a test",
+        "zh": "猎鹰9号发射台测试时爆炸"
+      },
+      "summary": {
+        "en": "The rocket exploded during a pre-launch static fire test, destroying the customer's satellite along with it.",
+        "zh": "火箭在发射前的静态点火测试中爆炸，客户卫星一并损毁。"
+      },
+      "why": {
+        "en": "Reputation factor -2%.",
+        "zh": "口碑系数 -2%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Falcon 9",
+          "url": "https://en.wikipedia.org/wiki/Falcon_9",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2018-02-06",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.04,
+      "s": {
+        "en": "Falcon Heavy debut",
+        "zh": "猎鹰重型首飞"
+      },
+      "t": {
+        "en": "Falcon Heavy's first flight sends a Roadster into space",
+        "zh": "猎鹰重型首飞，把一辆 Roadster 送进太空"
+      },
+      "summary": {
+        "en": "The most powerful rocket then in service flew successfully on its first attempt. Footage of the two side boosters landing together spread widely online.",
+        "zh": "当时现役运力最强的火箭首飞成功，两枚助推器同步着陆的画面全网刷屏。"
+      },
+      "why": {
+        "en": "Exceptionally wide coverage, with peaks in both media and search interest. Reputation factor +4%.",
+        "zh": "现象级传播，媒体与搜索双峰；口碑系数 +4%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Falcon Heavy test flight",
+          "url": "https://en.wikipedia.org/wiki/Falcon_Heavy_test_flight",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2018-07-15",
+      "p": "day",
+      "cat": "reputation",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.04,
+      "s": {
+        "en": "Cave rescue row",
+        "zh": "洞穴救援风波"
+      },
+      "t": {
+        "en": "Thai cave rescue row: insults a rescue diver on Twitter",
+        "zh": "泰国洞穴救援风波：在推特上辱骂救援潜水员"
+      },
+      "summary": {
+        "en": "He insulted a British diver involved in the rescue on Twitter. The diver sued him for defamation, and a jury found in Musk's favor in 2019.",
+        "zh": "在推特上辱骂一名参与救援的英国潜水员，后被对方起诉诽谤（2019 年陪审团判马斯克胜诉）。"
+      },
+      "why": {
+        "en": "A pure reputation event. Reputation factor -4%. The legal outcome went his way, but the reputational damage recovers only gradually along the decay curve.",
+        "zh": "纯声誉事件，口碑系数 -4%；法律结果对他有利，但口碑伤害按衰减曲线慢慢修复。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Elon Musk",
+          "url": "https://en.wikipedia.org/wiki/Elon_Musk",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2018-08-07",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 5,
+      "rep": -0.06,
+      "s": {
+        "en": "\"Funding secured\"",
+        "zh": "\"资金已到位\""
+      },
+      "t": {
+        "en": "SEC sues over \"funding secured\" tweet about taking Tesla private",
+        "zh": "\"私有化资金已到位\"推文，被 SEC 起诉"
+      },
+      "summary": {
+        "en": "He tweeted that he was considering taking Tesla private at $420 a share and that funding was secured. The SEC sued him for misleading investors. Under the settlement he stepped down as Tesla chairman, and he and the company each paid a $20M fine.",
+        "zh": "发推称考虑以每股 420 美元将 Tesla 私有化且\"资金已到位\"。美国证监会以误导投资者起诉，最终和解：卸任 Tesla 董事长，本人和公司各罚 2,000 万美元。"
+      },
+      "why": {
+        "en": "Regulatory penalty plus the loss of the chairman role: reputation factor -6%. The financial side is reflected in the share price and is not deducted again.",
+        "zh": "监管处罚 + 失去董事长职位：口碑系数 -6%。金融部分由股价反映，不重复扣。"
+      },
+      "src": [
+        {
+          "name": "SEC · Press release 2018-226",
+          "url": "https://www.sec.gov/news/press-release/2018-226",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Elon Musk",
+          "url": "https://en.wikipedia.org/wiki/Elon_Musk",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2018-09-07",
+      "p": "day",
+      "cat": "reputation",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.03,
+      "s": {
+        "en": "Smokes on podcast",
+        "zh": "播客抽大麻"
+      },
+      "t": {
+        "en": "Smokes marijuana on a podcast; Tesla shares fall",
+        "zh": "播客节目上抽大麻，Tesla 股价下挫"
+      },
+      "summary": {
+        "en": "He smoked marijuana during a live broadcast of a well-known podcast. News that two Tesla executives were leaving came out the same day, and the stock fell.",
+        "zh": "在知名播客节目直播中抽大麻，同日 Tesla 两名高管离职的消息传出，股价下跌。"
+      },
+      "why": {
+        "en": "Reputation factor -3%.",
+        "zh": "口碑系数 -3%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Elon Musk",
+          "url": "https://en.wikipedia.org/wiki/Elon_Musk",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2020-05-30",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.06,
+      "s": {
+        "en": "Crew Dragon",
+        "zh": "载人龙飞船"
+      },
+      "t": {
+        "en": "Crew Dragon carries NASA astronauts to space for the first time",
+        "zh": "载人龙飞船首次把 NASA 宇航员送上太空"
+      },
+      "summary": {
+        "en": "It was the first crewed launch from US soil since the Space Shuttle was retired, and the first crewed orbital mission flown by a private company.",
+        "zh": "美国自航天飞机退役后首次从本土发射载人飞船，私营公司首次执行载人轨道任务。"
+      },
+      "why": {
+        "en": "An event of national prestige: SpaceX's valuation is raised. Reputation factor +6%.",
+        "zh": "国家级荣誉事件：SpaceX 估值上修，口碑系数 +6%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Crew Dragon Demo-2",
+          "url": "https://en.wikipedia.org/wiki/Crew_Dragon_Demo-2",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2021-01-07",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.03,
+      "s": {
+        "en": "World's richest",
+        "zh": "首次世界首富"
+      },
+      "t": {
+        "en": "Becomes the world's richest person for the first time after Tesla's surge",
+        "zh": "Tesla 全年暴涨后，首次成为世界首富"
+      },
+      "summary": {
+        "en": "Tesla's share price rose more than sevenfold in 2020, and Musk's net worth passed that of Jeff Bezos.",
+        "zh": "Tesla 股价在 2020 年上涨超过七倍，马斯克身价超过贝索斯。"
+      },
+      "why": {
+        "en": "Financial capital is reflected in the share price. The \"richest person\" label brings a peak in media attention.",
+        "zh": "金融资本由股价反映；\"首富\"标签带来媒体热度峰值。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Elon Musk",
+          "url": "https://en.wikipedia.org/wiki/Elon_Musk",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2021-11-06",
+      "p": "day",
+      "cat": "wealth",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.01,
+      "s": {
+        "en": "Stock-sale poll",
+        "zh": "卖股投票"
+      },
+      "t": {
+        "en": "Runs a Twitter poll on whether to sell 10% of his Tesla stock",
+        "zh": "发起推特投票：要不要卖掉 10% 的 Tesla 股票"
+      },
+      "summary": {
+        "en": "Nearly 58% of voters chose \"sell\". He then sold Tesla shares over a period of time, and the stock fell back.",
+        "zh": "近 58% 投票者选择\"卖\"，随后他持续减持 Tesla，股价回落。"
+      },
+      "why": {
+        "en": "His ownership share is lowered. Selling for cash is not a loss, but it reduces his exposure to future share price moves.",
+        "zh": "持股比例下调（减持套现不等于亏钱，但未来股价暴露变小）。"
+      },
+      "fin": {
+        "en": "Ownership share: about 17% → about 13% (end of 2022)",
+        "zh": "持股比例：约 17% → 约 13%（2022 年底）"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Elon Musk",
+          "url": "https://en.wikipedia.org/wiki/Elon_Musk",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2022-10-27",
+      "p": "day",
+      "cat": "career",
+      "dir": -1,
+      "mag": 5,
+      "rep": -0.04,
+      "s": {
+        "en": "Buys Twitter",
+        "zh": "收购推特"
+      },
+      "t": {
+        "en": "Completes the $44B acquisition of Twitter",
+        "zh": "以 440 亿美元完成收购推特"
+      },
+      "summary": {
+        "en": "He closed the deal after a long back-and-forth, then immediately fired executives and a large share of the staff. Much of the money came from selling Tesla stock and from debt taken on by the company.",
+        "zh": "经过反复拉锯完成收购，随即解雇高管和大量员工。资金很大一部分来自卖出 Tesla 股票和公司层面的借贷。"
+      },
+      "why": {
+        "en": "A large amount of Tesla stock is exchanged for a private company whose valuation keeps falling. His controversial management style takes 4% off the reputation factor.",
+        "zh": "大量 Tesla 股票换成一家估值持续下滑的私有公司；争议管理风格扣口碑系数 -4%。"
+      },
+      "fin": {
+        "en": "Adds a stake in X (later marked down several times by investors)",
+        "zh": "新增 X 持股（随后被机构多次下调估值）"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Acquisition of Twitter",
+          "url": "https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2022-12-13",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 4,
+      "rep": -0.02,
+      "s": {
+        "en": "No longer richest",
+        "zh": "失去首富"
+      },
+      "t": {
+        "en": "Tesla loses more than half its value in a year; he is no longer the world's richest",
+        "zh": "Tesla 全年腰斩，失去世界首富"
+      },
+      "summary": {
+        "en": "Tesla's share price fell more than 60% in 2022, and Bernard Arnault of LVMH took over as the world's richest person.",
+        "zh": "Tesla 2022 年股价跌幅超过六成，首富位置被 LVMH 的阿尔诺取代。"
+      },
+      "why": {
+        "en": "Financial capital is reflected in the share price.",
+        "zh": "金融资本由股价反映。"
+      },
+      "src": [
+        {
+          "name": "Yahoo Finance · TSLA price history",
+          "url": "https://finance.yahoo.com/quote/TSLA/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2023-04-20",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Starship explodes",
+        "zh": "星舰首飞爆炸"
+      },
+      "t": {
+        "en": "Starship's first integrated test flight ends in an explosion about 4 minutes after liftoff",
+        "zh": "星舰首次综合试飞，升空约 4 分钟后爆炸"
+      },
+      "summary": {
+        "en": "The largest rocket ever built made its first integrated test flight. It failed to separate its stages and was destroyed. SpaceX called it a successful test.",
+        "zh": "史上最大火箭首次综合试飞，未能完成级间分离后自毁。SpaceX 称之为\"成功的测试\"。"
+      },
+      "why": {
+        "en": "A disputed event in which the positives and negatives cancel out. Opinion was divided, so the reputation factor does not change.",
+        "zh": "争议事件，正负抵消：舆论分化，口碑系数不变。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · SpaceX Starship",
+          "url": "https://en.wikipedia.org/wiki/SpaceX_Starship",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2023-07-12",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Founds xAI",
+        "zh": "成立 xAI"
+      },
+      "t": {
+        "en": "Founds the AI company xAI",
+        "zh": "成立 AI 公司 xAI"
+      },
+      "summary": {
+        "en": "He announced the founding of xAI, entering the market for large AI models.",
+        "zh": "宣布成立 xAI，进军大模型赛道。"
+      },
+      "why": {
+        "en": "A new asset is added, with a small initial valuation.",
+        "zh": "新增资产线，初始估值较小。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · xAI",
+          "url": "https://en.wikipedia.org/wiki/XAI_(company)",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2024-01-30",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 5,
+      "rep": -0.02,
+      "s": {
+        "en": "Pay package voided",
+        "zh": "薪酬被撤销"
+      },
+      "t": {
+        "en": "Delaware court voids his 2018 pay package",
+        "zh": "特拉华法院撤销 2018 年薪酬方案"
+      },
+      "summary": {
+        "en": "The judge ruled that Tesla's board was too close to Musk and that shareholders had not been given adequate information. She voided the options package, then worth about $56B.",
+        "zh": "法官裁定 Tesla 董事会与马斯克关系过密、股东信息披露不充分，撤销当时价值约 560 亿美元的期权方案。"
+      },
+      "why": {
+        "en": "The option value is removed from the model (it had been counted at a 50% discount).",
+        "zh": "期权价值从模型中移除（此前按 50% 折价计入）。"
+      },
+      "fin": {
+        "en": "Financial capital: 2018 options removed",
+        "zh": "金融资本：移除 2018 年期权"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Tornetta v. Musk",
+          "url": "https://en.wikipedia.org/wiki/Tornetta_v._Musk",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2024-07-13",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 0,
+      "mag": 4,
+      "rep": -0.02,
+      "s": {
+        "en": "Endorses Trump",
+        "zh": "支持特朗普"
+      },
+      "t": {
+        "en": "Publicly endorses Trump",
+        "zh": "公开支持特朗普"
+      },
+      "summary": {
+        "en": "He endorsed Trump after the attempt on Trump's life and gave heavily to the campaign.",
+        "zh": "在特朗普遭遇刺杀未遂后宣布支持他，并大举资助竞选。"
+      },
+      "why": {
+        "en": "Taking a political side polarizes his audience: audience size grows faster, but the overall reputation factor falls 2%.",
+        "zh": "政治站队造成受众两极化：受众规模加速增长，但整体口碑系数 -2%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Elon Musk",
+          "url": "https://en.wikipedia.org/wiki/Elon_Musk",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2024-10-13",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.04,
+      "s": {
+        "en": "Chopsticks catch",
+        "zh": "筷子夹火箭"
+      },
+      "t": {
+        "en": "Starship flight 5: launch tower \"chopsticks\" catch the booster",
+        "zh": "星舰第五次试飞：发射塔\"筷子\"夹住助推器"
+      },
+      "summary": {
+        "en": "The Super Heavy booster returned to the launch site and was caught directly by the tower's mechanical arms. The footage drew attention worldwide.",
+        "zh": "超重型助推器返回发射场，被发射塔的机械臂直接夹住，画面震撼全网。"
+      },
+      "why": {
+        "en": "An engineering feat that spread very widely. Reputation factor +4%.",
+        "zh": "工程奇观级传播，口碑系数 +4%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · SpaceX Starship",
+          "url": "https://en.wikipedia.org/wiki/SpaceX_Starship",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2024-11-06",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.01,
+      "s": {
+        "en": "Trump wins",
+        "zh": "特朗普胜选"
+      },
+      "t": {
+        "en": "Trump wins the election and Tesla jumps over the following week",
+        "zh": "特朗普胜选，Tesla 一周大涨"
+      },
+      "summary": {
+        "en": "Investors bet on Musk's political influence and Tesla's share price rose quickly. A month later he became the first person with a net worth above $400B.",
+        "zh": "市场押注马斯克的政治影响力，Tesla 股价急升，他的身价在一个月后成为史上首个突破 4,000 亿美元的人。"
+      },
+      "why": {
+        "en": "Financial capital is reflected in the share price.",
+        "zh": "金融资本由股价反映。"
+      },
+      "src": [
+        {
+          "name": "Fortune · Musk companies since the election",
+          "url": "https://fortune.com/2025/02/21/musk-companies-add-613-billion-value-since-election/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2025-01-20",
+      "p": "day",
+      "cat": "reputation",
+      "dir": -1,
+      "mag": 4,
+      "rep": -0.05,
+      "s": {
+        "en": "Leads DOGE",
+        "zh": "主导 DOGE"
+      },
+      "t": {
+        "en": "Leads the Department of Government Efficiency (DOGE)",
+        "zh": "主导\"政府效率部\"（DOGE）"
+      },
+      "summary": {
+        "en": "He entered the federal government and pushed large-scale layoffs and spending cuts, which caused strong controversy. Protests and boycotts against Tesla took place in many parts of the US and Europe.",
+        "zh": "入主联邦政府推动大规模裁员和削减开支，引发强烈争议；美欧多地出现针对 Tesla 的抗议和抵制。"
+      },
+      "why": {
+        "en": "Audience size keeps growing, but the reputation factor falls 5%. The damage to the brand among Tesla buyers shows up in the share price in the first quarter of 2025.",
+        "zh": "受众规模继续增长，但口碑系数 -5%（品牌对 Tesla 消费者的伤害在 2025 年一季度股价中体现）。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · DOGE",
+          "url": "https://en.wikipedia.org/wiki/Department_of_Government_Efficiency",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2025-03-28",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "xAI buys X",
+        "zh": "xAI 收购 X"
+      },
+      "t": {
+        "en": "xAI acquires X at a combined valuation of about $113B",
+        "zh": "xAI 收购 X，合并估值约 1,130 亿美元"
+      },
+      "summary": {
+        "en": "xAI acquired X in an all-stock deal that valued X at about $33B and xAI at about $80B.",
+        "zh": "xAI 以全股票方式收购 X，X 作价约 330 亿美元，xAI 约 800 亿美元。"
+      },
+      "why": {
+        "en": "X's valuation recovers, and private assets are revalued upward.",
+        "zh": "X 的估值得到修复，私有资产重估上调。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · xAI",
+          "url": "https://en.wikipedia.org/wiki/XAI_(company)",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2025-06-05",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 5,
+      "rep": -0.03,
+      "s": {
+        "en": "Break with Trump",
+        "zh": "与特朗普决裂"
+      },
+      "t": {
+        "en": "Public break with Trump; Tesla falls about 14% in one day",
+        "zh": "与特朗普公开决裂，Tesla 单日暴跌约 14%"
+      },
+      "summary": {
+        "en": "After he left the government, the two attacked each other publicly on social media. Tesla lost about $150B in market value in one day.",
+        "zh": "离开政府后两人在社交媒体上公开互撕，Tesla 单日蒸发约 1,500 亿美元市值。"
+      },
+      "why": {
+        "en": "Financial capital is reflected in the share price. The spillover of political risk takes 3% off the reputation factor.",
+        "zh": "金融资本由股价反映；政治风险外溢扣口碑系数 -3%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Elon Musk",
+          "url": "https://en.wikipedia.org/wiki/Elon_Musk",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · TSLA price history",
+          "url": "https://finance.yahoo.com/quote/TSLA/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2025-11-06",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.01,
+      "s": {
+        "en": "$1T pay approved",
+        "zh": "万亿薪酬获批"
+      },
+      "t": {
+        "en": "Tesla shareholders approve a new pay package worth up to about $1T",
+        "zh": "Tesla 股东批准最高约 1 万亿美元的新薪酬方案"
+      },
+      "summary": {
+        "en": "The package is tied to long-term targets for market value, vehicle deliveries, robotaxis and more, which will take years to meet.",
+        "zh": "方案与市值、交付量、机器人出租车等远期目标挂钩，需要多年达成。"
+      },
+      "why": {
+        "en": "Nothing has vested yet, so the model does not count it as financial capital. It appears only as a higher expected human capital.",
+        "zh": "尚未归属，模型不计入金融资本，只体现为人力资本预期上调。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Tesla",
+          "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2025-12-19",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.02,
+      "s": {
+        "en": "Pay plan restored",
+        "zh": "薪酬方案恢复"
+      },
+      "t": {
+        "en": "Delaware Supreme Court restores his 2018 pay package",
+        "zh": "特拉华最高法院恢复 2018 年薪酬方案"
+      },
+      "summary": {
+        "en": "The Supreme Court overturned the lower court's ruling and restored the options package, worth about $139B at the share price at the time.",
+        "zh": "最高法院推翻下级法院判决，恢复按当时股价价值约 1,390 亿美元的期权方案。"
+      },
+      "why": {
+        "en": "The options are counted in financial capital again at 100%: 304 million shares × (share price − $23.34).",
+        "zh": "期权按 100% 重新计入金融资本：3.04 亿股 ×（股价 − 23.34 美元）。"
+      },
+      "fin": {
+        "en": "Financial capital: 2018 options added back",
+        "zh": "金融资本：重新计入 2018 年期权"
+      },
+      "src": [
+        {
+          "name": "TechCrunch · Pay package restored",
+          "url": "https://techcrunch.com/2025/12/19/elon-musks-56b-tesla-pay-package-restored-by-delaware-supreme-court",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-02",
+      "p": "month",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.01,
+      "s": {
+        "en": "SpaceX-xAI merger",
+        "zh": "SpaceX 合并 xAI"
+      },
+      "t": {
+        "en": "SpaceX merges with xAI at a combined valuation of about $1.25T",
+        "zh": "SpaceX 合并 xAI，合并估值约 1.25 万亿美元"
+      },
+      "summary": {
+        "en": "SpaceX absorbed xAI, including X. Musk reportedly owns about 43% of the combined company, and his net worth at one point passed $850B.",
+        "zh": "SpaceX 吞并 xAI（含 X），据报道马斯克持有合并后公司约 43%，身价一度超过 8,500 亿美元。"
+      },
+      "why": {
+        "en": "Private assets are revalued as a whole: the separate SpaceX and xAI holdings are merged into one.",
+        "zh": "私有资产整体重估：SpaceX 与 xAI 两条线合并为一条。"
+      },
+      "fin": {
+        "en": "Private assets: about +$84B from the merger revaluation",
+        "zh": "私有资产：合并重估约 +840 亿美元"
+      },
+      "src": [
+        {
+          "name": "Yahoo Finance · Net worth hits $852B",
+          "url": "https://finance.yahoo.com/news/elon-musk-net-worth-hits-123107810.html",
+          "type": "news"
+        },
+        {
+          "name": "Gulf News · SpaceX–xAI merger",
+          "url": "https://gulfnews.com/business/markets/elon-musk-blasts-past-8525-billion-net-worth-spacex-swallows-xai-in-epic-merger-mania-1.500431258",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-06-12",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.04,
+      "s": {
+        "en": "SpaceX IPO",
+        "zh": "SpaceX 上市"
+      },
+      "t": {
+        "en": "SpaceX goes public in the largest IPO ever, making him the first trillionaire",
+        "zh": "SpaceX 上市，史上最大 IPO，成为首位\"万亿富翁\""
+      },
+      "summary": {
+        "en": "SpaceX priced its shares at $135 and raised about $75B, the largest IPO on record. The stock closed up about 19% on its first day, for a market value above $2T.",
+        "zh": "SpaceX 以每股 135 美元发行、募资约 750 亿美元，创史上最大 IPO。首日收涨约 19%，市值超过 2 万亿美元。"
+      },
+      "why": {
+        "en": "Anchor switch: SpaceX moves from interpolated funding-round valuations to daily pricing from SPCX.",
+        "zh": "锚点切换：SpaceX 从融资估值插值改为 SPCX 日线逐日计价。"
+      },
+      "fin": {
+        "en": "Valued daily from SPCX closing prices from here on",
+        "zh": "开始按 SPCX 日线逐日计价"
+      },
+      "src": [
+        {
+          "name": "NPR · SpaceX IPO",
+          "url": "https://www.npr.org/2026/06/12/nx-s1-5855004/stock-ai-spacex-ipo-elon-musk",
+          "type": "news"
+        },
+        {
+          "name": "Al Jazeera · First trillionaire",
+          "url": "https://www.aljazeera.com/economy/2026/6/12/spacex-ipo-debuts-in-us-markets-musk-becomes-worlds-first-trillionaire",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}

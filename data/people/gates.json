@@ -1,0 +1,2118 @@
+{
+  "id": "gates",
+  "name": {
+    "en": "Bill Gates",
+    "zh": "比尔·盖茨"
+  },
+  "ticker": "GATES",
+  "born": "1955-10-28",
+  "color": "#B8F25B",
+  "initials": "BG",
+  "tagline": {
+    "en": "He put Windows on the world's desks, then set out to give the fortune away",
+    "zh": "让 Windows 走上全世界的桌面，再把赚来的钱捐出去"
+  },
+  "tags": [
+    {
+      "en": "Microsoft co-founder",
+      "zh": "微软联合创始人"
+    },
+    {
+      "en": "Windows",
+      "zh": "Windows"
+    },
+    {
+      "en": "Philanthropy",
+      "zh": "慈善"
+    },
+    {
+      "en": "Climate & nuclear",
+      "zh": "气候与核能"
+    }
+  ],
+  "privates": [
+    {
+      "label": {
+        "en": "Pre-IPO Microsoft equity and personal savings (estimate)",
+        "zh": "微软上市前股权 + 个人储蓄（估算）"
+      },
+      "until": "1986-03-12",
+      "anchors": [
+        [
+          "1970",
+          2000
+        ],
+        [
+          "1975-04-04",
+          50000
+        ],
+        [
+          "1977",
+          500000
+        ],
+        [
+          "1979",
+          3000000
+        ],
+        [
+          "1980-11",
+          10000000
+        ],
+        [
+          "1982",
+          40000000
+        ],
+        [
+          "1983",
+          100000000
+        ],
+        [
+          "1985",
+          180000000
+        ],
+        [
+          "1986-03-12",
+          235000000
+        ]
+      ]
+    },
+    {
+      "label": {
+        "en": "Cascade Investment and other wealth outside Microsoft, net of gifts (estimate)",
+        "zh": "Cascade Investment 等微软以外的财富，已扣除捐赠（估算）"
+      },
+      "from": "1994",
+      "anchors": [
+        [
+          "1994",
+          300000000
+        ],
+        [
+          "1996-07",
+          1500000000
+        ],
+        [
+          "1998-07",
+          4000000000
+        ],
+        [
+          "1999-07",
+          12000000000
+        ],
+        [
+          "1999-12",
+          10000000000
+        ],
+        [
+          "2000-09",
+          15000000000
+        ],
+        [
+          "2001-03",
+          19000000000
+        ],
+        [
+          "2002-03",
+          14000000000
+        ],
+        [
+          "2003-03",
+          11000000000
+        ],
+        [
+          "2004-03",
+          18000000000
+        ],
+        [
+          "2005-03",
+          21000000000
+        ],
+        [
+          "2006-03",
+          23000000000
+        ],
+        [
+          "2007-03",
+          30000000000
+        ],
+        [
+          "2008-03",
+          34000000000
+        ],
+        [
+          "2009-03",
+          26000000000
+        ],
+        [
+          "2010-03",
+          33000000000
+        ],
+        [
+          "2011-03",
+          41000000000
+        ],
+        [
+          "2012-03",
+          44000000000
+        ],
+        [
+          "2013-03",
+          54000000000
+        ],
+        [
+          "2014-03",
+          61000000000
+        ],
+        [
+          "2015-03",
+          67000000000
+        ],
+        [
+          "2016-03",
+          63000000000
+        ],
+        [
+          "2017-03",
+          76000000000
+        ],
+        [
+          "2018-03",
+          80000000000
+        ],
+        [
+          "2019-03",
+          84000000000
+        ],
+        [
+          "2020-03",
+          82000000000
+        ],
+        [
+          "2021-03",
+          100000000000
+        ],
+        [
+          "2021-09",
+          105000000000
+        ],
+        [
+          "2022-03",
+          98000000000
+        ],
+        [
+          "2022-09",
+          89000000000
+        ],
+        [
+          "2023-03",
+          84000000000
+        ],
+        [
+          "2023-09",
+          93000000000
+        ],
+        [
+          "2024-03",
+          99000000000
+        ],
+        [
+          "2024-09",
+          78000000000
+        ],
+        [
+          "2025-03",
+          82000000000
+        ],
+        [
+          "2025-09",
+          74000000000
+        ],
+        [
+          "2026-03",
+          83000000000
+        ],
+        [
+          "2026-11",
+          87000000000
+        ]
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "sym": "MSFT",
+      "label": {
+        "en": "Microsoft shares",
+        "zh": "微软持股"
+      },
+      "from": "1986-03-13",
+      "own": [
+        [
+          "1986-03",
+          0.449
+        ],
+        [
+          "1988",
+          0.4
+        ],
+        [
+          "1990",
+          0.36
+        ],
+        [
+          "1992",
+          0.3
+        ],
+        [
+          "1995",
+          0.24
+        ],
+        [
+          "1997-09",
+          0.222
+        ],
+        [
+          "1998-09",
+          0.208
+        ],
+        [
+          "1999-09",
+          0.153
+        ],
+        [
+          "2000-09",
+          0.137
+        ],
+        [
+          "2001-09",
+          0.123
+        ],
+        [
+          "2002-09",
+          0.118
+        ],
+        [
+          "2004-09",
+          0.103
+        ],
+        [
+          "2006-09",
+          0.097
+        ],
+        [
+          "2008-09",
+          0.089
+        ],
+        [
+          "2010-09",
+          0.072
+        ],
+        [
+          "2012-09",
+          0.057
+        ],
+        [
+          "2014-09",
+          0.04
+        ],
+        [
+          "2016-09",
+          0.0246
+        ],
+        [
+          "2017-09",
+          0.0134
+        ],
+        [
+          "2022-06",
+          0.0134
+        ],
+        [
+          "2022-08",
+          0.0095
+        ],
+        [
+          "2026-11",
+          0.009
+        ]
+      ],
+      "shares": [
+        [
+          "1986-03",
+          7170000000
+        ],
+        [
+          "1990-06",
+          8200000000
+        ],
+        [
+          "1996-06",
+          9550000000
+        ],
+        [
+          "2000-06",
+          10570000000
+        ],
+        [
+          "2003-06",
+          10770000000
+        ],
+        [
+          "2006-06",
+          10060000000
+        ],
+        [
+          "2008-06",
+          9150000000
+        ],
+        [
+          "2010-06",
+          8670000000
+        ],
+        [
+          "2013-06",
+          8330000000
+        ],
+        [
+          "2016-06",
+          7810000000
+        ],
+        [
+          "2019-06",
+          7640000000
+        ],
+        [
+          "2022-06",
+          7460000000
+        ],
+        [
+          "2026-11",
+          7430000000
+        ]
+      ]
+    }
+  ],
+  "human": [
+    [
+      "1955-10-28",
+      300000
+    ],
+    [
+      "1968",
+      500000
+    ],
+    [
+      "1973",
+      1000000
+    ],
+    [
+      "1975-04-04",
+      3000000
+    ],
+    [
+      "1980-11",
+      10000000
+    ],
+    [
+      "1986-03",
+      30000000
+    ],
+    [
+      "1990",
+      100000000
+    ],
+    [
+      "1995",
+      300000000
+    ],
+    [
+      "2000-01",
+      250000000
+    ],
+    [
+      "2008-06",
+      150000000
+    ],
+    [
+      "2020-03",
+      100000000
+    ],
+    [
+      "2026-11",
+      80000000
+    ]
+  ],
+  "audience": [
+    [
+      "1955-10-28",
+      0
+    ],
+    [
+      "1975",
+      1000
+    ],
+    [
+      "1981",
+      50000
+    ],
+    [
+      "1986",
+      1000000
+    ],
+    [
+      "1990",
+      5000000
+    ],
+    [
+      "1995",
+      20000000
+    ],
+    [
+      "2000",
+      50000000
+    ],
+    [
+      "2010",
+      60000000
+    ],
+    [
+      "2015",
+      90000000
+    ],
+    [
+      "2020",
+      140000000
+    ],
+    [
+      "2023",
+      160000000
+    ],
+    [
+      "2026-11",
+      170000000
+    ]
+  ],
+  "media": [
+    [
+      "1955-10-28",
+      0
+    ],
+    [
+      "1975",
+      0.05
+    ],
+    [
+      "1981",
+      0.5
+    ],
+    [
+      "1986",
+      3
+    ],
+    [
+      "1990",
+      8
+    ],
+    [
+      "1995",
+      30
+    ],
+    [
+      "1998",
+      45
+    ],
+    [
+      "2001",
+      35
+    ],
+    [
+      "2008",
+      25
+    ],
+    [
+      "2015",
+      22
+    ],
+    [
+      "2020",
+      45
+    ],
+    [
+      "2022",
+      30
+    ],
+    [
+      "2025",
+      28
+    ],
+    [
+      "2026-02",
+      36
+    ],
+    [
+      "2026-11",
+      30
+    ]
+  ],
+  "chapters": [
+    {
+      "from": "1955-10-28",
+      "t": {
+        "en": "Seattle Beginnings",
+        "zh": "西雅图少年"
+      },
+      "desc": {
+        "en": "A Seattle childhood, a school computer terminal at 13, and two years at Harvard",
+        "zh": "在西雅图长大，13 岁在学校机房迷上编程，在哈佛读了两年"
+      }
+    },
+    {
+      "from": "1975-04-04",
+      "t": {
+        "en": "Building Microsoft",
+        "zh": "创办微软"
+      },
+      "desc": {
+        "en": "BASIC for the Altair, then the IBM deal that put MS-DOS on almost every PC",
+        "zh": "从给 Altair 写 BASIC，到凭 IBM 合约让 MS-DOS 装进几乎每台 PC"
+      }
+    },
+    {
+      "from": "1986-03-13",
+      "t": {
+        "en": "The Windows Empire",
+        "zh": "Windows 帝国"
+      },
+      "desc": {
+        "en": "IPO, Windows 3.0 and 95, and the title of richest person in the world",
+        "zh": "上市、Windows 3.0 与 95，登上世界首富"
+      }
+    },
+    {
+      "from": "1998-05-18",
+      "t": {
+        "en": "Antitrust and Handover",
+        "zh": "反垄断与交棒"
+      },
+      "desc": {
+        "en": "The US lawsuit, the $100 billion peak, the CEO handover and the start of the foundation",
+        "zh": "美国政府的诉讼、千亿美元的顶点、交出 CEO，基金会起步"
+      }
+    },
+    {
+      "from": "2008-06-27",
+      "t": {
+        "en": "Full-Time Philanthropist",
+        "zh": "全职慈善家"
+      },
+      "desc": {
+        "en": "Global health, the Giving Pledge, clean energy, and a shrinking Microsoft stake",
+        "zh": "全球健康、捐赠誓言、清洁能源，微软持股不断减少"
+      }
+    },
+    {
+      "from": "2020-03-13",
+      "t": {
+        "en": "Scrutiny and Giving Away",
+        "zh": "审视与散财"
+      },
+      "desc": {
+        "en": "Pandemic fame and conspiracy theories, divorce, the 2045 deadline and the Epstein questions",
+        "zh": "疫情中的声望与阴谋论、离婚、2045 年期限，以及爱泼斯坦风波"
+      }
+    }
+  ],
+  "events": [
+    {
+      "d": "1955-10-28",
+      "p": "day",
+      "cat": "origin",
+      "dir": 0,
+      "mag": 1,
+      "rep": 0,
+      "s": {
+        "en": "Born in Seattle",
+        "zh": "生于西雅图"
+      },
+      "t": {
+        "en": "Born in Seattle, Washington",
+        "zh": "出生于美国华盛顿州西雅图"
+      },
+      "summary": {
+        "en": "William Henry Gates III is born in Seattle and grows up there.",
+        "zh": "威廉·亨利·盖茨三世出生在西雅图，并在这座城市长大。"
+      },
+      "why": {
+        "en": "Starting point, not scored. Human capital starts at the average level for a child born in a rich country.",
+        "zh": "起点事件，不计分；人力资本以发达国家新生儿的平均水平为初始值。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Bill Gates",
+          "url": "https://en.wikipedia.org/wiki/Bill_Gates",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1968",
+      "p": "year",
+      "cat": "education",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Lakeside terminal",
+        "zh": "湖滨中学机房"
+      },
+      "t": {
+        "en": "First hands-on computer time at Lakeside School",
+        "zh": "在湖滨中学第一次摸到计算机"
+      },
+      "summary": {
+        "en": "At Lakeside, a private school in Seattle, a teletype terminal linked to a time-sharing computer arrives, paid for by a parents' fundraising sale. Gates, about 13, spends every hour he can on it and teams up with an older student, Paul Allen.",
+        "zh": "西雅图私立湖滨中学用家长义卖筹来的钱，装了一台连到分时计算机的电传终端。大约 13 岁的盖茨几乎泡在机房里，并结识了高年级学生保罗·艾伦。"
+      },
+      "why": {
+        "en": "Rare early access to a computer was the base of everything that followed, so the human-capital target is raised. The story was retold for decades, which adds a small reputation gain.",
+        "zh": "在那个年代能这么早接触计算机极为罕见，是后来一切的基础，因此上调人力资本目标值；这段经历被反复讲述，口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Bill Gates",
+          "url": "https://en.wikipedia.org/wiki/Bill_Gates",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Lakeside School (Seattle)",
+          "url": "https://en.wikipedia.org/wiki/Lakeside_School_(Seattle)",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1973",
+      "p": "year",
+      "cat": "education",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Enters Harvard",
+        "zh": "进入哈佛"
+      },
+      "t": {
+        "en": "Graduates from Lakeside and enrolls at Harvard",
+        "zh": "湖滨中学毕业，进入哈佛大学"
+      },
+      "summary": {
+        "en": "Gates finishes Lakeside with the class of 1973 and starts at Harvard College that autumn, where he meets Steve Ballmer.",
+        "zh": "盖茨 1973 年从湖滨中学毕业，同年秋天进入哈佛学院，在那里认识了史蒂夫·鲍尔默。"
+      },
+      "why": {
+        "en": "Education step: the human-capital target rises to about $1 million and the model climbs toward it over roughly a year.",
+        "zh": "学历台阶：人力资本目标值上调到约 100 万美元，模型用大约一年时间平滑爬升。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Bill Gates",
+          "url": "https://en.wikipedia.org/wiki/Bill_Gates",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Lakeside School (Seattle)",
+          "url": "https://en.wikipedia.org/wiki/Lakeside_School_(Seattle)",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1975-04-04",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.02,
+      "s": {
+        "en": "Founds Microsoft",
+        "zh": "创立微软"
+      },
+      "t": {
+        "en": "Co-founds Microsoft with Paul Allen in Albuquerque",
+        "zh": "与保罗·艾伦在阿尔伯克基创立微软"
+      },
+      "summary": {
+        "en": "After the Altair 8800 kit computer appears, Gates and Allen write a BASIC interpreter for it in about eight weeks and sell it to the maker, MITS. They set up a partnership called Micro-Soft in Albuquerque, New Mexico.",
+        "zh": "Altair 8800 套件电脑问世后，盖茨和艾伦用约八周时间为它写出 BASIC 解释器，卖给厂商 MITS，并在新墨西哥州阿尔伯克基成立合伙企业 Micro-Soft。"
+      },
+      "why": {
+        "en": "Life turning point: he now owns part of a company. Financial capital switches from pocket money to founder equity, valued here from the company's early sales. The figures are estimates.",
+        "zh": "人生转折点：开始持有一家公司的股权。金融资本从零花钱切换为创始人股权，按公司早期营收粗略估值，数字为估算。"
+      },
+      "fin": {
+        "en": "Founder equity enters the model (interpolated between rough private estimates)",
+        "zh": "创始人股权进入模型（私有期按粗略估值插值）"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · History of Microsoft",
+          "url": "https://en.wikipedia.org/wiki/History_of_Microsoft",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Altair BASIC",
+          "url": "https://en.wikipedia.org/wiki/Altair_BASIC",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1975-11",
+      "p": "month",
+      "cat": "education",
+      "dir": 0,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "Leaves Harvard",
+        "zh": "离开哈佛"
+      },
+      "t": {
+        "en": "Takes leave from Harvard and never returns",
+        "zh": "从哈佛休学，此后再未回校"
+      },
+      "summary": {
+        "en": "Gates takes a leave of absence from Harvard to work full time on the software business. He does not go back to finish his degree.",
+        "zh": "盖茨向哈佛申请休学，全职投入软件生意，此后没有回去完成学位。"
+      },
+      "why": {
+        "en": "Mixed at the time: he gives up a degree but gains years of head start. The dropout story later becomes part of his public image, so reputation gets a small lift.",
+        "zh": "当时看利弊参半：放弃了学位，换来几年先发优势。“辍学创业”后来成为他公众形象的一部分，口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Bill Gates",
+          "url": "https://en.wikipedia.org/wiki/Bill_Gates",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1980-11",
+      "p": "month",
+      "cat": "career",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.03,
+      "s": {
+        "en": "IBM DOS deal",
+        "zh": "IBM DOS 合约"
+      },
+      "t": {
+        "en": "Signs the deal to supply the IBM PC's operating system",
+        "zh": "签下为 IBM PC 提供操作系统的合约"
+      },
+      "summary": {
+        "en": "IBM approaches Microsoft in July 1980 and the papers are signed in early November. Microsoft licenses, then buys, a system called 86-DOS from Seattle Computer Products and adapts it as PC DOS. The IBM PC ships with it on August 12, 1981, and Microsoft stays free to sell its own version, MS-DOS, to other computer makers.",
+        "zh": "IBM 于 1980 年 7 月找到微软，11 月初签约。微软先从西雅图计算机产品公司取得 86-DOS 的授权，随后将其买下，改造成 PC DOS。1981 年 8 月 12 日 IBM PC 搭载它上市，而微软保留了把自家版本 MS-DOS 卖给其他电脑厂商的权利。"
+      },
+      "why": {
+        "en": "The most valuable contract of his career: the right to license the system to every PC clone maker. The private valuation steps up sharply over the following years, and reputation gains 3%.",
+        "zh": "职业生涯中最值钱的一纸合约：可以把系统授权给所有兼容机厂商。此后几年私有估值大幅抬升，口碑系数 +3%。"
+      },
+      "fin": {
+        "en": "Private stake estimate: about $10 million in 1980 to about $100 million in 1983",
+        "zh": "私有持股估值：1980 年约 1,000 万美元 → 1983 年约 1 亿美元"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · IBM PC DOS",
+          "url": "https://en.wikipedia.org/wiki/IBM_PC_DOS",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · 86-DOS",
+          "url": "https://en.wikipedia.org/wiki/86-DOS",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · History of Microsoft",
+          "url": "https://en.wikipedia.org/wiki/History_of_Microsoft",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1986-03-13",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.03,
+      "s": {
+        "en": "Microsoft IPO",
+        "zh": "微软上市"
+      },
+      "t": {
+        "en": "Microsoft goes public on Nasdaq at $21 a share",
+        "zh": "微软在纳斯达克上市，发行价 21 美元"
+      },
+      "summary": {
+        "en": "Microsoft raises $61 million in its initial public offering. The shares open at $21 and close the first day at $28. Gates keeps about 45% of the company.",
+        "zh": "微软首次公开募股筹资 6,100 万美元，发行价 21 美元，首日收于 28 美元。盖茨保留约 45% 的股份。"
+      },
+      "why": {
+        "en": "Anchor switch: from this day financial capital = ownership × shares outstanding × the daily MSFT close (split-adjusted; Microsoft has split nine times, a combined factor of 288).",
+        "zh": "锚点切换：从这一天起，金融资本 = 持股比例 × 总股本 × MSFT 当日收盘价（拆股复权；微软先后拆股九次，累计 288 倍）。"
+      },
+      "fin": {
+        "en": "About 45% of Microsoft, worth roughly $235 million at the offer price; priced daily from MSFT afterwards",
+        "zh": "约 45% 的微软股份，按发行价约值 2.35 亿美元；此后按 MSFT 日线逐日计价"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · History of Microsoft",
+          "url": "https://en.wikipedia.org/wiki/History_of_Microsoft",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Bill Gates",
+          "url": "https://en.wikipedia.org/wiki/Bill_Gates",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · MSFT historical prices",
+          "url": "https://finance.yahoo.com/quote/MSFT/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "1987",
+      "p": "year",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Billionaire at 31",
+        "zh": "31 岁身家十亿"
+      },
+      "t": {
+        "en": "Forbes lists him as a billionaire at age 31",
+        "zh": "31 岁登上《福布斯》十亿美元富豪榜"
+      },
+      "summary": {
+        "en": "A year after the IPO, Forbes puts his fortune at $1.25 billion, making him the youngest self-made billionaire up to that time.",
+        "zh": "上市一年后，《福布斯》估算他的身家为 12.5 亿美元，他成为当时最年轻的白手起家十亿美元富豪。"
+      },
+      "why": {
+        "en": "The money itself is already in the stock price. The \"youngest billionaire\" label adds 2% to reputation.",
+        "zh": "财富本身已由股价体现；“最年轻十亿富豪”的标签让口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Bill Gates",
+          "url": "https://en.wikipedia.org/wiki/Bill_Gates",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1990-05-22",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "Windows 3.0",
+        "zh": "Windows 3.0"
+      },
+      "t": {
+        "en": "Windows 3.0 launches and finally catches on",
+        "zh": "Windows 3.0 发布，Windows 终于流行起来"
+      },
+      "summary": {
+        "en": "Windows 1.0 had shipped on November 20, 1985 to a lukewarm reception. Version 3.0 is the first to sell in large numbers and makes a graphical desktop the norm on IBM-compatible PCs.",
+        "zh": "1985 年 11 月 20 日发布的 Windows 1.0 反响平平。3.0 版第一次大卖，让图形界面成为 IBM 兼容机的标配。"
+      },
+      "why": {
+        "en": "Sales show up in the stock price. Defining the standard PC desktop is a lasting reputation asset, so reputation gains 2%.",
+        "zh": "销量由股价反映；定义了 PC 桌面的标准，是长期声誉资产，口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Windows 3.0",
+          "url": "https://en.wikipedia.org/wiki/Windows_3.0",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · History of Microsoft",
+          "url": "https://en.wikipedia.org/wiki/History_of_Microsoft",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1992-10",
+      "p": "month",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Richest American",
+        "zh": "美国首富"
+      },
+      "t": {
+        "en": "Tops the Forbes 400 for the first time",
+        "zh": "首次登顶《福布斯》美国 400 富豪榜"
+      },
+      "summary": {
+        "en": "Forbes names Gates, then 36, the richest person in the United States with an estimated $6.3 billion, nearly all of it Microsoft stock.",
+        "zh": "《福布斯》把 36 岁的盖茨列为美国首富，估算身家 63 亿美元，几乎全部是微软股票。"
+      },
+      "why": {
+        "en": "Wealth is carried by the MSFT price. The ranking itself lifts his media baseline and adds 2% to reputation.",
+        "zh": "财富由 MSFT 股价体现；榜单本身抬高了媒体热度基线，口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "The Harvard Crimson · Gates named richest in U.S. (1992-10-06)",
+          "url": "https://www.thecrimson.com/article/1992/10/6/gates-named-richest-in-us-pwilliam/",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · The World's Billionaires",
+          "url": "https://en.wikipedia.org/wiki/The_World%27s_Billionaires",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1995",
+      "p": "year",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "World's richest",
+        "zh": "世界首富"
+      },
+      "t": {
+        "en": "Forbes ranks him the world's richest person",
+        "zh": "被《福布斯》列为世界首富"
+      },
+      "summary": {
+        "en": "Forbes puts his fortune at $12.9 billion on its 1995 list and ranks him first among individuals worldwide. He holds or shares the top spot in most years through 2017.",
+        "zh": "《福布斯》1995 年榜单估算他的身家为 129 亿美元，在全球个人富豪中排名第一。此后直到 2017 年，他在多数年份占据榜首。"
+      },
+      "why": {
+        "en": "Wealth is carried by the MSFT price. \"The richest person in the world\" becomes his global label: reputation +2% and a much higher media baseline. Around now the model also starts a second holding for wealth outside Microsoft (Cascade Investment). Tallies differ on the first year at number one; some lists start it in 1997.",
+        "zh": "财富由 MSFT 股价体现；“世界首富”成为他的全球标签，口碑系数 +2%，媒体热度基线大幅抬升。模型也从这一时期开始单列微软之外的财富（Cascade Investment）。各榜单对他首次登顶的年份说法不一，有的从 1997 年算起。"
+      },
+      "fin": {
+        "en": "Second holding begins: diversified wealth outside Microsoft, an estimate",
+        "zh": "第二项持仓起算：微软之外的多元化财富（估算）"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Bill Gates",
+          "url": "https://en.wikipedia.org/wiki/Bill_Gates",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · The World's Billionaires",
+          "url": "https://en.wikipedia.org/wiki/The_World%27s_Billionaires",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Cascade Investment",
+          "url": "https://en.wikipedia.org/wiki/Cascade_Investment",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1995-05-26",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Tidal Wave memo",
+        "zh": "互联网浪潮备忘录"
+      },
+      "t": {
+        "en": "Writes \"The Internet Tidal Wave\" memo",
+        "zh": "写下《互联网浪潮》备忘录"
+      },
+      "summary": {
+        "en": "In a memo to his executives, Gates calls the internet the most important development since the IBM PC and orders every product group to put it first. Microsoft bundles its Internet Explorer browser with Windows soon after.",
+        "zh": "盖茨在给高管的备忘录里称，互联网是 IBM PC 之后最重要的变化，要求所有产品部门把它放在第一位。不久后微软把 IE 浏览器与 Windows 捆绑。"
+      },
+      "why": {
+        "en": "A fast strategic turn by a dominant company. The stock carries the business result; reputation gains 2% for the call. The same memo was later used as evidence in the antitrust trial.",
+        "zh": "行业霸主的一次快速转向。业务结果由股价体现，这次判断让口碑系数 +2%。这份备忘录后来也成了反垄断案的证据。"
+      },
+      "src": [
+        {
+          "name": "US Department of Justice · Trial exhibit: \"The Internet Tidal Wave\" memo",
+          "url": "https://www.justice.gov/sites/default/files/atr/legacy/2006/03/03/20.pdf",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · History of Microsoft",
+          "url": "https://en.wikipedia.org/wiki/History_of_Microsoft",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1995-08-24",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.03,
+      "s": {
+        "en": "Windows 95",
+        "zh": "Windows 95"
+      },
+      "t": {
+        "en": "Windows 95 launches as a worldwide event",
+        "zh": "Windows 95 发布，成为全球事件"
+      },
+      "summary": {
+        "en": "Windows 95 goes on sale with a huge marketing campaign and sells more than a million copies in its first four days.",
+        "zh": "Windows 95 在声势浩大的营销中上市，头四天就卖出一百多万份。"
+      },
+      "why": {
+        "en": "Sales are in the stock price. The launch makes Gates a household name well beyond the industry: reputation +3% and a jump in audience.",
+        "zh": "销量由股价反映；这次发布让盖茨的名字走出行业、家喻户晓，口碑系数 +3%，受众规模跃升。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Windows 95",
+          "url": "https://en.wikipedia.org/wiki/Windows_95",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · History of Microsoft",
+          "url": "https://en.wikipedia.org/wiki/History_of_Microsoft",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1998-05-18",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 5,
+      "rep": -0.04,
+      "s": {
+        "en": "US antitrust suit",
+        "zh": "美国反垄断诉讼"
+      },
+      "t": {
+        "en": "US government and 20 states sue Microsoft",
+        "zh": "美国司法部与 20 个州起诉微软"
+      },
+      "summary": {
+        "en": "The Justice Department, 20 states and the District of Columbia sue Microsoft, saying it used its Windows monopoly to crush rival browsers. The case shapes the next three years of Gates's working life.",
+        "zh": "美国司法部联合 20 个州和哥伦比亚特区起诉微软，指其利用 Windows 的垄断地位打压竞争对手的浏览器。此后三年，这场官司主导了盖茨的工作。"
+      },
+      "why": {
+        "en": "The legal risk is priced by the market. The damage to his personal image, from admired founder to accused monopolist, is not in the price, so reputation takes a 4% hit.",
+        "zh": "法律风险由市场定价；但他个人形象从受人敬仰的创始人变成被控垄断者，这部分股价看不到，口碑系数 -4%。"
+      },
+      "src": [
+        {
+          "name": "US Department of Justice · Complaint, U.S. v. Microsoft",
+          "url": "https://www.justice.gov/atr/complaint-us-v-microsoft-corp",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · United States v. Microsoft Corp.",
+          "url": "https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1998-08-27",
+      "p": "day",
+      "cat": "reputation",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.03,
+      "s": {
+        "en": "Deposition tapes",
+        "zh": "取证录像"
+      },
+      "t": {
+        "en": "Videotaped deposition in the antitrust case",
+        "zh": "在反垄断案中接受录像取证"
+      },
+      "summary": {
+        "en": "Gates gives a videotaped deposition. Clips played in court show him disputing the meaning of ordinary words and often saying he does not recall. Press accounts describe him as evasive.",
+        "zh": "盖茨接受录像取证。法庭上播放的片段里，他对一些普通词语的含义反复争辩，多次表示“不记得”，媒体形容他回避问题。"
+      },
+      "why": {
+        "en": "A pure reputation event that the share price did not register: reputation -3%.",
+        "zh": "纯声誉事件，股价没有反应：口碑系数 -3%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · United States v. Microsoft Corp.",
+          "url": "https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1999",
+      "p": "year",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "$100B peak",
+        "zh": "身家破千亿"
+      },
+      "t": {
+        "en": "Net worth briefly passes $100 billion",
+        "zh": "身家一度突破 1,000 亿美元"
+      },
+      "summary": {
+        "en": "At the height of the dot-com boom his fortune briefly passes $100 billion, the first time any person is reported to reach that level. In the same year he gives Microsoft shares worth about $16 billion to his foundation.",
+        "zh": "互联网泡沫最盛之时，他的身家一度突破 1,000 亿美元，是有报道以来第一个达到这一水平的人。同年他把价值约 160 亿美元的微软股票捐给了自己的基金会。"
+      },
+      "why": {
+        "en": "Entirely a share-price effect, so no reputation points. His ownership falls from about 21% to about 15% in the model as shares move to the foundation. Ownership figures are estimates from public filings.",
+        "zh": "完全是股价效应，不加口碑分。随着股票转入基金会，模型中的持股比例从约 21% 降到约 15%。持股比例为根据公开披露所做的估算。"
+      },
+      "fin": {
+        "en": "MSFT stake about $90 billion at the December 1999 peak, plus about $10 billion elsewhere",
+        "zh": "1999 年 12 月高点时微软持股约 900 亿美元，另有约 100 亿美元其他资产"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Bill Gates",
+          "url": "https://en.wikipedia.org/wiki/Bill_Gates",
+          "type": "wiki"
+        },
+        {
+          "name": "Fortune · Gates's $4.6 billion donation, largest since 2000",
+          "url": "https://fortune.com/2017/08/15/bill-gates-4-billion-donation-largest-since-2000/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · MSFT historical prices",
+          "url": "https://finance.yahoo.com/quote/MSFT/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2000",
+      "p": "year",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.05,
+      "s": {
+        "en": "Gates Foundation",
+        "zh": "盖茨基金会成立"
+      },
+      "t": {
+        "en": "The Bill & Melinda Gates Foundation takes shape",
+        "zh": "比尔及梅琳达·盖茨基金会成形"
+      },
+      "summary": {
+        "en": "The family's earlier charities, begun in 1994, are merged into one foundation focused on global health, development and US education. With the share gifts of 1999 and 2000 it becomes one of the largest private foundations in the world.",
+        "zh": "家族自 1994 年起设立的慈善机构合并为一家基金会，聚焦全球健康、发展和美国教育。加上 1999、2000 年捐入的股票，它成为全球最大的私人基金会之一。"
+      },
+      "why": {
+        "en": "Gifts lower financial capital, and the model shows that through falling ownership. What the price cannot see is the start of a second career in philanthropy: reputation +5%, released slowly.",
+        "zh": "捐赠会减少金融资本，模型通过持股比例下降来体现。股价看不到的是他慈善“第二职业”的开端：口碑系数 +5%，缓慢释放。"
+      },
+      "src": [
+        {
+          "name": "Gates Foundation · Our story",
+          "url": "https://www.gatesfoundation.org/about/our-story",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Gates Foundation",
+          "url": "https://en.wikipedia.org/wiki/Gates_Foundation",
+          "type": "wiki"
+        },
+        {
+          "name": "HistoryLink · Bill & Melinda Gates Foundation",
+          "url": "https://www.historylink.org/File/2908",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2000-01-13",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "Steps down as CEO",
+        "zh": "卸任 CEO"
+      },
+      "t": {
+        "en": "Hands the CEO job to Steve Ballmer",
+        "zh": "把 CEO 一职交给史蒂夫·鲍尔默"
+      },
+      "summary": {
+        "en": "After 25 years in charge, Gates makes Ballmer chief executive. He stays on as chairman and takes a new title, chief software architect.",
+        "zh": "执掌公司 25 年后，盖茨让鲍尔默出任首席执行官，自己留任董事长，并担任新设的“首席软件架构师”。"
+      },
+      "why": {
+        "en": "A planned handover in the middle of the antitrust fight. Markets priced it; no reputation change. The human-capital target is trimmed because he is no longer the operating chief.",
+        "zh": "反垄断案期间的一次有计划交接。市场已定价，口碑系数不变；由于不再担任一把手，人力资本目标值略降。"
+      },
+      "src": [
+        {
+          "name": "HistoryLink · Gates hands Microsoft leadership to Ballmer",
+          "url": "https://www.historylink.org/File/10426",
+          "type": "news"
+        },
+        {
+          "name": "CBS News · Gates gives up Microsoft helm",
+          "url": "https://www.cbsnews.com/news/gates-gives-up-microsoft-helm/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2000-06-07",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 4,
+      "rep": -0.02,
+      "s": {
+        "en": "Breakup ordered",
+        "zh": "法官下令拆分"
+      },
+      "t": {
+        "en": "Judge orders Microsoft split in two",
+        "zh": "法官下令将微软一分为二"
+      },
+      "summary": {
+        "en": "Judge Thomas Penfield Jackson had found on November 5, 1999 that Microsoft held a monopoly, and on April 3, 2000 that it broke antitrust law. He now orders the company divided into an operating-system business and an applications business.",
+        "zh": "托马斯·彭菲尔德·杰克逊法官先在 1999 年 11 月 5 日认定微软拥有垄断地位，又在 2000 年 4 月 3 日裁定其违反反垄断法，此时下令把公司拆成操作系统和应用软件两家企业。"
+      },
+      "why": {
+        "en": "The share price had already fallen hard that spring and carries the financial side. Reputation loses another 2% for the low point of the case.",
+        "zh": "股价在当年春天已大幅下跌，金融影响由股价体现；案件走到最低谷，口碑系数再 -2%。"
+      },
+      "src": [
+        {
+          "name": "US Department of Justice · Court's Findings of Fact",
+          "url": "https://www.justice.gov/atr/us-v-microsoft-courts-findings-fact",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · United States v. Microsoft Corp.",
+          "url": "https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2001-06-28",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Breakup overturned",
+        "zh": "拆分令被推翻"
+      },
+      "t": {
+        "en": "Appeals court throws out the breakup order",
+        "zh": "上诉法院推翻拆分令"
+      },
+      "summary": {
+        "en": "A federal appeals court reverses the order to split Microsoft, while upholding the finding that it illegally maintained a monopoly. The Justice Department drops its demand for a breakup in September and settles with the company in November 2001.",
+        "zh": "联邦上诉法院推翻了拆分微软的命令，但维持其非法维持垄断的认定。司法部 9 月放弃拆分要求，并于 2001 年 11 月与微软达成和解。"
+      },
+      "why": {
+        "en": "The company survives intact, which the stock reflects. Reputation recovers by 1%; the monopoly finding stands.",
+        "zh": "公司得以保全，由股价反映；口碑系数回升 1%，但垄断认定依然成立。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · United States v. Microsoft Corp.",
+          "url": "https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2006-06",
+      "p": "month",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.03,
+      "s": {
+        "en": "Buffett's pledge",
+        "zh": "巴菲特捐赠"
+      },
+      "t": {
+        "en": "Warren Buffett pledges most of his fortune to the foundation",
+        "zh": "沃伦·巴菲特承诺把大部分财富捐给基金会"
+      },
+      "summary": {
+        "en": "Buffett promises about 10 million Berkshire Hathaway class B shares to the Gates Foundation, paid in yearly installments. The same month Gates says he will move to full-time foundation work within two years.",
+        "zh": "巴菲特承诺向盖茨基金会捐出约 1,000 万股伯克希尔·哈撒韦 B 类股，按年分批交付。同月，盖茨宣布将在两年内转为全职从事基金会工作。"
+      },
+      "why": {
+        "en": "The gift is Buffett's money, not Gates's, so financial capital is unchanged. The world's second-richest person trusting him with his fortune is a strong endorsement: reputation +3%.",
+        "zh": "这笔捐赠是巴菲特的钱，不是盖茨的，金融资本不变。世界第二富豪把财富托付给他，是极强的背书：口碑系数 +3%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Gates Foundation",
+          "url": "https://en.wikipedia.org/wiki/Gates_Foundation",
+          "type": "wiki"
+        },
+        {
+          "name": "Microsoft · Plans for July 2008 transition for Bill Gates (2006-06-15)",
+          "url": "https://news.microsoft.com/2006/06/15/microsoft-announces-plans-for-july-2008-transition-for-bill-gates/",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2008-06-27",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "Leaves daily work",
+        "zh": "告别日常工作"
+      },
+      "t": {
+        "en": "Last full-time day at Microsoft",
+        "zh": "在微软的最后一个全职工作日"
+      },
+      "summary": {
+        "en": "Following the two-year plan announced in 2006, Gates ends his day-to-day role at Microsoft to work full time at the foundation. He remains chairman of the board.",
+        "zh": "按照 2006 年公布的两年过渡计划，盖茨结束在微软的日常工作，全职投入基金会，同时继续担任董事长。"
+      },
+      "why": {
+        "en": "A career change by choice. Future earning power from running a company falls, so the human-capital target is lowered; the move into full-time giving adds 2% to reputation.",
+        "zh": "主动选择的职业转换。经营企业带来的未来收入能力下降，人力资本目标值下调；全职做慈善让口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Microsoft · Plans for July 2008 transition for Bill Gates (2006-06-15)",
+          "url": "https://news.microsoft.com/2006/06/15/microsoft-announces-plans-for-july-2008-transition-for-bill-gates/",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Bill Gates",
+          "url": "https://en.wikipedia.org/wiki/Bill_Gates",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2010-06",
+      "p": "month",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.03,
+      "s": {
+        "en": "Giving Pledge",
+        "zh": "捐赠誓言"
+      },
+      "t": {
+        "en": "Launches the Giving Pledge with Warren Buffett",
+        "zh": "与巴菲特共同发起“捐赠誓言”"
+      },
+      "summary": {
+        "en": "Gates, Melinda French Gates and Buffett ask the world's richest people to commit at least half of their wealth to charity. By August 2010, 40 people have signed.",
+        "zh": "盖茨、梅琳达·弗伦奇·盖茨和巴菲特呼吁全球最富有的人承诺捐出至少一半财富。到 2010 年 8 月，已有 40 人签署。"
+      },
+      "why": {
+        "en": "No money changes hands, so this is reputation only: +3%. The pledge is a public promise, not a legal contract.",
+        "zh": "没有资金易手，只影响声誉：口碑系数 +3%。誓言是公开承诺，不具法律约束力。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · The Giving Pledge",
+          "url": "https://en.wikipedia.org/wiki/The_Giving_Pledge",
+          "type": "wiki"
+        },
+        {
+          "name": "The Giving Pledge · Official site",
+          "url": "https://givingpledge.org/",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2014-02-04",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Leaves chair role",
+        "zh": "卸任董事长"
+      },
+      "t": {
+        "en": "Gives up the chairman's seat as Satya Nadella becomes CEO",
+        "zh": "纳德拉出任 CEO，盖茨卸任董事长"
+      },
+      "summary": {
+        "en": "Microsoft names Satya Nadella chief executive. Gates leaves the chairman's role, stays on the board and becomes technology adviser to the new CEO.",
+        "zh": "微软任命萨提亚·纳德拉为首席执行官。盖茨卸任董事长，留任董事，并出任新 CEO 的技术顾问。"
+      },
+      "why": {
+        "en": "His MSFT stake is about 4% by now, so the stock's long rise under Nadella helps him less than it once would have. Small reputation gain for a smooth succession.",
+        "zh": "此时他持有的微软股份约为 4%，纳德拉时代股价的长期上涨对他的拉动已不如从前。交接平稳，口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "Microsoft · Board names Satya Nadella as CEO (2014-02-04)",
+          "url": "https://news.microsoft.com/2014/02/04/microsoft-board-names-satya-nadella-as-ceo",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · History of Microsoft",
+          "url": "https://en.wikipedia.org/wiki/History_of_Microsoft",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2015-11",
+      "p": "month",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Clean-energy fund",
+        "zh": "突破能源"
+      },
+      "t": {
+        "en": "Launches the Breakthrough Energy Coalition at the Paris climate talks",
+        "zh": "在巴黎气候大会上发起“突破能源联盟”"
+      },
+      "summary": {
+        "en": "Gates announces a group of 28 wealthy investors who will back early-stage clean-energy companies. A $1 billion venture fund follows in December 2016. He had already founded the nuclear-reactor developer TerraPower in 2006.",
+        "zh": "盖茨宣布由 28 位富有的投资者组成联盟，支持早期清洁能源企业；2016 年 12 月又成立了规模 10 亿美元的风险基金。此前他已在 2006 年创办核反应堆研发公司 TerraPower。"
+      },
+      "why": {
+        "en": "These are private investments inside his non-Microsoft wealth; no separate value is modeled because none is published. Reputation +2% for a second public cause beyond health.",
+        "zh": "这些属于他微软之外的私人投资，因为没有公开估值，模型不单独计价。在健康之外多了第二项公共事业，口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Breakthrough Energy",
+          "url": "https://en.wikipedia.org/wiki/Breakthrough_Energy",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · TerraPower",
+          "url": "https://en.wikipedia.org/wiki/TerraPower",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2017-06-06",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 0,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "$4.6B share gift",
+        "zh": "捐出 46 亿美元"
+      },
+      "t": {
+        "en": "Gives away 64 million Microsoft shares",
+        "zh": "捐出 6,400 万股微软股票"
+      },
+      "summary": {
+        "en": "A securities filing made public in August shows Gates donated 64 million Microsoft shares, worth about $4.6 billion, his largest gift since 2000. It cuts his stake to about 1.3%.",
+        "zh": "8 月公开的证券申报文件显示，盖茨捐出 6,400 万股微软股票，价值约 46 亿美元，是他 2000 年以来最大的一笔捐赠，持股比例由此降到约 1.3%。"
+      },
+      "why": {
+        "en": "Financial capital falls by the size of the gift; the model shows it as ownership sliding from about 2.5% to 1.3%. A small reputation gain.",
+        "zh": "金融资本按捐赠规模减少，模型体现为持股比例从约 2.5% 降到 1.3%；口碑系数小幅 +1%。"
+      },
+      "fin": {
+        "en": "MSFT ownership: about 2.5% → 1.3%",
+        "zh": "微软持股比例：约 2.5% → 1.3%"
+      },
+      "src": [
+        {
+          "name": "GeekWire · Gates's Microsoft ownership dips with $4.6B stock gift",
+          "url": "https://www.geekwire.com/2017/bill-gates-microsoft-ownership-dips-below-2-with-4-6b-stock-gift/",
+          "type": "news"
+        },
+        {
+          "name": "Fortune · Gates's $4.6 billion donation, largest since 2000",
+          "url": "https://fortune.com/2017/08/15/bill-gates-4-billion-donation-largest-since-2000/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2020-03-13",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Leaves the board",
+        "zh": "退出董事会"
+      },
+      "t": {
+        "en": "Steps down from the Microsoft and Berkshire Hathaway boards",
+        "zh": "退出微软和伯克希尔·哈撒韦董事会"
+      },
+      "summary": {
+        "en": "Microsoft announces that Gates is leaving its board to spend more time on philanthropy, while staying on as a technology adviser. He leaves the Berkshire Hathaway board at the same time.",
+        "zh": "微软宣布盖茨退出董事会，以便把更多时间投入慈善，同时继续担任技术顾问。他同时退出了伯克希尔·哈撒韦董事会。"
+      },
+      "why": {
+        "en": "The end of his formal role at the company he founded 45 years earlier. No financial effect and no reputation score.",
+        "zh": "他与 45 年前创办的这家公司的正式任职关系到此结束。没有金融影响，不计口碑分。"
+      },
+      "src": [
+        {
+          "name": "Microsoft · Change to its board of directors (2020-03-13)",
+          "url": "https://news.microsoft.com/2020/03/13/microsoft-announces-change-to-its-board-of-directors/",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2020-04",
+      "p": "month",
+      "cat": "reputation",
+      "dir": 0,
+      "mag": 4,
+      "rep": 0.01,
+      "s": {
+        "en": "Pandemic spotlight",
+        "zh": "疫情中的焦点"
+      },
+      "t": {
+        "en": "Pandemic makes him a leading public-health voice and a conspiracy target",
+        "zh": "疫情让他成为公共卫生领域的重要声音，也成为阴谋论的靶子"
+      },
+      "summary": {
+        "en": "His 2015 TED talk warning that the world was not ready for an epidemic is watched tens of millions of times, and the foundation commits large sums to vaccines, tests and treatments. At the same time false claims spread widely online, including that he planned to implant microchips through vaccines. A YouGov poll cited by the BBC in May 2020 found 28% of Americans believed it.",
+        "zh": "他 2015 年在 TED 上警告世界尚未做好应对疫情准备的演讲被观看数千万次，基金会为疫苗、检测和治疗投入巨资。与此同时，关于他的虚假说法在网上广泛流传，例如称他计划借疫苗植入芯片。BBC 在 2020 年 5 月引用的 YouGov 民调显示，28% 的美国人相信这一说法。"
+      },
+      "why": {
+        "en": "Attention rises sharply, in both directions. The model raises the media baseline and audience, and gives a net reputation change of only +1% because the gains among some groups are offset by distrust among others.",
+        "zh": "关注度急剧上升，而且是两个方向同时上升。模型上调媒体热度基线和受众规模；由于一部分人的认可被另一部分人的不信任抵消，口碑系数净变化只有 +1%。"
+      },
+      "src": [
+        {
+          "name": "BBC News · Gates 'microchip' conspiracy theory and other vaccine claims fact-checked",
+          "url": "https://www.bbc.com/news/52847648",
+          "type": "news"
+        },
+        {
+          "name": "TED · Bill Gates: The next outbreak? We're not ready (2015)",
+          "url": "https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · COVID-19 misinformation",
+          "url": "https://en.wikipedia.org/wiki/COVID-19_misinformation",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2021-05-03",
+      "p": "day",
+      "cat": "wealth",
+      "dir": -1,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "Divorce announced",
+        "zh": "宣布离婚"
+      },
+      "t": {
+        "en": "Divorce announced; billions in shares transferred",
+        "zh": "宣布离婚，数十亿美元股票过户"
+      },
+      "summary": {
+        "en": "Bill Gates and Melinda French Gates announce their divorce, which is finalized on August 2, 2021. The settlement terms are confidential. Securities filings show that his investment firm, Cascade, transferred shares in companies including Canadian National Railway, AutoNation and Deere to her; Bloomberg put the total at about $5.7 billion by August 2021.",
+        "zh": "比尔·盖茨与梅琳达·弗伦奇·盖茨宣布离婚，2021 年 8 月 2 日完成法律程序，财产分割条款未公开。证券申报文件显示，他的投资公司 Cascade 把加拿大国家铁路、AutoNation、迪尔等公司的股票过户给了她；彭博社统计，到 2021 年 8 月合计约 57 亿美元。"
+      },
+      "why": {
+        "en": "Only the public financial facts are modeled. The estimate of his non-Microsoft wealth is net of the disclosed transfers; the full settlement is not public, so this is an approximation. No reputation score.",
+        "zh": "模型只记录公开的财务事实：微软之外的财富估值已扣除披露的过户部分；完整的分割方案未公开，因此只是近似值。不计口碑分。"
+      },
+      "fin": {
+        "en": "Disclosed share transfers of about $5.7 billion, taken out of the non-Microsoft holding",
+        "zh": "已披露的股票过户约 57 亿美元，从微软以外的持仓中扣除"
+      },
+      "src": [
+        {
+          "name": "SEC EDGAR · Schedule 13D/A, Canadian National (Cascade, May 2021)",
+          "url": "https://www.sec.gov/Archives/edgar/data/16868/000110465921061095/a21-15143_1sc13da.htm",
+          "type": "filing"
+        },
+        {
+          "name": "SEC EDGAR · Schedule 13D/A, AutoNation (Cascade, May 2021)",
+          "url": "https://www.sec.gov/Archives/edgar/data/350698/000110465921061099/a21-15143_2sc13da.htm",
+          "type": "filing"
+        },
+        {
+          "name": "SEC EDGAR · Schedule 13D/A, AutoNation (Cascade, August 2021)",
+          "url": "https://www.sec.gov/Archives/edgar/data/350698/000110465921101481/a21-24355_3sc13da.htm",
+          "type": "filing"
+        },
+        {
+          "name": "Bloomberg · Melinda French Gates now owns $5.7 billion in stock post-divorce (2021-08-06)",
+          "url": "https://www.bloomberg.com/news/articles/2021-08-06/bill-gates-s-cascade-transfers-1-billion-of-canadian-national",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Bill Gates",
+          "url": "https://en.wikipedia.org/wiki/Bill_Gates",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2022-07-13",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 0,
+      "mag": 4,
+      "rep": 0.03,
+      "s": {
+        "en": "$20B to foundation",
+        "zh": "再捐 200 亿"
+      },
+      "t": {
+        "en": "Moves $20 billion to the foundation's endowment",
+        "zh": "向基金会捐赠基金注入 200 亿美元"
+      },
+      "summary": {
+        "en": "Gates announces a $20 billion gift so the foundation can raise its yearly spending to $9 billion by 2026. He writes that he expects to drop down and eventually off the list of the world's richest people.",
+        "zh": "盖茨宣布捐出 200 亿美元，让基金会在 2026 年前把年度支出提高到 90 亿美元。他写道，自己在富豪榜上的排名会不断下降，最终退出榜单。"
+      },
+      "why": {
+        "en": "Financial capital falls by about $20 billion: the model lowers both his Microsoft ownership (to under 1%) and the non-Microsoft holding. Forbes cut its estimate from $129 billion in March to $106 billion that autumn. Reputation +3%.",
+        "zh": "金融资本减少约 200 亿美元：模型同时下调微软持股比例（降到 1% 以下）和微软以外的持仓。《福布斯》的估值从 3 月的 1,290 亿美元降到当年秋天的 1,060 亿美元。口碑系数 +3%。"
+      },
+      "fin": {
+        "en": "Total: about $129 billion → about $106 billion",
+        "zh": "合计：约 1,290 亿美元 → 约 1,060 亿美元"
+      },
+      "src": [
+        {
+          "name": "Fortune · Record $20 billion donation to the Gates Foundation",
+          "url": "https://fortune.com/2022/07/13/bill-melinda-gates-foundation-20-billion-record-donation-warren-buffett/",
+          "type": "news"
+        },
+        {
+          "name": "Chronicle of Philanthropy · Bill Gates gives $20 billion",
+          "url": "https://www.philanthropy.com/article/bill-gates-gives-20-billion-and-plans-to-nearly-double-foundations-annual-giving",
+          "type": "news"
+        },
+        {
+          "name": "Forbes · Bill Gates profile (real-time net worth)",
+          "url": "https://www.forbes.com/profile/bill-gates/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2024-05-13",
+      "p": "day",
+      "cat": "wealth",
+      "dir": -1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "$12.5B commitment",
+        "zh": "125 亿美元承诺"
+      },
+      "t": {
+        "en": "Melinda French Gates leaves the foundation with $12.5 billion for her own giving",
+        "zh": "梅琳达·弗伦奇·盖茨离开基金会，获得 125 亿美元用于自己的慈善事业"
+      },
+      "summary": {
+        "en": "French Gates resigns as co-chair, effective June 7, and says that under her agreement with Gates she will have $12.5 billion for her own philanthropic work. The foundation says it will be renamed the Gates Foundation with Bill Gates as sole chair. A tax filing reported in January 2026 shows $7.9 billion went to her foundation in late 2024.",
+        "zh": "弗伦奇·盖茨辞去联席主席职务，6 月 7 日生效，并表示根据她与盖茨的协议，将有 125 亿美元用于她自己的慈善工作。基金会宣布将更名为“盖茨基金会”，由比尔·盖茨单独担任主席。2026 年 1 月披露的税务文件显示，其中 79 亿美元已在 2024 年底转入她的基金会。"
+      },
+      "why": {
+        "en": "A public financial commitment out of his fortune. Forbes's estimate fell from $128 billion in early 2024 to $107 billion that autumn, and the non-Microsoft holding is lowered to match. No reputation score.",
+        "zh": "这是一项出自他个人财富的公开财务承诺。《福布斯》的估值从 2024 年初的 1,280 亿美元降到当年秋天的 1,070 亿美元，模型相应下调微软以外的持仓。不计口碑分。"
+      },
+      "fin": {
+        "en": "Non-Microsoft holding: about $99 billion → about $78 billion",
+        "zh": "微软以外的持仓：约 990 亿美元 → 约 780 亿美元"
+      },
+      "src": [
+        {
+          "name": "Gates Foundation · Statement from CEO Mark Suzman about Melinda French Gates (2024-05-13)",
+          "url": "https://www.gatesfoundation.org/ideas/media-center/press-releases/2024/05/melinda-french-gates",
+          "type": "filing"
+        },
+        {
+          "name": "Fortune · Gates transferred $7.9 billion to French Gates's foundation",
+          "url": "https://fortune.com/2026/01/09/bill-gates-donated-record-8-billion-to-melinda-french-gates-foundation-as-part-of-their-divorce-settlement/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2025-02-04",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "Memoir published",
+        "zh": "出版回忆录"
+      },
+      "t": {
+        "en": "Publishes the memoir \"Source Code\"",
+        "zh": "出版回忆录《源代码》"
+      },
+      "summary": {
+        "en": "The first of three planned memoirs covers his childhood, Lakeside, Harvard and the founding of Microsoft.",
+        "zh": "这是计划中三部回忆录的第一部，讲述他的童年、湖滨中学、哈佛岁月和微软的创立。"
+      },
+      "why": {
+        "en": "Book income is negligible at this scale. A small reputation gain from telling the origin story in his own words.",
+        "zh": "以他的财富规模，版税可以忽略；亲自讲述起点故事，口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Source Code (memoir)",
+          "url": "https://en.wikipedia.org/wiki/Source_Code_(memoir)",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2025-05-08",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.05,
+      "s": {
+        "en": "2045 wind-down",
+        "zh": "2045 年关门计划"
+      },
+      "t": {
+        "en": "Pledges to give away almost all his wealth and close the foundation in 2045",
+        "zh": "承诺捐出几乎全部财富，基金会 2045 年关闭"
+      },
+      "summary": {
+        "en": "On the foundation's 25th anniversary Gates says he will give virtually all of his wealth through it over the next 20 years. The foundation plans to spend more than $200 billion, twice what it gave in its first 25 years, and to shut down on December 31, 2045. He puts his own net worth at about $108 billion.",
+        "zh": "在基金会成立 25 周年之际，盖茨表示将在未来 20 年里通过基金会捐出几乎全部财富。基金会计划支出 2,000 多亿美元，是前 25 年的两倍，并在 2045 年 12 月 31 日关闭。他自己估算的身家约为 1,080 亿美元。"
+      },
+      "why": {
+        "en": "A promise about future gifts, so financial capital does not move on the day; later transfers will lower it as they happen. It sets an end date on the whole project: reputation +5%.",
+        "zh": "这是对未来捐赠的承诺，当天金融资本不变，今后每笔捐出时再相应下调。它给整个事业定下了终点日期：口碑系数 +5%。"
+      },
+      "src": [
+        {
+          "name": "Gates Foundation · Foundation will double spending over next 20 years (2025-05-08)",
+          "url": "https://www.gatesfoundation.org/ideas/media-center/press-releases/2025/05/25th-anniversary-announcement",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Gates Foundation",
+          "url": "https://en.wikipedia.org/wiki/Gates_Foundation",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2025-07",
+      "p": "month",
+      "cat": "wealth",
+      "dir": 0,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Bloomberg recount",
+        "zh": "彭博重估身家"
+      },
+      "t": {
+        "en": "Bloomberg cuts its estimate of his fortune by about $52 billion",
+        "zh": "彭博社把他的身家估值下调约 520 亿美元"
+      },
+      "summary": {
+        "en": "The Bloomberg Billionaires Index changes how it accounts for his giving and lowers its figure from about $175 billion to about $124 billion. He falls from 5th to 12th, behind his former deputy Steve Ballmer.",
+        "zh": "彭博亿万富豪指数调整了对其捐赠的计算方法，把估值从约 1,750 亿美元下调到约 1,240 亿美元。他的排名从第 5 位降到第 12 位，落在昔日副手史蒂夫·鲍尔默之后。"
+      },
+      "why": {
+        "en": "A change in measurement, not a loss. This model already tracked the lower Forbes figures, so nothing moves; the event is here to explain why published numbers disagreed.",
+        "zh": "这是统计口径的调整，不是亏损。本模型原本就按较低的《福布斯》数字校准，因此没有变动；收录此事件是为了说明各家公布的数字为何不一致。"
+      },
+      "src": [
+        {
+          "name": "Fortune · Gates's net worth recalculated, now behind Ballmer",
+          "url": "https://fortune.com/2025/07/08/billionaire-bill-gates-billionaire-poorer-than-microsoft-assistant-steve-ballmer-net-worth-philanthropy/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2025-10-28",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 0,
+      "mag": 3,
+      "rep": -0.01,
+      "s": {
+        "en": "Climate memo",
+        "zh": "气候备忘录"
+      },
+      "t": {
+        "en": "Climate memo argues against a \"doomsday\" outlook",
+        "zh": "发表气候备忘录，反对“末日论”"
+      },
+      "summary": {
+        "en": "Before the COP30 climate summit, Gates writes that climate change is serious but will not end civilization, and that more money should go to health and poverty. Several climate scientists criticize the memo; President Trump cites it as a win, which Gates calls a misreading.",
+        "zh": "在 COP30 气候峰会前，盖茨撰文称气候变化是严重问题，但不会终结文明，应把更多资金投向健康和减贫。多位气候科学家提出批评；特朗普总统把它说成自己的胜利，盖茨称这是误读。"
+      },
+      "why": {
+        "en": "A contested position with support and criticism on both sides. The model books a small net reputation loss of 1% for the backlash among former allies.",
+        "zh": "这一立场引发争议，支持与批评并存。考虑到昔日盟友的反弹，模型记口碑系数净 -1%。"
+      },
+      "src": [
+        {
+          "name": "PBS NewsHour · Gates calls for climate fight to shift focus",
+          "url": "https://www.pbs.org/newshour/science/bill-gates-calls-for-climate-fight-to-shift-focus-from-curbing-emissions-to-reducing-human-suffering",
+          "type": "news"
+        },
+        {
+          "name": "Axios · How Bill Gates is reframing the climate change debate",
+          "url": "https://www.axios.com/2025/10/30/bill-gates-climate-change-warning",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-02-19",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 4,
+      "rep": -0.04,
+      "s": {
+        "en": "Epstein scrutiny",
+        "zh": "爱泼斯坦文件风波"
+      },
+      "t": {
+        "en": "Cancels India summit keynote amid scrutiny of his Epstein contacts",
+        "zh": "因与爱泼斯坦往来受到审视，取消印度峰会主旨演讲"
+      },
+      "summary": {
+        "en": "After the US Justice Department releases more files on Jeffrey Epstein, Gates withdraws from his keynote at India's AI Impact Summit; the foundation says this is to keep the focus on the summit. On February 24 he tells foundation staff that spending time with Epstein was a huge mistake and apologizes, while saying he did nothing illicit and saw nothing illicit. He has not been accused of a crime.",
+        "zh": "美国司法部公布更多杰弗里·爱泼斯坦相关文件后，盖茨取消了在印度人工智能影响力峰会上的主旨演讲；基金会表示此举是为了让峰会聚焦自身议题。2 月 24 日，他对基金会员工说，与爱泼斯坦来往是一个巨大的错误并为此道歉，同时表示自己没有做过、也没有见到任何不法之事。他未被指控任何罪行。"
+      },
+      "why": {
+        "en": "Recorded from his own statements and the foundation's. No financial effect. A serious hit to public standing that no price can show: reputation -4%.",
+        "zh": "根据他本人和基金会的公开表态记录。没有金融影响；这是任何价格都反映不出的公众形象重创：口碑系数 -4%。"
+      },
+      "src": [
+        {
+          "name": "NBC News · Gates pulls out of India AI summit amid Epstein scrutiny",
+          "url": "https://www.nbcnews.com/world/asia/bill-gates-india-ai-summit-epstein-rcna259865",
+          "type": "news"
+        },
+        {
+          "name": "KUOW · Gates apologizes to foundation staff for Epstein ties",
+          "url": "https://www.kuow.org/stories/bill-gates-does-damage-control-at-his-foundation-apologizing-to-staff-for-epstein-ties",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-03-04",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Reactor permit",
+        "zh": "核反应堆获批"
+      },
+      "t": {
+        "en": "TerraPower wins a US construction permit for its first reactor",
+        "zh": "TerraPower 首座反应堆获美国建设许可"
+      },
+      "summary": {
+        "en": "The Nuclear Regulatory Commission approves construction of TerraPower's Natrium plant in Kemmerer, Wyoming, the first such permit it has given to a commercial reactor that is not water-cooled. Gates, the company's founder and chairman, had broken ground at the site on June 10, 2024.",
+        "zh": "美国核管理委员会批准 TerraPower 在怀俄明州凯默勒建设 Natrium 核电站，这是该机构首次向非水冷的商用反应堆发放此类许可。作为公司创始人和董事长，盖茨曾在 2024 年 6 月 10 日出席该项目的动工仪式。"
+      },
+      "why": {
+        "en": "TerraPower is private and publishes no valuation, so the model does not mark his stake up. Reputation +1% for a twenty-year bet reaching a real milestone.",
+        "zh": "TerraPower 是未上市公司，没有公开估值，模型不上调他的持股价值。一场押了二十年的赌注迎来实质进展，口碑系数 +1%。"
+      },
+      "src": [
+        {
+          "name": "American Nuclear Society · NRC approves TerraPower construction permit (2026-03-04)",
+          "url": "https://www.ans.org/news/2026-03-04/article-7818/nrc-approves-terrapower-construction-permit/",
+          "type": "news"
+        },
+        {
+          "name": "TerraPower · NRC approves the Natrium reactor construction permit",
+          "url": "https://www.terrapower.com/NRC-Approves-Natrium-Reactor-Construction-Permit",
+          "type": "filing"
+        },
+        {
+          "name": "TerraPower · Begins construction on advanced nuclear project in Wyoming (2024-06-10)",
+          "url": "https://www.terrapower.com/terrapower-begins-construction-in-wyoming",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2026-06-10",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.02,
+      "s": {
+        "en": "House interview",
+        "zh": "国会问询"
+      },
+      "t": {
+        "en": "Questioned by the House Oversight Committee about Epstein",
+        "zh": "就爱泼斯坦一事接受众议院监督委员会问询"
+      },
+      "summary": {
+        "en": "Gates gives a voluntary, closed-door interview to the committee; the transcript is published on June 23. He calls meeting Epstein a grave error in judgment, says the contact began in 2011 over a proposed global-health fund that was never created, and denies any wrongdoing.",
+        "zh": "盖茨自愿接受该委员会的闭门问询，笔录于 6 月 23 日公布。他称与爱泼斯坦会面是严重的判断失误，说双方 2011 年因一项拟议中的全球健康基金开始接触，而该基金最终没有设立，并否认有任何不当行为。"
+      },
+      "why": {
+        "en": "Summarized from the published transcript, using his own account. No financial effect; continued scrutiny costs another 2% of reputation.",
+        "zh": "根据已公布的笔录、按他本人的陈述概括。没有金融影响；持续受到审视，口碑系数再 -2%。"
+      },
+      "src": [
+        {
+          "name": "House Oversight Committee · Releases Gates and Groff transcripts (2026-06-23)",
+          "url": "https://oversight.house.gov/release/oversight-committee-releases-gates-and-groff-transcripts/",
+          "type": "filing"
+        },
+        {
+          "name": "PBS NewsHour · House transcripts of Gates and Groff interviews",
+          "url": "https://www.pbs.org/newshour/politics/read-the-house-transcripts-of-bill-gates-and-lesley-groffs-interviews-in-epstein-probe",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-07-14",
+      "p": "day",
+      "cat": "reputation",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.02,
+      "s": {
+        "en": "Buffett withholds",
+        "zh": "巴菲特暂停捐赠"
+      },
+      "t": {
+        "en": "Warren Buffett leaves the Gates Foundation out of his annual gifts",
+        "zh": "巴菲特的年度捐赠没有包含盖茨基金会"
+      },
+      "summary": {
+        "en": "Buffett gives about $6 billion in Berkshire Hathaway shares to four family foundations and nothing to the Gates Foundation, which had received a gift from him every year since 2006. He is reported to be waiting for the result of an outside legal review of the foundation's links to Epstein.",
+        "zh": "巴菲特向四家家族基金会捐出约 60 亿美元的伯克希尔·哈撒韦股票，却没有给盖茨基金会；自 2006 年起他每年都向该基金会捐赠。据报道，他在等待外部律师对基金会与爱泼斯坦关联的审查结果。"
+      },
+      "why": {
+        "en": "The gifts were never Gates's money, so financial capital is unchanged. Losing his best-known backer, at least for now, costs 2% of reputation.",
+        "zh": "这些捐赠从来不是盖茨的钱，金融资本不变。最知名的支持者至少暂时离场，口碑系数 -2%。"
+      },
+      "src": [
+        {
+          "name": "PBS NewsHour / AP · Buffett omits gift to Gates's foundation (2026-07-14)",
+          "url": "https://www.pbs.org/newshour/nation/buffett-omits-gift-to-bill-gates-foundation-after-microsoft-cofounders-epstein-ties-disclosed",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Gates Foundation",
+          "url": "https://en.wikipedia.org/wiki/Gates_Foundation",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2026-08-26",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 0,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "AI warning essay",
+        "zh": "AI 长文"
+      },
+      "t": {
+        "en": "Publishes the essay \"The turbulent AI era is here\"",
+        "zh": "发表长文《动荡的 AI 时代已经到来》"
+      },
+      "summary": {
+        "en": "In a long essay Gates says the world has no plan for the disruption AI will bring. He names job losses, misuse by bad actors and over-reliance on AI companions as the main risks, and proposes taxes on AI usage and some work reserved for humans.",
+        "zh": "盖茨在长文中说，世界对 AI 将带来的冲击毫无准备。他列出的主要风险是失业、被坏人滥用和对 AI 伴侣的过度依赖，并提议对 AI 的使用征税、为人类保留一部分工作。"
+      },
+      "why": {
+        "en": "An opinion piece with mixed reactions. It keeps him in the technology debate: reputation +1%.",
+        "zh": "一篇反响不一的观点文章，让他继续留在科技议题的讨论中：口碑系数 +1%。"
+      },
+      "src": [
+        {
+          "name": "CTV News · Gates warns world unprepared for AI upheaval",
+          "url": "https://www.ctvnews.ca/sci-tech/article/bill-gates-warns-world-unprepared-for-ai-upheaval/",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Bill Gates",
+          "url": "https://en.wikipedia.org/wiki/Bill_Gates",
+          "type": "wiki"
+        }
+      ]
+    }
+  ]
+}

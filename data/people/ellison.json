@@ -1,0 +1,1662 @@
+{
+  "id": "ellison",
+  "name": {
+    "en": "Larry Ellison",
+    "zh": "拉里·埃里森"
+  },
+  "ticker": "LJE",
+  "born": "1944-08-17",
+  "color": "#FF9EC4",
+  "initials": "LE",
+  "tagline": {
+    "en": "Twice a dropout, briefly the world's richest, still betting big at 82",
+    "zh": "两度辍学，一度登顶世界首富，82 岁仍在重仓下注"
+  },
+  "tags": [
+    {
+      "en": "Oracle co-founder",
+      "zh": "甲骨文联合创始人"
+    },
+    {
+      "en": "Databases",
+      "zh": "数据库"
+    },
+    {
+      "en": "AI cloud",
+      "zh": "AI 云"
+    },
+    {
+      "en": "Lanai",
+      "zh": "拉奈岛"
+    }
+  ],
+  "privates": [
+    {
+      "label": {
+        "en": "Pre-IPO Oracle equity + personal savings",
+        "zh": "甲骨文上市前股权 + 个人储蓄"
+      },
+      "until": "1986-03-11",
+      "anchors": [
+        ["1966", 2000],
+        ["1973", 15000],
+        ["1977-06-16", 20000],
+        ["1979", 300000],
+        ["1982", 5000000],
+        ["1984", 25000000],
+        ["1985-06", 50000000],
+        ["1986-03-11", 88000000]
+      ]
+    },
+    {
+      "label": {
+        "en": "Wealth outside Oracle: Tesla stake, Lanai and other real estate, cash (estimate, net of loans)",
+        "zh": "甲骨文以外的财富：特斯拉持股、拉奈岛等房产、现金（估算，已扣除借款）"
+      },
+      "from": "1986-03-12",
+      "anchors": [
+        ["1986-03-12", 1000000],
+        ["1995", 100000000],
+        ["2001-02", 1200000000],
+        ["2005", 1500000000],
+        ["2010", 3000000000],
+        ["2014", 6000000000],
+        ["2016-11", 10000000000],
+        ["2018-12", 12000000000],
+        ["2020-12", 22000000000],
+        ["2021-11", 30000000000],
+        ["2022-12", 16000000000],
+        ["2024-12", 26000000000],
+        ["2026-02", 30000000000],
+        ["2026-11", 23000000000]
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "sym": "ORCL",
+      "label": {
+        "en": "Oracle stake",
+        "zh": "甲骨文持股"
+      },
+      "from": "1986-03-12",
+      "own": [
+        ["1986-03", 0.34],
+        ["2000", 0.24],
+        ["2010-06", 0.233],
+        ["2014-06", 0.25],
+        ["2018-06", 0.287],
+        ["2019-06", 0.345],
+        ["2020-06", 0.378],
+        ["2021-06", 0.415],
+        ["2022-06", 0.43],
+        ["2024-06", 0.416],
+        ["2025-06", 0.412],
+        ["2025-12", 0.403],
+        ["2026-06", 0.402],
+        ["2026-09", 0.383],
+        ["2026-11", 0.373]
+      ],
+      "shares": [
+        ["1986-03", 5600000000],
+        ["1990", 5500000000],
+        ["1995", 5850000000],
+        ["2000", 5650000000],
+        ["2004", 5200000000],
+        ["2008", 5150000000],
+        ["2010-06", 5026000000],
+        ["2012-06", 4883000000],
+        ["2014-06", 4455000000],
+        ["2016-06", 4123000000],
+        ["2018-06", 3981000000],
+        ["2019-06", 3336000000],
+        ["2020-06", 3069000000],
+        ["2021-06", 2792000000],
+        ["2022-06", 2665000000],
+        ["2024-06", 2756000000],
+        ["2025-06", 2809000000],
+        ["2025-12", 2873000000],
+        ["2026-06", 2880000000],
+        ["2026-09", 3024000000],
+        ["2026-11", 3110000000]
+      ]
+    }
+  ],
+  "human": [
+    ["1944-08-17", 300000],
+    ["1962", 400000],
+    ["1966", 600000],
+    ["1973", 1000000],
+    ["1977-06-16", 3000000],
+    ["1986-03", 15000000],
+    ["1995", 30000000],
+    ["2000", 80000000],
+    ["2005", 100000000],
+    ["2010", 200000000],
+    ["2025", 300000000],
+    ["2026-11", 250000000]
+  ],
+  "audience": [
+    ["1944-08-17", 0],
+    ["1977", 100],
+    ["1986", 5000],
+    ["1990", 20000],
+    ["1995", 100000],
+    ["2000", 500000],
+    ["2010", 800000],
+    ["2013", 1200000],
+    ["2020", 1500000],
+    ["2024", 2500000],
+    ["2025-09", 6000000],
+    ["2026-11", 7000000]
+  ],
+  "media": [
+    ["1944-08-17", 0],
+    ["1977", 0.05],
+    ["1986", 0.5],
+    ["1990", 1.5],
+    ["1995", 4],
+    ["2000", 10],
+    ["2003", 8],
+    ["2010", 9],
+    ["2014", 7],
+    ["2020", 8],
+    ["2024", 12],
+    ["2025-01", 20],
+    ["2025-09", 35],
+    ["2026-11", 35]
+  ],
+  "chapters": [
+    {
+      "from": "1944-08-17",
+      "t": {
+        "en": "Chicago Boyhood",
+        "zh": "芝加哥少年"
+      },
+      "desc": {
+        "en": "Born in New York, adopted as a baby and raised on Chicago's South Side; leaves two universities without a degree",
+        "zh": "生于纽约，婴儿时被收养，在芝加哥南区长大；先后从两所大学退学"
+      }
+    },
+    {
+      "from": "1966",
+      "t": {
+        "en": "Valley Programmer",
+        "zh": "硅谷程序员"
+      },
+      "desc": {
+        "en": "Moves to California, writes code for a living and works at Ampex on a CIA database code-named Oracle",
+        "zh": "搬到加州靠写代码谋生，在 Ampex 参与代号「Oracle」的 CIA 数据库项目"
+      }
+    },
+    {
+      "from": "1977-06-16",
+      "t": {
+        "en": "Building Oracle",
+        "zh": "打造甲骨文"
+      },
+      "desc": {
+        "en": "A $2,000 startup becomes a public company, then nearly collapses in 1990 under its own sales practices",
+        "zh": "2,000 美元起家的小公司一路上市，却在 1990 年被自己的销售做法拖到崩溃边缘"
+      }
+    },
+    {
+      "from": "1992",
+      "t": {
+        "en": "Comeback and Bubble",
+        "zh": "翻身与泡沫"
+      },
+      "desc": {
+        "en": "Oracle7 and new managers rebuild the company; the dot-com boom briefly puts him ahead of Bill Gates, then the crash takes most of it back",
+        "zh": "Oracle7 和新管理层让公司重回正轨；互联网泡沫中一度超过盖茨，随后崩盘吐回大半"
+      }
+    },
+    {
+      "from": "2003-06",
+      "t": {
+        "en": "Takeover Years",
+        "zh": "并购年代"
+      },
+      "desc": {
+        "en": "PeopleSoft, Sun and dozens more are bought; he wins the America's Cup twice and buys the island of Lanai",
+        "zh": "先后吞下仁科、Sun 等数十家公司；两夺美洲杯，买下拉奈岛"
+      }
+    },
+    {
+      "from": "2014-09-18",
+      "t": {
+        "en": "Chairman and CTO",
+        "zh": "董事长兼 CTO"
+      },
+      "desc": {
+        "en": "Hands over the CEO title, keeps control; buybacks lift his stake toward 40% while Oracle turns to the cloud",
+        "zh": "交出 CEO 头衔但仍掌舵；回购把他的持股推向 40%，甲骨文转向云计算"
+      }
+    },
+    {
+      "from": "2025-01-21",
+      "t": {
+        "en": "AI Peak and Slide",
+        "zh": "AI 巅峰与回落"
+      },
+      "desc": {
+        "en": "Stargate and a record one-day jump make him the world's richest for a few hours; debt-funded data centers and a media empire then weigh on the fortune",
+        "zh": "「星际之门」和创纪录的单日暴涨让他当了几小时世界首富；随后举债建数据中心和媒体帝国拖累了身家"
+      }
+    }
+  ],
+  "events": [
+    {
+      "d": "1944-08-17",
+      "p": "day",
+      "cat": "origin",
+      "dir": 0,
+      "mag": 1,
+      "rep": 0,
+      "s": {
+        "en": "Born in New York",
+        "zh": "生于纽约"
+      },
+      "t": {
+        "en": "Born in New York City, raised in Chicago",
+        "zh": "出生于纽约，在芝加哥长大"
+      },
+      "summary": {
+        "en": "Lawrence Joseph Ellison was born in New York City. As a baby he was adopted by relatives in Chicago and grew up in the South Shore neighborhood, where he went to South Shore High School.",
+        "zh": "劳伦斯·约瑟夫·埃里森出生于纽约市。婴儿时期被芝加哥的亲戚收养，在南岸（South Shore）社区长大，就读于南岸高中。"
+      },
+      "why": {
+        "en": "Starting point, not scored. Human capital starts at the average level for an American child of his generation.",
+        "zh": "起点事件，不计分；人力资本以同时代美国儿童的平均水平为初始值。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Larry Ellison",
+          "url": "https://en.wikipedia.org/wiki/Larry_Ellison",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1964",
+      "p": "year",
+      "cat": "education",
+      "dir": -1,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Leaves Illinois",
+        "zh": "伊利诺伊退学"
+      },
+      "t": {
+        "en": "Leaves the University of Illinois after two years",
+        "zh": "在伊利诺伊大学读了两年后退学"
+      },
+      "summary": {
+        "en": "He enrolled at the University of Illinois at Urbana-Champaign as a pre-med student and was named science student of the year, but left after his second year without taking final exams. Most biographies date his time there to 1962–64.",
+        "zh": "他进入伊利诺伊大学厄巴纳-香槟分校读医学预科，曾被评为年度理科学生，但在二年级结束时没有参加期末考试就离开了。多数传记把这段时间记为 1962 至 1964 年。"
+      },
+      "why": {
+        "en": "No degree, so human capital gets no education step. The exact year is given to year precision only because sources do not agree on the month.",
+        "zh": "没有拿到学位，人力资本不记学历台阶。各来源对具体月份说法不一，因此只标到年份。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Larry Ellison",
+          "url": "https://en.wikipedia.org/wiki/Larry_Ellison",
+          "type": "wiki"
+        },
+        {
+          "name": "Britannica · Larry Ellison",
+          "url": "https://www.britannica.com/money/Larry-Ellison",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1966",
+      "p": "year",
+      "cat": "education",
+      "dir": 0,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "Second dropout",
+        "zh": "再度退学"
+      },
+      "t": {
+        "en": "One term at the University of Chicago, then west to California",
+        "zh": "在芝加哥大学只读了一个学期，随后西去加州"
+      },
+      "summary": {
+        "en": "He spent a single term at the University of Chicago studying physics and mathematics, where he first met computer design. He then moved to Berkeley, California, and started working as a programmer.",
+        "zh": "他在芝加哥大学读了一个学期的物理和数学，第一次接触到计算机设计。之后搬到加州伯克利，开始以程序员为业。"
+      },
+      "why": {
+        "en": "Again no degree, but a self-taught programmer in 1960s California had real earning power, so human capital edges up. The two-time dropout story later became part of his public image, hence a small reputation credit.",
+        "zh": "依然没有学位，但 1960 年代加州的自学程序员已有不错的赚钱能力，人力资本小幅上调。「两度辍学」后来成了他公众形象的一部分，因此记一点声誉分。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Larry Ellison",
+          "url": "https://en.wikipedia.org/wiki/Larry_Ellison",
+          "type": "wiki"
+        },
+        {
+          "name": "Britannica · Larry Ellison",
+          "url": "https://www.britannica.com/money/Larry-Ellison",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1973",
+      "p": "year",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Ampex & \"Oracle\"",
+        "zh": "Ampex 与 CIA 项目"
+      },
+      "t": {
+        "en": "Joins Ampex and works on a CIA database code-named \"Oracle\"",
+        "zh": "加入 Ampex，参与代号「Oracle」的 CIA 数据库项目"
+      },
+      "summary": {
+        "en": "After a short spell at Amdahl he worked at the electronics company Ampex, where one of his projects was a database for the CIA that carried the code name Oracle. Around this time he read Edgar Codd's paper on relational databases, the idea his own company would be built on.",
+        "zh": "在 Amdahl 短暂工作后，他进入电子公司 Ampex，参与过一个为中央情报局开发的数据库项目，代号就叫「Oracle」。这一时期他读到埃德加·科德关于关系型数据库的论文，日后的公司正是建立在这个思想之上。"
+      },
+      "why": {
+        "en": "The job itself paid an engineer's salary; its real value was the idea and the name. Human capital target rises to about $1 million. The 1973 start year follows Britannica; Wikipedia only says the 1970s.",
+        "zh": "这份工作本身只是工程师薪水，真正的价值在于想法和名字。人力资本目标值上调至约 100 万美元。1973 年这一入职年份取自《大英百科》，维基百科只写了「1970 年代」。"
+      },
+      "src": [
+        {
+          "name": "Britannica · Larry Ellison",
+          "url": "https://www.britannica.com/money/Larry-Ellison",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Larry Ellison",
+          "url": "https://en.wikipedia.org/wiki/Larry_Ellison",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1977-06-16",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.02,
+      "s": {
+        "en": "Founds SDL",
+        "zh": "创立 SDL"
+      },
+      "t": {
+        "en": "Co-founds Software Development Laboratories with $2,000",
+        "zh": "以 2,000 美元合伙创办 Software Development Laboratories"
+      },
+      "summary": {
+        "en": "With Bob Miner and Ed Oates he started Software Development Laboratories in Santa Clara, California. The total investment was $2,000, of which $1,200 was his. The CIA became the first customer.",
+        "zh": "他与鲍勃·迈纳、埃德·奥茨在加州圣克拉拉创办 Software Development Laboratories（SDL）。启动资金总共 2,000 美元，其中 1,200 美元是他出的。中央情报局成为第一个客户。"
+      },
+      "why": {
+        "en": "The turning point of his life: from here on his financial capital is founder equity rather than savings. Private values before the IPO are rough estimates.",
+        "zh": "人生转折点：从这里开始，他的金融资本不再是储蓄，而是创始人股权。上市前的私有估值均为粗略估算。"
+      },
+      "fin": {
+        "en": "Founder equity enters the model (private-period estimates)",
+        "zh": "创始人股权进入模型（私有期按估算值插值）"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Oracle Corporation",
+          "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Larry Ellison",
+          "url": "https://en.wikipedia.org/wiki/Larry_Ellison",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1979",
+      "p": "year",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Oracle V2 ships",
+        "zh": "首款产品发布"
+      },
+      "t": {
+        "en": "First Oracle database goes on sale; company renamed Relational Software",
+        "zh": "第一款 Oracle 数据库上市，公司更名为 Relational Software"
+      },
+      "summary": {
+        "en": "The company renamed itself Relational Software, Inc. and released its first product, which it called Oracle version 2. In 1983 the company took the product's name and became Oracle Systems Corporation.",
+        "zh": "公司更名为 Relational Software, Inc.，并发布第一款产品，对外称作「Oracle 第 2 版」。1983 年公司干脆以产品为名，改称 Oracle Systems Corporation。"
+      },
+      "why": {
+        "en": "A working product turned an idea into a business. Private value steps up and a small reputation credit is added for being early to commercial relational databases.",
+        "zh": "有了能卖的产品，想法才成了生意。私有估值上台阶，并因较早把关系型数据库商业化记一点声誉分。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Oracle Corporation",
+          "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Oracle Database",
+          "url": "https://en.wikipedia.org/wiki/Oracle_Database",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1986-03-12",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.03,
+      "s": {
+        "en": "Nasdaq IPO",
+        "zh": "纳斯达克上市"
+      },
+      "t": {
+        "en": "Oracle goes public at $15 a share",
+        "zh": "甲骨文上市，发行价 15 美元"
+      },
+      "summary": {
+        "en": "Oracle sold 2.1 million shares at $15 each, one day before Microsoft's own IPO. Forbes later put Ellison's stake at the offering at 34%, worth about $90 million. From this day his fortune has a daily market price.",
+        "zh": "甲骨文以每股 15 美元发行 210 万股，比微软上市早一天。《福布斯》后来的报道称，上市时埃里森持股 34%，约值 9,000 万美元。从这一天起，他的身家有了每日的市场报价。"
+      },
+      "why": {
+        "en": "Anchor switch: financial capital = ownership × shares outstanding × daily close (split-adjusted; one IPO share is 324 shares today). The 34% figure is from Forbes; some later retellings say 39%.",
+        "zh": "锚点切换：金融资本 = 持股比例 × 总股本 × 当日收盘价（拆股复权，上市时的 1 股相当于今天的 324 股）。34% 取自《福布斯》，也有后来的说法是 39%。"
+      },
+      "fin": {
+        "en": "Priced daily from ORCL quotes from here on",
+        "zh": "此后按 ORCL 日线逐日计价"
+      },
+      "src": [
+        {
+          "name": "Forbes · Oracle on the Edge (2001)",
+          "url": "https://www.forbes.com/forbes/2001/0820/082.html",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · ORCL historical prices",
+          "url": "https://finance.yahoo.com/quote/ORCL/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "1990-03-28",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 5,
+      "rep": -0.04,
+      "s": {
+        "en": "Stock -31%",
+        "zh": "单日暴跌 31%"
+      },
+      "t": {
+        "en": "Oracle loses 31% in one day as its sales practices catch up with it",
+        "zh": "激进销售做法反噬，甲骨文单日暴跌 31%"
+      },
+      "summary": {
+        "en": "Oracle shares fell 31% in a single session. The company had been booking sales early to keep up its growth numbers; in 1990 that practice unraveled, and Oracle later restated its earnings twice and settled shareholder lawsuits. Ellison himself called it an incredible business mistake.",
+        "zh": "甲骨文股价一个交易日内下跌 31%。公司此前为维持高增长而提前确认销售收入，这种做法在 1990 年彻底崩盘，甲骨文后来两度重述业绩，并与起诉的股东和解。埃里森自己称之为「不可思议的经营错误」。"
+      },
+      "why": {
+        "en": "The fall in his wealth is carried by the stock price. The accounting failure was a management failure on his watch, so reputation is also cut by 4%. The one-day drop is from market data; the cause is as described for the 1990 episode in general.",
+        "zh": "财富缩水由股价反映。会计问题属于他任内的管理失误，因此另扣口碑系数 4%。单日跌幅来自行情数据，原因按各来源对 1990 年整体事件的描述。"
+      },
+      "src": [
+        {
+          "name": "Yahoo Finance · ORCL historical prices",
+          "url": "https://finance.yahoo.com/quote/ORCL/history",
+          "type": "market"
+        },
+        {
+          "name": "Wikipedia · Oracle Corporation",
+          "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1990-09-17",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 4,
+      "rep": -0.03,
+      "s": {
+        "en": "First loss, cuts",
+        "zh": "首次亏损裁员"
+      },
+      "t": {
+        "en": "First quarterly loss; Oracle lays off 400 people",
+        "zh": "首次季度亏损，甲骨文裁员 400 人"
+      },
+      "summary": {
+        "en": "Facing its first quarterly loss ever, Oracle laid off about 400 people, roughly a tenth of its U.S. staff, and cut its growth forecast. By late October the stock was about 80% below its March level. Forbes later wrote that the episode nearly bankrupted the company.",
+        "zh": "面对有史以来第一次季度亏损，甲骨文裁掉约 400 人，约占美国员工的十分之一，并下调增长预期。到 10 月下旬，股价比 3 月时低了约 80%。《福布斯》后来写道，这场风波几乎让公司破产。"
+      },
+      "why": {
+        "en": "This is the closest Oracle came to failing. The price carries the financial damage; reputation takes a further 3% cut for the layoffs and restatements.",
+        "zh": "这是甲骨文最接近倒闭的时刻。金融损失由股价反映；裁员和业绩重述另扣口碑系数 3%。"
+      },
+      "fin": {
+        "en": "ORCL fell about 80% between March and late October 1990",
+        "zh": "1990 年 3 月至 10 月下旬 ORCL 下跌约 80%"
+      },
+      "src": [
+        {
+          "name": "UPI · Oracle lays off 400 (1990-09-17)",
+          "url": "https://www.upi.com/Archives/1990/09/17/Oracle-lays-off-400/5632653544000/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · ORCL historical prices",
+          "url": "https://finance.yahoo.com/quote/ORCL/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "1992",
+      "p": "year",
+      "cat": "career",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.03,
+      "s": {
+        "en": "Oracle7 rebuild",
+        "zh": "Oracle7 翻身"
+      },
+      "t": {
+        "en": "Oracle7 and a new management team put the company back on its feet",
+        "zh": "Oracle7 与新管理层让公司重新站稳"
+      },
+      "summary": {
+        "en": "After the crisis the board brought in experienced managers, including Ray Lane, to run sales and operations, while Oracle7 gave customers a much stronger database. Through the 1990s Oracle pulled ahead of rivals Sybase and Informix.",
+        "zh": "危机过后，董事会请来雷·莱恩等有经验的管理者负责销售和运营，Oracle7 则给了客户一款强得多的数据库。整个 1990 年代，甲骨文把 Sybase、Informix 等对手甩在了身后。"
+      },
+      "why": {
+        "en": "The recovery is in the share price, which rose more than twentyfold from the 1990 low by 1995. Reputation gets +3% for surviving a near-death episode and learning to share control with professional managers.",
+        "zh": "复苏体现在股价上：到 1995 年，股价较 1990 年低点涨了二十多倍。挺过生死关、学会与职业经理人分权，口碑系数 +3%。"
+      },
+      "src": [
+        {
+          "name": "Forbes · Oracle on the Edge (2001)",
+          "url": "https://www.forbes.com/forbes/2001/0820/082.html",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Oracle Database",
+          "url": "https://en.wikipedia.org/wiki/Oracle_Database",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Ray Lane",
+          "url": "https://en.wikipedia.org/wiki/Ray_Lane",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "1997",
+      "p": "year",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.02,
+      "s": {
+        "en": "Apple board",
+        "zh": "进苹果董事会"
+      },
+      "t": {
+        "en": "Joins Apple's board after Steve Jobs returns",
+        "zh": "乔布斯回归后加入苹果董事会"
+      },
+      "summary": {
+        "en": "When Steve Jobs came back to Apple, Ellison became one of the directors on the rebuilt board. He stepped down in 2002.",
+        "zh": "乔布斯重返苹果后，埃里森成为重组后董事会的成员之一，2002 年卸任。"
+      },
+      "why": {
+        "en": "No money involved for the model; a seat next to Jobs during Apple's turnaround adds a little standing, +2%.",
+        "zh": "不涉及金融资本；在苹果翻身期与乔布斯同席，增加了一些行业声望，口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Larry Ellison",
+          "url": "https://en.wikipedia.org/wiki/Larry_Ellison",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2000-04-25",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.03,
+      "s": {
+        "en": "Passes Gates",
+        "zh": "一度超过盖茨"
+      },
+      "t": {
+        "en": "Briefly passes Bill Gates on paper",
+        "zh": "账面财富一度超过比尔·盖茨"
+      },
+      "summary": {
+        "en": "With Microsoft falling and Oracle near its dot-com highs, press tallies on this day put Ellison's Oracle shares at about $52 billion against about $51 billion for Gates's Microsoft shares. The lead did not last.",
+        "zh": "微软下跌、甲骨文逼近互联网泡沫高点，当天媒体统计显示，埃里森持有的甲骨文股票约值 520 亿美元，略高于盖茨所持微软股票的约 510 亿美元。这一领先没有维持多久。"
+      },
+      "why": {
+        "en": "The wealth is already in the price (the model's stake value on this day is about $51 billion, an estimate). The headline itself lifts reputation by 3%.",
+        "zh": "财富已体现在股价里（模型当天的持股市值约 510 亿美元，为估算）。「超过盖茨」的头条效应使口碑系数 +3%。"
+      },
+      "src": [
+        {
+          "name": "BetaNews · Ellison Surpasses Gates as Richest Man",
+          "url": "https://betanews.com/2000/04/25/ellison-surpasses-gates-as-richest-man",
+          "type": "news"
+        },
+        {
+          "name": "CNN Money · Gates' wealth shrinks",
+          "url": "https://money.cnn.com/2000/04/24/companies/gates/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2001-03-02",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "Dot-com crash",
+        "zh": "互联网泡沫破裂"
+      },
+      "t": {
+        "en": "Oracle falls 21% in a day after a profit warning",
+        "zh": "盈利预警后甲骨文单日下跌 21%"
+      },
+      "summary": {
+        "en": "Oracle warned that it would miss its earnings target and the stock dropped 21% the next session. From its peak in September 2000 to its low in October 2002 the stock lost more than 80%.",
+        "zh": "甲骨文预警无法达到盈利目标，股价在下一个交易日下跌 21%。从 2000 年 9 月的高点到 2002 年 10 月的低点，股价累计跌去八成以上。"
+      },
+      "why": {
+        "en": "A market-wide collapse carried entirely by the share price; no separate reputation charge.",
+        "zh": "属于全市场崩盘，完全由股价反映，不另扣声誉。"
+      },
+      "fin": {
+        "en": "ORCL: about $46 (Sept 2000) to under $8 (Oct 2002)",
+        "zh": "ORCL：约 46 美元（2000 年 9 月）跌至不足 8 美元（2002 年 10 月）"
+      },
+      "src": [
+        {
+          "name": "Yahoo Finance · ORCL historical prices",
+          "url": "https://finance.yahoo.com/quote/ORCL/history",
+          "type": "market"
+        },
+        {
+          "name": "The Register · Ellison to settle insider trading suit",
+          "url": "https://www.theregister.co.uk/2005/09/12/oracle_insider_settlement/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2003-06",
+      "p": "month",
+      "cat": "career",
+      "dir": 0,
+      "mag": 4,
+      "rep": 0.01,
+      "s": {
+        "en": "PeopleSoft bid",
+        "zh": "敌意收购仁科"
+      },
+      "t": {
+        "en": "Launches a hostile bid for PeopleSoft",
+        "zh": "对仁科（PeopleSoft）发起敌意收购"
+      },
+      "summary": {
+        "en": "Oracle went straight to PeopleSoft's shareholders with an unsolicited $16-a-share offer, about $5.1 billion. PeopleSoft's board fought it for 18 months and the U.S. Justice Department sued to block it.",
+        "zh": "甲骨文绕过管理层，直接向仁科股东提出每股 16 美元、总额约 51 亿美元的收购要约。仁科董事会抵抗了 18 个月，美国司法部也起诉要求阻止交易。"
+      },
+      "why": {
+        "en": "Mixed at the time: bold, but widely criticized as a spoiler move. A small +1% for setting the software industry's consolidation agenda.",
+        "zh": "当时评价两极：大胆，但也被批评为搅局。因主导了软件业的整合议程，口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "CNN Money · Oracle to buy PeopleSoft",
+          "url": "https://money.cnn.com/2004/12/13/technology/oracle_peoplesoft/index.htm",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · PeopleSoft",
+          "url": "https://en.wikipedia.org/wiki/PeopleSoft",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2004-12",
+      "p": "month",
+      "cat": "career",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.03,
+      "s": {
+        "en": "PeopleSoft won",
+        "zh": "拿下仁科"
+      },
+      "t": {
+        "en": "PeopleSoft gives in at $26.50 a share, about $10.3 billion",
+        "zh": "仁科接受每股 26.50 美元报价，总额约 103 亿美元"
+      },
+      "summary": {
+        "en": "After a federal judge rejected the government's antitrust case in September 2004, PeopleSoft's board accepted a sweetened offer worth about $10.3 billion. It opened a decade in which Oracle bought dozens of software companies.",
+        "zh": "2004 年 9 月联邦法官驳回政府的反垄断诉讼后，仁科董事会接受了提高后的报价，总额约 103 亿美元。此后十年，甲骨文接连收购了数十家软件公司。"
+      },
+      "why": {
+        "en": "Winning the fight proved the roll-up strategy could work; reputation +3%. The value created shows up later through the share price.",
+        "zh": "打赢这一仗证明了并购整合路线可行，口碑系数 +3%。创造的价值此后通过股价体现。"
+      },
+      "src": [
+        {
+          "name": "CNN Money · Oracle to buy PeopleSoft",
+          "url": "https://money.cnn.com/2004/12/13/technology/oracle_peoplesoft/index.htm",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · PeopleSoft",
+          "url": "https://en.wikipedia.org/wiki/PeopleSoft",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2005-09",
+      "p": "month",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 2,
+      "rep": -0.02,
+      "s": {
+        "en": "Trading lawsuit",
+        "zh": "内幕交易诉讼"
+      },
+      "t": {
+        "en": "Settles a shareholder suit over his 2001 share sale",
+        "zh": "就 2001 年售股引发的股东诉讼达成和解"
+      },
+      "summary": {
+        "en": "Shareholders had sued over his sale of close to $900 million of Oracle stock in January 2001, weeks before the profit warning. Without admitting wrongdoing, he agreed to give $100 million to charity in Oracle's name; a court approved the deal later in 2005 after he also agreed to pay $22 million in legal fees.",
+        "zh": "股东起诉他在 2001 年 1 月、即盈利预警前几周卖出近 9 亿美元甲骨文股票。他在不承认过错的前提下，同意以甲骨文名义向慈善机构捐出 1 亿美元；在他另外同意支付 2,200 万美元律师费后，法院于 2005 年晚些时候批准了和解。"
+      },
+      "why": {
+        "en": "The payment is small against his fortune, so the financial line barely moves. An insider-trading suit, even one settled without admission, costs reputation: -2%.",
+        "zh": "相对其身家，这笔钱很小，金融资本几乎不变。内幕交易诉讼即便以不认错的方式和解，也会损害声誉：口碑系数 -2%。"
+      },
+      "src": [
+        {
+          "name": "The Register · Ellison to settle insider trading suit",
+          "url": "https://www.theregister.co.uk/2005/09/12/oracle_insider_settlement/",
+          "type": "news"
+        },
+        {
+          "name": "InfoWorld · Court OKs Ellison $122 million settlement",
+          "url": "https://www.infoworld.com/article/2220877/court-oks-ellison-22-million-shareholder-settlement.html",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2009-04-20",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "Buys Sun",
+        "zh": "收购 Sun"
+      },
+      "t": {
+        "en": "Oracle agrees to buy Sun Microsystems for about $7.4 billion",
+        "zh": "甲骨文同意以约 74 亿美元收购 Sun"
+      },
+      "summary": {
+        "en": "Oracle signed a deal to buy Sun Microsystems at $9.50 a share, taking it into hardware and giving it Java and MySQL. European regulators cleared the deal in January 2010 and it closed on January 27, 2010.",
+        "zh": "甲骨文签约以每股 9.50 美元收购 Sun Microsystems，由此进入硬件领域，并拿到 Java 和 MySQL。欧盟监管机构于 2010 年 1 月放行，交易在 2010 年 1 月 27 日完成。"
+      },
+      "why": {
+        "en": "A strategic move priced by the market. Owning Java and MySQL adds a little industry standing, +2%.",
+        "zh": "战略布局，由市场定价。把 Java 和 MySQL 收入囊中，行业地位略有提升，口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Acquisition of Sun Microsystems by Oracle",
+          "url": "https://en.wikipedia.org/wiki/Acquisition_of_Sun_Microsystems_by_Oracle_Corporation",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2010-02-14",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.03,
+      "s": {
+        "en": "America's Cup",
+        "zh": "美洲杯夺冠"
+      },
+      "t": {
+        "en": "His BMW Oracle Racing team wins the America's Cup",
+        "zh": "他的 BMW 甲骨文帆船队赢得美洲杯"
+      },
+      "summary": {
+        "en": "The giant trimaran USA 17 won the second and deciding race off Valencia, bringing sailing's oldest trophy back to the United States after years of expensive attempts by Ellison's team.",
+        "zh": "巨型三体帆船 USA 17 在瓦伦西亚海域赢下决定性的第二场比赛。埃里森的船队经过多年重金投入，终于把帆船界最古老的奖杯带回美国。"
+      },
+      "why": {
+        "en": "Outside the business, so the share price cannot see it. A global sporting win adds to his public profile: +3%.",
+        "zh": "属于商业之外的事件，股价看不到。全球性体育赛事的胜利提升了公众形象：口碑系数 +3%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · 2010 America's Cup",
+          "url": "https://en.wikipedia.org/wiki/2010_America%27s_Cup",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2010-08",
+      "p": "month",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.02,
+      "s": {
+        "en": "Giving Pledge",
+        "zh": "捐赠誓言"
+      },
+      "t": {
+        "en": "Signs the Giving Pledge",
+        "zh": "签署「捐赠誓言」"
+      },
+      "summary": {
+        "en": "He was among the first group of 40 billionaires to sign the Giving Pledge, a public promise to give most of their wealth to philanthropy.",
+        "zh": "他是首批签署「捐赠誓言」的 40 位亿万富豪之一，公开承诺把大部分财富用于慈善。"
+      },
+      "why": {
+        "en": "A promise, not a transfer, so financial capital is unchanged. Reputation +2%.",
+        "zh": "这是承诺而非实际转移，金融资本不变。口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · The Giving Pledge",
+          "url": "https://en.wikipedia.org/wiki/The_Giving_Pledge",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Larry Ellison",
+          "url": "https://en.wikipedia.org/wiki/Larry_Ellison",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2012-06-28",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Buys Lanai",
+        "zh": "买下拉奈岛"
+      },
+      "t": {
+        "en": "Completes the purchase of 98% of the Hawaiian island of Lanai",
+        "zh": "完成收购夏威夷拉奈岛 98% 的土地"
+      },
+      "summary": {
+        "en": "The seller, Castle & Cooke, announced that Ellison had completed the purchase of about 88,000 acres, 98% of the island, including two resort hotels. The price was never disclosed; local press had reported an asking price in the hundreds of millions of dollars.",
+        "zh": "卖方 Castle & Cooke 宣布，埃里森已完成收购约 88,000 英亩土地，占全岛的 98%，其中包括两家度假酒店。成交价从未公布，当地媒体曾报道要价为数亿美元。"
+      },
+      "why": {
+        "en": "Cash became land, so net worth barely changes; the island sits in the 'wealth outside Oracle' line at a rough estimate. Owning an island made him far better known outside tech: +2%.",
+        "zh": "现金变成土地，净资产几乎不变；这座岛按粗略估值计入「甲骨文以外的财富」。「买下一座岛」让他在科技圈外的知名度大增：口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "MPR News (AP) · Ellison closes deal to buy Lanai",
+          "url": "https://www.mprnews.org/story/2012/06/28/business/larry-ellison-buys-lanai",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Lanai",
+          "url": "https://en.wikipedia.org/wiki/Lanai",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2013-09-25",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.03,
+      "s": {
+        "en": "Cup comeback",
+        "zh": "美洲杯大逆转"
+      },
+      "t": {
+        "en": "Oracle Team USA comes back from 1–8 to keep the America's Cup",
+        "zh": "甲骨文美国队从 1 比 8 落后逆转，卫冕美洲杯"
+      },
+      "summary": {
+        "en": "On San Francisco Bay his team won eight races in a row to beat Emirates Team New Zealand 9–8, one of the great comebacks in the sport. The team had started the series with a penalty for rule-breaking in earlier regattas.",
+        "zh": "在旧金山湾，他的船队连赢八场，以 9 比 8 击败新西兰酋长队，成为这项运动史上最著名的逆转之一。此前船队因在早先赛事中违规，带着罚分开始了这轮系列赛。"
+      },
+      "why": {
+        "en": "Not visible to the share price. A widely watched win adds +3% to reputation.",
+        "zh": "股价看不到这类事件。一场万众瞩目的胜利使口碑系数 +3%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · 2013 America's Cup",
+          "url": "https://en.wikipedia.org/wiki/2013_America%27s_Cup",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2014-09-18",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 4,
+      "rep": 0.01,
+      "s": {
+        "en": "CEO handover",
+        "zh": "卸任 CEO"
+      },
+      "t": {
+        "en": "Steps down as CEO after 37 years, stays on as chairman and CTO",
+        "zh": "执掌 37 年后卸任 CEO，转任执行董事长兼 CTO"
+      },
+      "summary": {
+        "en": "Ellison handed the chief executive title to Safra Catz and Mark Hurd as co-CEOs and became executive chairman and chief technology officer. He remained the largest shareholder and stayed closely involved in product decisions.",
+        "zh": "埃里森把 CEO 头衔交给萨弗拉·卡茨和马克·赫德两位联席 CEO，自己转任执行董事长兼首席技术官。他仍是第一大股东，并继续深度参与产品决策。"
+      },
+      "why": {
+        "en": "A change of title more than of control, so the human-capital target is left where it was. The stock dipped about 4% the next day, which the price already shows. An orderly handover earns +1%.",
+        "zh": "更多是头衔变化而非控制权变化，人力资本目标值不动。次日股价下跌约 4%，已由行情反映。交接有序，口碑系数 +1%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Larry Ellison",
+          "url": "https://en.wikipedia.org/wiki/Larry_Ellison",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · ORCL historical prices",
+          "url": "https://finance.yahoo.com/quote/ORCL/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2016-11",
+      "p": "month",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": -0.01,
+      "s": {
+        "en": "NetSuite deal",
+        "zh": "收购 NetSuite"
+      },
+      "t": {
+        "en": "Oracle buys NetSuite for $9.3 billion; he was its biggest shareholder",
+        "zh": "甲骨文以 93 亿美元收购 NetSuite，而他正是其最大股东"
+      },
+      "summary": {
+        "en": "Oracle completed its purchase of the cloud software company NetSuite. Ellison had backed NetSuite from the start and owned about 35% of it, so he received roughly $3.5 billion in cash from a deal made by the company he chaired.",
+        "zh": "甲骨文完成对云软件公司 NetSuite 的收购。埃里森从 NetSuite 创立起就是其投资人，持股约 35%，因此从自己担任董事长的公司所做的这笔交易中拿到约 35 亿美元现金。"
+      },
+      "why": {
+        "en": "About $3.5 billion moves into the 'wealth outside Oracle' line. The conflict of interest drew criticism from some shareholders, so reputation takes a small -1%.",
+        "zh": "约 35 亿美元计入「甲骨文以外的财富」。交易中的利益冲突受到部分股东批评，口碑系数小幅 -1%。"
+      },
+      "fin": {
+        "en": "Outside-Oracle wealth: about $6B to $10B (estimate)",
+        "zh": "甲骨文以外的财富：约 60 亿 → 约 100 亿美元（估算）"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · NetSuite",
+          "url": "https://en.wikipedia.org/wiki/NetSuite",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Larry Ellison",
+          "url": "https://en.wikipedia.org/wiki/Larry_Ellison",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2018-12-28",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Tesla board",
+        "zh": "特斯拉董事"
+      },
+      "t": {
+        "en": "Named to Tesla's board after buying 3 million shares",
+        "zh": "买入 300 万股后出任特斯拉董事"
+      },
+      "summary": {
+        "en": "Tesla announced Ellison as one of two new independent directors, added under its settlement with the SEC. Tesla said he had bought 3 million of its shares earlier in the year. He left the board in 2022 but kept the stake, which became his largest asset outside Oracle.",
+        "zh": "特斯拉宣布埃里森为两名新任独立董事之一，这是公司与美国证监会和解协议的要求。特斯拉称他当年早些时候已买入 300 万股。他于 2022 年离开董事会，但保留了持股，这成为他在甲骨文之外最大的一笔资产。"
+      },
+      "why": {
+        "en": "The Tesla stake is counted in the 'wealth outside Oracle' line as an estimate, since his exact current holding is not disclosed. Reputation +1%.",
+        "zh": "特斯拉持股按估算计入「甲骨文以外的财富」，因为他目前的确切持股并未披露。口碑系数 +1%。"
+      },
+      "src": [
+        {
+          "name": "SEC EDGAR · Tesla 8-K press release (2018-12-28)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001318605/000156459018031477/tsla-ex99_6.htm",
+          "type": "filing"
+        },
+        {
+          "name": "CNBC · Tesla names new board members after SEC settlement",
+          "url": "https://www.cnbc.com/2018/12/28/tesla-names-new-board-members-after-sec-settlement.html",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2020-09",
+      "p": "month",
+      "cat": "career",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "TikTok partner",
+        "zh": "TikTok 合作方"
+      },
+      "t": {
+        "en": "Oracle is picked as TikTok's U.S. technology partner",
+        "zh": "甲骨文被选为 TikTok 在美国的技术合作方"
+      },
+      "summary": {
+        "en": "With the U.S. government pressing ByteDance to sell TikTok's American business, Oracle confirmed it had been chosen as TikTok's technology partner in the United States. That first deal was never completed, but Oracle went on to host TikTok's U.S. user data.",
+        "zh": "在美国政府施压字节跳动出售 TikTok 美国业务之际，甲骨文确认被选为 TikTok 在美国的技术合作方。这第一版交易最终没有完成，但甲骨文此后一直托管 TikTok 的美国用户数据。"
+      },
+      "why": {
+        "en": "A new cloud customer, priced by the market. The episode showed how close Oracle had moved to Washington; small +1%.",
+        "zh": "多了一个云客户，由市场定价。这件事也显示出甲骨文与华盛顿的关系之近；口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Efforts to ban TikTok in the United States",
+          "url": "https://en.wikipedia.org/wiki/Efforts_to_ban_TikTok_in_the_United_States",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Oracle Corporation",
+          "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2024-09-10",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "Cloud rally",
+        "zh": "云业务大涨"
+      },
+      "t": {
+        "en": "Oracle jumps 11% on cloud demand; days later he is briefly No. 2",
+        "zh": "云需求推动甲骨文大涨 11%，数日后他一度升至全球第二"
+      },
+      "summary": {
+        "en": "After years of being seen as late to the cloud, Oracle reported strong demand for its cloud infrastructure from AI customers and the stock rose 11% in a day. On September 16 he briefly passed Jeff Bezos as the world's second-richest person, at about $206 billion by Forbes's count.",
+        "zh": "多年来被认为在云计算上起步太晚的甲骨文，公布了来自 AI 客户的强劲云基础设施需求，股价单日上涨 11%。9 月 16 日，他一度超过杰夫·贝索斯成为全球第二富豪，按《福布斯》估算身家约 2,060 亿美元。"
+      },
+      "why": {
+        "en": "Entirely a share-price event, so no reputation shock is added.",
+        "zh": "完全是股价事件，不另加声誉冲击。"
+      },
+      "src": [
+        {
+          "name": "NBC DFW (CNBC) · Ellison briefly tops Bezos",
+          "url": "https://www.nbcdfw.com/news/business/money-report/oracles-larry-ellison-briefly-tops-jeff-bezos-to-become-worlds-second-richest-person/3645168/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · ORCL historical prices",
+          "url": "https://finance.yahoo.com/quote/ORCL/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2025-01-21",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.03,
+      "s": {
+        "en": "Stargate",
+        "zh": "星际之门"
+      },
+      "t": {
+        "en": "Stands at the White House to announce the $500 billion Stargate project",
+        "zh": "在白宫宣布 5,000 亿美元的「星际之门」计划"
+      },
+      "summary": {
+        "en": "Ellison joined OpenAI's Sam Altman and SoftBank's Masayoshi Son beside President Trump to announce Stargate, a plan to spend up to $500 billion over four years on AI data centers in the United States, with Oracle as a main builder.",
+        "zh": "埃里森与 OpenAI 的山姆·奥特曼、软银的孙正义一同站在特朗普总统身旁，宣布「星际之门」计划：四年内在美国投入最多 5,000 亿美元建设 AI 数据中心，甲骨文是主要建设方之一。"
+      },
+      "why": {
+        "en": "The stock rose about 7% on each of the two days around the announcement, which the price carries. Being placed at the center of U.S. AI policy at age 80 lifts reputation by 3% and the media baseline moves up.",
+        "zh": "消息前后两天股价各涨约 7%，由行情反映。80 岁站到美国 AI 政策的中心位置，口碑系数 +3%，媒体热度基线上移。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Stargate LLC",
+          "url": "https://en.wikipedia.org/wiki/Stargate_LLC",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · ORCL historical prices",
+          "url": "https://finance.yahoo.com/quote/ORCL/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2025-08-07",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Paramount deal",
+        "zh": "入主派拉蒙"
+      },
+      "t": {
+        "en": "His family trust bankrolls Skydance's takeover of Paramount",
+        "zh": "家族信托出资，支持 Skydance 入主派拉蒙"
+      },
+      "summary": {
+        "en": "Skydance Media, led by his son David Ellison, completed its merger with Paramount Global. The Ellison family trust put up most of the money and became the largest owner of the new Paramount Skydance, which includes CBS.",
+        "zh": "由他儿子大卫·埃里森领导的 Skydance Media 完成与派拉蒙环球的合并。埃里森家族信托提供了大部分资金，成为新公司 Paramount Skydance（旗下包括 CBS）的最大股东。"
+      },
+      "why": {
+        "en": "Cash is swapped for a media stake, so net worth is roughly unchanged. It made him a force in media as well as tech, which brought both influence and criticism; net +1%.",
+        "zh": "现金换成媒体股权，净资产大体不变。他由此在科技之外又成了媒体业的重量级人物，影响力与批评同时增加；口碑系数净 +1%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Paramount Skydance",
+          "url": "https://en.wikipedia.org/wiki/Paramount_Skydance",
+          "type": "wiki"
+        },
+        {
+          "name": "CNBC · Paramount–WBD deal timeline",
+          "url": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2025-09-10",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.04,
+      "s": {
+        "en": "World's richest",
+        "zh": "一度世界首富"
+      },
+      "t": {
+        "en": "Oracle soars 36% in a day; he is briefly the world's richest person",
+        "zh": "甲骨文单日暴涨 36%，他一度成为世界首富"
+      },
+      "summary": {
+        "en": "Oracle disclosed a huge backlog of AI cloud contracts, including a deal with OpenAI later reported at $300 billion, and the stock closed up 36% at $328.33. During the day Bloomberg's index put Ellison at about $393 billion, ahead of Elon Musk; by the close Musk was narrowly back in front.",
+        "zh": "甲骨文披露了巨额 AI 云合同储备，其中包括后来被报道为 3,000 亿美元的 OpenAI 订单，股价收涨 36%，报 328.33 美元。盘中彭博指数显示埃里森身家约 3,930 亿美元，超过埃隆·马斯克；收盘时马斯克又以微弱优势夺回第一。"
+      },
+      "why": {
+        "en": "The jump in wealth is carried by the price. Reaching No. 1 at 81 is the peak of his public standing: +4%, and the media baseline hits its high.",
+        "zh": "财富跳升由股价反映。81 岁登上榜首是他公众声望的顶点：口碑系数 +4%，媒体热度基线达到高位。"
+      },
+      "fin": {
+        "en": "Model stake value at the close: about $380 billion",
+        "zh": "模型收盘持股市值：约 3,800 亿美元"
+      },
+      "src": [
+        {
+          "name": "Fortune · Ellison passes Musk as world's richest",
+          "url": "https://fortune.com/2025/09/10/larry-ellison-elon-musk-oracle-stock-worlds-richest-person/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · ORCL historical prices",
+          "url": "https://finance.yahoo.com/quote/ORCL/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2025-12-11",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.01,
+      "s": {
+        "en": "Capex shock",
+        "zh": "资本开支冲击"
+      },
+      "t": {
+        "en": "Oracle falls 11% as AI spending and debt worry investors",
+        "zh": "AI 开支与债务引发担忧，甲骨文下跌 11%"
+      },
+      "summary": {
+        "en": "Quarterly results showed spending on data centers running far above forecasts, and Oracle raised its full-year capital spending plan to about $50 billion from $35 billion. The stock fell 11% to $198.85, by then about 40% below its September peak.",
+        "zh": "季度业绩显示数据中心开支远超预期，甲骨文把全年资本开支计划从 350 亿美元上调至约 500 亿美元。股价下跌 11% 至 198.85 美元，较 9 月高点已低约四成。"
+      },
+      "why": {
+        "en": "The loss is in the price. Doubts about whether the AI bet can be paid for start to attach to him personally: -1%.",
+        "zh": "损失已在股价中。市场开始把「这场 AI 豪赌能否付得起账」的疑问算到他个人头上：口碑系数 -1%。"
+      },
+      "src": [
+        {
+          "name": "Fortune · Oracle stock falls 11% after earnings",
+          "url": "https://fortune.com/2025/12/11/oracle-earnings-stock-falls-11-percent-why-investors-disappointed-data-centers-cloud/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · ORCL historical prices",
+          "url": "https://finance.yahoo.com/quote/ORCL/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2025-12-22",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 0,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "$40B guarantee",
+        "zh": "404 亿美元担保"
+      },
+      "t": {
+        "en": "Personally guarantees $40.4 billion for Paramount's bid for Warner Bros. Discovery",
+        "zh": "为派拉蒙竞购华纳兄弟探索提供 404 亿美元个人担保"
+      },
+      "summary": {
+        "en": "Warner Bros. Discovery's board had questioned whether Paramount's hostile, all-cash offer was really funded, since the money was promised by a revocable family trust. Paramount answered by disclosing that Ellison had given an irrevocable personal guarantee for $40.4 billion of equity financing.",
+        "zh": "华纳兄弟探索董事会质疑派拉蒙全现金敌意收购的资金是否可靠，因为出资承诺来自一个可撤销的家族信托。派拉蒙随即披露，埃里森已为 404 亿美元的股权融资提供不可撤销的个人担保。"
+      },
+      "why": {
+        "en": "A guarantee is a promise, not yet a payment, so financial capital is not changed on this day. It is scored as a major event because it ties a large part of his fortune to a media deal. Mixed reception, so no reputation shock.",
+        "zh": "担保是承诺，尚未实际支付，当天金融资本不变。之所以记为重大事件，是因为它把他相当一部分身家与一笔媒体交易绑在了一起。外界评价不一，不计声誉冲击。"
+      },
+      "src": [
+        {
+          "name": "Fortune · Ellison's $40.4 billion personal guarantee",
+          "url": "https://fortune.com/2025/12/22/paramount-warner-netflix-larry-ellison-personal-guarantee-40-4-billion/",
+          "type": "news"
+        },
+        {
+          "name": "CNBC · Paramount–WBD deal timeline",
+          "url": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-01-22",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "TikTok US JV",
+        "zh": "TikTok 美国合资"
+      },
+      "t": {
+        "en": "TikTok's U.S. business moves to a joint venture with Oracle as a 15% owner",
+        "zh": "TikTok 美国业务转入合资公司，甲骨文持股 15%"
+      },
+      "summary": {
+        "en": "The deal to keep TikTok running in the United States closed. Oracle, Silver Lake and MGX each took 15% of the new joint venture, ByteDance kept 19.9%, and Oracle became the security partner responsible for U.S. user data. The 15% belongs to Oracle, not to Ellison personally.",
+        "zh": "让 TikTok 得以继续在美国运营的交易完成交割。甲骨文、银湖和 MGX 各持有新合资公司 15% 的股份，字节跳动保留 19.9%，甲骨文同时担任负责美国用户数据的安全合作方。这 15% 属于甲骨文公司，而非埃里森个人。"
+      },
+      "why": {
+        "en": "Any value sits inside Oracle and is priced by the market. Together with Paramount it widened his reach over American media, which drew praise and worry in about equal measure; small +1%.",
+        "zh": "相关价值在甲骨文公司内部，由市场定价。加上派拉蒙，他对美国媒体的影响力进一步扩大，赞誉与担忧大致各半；口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "The Hollywood Reporter · TikTok U.S. deal closes",
+          "url": "https://www.hollywoodreporter.com/business/digital/tiktok-us-deal-closes-silver-lake-oracle-1236481939/",
+          "type": "news"
+        },
+        {
+          "name": "Axios · TikTok divestiture deal closes",
+          "url": "https://axios.com/2026/01/23/tiktok-deal-trump-app-ban",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-02-27",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "Warner deal",
+        "zh": "签下华纳"
+      },
+      "t": {
+        "en": "Paramount signs a deal to buy Warner Bros. Discovery at $31 a share",
+        "zh": "派拉蒙签约以每股 31 美元收购华纳兄弟探索"
+      },
+      "summary": {
+        "en": "After Netflix declined to match Paramount's raised offer, Paramount and Warner Bros. Discovery signed a merger agreement valuing Warner at about $110 billion including debt. Forbes reported that the Ellison trust's equity commitment had grown to about $45.7 billion and estimated his fortune at $194 billion that week.",
+        "zh": "在奈飞拒绝跟进派拉蒙提高后的报价之后，派拉蒙与华纳兄弟探索签署合并协议，含债务的估值约 1,100 亿美元。《福布斯》报道称，埃里森信托的股权出资承诺已增至约 457 亿美元，并估算他当周身家为 1,940 亿美元。"
+      },
+      "why": {
+        "en": "A win for the family's media ambitions, but one that commits tens of billions while Oracle's own shares are falling. Scored neutral with no reputation shock; the financing shows up later as borrowing against his Oracle shares.",
+        "zh": "家族的媒体版图再下一城，但这要在甲骨文股价下跌之际投入数百亿美元。记为中性、不计声誉冲击；相关融资后来体现为以甲骨文股票质押借款。"
+      },
+      "src": [
+        {
+          "name": "CNBC · Paramount–WBD deal timeline",
+          "url": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html",
+          "type": "news"
+        },
+        {
+          "name": "Forbes · What the Paramount–Warner merger means for Ellison's fortune",
+          "url": "https://www.forbes.com/sites/phoebeliu/2026/02/27/what-paramount-warner-bros-merger-means-for-larry-ellisons-fortune/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-03-25",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "PCAST seat",
+        "zh": "入白宫科技顾问团"
+      },
+      "t": {
+        "en": "Named to the President's Council of Advisors on Science and Technology",
+        "zh": "获任总统科技顾问委员会成员"
+      },
+      "summary": {
+        "en": "President Trump named Ellison among the first 13 members of his science and technology advisory council, alongside Jensen Huang, Mark Zuckerberg, Michael Dell and other technology executives.",
+        "zh": "特朗普总统任命埃里森为其科技顾问委员会首批 13 名成员之一，同批入选的还有黄仁勋、马克·扎克伯格、迈克尔·戴尔等科技公司高管。"
+      },
+      "why": {
+        "en": "An advisory post with no pay that matters; a small +1% for formal standing in Washington.",
+        "zh": "顾问职位，薪酬可忽略；因在华盛顿获得正式身份，口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "The White House · PCAST appointments",
+          "url": "https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2026-06-26",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 4,
+      "rep": -0.02,
+      "s": {
+        "en": "Worst week",
+        "zh": "25 年最差一周"
+      },
+      "t": {
+        "en": "Oracle ends its worst week since 2001, down 19%",
+        "zh": "甲骨文单周下跌 19%，创 2001 年以来最差表现"
+      },
+      "summary": {
+        "en": "Two weeks after annual results showed free cash flow of about minus $24 billion and capital spending up 162%, the stock fell every day of the week and lost 19%. Oracle ended May with about $130 billion of debt, and CNBC noted Ellison had been absent from the June earnings call.",
+        "zh": "年报显示自由现金流约为负 240 亿美元、资本开支增长 162%，两周后股价一周内连跌五天，累计下跌 19%。截至 5 月底，甲骨文债务约 1,300 亿美元；CNBC 还提到埃里森缺席了 6 月的财报电话会。"
+      },
+      "why": {
+        "en": "The loss is in the price: the stock was about 55% below its September 2025 peak. The strategy being questioned is his own, so reputation is cut a further 2%.",
+        "zh": "损失已在股价中：此时股价较 2025 年 9 月高点低约 55%。受质疑的正是他本人主导的战略，口碑系数再扣 2%。"
+      },
+      "src": [
+        {
+          "name": "CNBC · Oracle stock ends worst week since 2001",
+          "url": "https://www.cnbc.com/2026/06/26/oracle-stock-ends-worst-week-since-2001-as-investors-dwell-on-finances.html",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · ORCL historical prices",
+          "url": "https://finance.yahoo.com/quote/ORCL/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2026-07-09",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.01,
+      "s": {
+        "en": "Cut to BBB-",
+        "zh": "评级降至 BBB-"
+      },
+      "t": {
+        "en": "S&P cuts Oracle's credit rating to one step above junk",
+        "zh": "标普将甲骨文信用评级下调至垃圾级上方一档"
+      },
+      "summary": {
+        "en": "S&P Global Ratings lowered Oracle to BBB-, its lowest investment-grade rating, with a stable outlook. It pointed to the cost of the AI data-center build-out, a much larger cash shortfall expected in fiscal 2027, and Oracle's dependence on OpenAI as a customer.",
+        "zh": "标普全球评级把甲骨文下调至 BBB-，即投资级的最低一档，展望稳定。理由包括 AI 数据中心建设的成本、2027 财年预计大幅扩大的现金缺口，以及甲骨文对 OpenAI 这一客户的依赖。"
+      },
+      "why": {
+        "en": "Mostly a company matter that the share price already reflects; a small -1% because the debt-funded build-out is closely identified with him.",
+        "zh": "主要是公司层面的事，股价已有反映；由于举债扩张与他本人高度绑定，口碑系数小幅 -1%。"
+      },
+      "src": [
+        {
+          "name": "Fortune · S&P kept Oracle investment grade (commentary)",
+          "url": "https://fortune.com/2026/09/18/sp-kept-oracle-investment-grade-its-own-numbers-dont-support-that-call/",
+          "type": "news"
+        },
+        {
+          "name": "PPC Land · S&P cuts Oracle to BBB-",
+          "url": "https://ppc.land/s-p-cuts-oracle-to-bbb-as-ai-buildout-widens-cash-deficit-to-42bn/",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-09-25",
+      "p": "day",
+      "cat": "wealth",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.01,
+      "s": {
+        "en": "413M pledged",
+        "zh": "质押 4.13 亿股"
+      },
+      "t": {
+        "en": "Proxy shows 413 million Oracle shares pledged for personal loans",
+        "zh": "委托书披露：4.13 亿股甲骨文股票被质押用于个人借款"
+      },
+      "summary": {
+        "en": "Oracle's annual proxy statement disclosed that Ellison had pledged 413 million shares as collateral for personal term loans as of September 21, up from 346 million a year earlier. That is roughly 36% of his holding of about 1.16 billion shares. The filing says none are in margin accounts and that he can repay without selling.",
+        "zh": "甲骨文年度委托书披露，截至 9 月 21 日，埃里森已质押 4.13 亿股作为个人定期贷款的抵押品，高于一年前的 3.46 亿股，约占他所持约 11.6 亿股的 36%。文件称这些股票均不在保证金账户中，他有能力在不卖股的情况下偿还贷款。"
+      },
+      "why": {
+        "en": "The loans are netted against the 'wealth outside Oracle' line as an estimate, since their size is not disclosed. More borrowing against a falling stock raises risk and draws governance criticism: -1%.",
+        "zh": "贷款金额未披露，因此在「甲骨文以外的财富」中按估算净额扣除。在股价下跌时加码质押借款，风险上升并引来公司治理方面的批评：口碑系数 -1%。"
+      },
+      "src": [
+        {
+          "name": "SEC EDGAR · Oracle definitive proxy statement (2026)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001341439/000119312526402816/",
+          "type": "filing"
+        },
+        {
+          "name": "TheStreet · How much Oracle stock is Ellison using as collateral?",
+          "url": "https://www.thestreet.com/investing/stocks/larry-ellison-oracle-shares-pledged-loan-collateral",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-10-06",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.01,
+      "s": {
+        "en": "Warner closes",
+        "zh": "华纳交割"
+      },
+      "t": {
+        "en": "Paramount completes its purchase of Warner Bros. Discovery",
+        "zh": "派拉蒙完成对华纳兄弟探索的收购"
+      },
+      "summary": {
+        "en": "After the Justice Department and the EU cleared the deal and Paramount settled an antitrust suit brought by 12 state attorneys general, the roughly $110 billion acquisition closed. The combined company, run by David Ellison, was renamed Skydance and brings CBS, CNN, HBO and the Warner Bros. studio under one roof.",
+        "zh": "在美国司法部和欧盟放行、派拉蒙与 12 个州总检察长就反垄断诉讼达成和解之后，这笔约 1,100 亿美元的收购完成交割。合并后的公司由大卫·埃里森执掌，更名为 Skydance，把 CBS、CNN、HBO 和华纳兄弟影业收归一处。"
+      },
+      "why": {
+        "en": "The family now controls one of the largest media groups in the world. The model counts his media holdings at a rough net value inside 'wealth outside Oracle', because the stake was paid for largely with borrowed money. Reputation +1%.",
+        "zh": "这个家族如今控制着全球最大的媒体集团之一。由于这部分股权很大程度上靠借款买入，模型把他的媒体持股按粗略净值计入「甲骨文以外的财富」。口碑系数 +1%。"
+      },
+      "src": [
+        {
+          "name": "CNBC · Paramount–WBD deal timeline",
+          "url": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html",
+          "type": "news"
+        },
+        {
+          "name": "CNBC · Paramount and state AGs settle lawsuit",
+          "url": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-11-20",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 5,
+      "rep": 0,
+      "s": {
+        "en": "Out of top 10",
+        "zh": "跌出富豪前十"
+      },
+      "t": {
+        "en": "Oracle hits a 34-month low; he drops out of the top ten richest",
+        "zh": "甲骨文跌至 34 个月新低，他跌出全球富豪前十"
+      },
+      "summary": {
+        "en": "Early in November Oracle raised about $20 billion by selling 86.2 million new shares at $116 and $10 billion of notes. On November 20 the stock fell 8.5% to $101.19 in a broad sell-off of AI shares, its lowest close since January 2024 and about 69% below the September 2025 peak. Forbes estimated Ellison's fortune at $140.8 billion, outside the world's top ten.",
+        "zh": "11 月初，甲骨文通过以每股 116 美元增发 8,620 万股新股并发行 100 亿美元票据，筹资约 200 亿美元。11 月 20 日，在 AI 股普跌中，股价下跌 8.5% 至 101.19 美元，为 2024 年 1 月以来最低收盘价，较 2025 年 9 月高点低约 69%。《福布斯》估算埃里森身家为 1,408 亿美元，已不在全球前十之列。"
+      },
+      "why": {
+        "en": "In fourteen months roughly $240 billion of paper wealth has gone, all of it visible in the share price, so no reputation shock is added here. The new shares also dilute his stake to an estimated 37%.",
+        "zh": "十四个月里约 2,400 亿美元账面财富蒸发，全部体现在股价上，因此这里不另加声誉冲击。增发新股也把他的持股比例稀释到约 37%（估算）。"
+      },
+      "fin": {
+        "en": "Model: about 1.16B shares × $101.19 ≈ $117B in Oracle, plus about $23B elsewhere",
+        "zh": "模型：约 11.6 亿股 × 101.19 美元 ≈ 1,170 亿美元甲骨文持股，另有约 230 亿美元其他资产"
+      },
+      "src": [
+        {
+          "name": "Forbes · Ellison falls out of top 10 as Oracle hits 34-month low",
+          "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/11/20/larry-ellison-falls-out-of-top-10-billionaire-ranking-as-oracle-stock-hits-34-month-low/",
+          "type": "news"
+        },
+        {
+          "name": "Finviz · Oracle prices $20 billion of common stock and senior notes",
+          "url": "https://finviz.com/news/413887/oracle-announces-pricing-of-20-billion-of-common-stock-and-senior-notes",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · ORCL historical prices",
+          "url": "https://finance.yahoo.com/quote/ORCL/history",
+          "type": "market"
+        }
+      ]
+    }
+  ]
+}

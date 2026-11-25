@@ -1,0 +1,1935 @@
+{
+  "id": "zuckerberg",
+  "name": {
+    "en": "Mark Zuckerberg",
+    "zh": "马克·扎克伯格"
+  },
+  "ticker": "ZUCK",
+  "born": "1984-05-14",
+  "color": "#7CC4FF",
+  "initials": "MZ",
+  "tagline": {
+    "en": "From a Harvard dorm room to billions of users, now betting the company on AI",
+    "zh": "从哈佛宿舍到数十亿用户，如今把公司押在 AI 上"
+  },
+  "tags": [
+    {
+      "en": "Meta founder/CEO",
+      "zh": "Meta 创始人/CEO"
+    },
+    {
+      "en": "Facebook",
+      "zh": "Facebook"
+    },
+    {
+      "en": "Metaverse",
+      "zh": "元宇宙"
+    },
+    {
+      "en": "Superintelligence",
+      "zh": "超级智能"
+    }
+  ],
+  "privates": [
+    {
+      "label": {
+        "en": "Pre-IPO Facebook stake + early savings",
+        "zh": "Facebook 上市前股权 + 早期积蓄"
+      },
+      "until": "2012-05-17",
+      "anchors": [
+        [
+          "2002-06",
+          5000
+        ],
+        [
+          "2004-02-04",
+          20000
+        ],
+        [
+          "2004-08",
+          2500000
+        ],
+        [
+          "2005-05",
+          30000000
+        ],
+        [
+          "2006-04",
+          140000000
+        ],
+        [
+          "2007-10-24",
+          4000000000
+        ],
+        [
+          "2009-05",
+          2500000000
+        ],
+        [
+          "2010-06",
+          6000000000
+        ],
+        [
+          "2011-01",
+          12000000000
+        ],
+        [
+          "2012-05-17",
+          19140000000
+        ]
+      ]
+    },
+    {
+      "label": {
+        "en": "Wealth outside Meta (cash from share sales, real estate, other holdings; estimate)",
+        "zh": "Meta 以外的财富（售股所得现金、房产及其他资产，估算）"
+      },
+      "from": "2012-05-18",
+      "anchors": [
+        [
+          "2012-05-18",
+          100000000
+        ],
+        [
+          "2014",
+          500000000
+        ],
+        [
+          "2018",
+          2000000000
+        ],
+        [
+          "2021",
+          4000000000
+        ],
+        [
+          "2024",
+          7000000000
+        ],
+        [
+          "2026-11",
+          9000000000
+        ]
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "sym": "META",
+      "label": {
+        "en": "Meta Platforms stake",
+        "zh": "Meta 持股"
+      },
+      "from": "2012-05-18",
+      "own": [
+        [
+          "2012-05",
+          0.2355
+        ],
+        [
+          "2012-12",
+          0.2125
+        ],
+        [
+          "2013-12",
+          0.167
+        ],
+        [
+          "2014-12",
+          0.151
+        ],
+        [
+          "2016-12",
+          0.145
+        ],
+        [
+          "2018-12",
+          0.14
+        ],
+        [
+          "2020-12",
+          0.13
+        ],
+        [
+          "2022-12",
+          0.134
+        ],
+        [
+          "2024-12",
+          0.136
+        ],
+        [
+          "2025-12",
+          0.136
+        ],
+        [
+          "2026-11",
+          0.134
+        ]
+      ],
+      "shares": [
+        [
+          "2012-05",
+          2138000000
+        ],
+        [
+          "2012-12",
+          2370000000
+        ],
+        [
+          "2013-12",
+          2550000000
+        ],
+        [
+          "2014-12",
+          2800000000
+        ],
+        [
+          "2016-12",
+          2890000000
+        ],
+        [
+          "2017-12",
+          2910000000
+        ],
+        [
+          "2018-12",
+          2850000000
+        ],
+        [
+          "2020-12",
+          2850000000
+        ],
+        [
+          "2021-12",
+          2740000000
+        ],
+        [
+          "2022-12",
+          2610000000
+        ],
+        [
+          "2023-12",
+          2560000000
+        ],
+        [
+          "2024-12",
+          2530000000
+        ],
+        [
+          "2025-12",
+          2530000000
+        ],
+        [
+          "2026-11",
+          2550000000
+        ]
+      ]
+    }
+  ],
+  "human": [
+    [
+      "1984-05-14",
+      300000
+    ],
+    [
+      "2002",
+      800000
+    ],
+    [
+      "2002-09",
+      1200000
+    ],
+    [
+      "2004-02-04",
+      2000000
+    ],
+    [
+      "2004-08",
+      5000000
+    ],
+    [
+      "2007-10-24",
+      15000000
+    ],
+    [
+      "2012-05-18",
+      40000000
+    ],
+    [
+      "2016",
+      120000000
+    ],
+    [
+      "2021",
+      200000000
+    ],
+    [
+      "2023-02",
+      250000000
+    ],
+    [
+      "2025-06-30",
+      300000000
+    ]
+  ],
+  "audience": [
+    [
+      "1984-05-14",
+      0
+    ],
+    [
+      "2004-02-04",
+      1000
+    ],
+    [
+      "2005",
+      50000
+    ],
+    [
+      "2007",
+      1000000
+    ],
+    [
+      "2010",
+      5000000
+    ],
+    [
+      "2012",
+      15000000
+    ],
+    [
+      "2014",
+      30000000
+    ],
+    [
+      "2016",
+      70000000
+    ],
+    [
+      "2018",
+      105000000
+    ],
+    [
+      "2020",
+      115000000
+    ],
+    [
+      "2022",
+      122000000
+    ],
+    [
+      "2024",
+      132000000
+    ],
+    [
+      "2026-11",
+      140000000
+    ]
+  ],
+  "media": [
+    [
+      "1984-05-14",
+      0
+    ],
+    [
+      "2003-11",
+      0.1
+    ],
+    [
+      "2004-06",
+      0.3
+    ],
+    [
+      "2006",
+      2
+    ],
+    [
+      "2008",
+      6
+    ],
+    [
+      "2010-10",
+      20
+    ],
+    [
+      "2012-05",
+      30
+    ],
+    [
+      "2016",
+      28
+    ],
+    [
+      "2018-03",
+      45
+    ],
+    [
+      "2020",
+      35
+    ],
+    [
+      "2021-10",
+      42
+    ],
+    [
+      "2023",
+      35
+    ],
+    [
+      "2025",
+      40
+    ],
+    [
+      "2026-11",
+      42
+    ]
+  ],
+  "chapters": [
+    {
+      "from": "1984-05-14",
+      "t": {
+        "en": "Teenage programmer",
+        "zh": "少年程序员"
+      },
+      "desc": {
+        "en": "Grows up in suburban New York, writes software as a schoolboy, then goes to Exeter and Harvard",
+        "zh": "在纽约郊区长大，中学时就写软件，之后进入埃克塞特和哈佛"
+      }
+    },
+    {
+      "from": "2004-02-04",
+      "t": {
+        "en": "Dorm-room startup",
+        "zh": "宿舍里的创业"
+      },
+      "desc": {
+        "en": "Launches Facebook at Harvard, moves to Palo Alto, raises venture money and refuses to sell",
+        "zh": "在哈佛上线 Facebook，搬到帕洛阿尔托，拿到风险投资，拒绝出售公司"
+      }
+    },
+    {
+      "from": "2012-05-18",
+      "t": {
+        "en": "Public and mobile",
+        "zh": "上市与移动转型"
+      },
+      "desc": {
+        "en": "A rough IPO, a fast turn to mobile ads, and the Instagram, WhatsApp and Oculus deals",
+        "zh": "磕磕绊绊的 IPO，迅速转向移动广告，接连收购 Instagram、WhatsApp 和 Oculus"
+      }
+    },
+    {
+      "from": "2018-03-17",
+      "t": {
+        "en": "Crisis of trust",
+        "zh": "信任危机"
+      },
+      "desc": {
+        "en": "Cambridge Analytica, Congress, a record fine and years of scrutiny over privacy and content",
+        "zh": "剑桥分析、国会听证、创纪录罚单，以及围绕隐私和内容的多年审视"
+      }
+    },
+    {
+      "from": "2021-10-28",
+      "t": {
+        "en": "Metaverse bet",
+        "zh": "押注元宇宙"
+      },
+      "desc": {
+        "en": "Renames the company Meta; the stock loses three quarters of its value in a year",
+        "zh": "公司改名 Meta；股价一年内跌去四分之三"
+      }
+    },
+    {
+      "from": "2023-02-01",
+      "t": {
+        "en": "Year of Efficiency",
+        "zh": "效率之年"
+      },
+      "desc": {
+        "en": "Cuts costs, restarts growth, launches Threads and sees the stock recover to record highs",
+        "zh": "削减成本、重启增长、推出 Threads，股价回升并创下新高"
+      }
+    },
+    {
+      "from": "2025-06-30",
+      "t": {
+        "en": "Superintelligence push",
+        "zh": "冲刺超级智能"
+      },
+      "desc": {
+        "en": "Spends more than $100 billion a year on AI while courts hand down verdicts on old harms",
+        "zh": "每年在 AI 上投入超过 1000 亿美元，同时法院为过去的伤害接连作出裁决"
+      }
+    }
+  ],
+  "events": [
+    {
+      "d": "1984-05-14",
+      "p": "day",
+      "cat": "origin",
+      "dir": 0,
+      "mag": 1,
+      "rep": 0,
+      "s": {
+        "en": "Born in New York",
+        "zh": "出生纽约"
+      },
+      "t": {
+        "en": "Born in White Plains, New York",
+        "zh": "出生于纽约州白原市"
+      },
+      "summary": {
+        "en": "Mark Zuckerberg was born in White Plains, New York, and grew up in the nearby suburb of Dobbs Ferry, where he started programming as a schoolboy.",
+        "zh": "马克·扎克伯格出生在纽约州白原市，在附近的郊区小镇多布斯费里长大，上中学前就开始写程序。"
+      },
+      "why": {
+        "en": "Starting point, not scored. Human capital begins at the average level for a child born in the United States.",
+        "zh": "起点事件，不计分。人力资本以美国同龄人的平均水平作为初始值。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Mark Zuckerberg",
+          "url": "https://en.wikipedia.org/wiki/Mark_Zuckerberg",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2002",
+      "p": "year",
+      "cat": "education",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Exeter graduate",
+        "zh": "埃克塞特毕业"
+      },
+      "t": {
+        "en": "Graduates from Phillips Exeter Academy",
+        "zh": "从菲利普斯埃克塞特学院毕业"
+      },
+      "summary": {
+        "en": "He finished high school at Phillips Exeter Academy, an elite boarding school in New Hampshire. While there he co-wrote Synapse, a music player that learned a listener's taste, which drew interest from large software companies.",
+        "zh": "他在新罕布什尔州的名校菲利普斯埃克塞特学院读完高中。在校期间，他与同学合写了能学习听歌习惯的音乐播放器 Synapse，引起了大型软件公司的兴趣。"
+      },
+      "why": {
+        "en": "An education step: the human-capital target rises as he leaves a top school with a working product to his name. Only the year is known, so the date is year precision.",
+        "zh": "学历台阶：带着一款真实可用的作品从名校毕业，人力资本目标值上调。只能确认年份，因此日期精度为“年”。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Mark Zuckerberg",
+          "url": "https://en.wikipedia.org/wiki/Mark_Zuckerberg",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Phillips Exeter Academy",
+          "url": "https://en.wikipedia.org/wiki/Phillips_Exeter_Academy",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2002-09",
+      "p": "month",
+      "cat": "education",
+      "dir": 1,
+      "mag": 2,
+      "rep": 0,
+      "s": {
+        "en": "Enters Harvard",
+        "zh": "入读哈佛"
+      },
+      "t": {
+        "en": "Enrolls at Harvard College",
+        "zh": "进入哈佛大学本科"
+      },
+      "summary": {
+        "en": "He started at Harvard in the autumn of 2002, studying computer science and psychology, and quickly became known on campus for building small web tools for fellow students.",
+        "zh": "2002 年秋天他进入哈佛，学习计算机科学和心理学，很快因为给同学做各种小网站工具而在校园里出名。"
+      },
+      "why": {
+        "en": "Another education step. He left before graduating, so the model treats Harvard as a network and a launch pad rather than a finished degree.",
+        "zh": "又一级学历台阶。他后来没有读完，所以模型把哈佛看作人脉和起跳板，而不是一张完整的文凭。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Mark Zuckerberg",
+          "url": "https://en.wikipedia.org/wiki/Mark_Zuckerberg",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2003-11",
+      "p": "month",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 2,
+      "rep": -0.01,
+      "s": {
+        "en": "Facemash",
+        "zh": "Facemash 风波"
+      },
+      "t": {
+        "en": "Facemash goes viral and is shut down within days",
+        "zh": "Facemash 走红，几天内被关停"
+      },
+      "summary": {
+        "en": "He built Facemash, a site that asked students to rate classmates' photos taken from Harvard's online house directories without permission. It spread across campus over a weekend, was taken down, and he was called before the university's Administrative Board.",
+        "zh": "他做了一个叫 Facemash 的网站，未经许可从哈佛各宿舍的在线名册里抓取照片，让同学两两比较打分。网站一个周末传遍校园后被关停，他本人被学校纪律委员会传唤。"
+      },
+      "why": {
+        "en": "Tiny in money terms, but it is the first privacy controversy of his career, so the reputation coefficient takes a small 1% hit. It also showed him how fast a campus network could spread.",
+        "zh": "金额上可以忽略，但这是他职业生涯里第一场隐私争议，口碑系数小幅 -1%。这件事也让他看到校园社交网络的传播速度。"
+      },
+      "src": [
+        {
+          "name": "The Harvard Crimson · Facemash coverage (2003-11-04)",
+          "url": "https://www.thecrimson.com/article/2003/11/4/hot-or-not-website-briefly-judges/",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Facemash",
+          "url": "https://en.wikipedia.org/wiki/Facemash",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2004-02-04",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.02,
+      "s": {
+        "en": "Launches Facebook",
+        "zh": "Facebook 上线"
+      },
+      "t": {
+        "en": "Launches thefacebook.com from his Harvard dorm room",
+        "zh": "在哈佛宿舍上线 thefacebook.com"
+      },
+      "summary": {
+        "en": "He put thefacebook.com online for Harvard students. Hundreds signed up within days, and the site spread to other universities over the following months. That summer he moved to Palo Alto and did not return to Harvard.",
+        "zh": "他把 thefacebook.com 推向哈佛学生，几天内就有数百人注册，随后几个月扩展到其他大学。当年夏天他搬到帕洛阿尔托，此后没有再回哈佛上课。"
+      },
+      "why": {
+        "en": "The turning point of his life: from this day he owns founder equity. Financial capital switches from pocket money to an estimated stake value, and human capital starts climbing toward the level of a startup founder.",
+        "zh": "人生转折点：从这一天起他持有创始人股权。金融资本从零花钱切换为估算的股权价值，人力资本开始向“创业公司创始人”的水平爬升。"
+      },
+      "fin": {
+        "en": "Founder equity enters the model (valued by interpolating between funding rounds).",
+        "zh": "创始人股权进入模型（私有阶段按各轮融资估值插值）。"
+      },
+      "src": [
+        {
+          "name": "The Harvard Crimson · Hundreds register for new Facebook website (2004-02-09)",
+          "url": "https://www.thecrimson.com/article/2004/2/9/hundreds-register-for-new-facebook-website/",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · History of Facebook",
+          "url": "https://en.wikipedia.org/wiki/History_of_Facebook",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2004-08",
+      "p": "month",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Thiel's $500K",
+        "zh": "蒂尔投 50 万"
+      },
+      "t": {
+        "en": "Peter Thiel makes the first outside investment: $500,000",
+        "zh": "彼得·蒂尔投入第一笔外部资金：50 万美元"
+      },
+      "summary": {
+        "en": "PayPal co-founder Peter Thiel put about $500,000 into the young company for roughly 10% of it and joined the board. It was the first outside money and put a price of about $5 million on the business.",
+        "zh": "PayPal 联合创始人彼得·蒂尔向这家新公司投入约 50 万美元，换取大约 10% 的股份，并加入董事会。这是公司第一笔外部资金，对应估值约 500 万美元。"
+      },
+      "why": {
+        "en": "First priced round. The stake anchor is an estimate: a valuation near $5 million times an ownership share of roughly half. Sources date the deal to the summer of 2004; the month is approximate.",
+        "zh": "第一轮有定价的融资。持股价值为估算：约 500 万美元估值乘以大约一半的持股比例。各方资料只说是 2004 年夏天，月份为近似值。"
+      },
+      "fin": {
+        "en": "Estimated stake: about $2.5 million.",
+        "zh": "估算持股价值：约 250 万美元。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Peter Thiel",
+          "url": "https://en.wikipedia.org/wiki/Peter_Thiel",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · History of Facebook",
+          "url": "https://en.wikipedia.org/wiki/History_of_Facebook",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2005-05",
+      "p": "month",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Accel Series A",
+        "zh": "Accel A 轮"
+      },
+      "t": {
+        "en": "Accel invests $12.7 million at a valuation near $100 million",
+        "zh": "Accel 投资 1270 万美元，估值接近 1 亿美元"
+      },
+      "summary": {
+        "en": "Venture firm Accel led a $12.7 million Series A that valued the one-year-old company at about $98 million. Later that year the company dropped \"the\" from its name and became simply Facebook.",
+        "zh": "风险投资机构 Accel 领投 1270 万美元的 A 轮融资，这家成立仅一年的公司估值约 9800 万美元。同年晚些时候，公司把名字里的“the”去掉，正式叫 Facebook。"
+      },
+      "why": {
+        "en": "The stake anchor steps up to roughly $30 million (estimate: valuation times an ownership share of about 30%). Accounts differ on whether the round closed in April or May 2005.",
+        "zh": "持股价值锚点上调到约 3000 万美元（估算：估值乘以约 30% 的持股比例）。这轮融资完成于 2005 年 4 月还是 5 月，各方说法不一。"
+      },
+      "fin": {
+        "en": "Estimated stake: about $30 million.",
+        "zh": "估算持股价值：约 3000 万美元。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · History of Facebook",
+          "url": "https://en.wikipedia.org/wiki/History_of_Facebook",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Accel",
+          "url": "https://en.wikipedia.org/wiki/Accel_(company)",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2006-09",
+      "p": "month",
+      "cat": "career",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "Rejects Yahoo",
+        "zh": "拒绝雅虎 10 亿"
+      },
+      "t": {
+        "en": "Turns down a sale to Yahoo for about $1 billion",
+        "zh": "拒绝以约 10 亿美元卖给雅虎"
+      },
+      "summary": {
+        "en": "Yahoo held serious talks to buy Facebook, with the price reported to reach about $1 billion. Zuckerberg, then 22, chose to stay independent even though several investors and executives favored selling.",
+        "zh": "雅虎与 Facebook 认真谈过收购，据报道价格一度谈到约 10 亿美元。当时 22 岁的扎克伯格坚持独立发展，尽管一些投资人和高管倾向于卖掉。"
+      },
+      "why": {
+        "en": "No money changed hands, so financial capital does not move. The decision later became the standard story about founder conviction, which is why the reputation coefficient gets +2%.",
+        "zh": "没有任何资金易手，金融资本不变。但这个决定后来成了“创始人定力”的经典故事，因此口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · History of Facebook",
+          "url": "https://en.wikipedia.org/wiki/History_of_Facebook",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Mark Zuckerberg",
+          "url": "https://en.wikipedia.org/wiki/Mark_Zuckerberg",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2006-09-26",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Open to everyone",
+        "zh": "向所有人开放"
+      },
+      "t": {
+        "en": "Facebook opens to anyone aged 13 or older",
+        "zh": "Facebook 向所有 13 岁以上用户开放"
+      },
+      "summary": {
+        "en": "Facebook dropped the requirement of a school or company email address and let anyone aged 13 or over sign up. The same month it introduced News Feed, which angered many users at first and then became the core of the product.",
+        "zh": "Facebook 取消了必须使用学校或公司邮箱的限制，13 岁以上的任何人都可以注册。同月推出的动态消息（News Feed）起初引发大量用户抗议，后来成为产品的核心。"
+      },
+      "why": {
+        "en": "The step from a college site to a mass-market product. The value shows up in later funding rounds; the reputation coefficient gets +2% for the product call that proved right.",
+        "zh": "从校园网站走向大众产品的一步。价值体现在之后的融资估值里；这个后来被证明正确的产品决定带来口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · History of Facebook",
+          "url": "https://en.wikipedia.org/wiki/History_of_Facebook",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2007-10-24",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.03,
+      "s": {
+        "en": "Microsoft: $15B",
+        "zh": "微软入股"
+      },
+      "t": {
+        "en": "Microsoft buys 1.6% of Facebook, valuing it at $15 billion",
+        "zh": "微软买入 Facebook 1.6% 股份，估值 150 亿美元"
+      },
+      "summary": {
+        "en": "Microsoft paid $240 million for a 1.6% stake and an advertising partnership, beating Google to the deal. The implied $15 billion price made the 23-year-old founder a billionaire on paper.",
+        "zh": "微软出资 2.4 亿美元买下 1.6% 的股份，并拿到广告合作，在竞争中击败了谷歌。150 亿美元的隐含估值让这位 23 岁的创始人成了账面上的亿万富翁。"
+      },
+      "why": {
+        "en": "The stake anchor jumps to about $4 billion (estimate). Many observers thought the price was inflated by the ad deal, and the next round in 2009 valued the company lower, which the model shows as a dip.",
+        "zh": "持股价值锚点跳升到约 40 亿美元（估算）。很多观察者认为这个价格被广告合作抬高了，2009 年的下一轮融资估值更低，模型里表现为一段回落。"
+      },
+      "fin": {
+        "en": "Estimated stake: about $4 billion at the headline valuation.",
+        "zh": "按名义估值估算的持股价值：约 40 亿美元。"
+      },
+      "src": [
+        {
+          "name": "Meta Newsroom · Facebook and Microsoft expand strategic alliance",
+          "url": "https://about.fb.com/news/2007/10/facebook-and-microsoft-expand-strategic-alliance/",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · History of Facebook",
+          "url": "https://en.wikipedia.org/wiki/History_of_Facebook",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2010-10-01",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 0,
+      "mag": 3,
+      "rep": -0.01,
+      "s": {
+        "en": "The Social Network",
+        "zh": "《社交网络》"
+      },
+      "t": {
+        "en": "The film \"The Social Network\" opens in U.S. cinemas",
+        "zh": "电影《社交网络》在美国上映"
+      },
+      "summary": {
+        "en": "David Fincher's film told a dramatized version of Facebook's founding and the lawsuits around it. It was a critical and commercial success and fixed an unflattering picture of Zuckerberg in the public mind, which he said was inaccurate.",
+        "zh": "大卫·芬奇执导的这部电影以戏剧化的方式讲述了 Facebook 的创立和相关诉讼。影片叫好又叫座，也把一个并不讨喜的扎克伯格形象刻进了公众印象，他本人表示影片与事实不符。"
+      },
+      "why": {
+        "en": "Mixed: his fame and audience rose sharply, but the portrait was negative. The model raises the media baseline and applies a small -1% to the reputation coefficient.",
+        "zh": "影响好坏参半：知名度和受众大幅上升，但人物形象偏负面。模型上调媒体热度基线，同时口碑系数小幅 -1%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · The Social Network",
+          "url": "https://en.wikipedia.org/wiki/The_Social_Network",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2010-12-15",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.03,
+      "s": {
+        "en": "Person of the Year",
+        "zh": "时代年度人物"
+      },
+      "t": {
+        "en": "Named TIME's Person of the Year",
+        "zh": "当选《时代》周刊年度人物"
+      },
+      "summary": {
+        "en": "TIME chose the 26-year-old as its Person of the Year for connecting more than half a billion people. In the same month he signed the Giving Pledge, a promise to give away most of his wealth.",
+        "zh": "《时代》周刊把 26 岁的他选为年度人物，理由是他把五亿多人连接在了一起。同月他签署了“捐赠誓言”，承诺捐出大部分财富。"
+      },
+      "why": {
+        "en": "A pure reputation event that no valuation captures, so the reputation coefficient gets +3%.",
+        "zh": "纯声誉事件，任何估值都反映不了，因此口碑系数 +3%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Time Person of the Year",
+          "url": "https://en.wikipedia.org/wiki/Time_Person_of_the_Year",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Mark Zuckerberg",
+          "url": "https://en.wikipedia.org/wiki/Mark_Zuckerberg",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2012-04-09",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.03,
+      "s": {
+        "en": "Buys Instagram",
+        "zh": "收购 Instagram"
+      },
+      "t": {
+        "en": "Agrees to buy Instagram for about $1 billion",
+        "zh": "宣布以约 10 亿美元收购 Instagram"
+      },
+      "summary": {
+        "en": "Weeks before the IPO, Facebook agreed to pay about $1 billion in cash and stock for Instagram, a photo app with 13 employees and no revenue. Zuckerberg negotiated the deal largely by himself.",
+        "zh": "上市前几周，Facebook 同意用约 10 亿美元的现金和股票收购 Instagram——一家只有 13 名员工、没有收入的图片应用。这笔交易主要由扎克伯格本人谈成。"
+      },
+      "why": {
+        "en": "Widely mocked as overpriced at the time and later seen as one of the best acquisitions in technology. The long-run value sits in the share price; the reputation coefficient gets +3% for the judgment.",
+        "zh": "当时普遍被嘲笑买贵了，后来被视为科技史上最成功的收购之一。长期价值已体现在股价里；这份判断力带来口碑系数 +3%。"
+      },
+      "src": [
+        {
+          "name": "Meta Newsroom · Facebook to acquire Instagram",
+          "url": "https://about.fb.com/news/2012/04/facebook-to-acquire-instagram/",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Instagram",
+          "url": "https://en.wikipedia.org/wiki/Instagram",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2012-05-18",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.02,
+      "s": {
+        "en": "Nasdaq IPO at $38",
+        "zh": "纳斯达克上市"
+      },
+      "t": {
+        "en": "Facebook lists on Nasdaq at $38 a share, valued at $104 billion",
+        "zh": "Facebook 以每股 38 美元在纳斯达克上市，估值 1040 亿美元"
+      },
+      "summary": {
+        "en": "Facebook raised about $16 billion in what was then the largest technology IPO. Trading opened late because of exchange glitches and the stock closed almost exactly at the offer price. Zuckerberg sold about 30 million shares, mainly to cover taxes, and kept voting control.",
+        "zh": "Facebook 募资约 160 亿美元，是当时规模最大的科技股 IPO。因交易所系统故障，开盘推迟，首日收盘价几乎与发行价持平。扎克伯格卖出约 3000 万股，主要用于缴税，同时保住了投票控制权。"
+      },
+      "why": {
+        "en": "Anchor switch: from this day financial capital = ownership × shares outstanding × the daily close. His remaining stake of roughly 500 million shares was worth about $19 billion at the offer price (ownership figures are estimates from the prospectus).",
+        "zh": "锚点切换：从这一天起，金融资本 = 持股比例 × 总股本 × 当日收盘价。他剩下的约 5 亿股按发行价计算约值 190 亿美元（持股数字为根据招股书的估算）。"
+      },
+      "fin": {
+        "en": "Priced daily from the META (then FB) quote from here on.",
+        "zh": "此后按 META（当时代码 FB）日线逐日计价。"
+      },
+      "src": [
+        {
+          "name": "SEC EDGAR · Facebook IPO prospectus (424B4)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1326801/000119312512240111/d287954d424b4.htm",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Initial public offering of Facebook",
+          "url": "https://en.wikipedia.org/wiki/Initial_public_offering_of_Facebook",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · META price history",
+          "url": "https://finance.yahoo.com/quote/META/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2012-09-04",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.02,
+      "s": {
+        "en": "Stock halves",
+        "zh": "股价腰斩"
+      },
+      "t": {
+        "en": "Shares close at $17.73, less than half the IPO price",
+        "zh": "股价收于 17.73 美元，不到发行价的一半"
+      },
+      "summary": {
+        "en": "In the months after the listing, investors doubted that Facebook could make money on mobile phones, where it showed almost no ads. The stock hit its lowest close on this day. Zuckerberg said he would not sell any shares for at least a year.",
+        "zh": "上市后的几个月里，投资者怀疑 Facebook 能否在手机上赚钱——当时它在移动端几乎没有广告。股价在这一天创下收盘最低点。扎克伯格表示至少一年内不会出售任何股票。"
+      },
+      "why": {
+        "en": "The loss itself is in the share price. The reputation coefficient takes an extra -2% for the botched IPO and the open questions about whether a young founder could run a public company.",
+        "zh": "损失本身已体现在股价里。IPO 的糟糕表现以及“年轻创始人能否管好上市公司”的质疑，另扣口碑系数 2%。"
+      },
+      "src": [
+        {
+          "name": "Yahoo Finance · META price history",
+          "url": "https://finance.yahoo.com/quote/META/history",
+          "type": "market"
+        },
+        {
+          "name": "Wikipedia · Initial public offering of Facebook",
+          "url": "https://en.wikipedia.org/wiki/Initial_public_offering_of_Facebook",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2013-07-24",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.03,
+      "s": {
+        "en": "Mobile ads work",
+        "zh": "移动广告成了"
+      },
+      "t": {
+        "en": "Mobile reaches 41% of ad revenue; shares jump almost 30% the next day",
+        "zh": "移动端占广告收入 41%，次日股价大涨近三成"
+      },
+      "summary": {
+        "en": "Second-quarter results showed that mobile ads, which barely existed a year earlier, already made up 41% of advertising revenue. The stock rose 29.6% on July 25 and soon climbed back above the IPO price.",
+        "zh": "二季度财报显示，一年前几乎不存在的移动广告已经占到广告收入的 41%。7 月 25 日股价上涨 29.6%，不久后重新站上发行价。"
+      },
+      "why": {
+        "en": "The price jump is carried by the stock. The +3% on the reputation coefficient is for proving he could turn the whole company around a new platform in about a year.",
+        "zh": "股价的跳升由股票自身反映。口碑系数 +3% 是因为他证明了自己能在一年左右把整个公司转向新平台。"
+      },
+      "src": [
+        {
+          "name": "Yahoo Finance · META price history",
+          "url": "https://finance.yahoo.com/quote/META/history",
+          "type": "market"
+        },
+        {
+          "name": "Wikipedia · History of Facebook",
+          "url": "https://en.wikipedia.org/wiki/History_of_Facebook",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2014-02-19",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "Buys WhatsApp",
+        "zh": "收购 WhatsApp"
+      },
+      "t": {
+        "en": "Agrees to buy WhatsApp for about $19 billion",
+        "zh": "宣布以约 190 亿美元收购 WhatsApp"
+      },
+      "summary": {
+        "en": "Facebook announced it would pay about $19 billion in cash and stock for the messaging app WhatsApp, which then had around 450 million users and a staff of about 55. It remains the company's largest acquisition.",
+        "zh": "Facebook 宣布以约 190 亿美元的现金和股票收购即时通讯应用 WhatsApp，当时它有约 4.5 亿用户、约 55 名员工。这至今仍是公司最大的一笔收购。"
+      },
+      "why": {
+        "en": "The share issue diluted his ownership a little, which the ownership anchors reflect. The reputation coefficient gets +2% for locking up global messaging.",
+        "zh": "为收购增发的股票略微稀释了他的持股比例，持股锚点已反映这一点。拿下全球即时通讯入口，口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Meta Newsroom · Facebook to acquire WhatsApp",
+          "url": "https://about.fb.com/news/2014/02/facebook-to-acquire-whatsapp/",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · WhatsApp",
+          "url": "https://en.wikipedia.org/wiki/WhatsApp",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2014-03-25",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 2,
+      "rep": 0.01,
+      "s": {
+        "en": "Buys Oculus",
+        "zh": "收购 Oculus"
+      },
+      "t": {
+        "en": "Agrees to buy virtual-reality startup Oculus for about $2 billion",
+        "zh": "宣布以约 20 亿美元收购虚拟现实公司 Oculus"
+      },
+      "summary": {
+        "en": "Facebook agreed to buy Oculus VR, a headset maker that had not yet shipped a consumer product, for about $2 billion. Zuckerberg called virtual reality the next major computing platform.",
+        "zh": "Facebook 同意以约 20 亿美元收购当时还没有推出消费级产品的头显厂商 Oculus VR。扎克伯格称虚拟现实是下一个主要的计算平台。"
+      },
+      "why": {
+        "en": "Scored as mixed: it is the seed of the later Reality Labs division, which went on to lose tens of billions of dollars, and also of the smart-glasses business. A small +1% for long-range ambition.",
+        "zh": "记为好坏参半：这是后来 Reality Labs 部门的起点，该部门此后累计亏损数百亿美元，但智能眼镜业务也由此而来。长线野心小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "Meta Newsroom · Facebook to acquire Oculus",
+          "url": "https://about.fb.com/news/2014/03/facebook-to-acquire-oculus/",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Reality Labs",
+          "url": "https://en.wikipedia.org/wiki/Reality_Labs",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2015-12-01",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.04,
+      "s": {
+        "en": "99% pledge",
+        "zh": "承诺捐 99%"
+      },
+      "t": {
+        "en": "Pledges 99% of his Facebook shares to the Chan Zuckerberg Initiative",
+        "zh": "承诺把 99% 的 Facebook 股份投入陈-扎克伯格倡议"
+      },
+      "summary": {
+        "en": "He announced that 99% of his Facebook shares, worth about $45 billion at the time, would go to philanthropic causes over his lifetime through a new organization, the Chan Zuckerberg Initiative. Critics pointed out that it was set up as a company rather than a charity, which keeps control in his hands.",
+        "zh": "他宣布，在有生之年把自己 99% 的 Facebook 股份（当时约值 450 亿美元）通过新成立的“陈-扎克伯格倡议”用于公益。批评者指出，该机构是有限责任公司而非慈善基金会，控制权仍在他手里。"
+      },
+      "why": {
+        "en": "A pledge, not a transfer: the shares stay in his stake until they are actually sold or given, so financial capital does not drop. The reputation coefficient gets +4%.",
+        "zh": "这是承诺而非过户：股份在真正卖出或捐出之前仍算在他名下，所以金融资本不下降。口碑系数 +4%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Chan Zuckerberg Initiative",
+          "url": "https://en.wikipedia.org/wiki/Chan_Zuckerberg_Initiative",
+          "type": "wiki"
+        },
+        {
+          "name": "Wikipedia · Mark Zuckerberg",
+          "url": "https://en.wikipedia.org/wiki/Mark_Zuckerberg",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2018-03-17",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 5,
+      "rep": -0.06,
+      "s": {
+        "en": "Cambridge scandal",
+        "zh": "剑桥分析丑闻"
+      },
+      "t": {
+        "en": "The Cambridge Analytica data scandal breaks",
+        "zh": "剑桥分析数据丑闻爆发"
+      },
+      "summary": {
+        "en": "Newspapers reported that the political consultancy Cambridge Analytica had obtained personal data from tens of millions of Facebook profiles through a quiz app, without users' consent. The stock fell about 7% on the next trading day and Zuckerberg stayed silent for several days before apologizing.",
+        "zh": "媒体报道，政治咨询公司剑桥分析通过一款测验应用，在用户不知情的情况下获取了数千万 Facebook 用户的个人数据。下一个交易日股价下跌约 7%，扎克伯格沉默数日后才公开道歉。"
+      },
+      "why": {
+        "en": "The price drop is in the stock. The lasting damage was to trust in him personally, which the market cannot fully see, so the reputation coefficient takes the maximum -6%.",
+        "zh": "股价下跌已由股票反映。更持久的伤害是公众对他个人的信任，这是市场看不全的，因此口碑系数扣到上限 -6%。"
+      },
+      "src": [
+        {
+          "name": "Wikipedia · Facebook–Cambridge Analytica data scandal",
+          "url": "https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal",
+          "type": "wiki"
+        },
+        {
+          "name": "Yahoo Finance · META price history",
+          "url": "https://finance.yahoo.com/quote/META/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2018-04-10",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 0,
+      "mag": 4,
+      "rep": 0.01,
+      "s": {
+        "en": "Congress hearing",
+        "zh": "国会作证"
+      },
+      "t": {
+        "en": "Testifies before the U.S. Senate and House over two days",
+        "zh": "连续两天在美国参众两院作证"
+      },
+      "summary": {
+        "en": "He answered questions from dozens of senators on April 10 and from a House committee the next day, about ten hours in total, on privacy, election interference and regulation. He took responsibility for the data failures. The stock rose 4.5% on the first day.",
+        "zh": "4 月 10 日他接受数十名参议员质询，次日又出席众议院委员会听证，两天合计约十小时，话题涉及隐私、选举干预和监管。他表示对数据问题负责。作证首日股价上涨 4.5%。"
+      },
+      "why": {
+        "en": "Mixed: being summoned at all confirmed how serious the crisis was, but his composed performance calmed investors. The price reaction is in the stock; a small +1% offsets part of the earlier hit.",
+        "zh": "好坏参半：被传唤本身说明危机之重，但他沉稳的表现安抚了投资者。股价反应已在股票里；口碑系数小幅 +1%，抵消此前的一部分扣分。"
+      },
+      "src": [
+        {
+          "name": "U.S. Senate Judiciary Committee · Hearing record (2018-04-10)",
+          "url": "https://www.judiciary.senate.gov/committee-activity/hearings/facebook-social-media-privacy-and-the-use-and-abuse-of-data",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Mark Zuckerberg",
+          "url": "https://en.wikipedia.org/wiki/Mark_Zuckerberg",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2018-07-26",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "-19% in one day",
+        "zh": "单日暴跌 19%"
+      },
+      "t": {
+        "en": "Shares fall 19% in a day, erasing about $119 billion",
+        "zh": "股价单日下跌 19%，市值蒸发约 1190 亿美元"
+      },
+      "summary": {
+        "en": "After second-quarter results, the company warned that revenue growth would slow and that spending on safety and privacy would squeeze profit margins. The stock fell 19%, at the time the largest one-day loss of market value for any U.S. company.",
+        "zh": "二季度财报发布后，公司警告收入增速将放缓，安全和隐私方面的投入会压低利润率。股价下跌 19%，创下当时美国上市公司单日市值损失的最高纪录。"
+      },
+      "why": {
+        "en": "Fully priced by the market, so no extra reputation shock (rep = 0). His stake lost roughly $16 billion that day.",
+        "zh": "完全由市场定价，不再额外扣口碑（rep = 0）。他的持股当天缩水约 160 亿美元。"
+      },
+      "src": [
+        {
+          "name": "Yahoo Finance · META price history",
+          "url": "https://finance.yahoo.com/quote/META/history",
+          "type": "market"
+        },
+        {
+          "name": "Wikipedia · History of Facebook",
+          "url": "https://en.wikipedia.org/wiki/History_of_Facebook",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2019-07-24",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.02,
+      "s": {
+        "en": "$5B FTC fine",
+        "zh": "FTC 罚 50 亿"
+      },
+      "t": {
+        "en": "The FTC imposes a record $5 billion privacy penalty",
+        "zh": "美国联邦贸易委员会开出 50 亿美元隐私罚单"
+      },
+      "summary": {
+        "en": "To settle the investigation that followed Cambridge Analytica, Facebook agreed to pay $5 billion and to accept new privacy oversight, including a board-level privacy committee and personal compliance certifications by Zuckerberg.",
+        "zh": "为了结剑桥分析事件引发的调查，Facebook 同意支付 50 亿美元，并接受新的隐私监管安排，包括在董事会设立隐私委员会、由扎克伯格本人定期签署合规证明。"
+      },
+      "why": {
+        "en": "The market had expected the fine, so the stock barely moved. The -2% on the reputation coefficient is for the formal finding and the personal obligations placed on him.",
+        "zh": "市场早有预期，股价几乎没动。口碑系数 -2% 来自这一正式认定以及加在他个人身上的合规义务。"
+      },
+      "src": [
+        {
+          "name": "FTC · Press release on the $5 billion penalty",
+          "url": "https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2021-10-28",
+      "p": "day",
+      "cat": "career",
+      "dir": 0,
+      "mag": 4,
+      "rep": -0.02,
+      "s": {
+        "en": "Renamed Meta",
+        "zh": "改名 Meta"
+      },
+      "t": {
+        "en": "Renames the company Meta and bets on the metaverse",
+        "zh": "公司更名为 Meta，押注元宇宙"
+      },
+      "summary": {
+        "en": "At the annual Connect event he announced that Facebook, Inc. would become Meta Platforms and that building the metaverse was its new long-term goal. The change came weeks after a former employee leaked internal research on the harms of its apps.",
+        "zh": "在年度 Connect 大会上，他宣布 Facebook 公司更名为 Meta Platforms，并把建设元宇宙作为新的长期目标。就在几周前，一名前员工刚刚泄露了关于旗下应用危害的内部研究。"
+      },
+      "why": {
+        "en": "Scored as mixed. The stock hardly reacted on the day. Many people read the timing as a way to change the subject, so the reputation coefficient takes -2%.",
+        "zh": "记为好坏参半。当天股价几乎没有反应。很多人认为选在这个时点是为了转移话题，口碑系数 -2%。"
+      },
+      "src": [
+        {
+          "name": "Meta Newsroom · The Facebook company is now Meta",
+          "url": "https://about.fb.com/news/2021/10/facebook-company-is-now-meta/",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Meta Platforms",
+          "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2022-02-03",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 5,
+      "rep": 0,
+      "s": {
+        "en": "-26% wipeout",
+        "zh": "单日暴跌 26%"
+      },
+      "t": {
+        "en": "Shares plunge 26%, wiping out more than $230 billion in a day",
+        "zh": "股价单日暴跌 26%，市值蒸发超过 2300 亿美元"
+      },
+      "summary": {
+        "en": "Meta reported its first-ever drop in daily Facebook users, said Apple's privacy changes would cost about $10 billion in ad revenue that year, and disclosed heavy metaverse losses. The stock fell 26.4%, then the biggest one-day loss of value in U.S. market history, and Zuckerberg's wealth dropped by about $29 billion.",
+        "zh": "Meta 披露 Facebook 日活用户首次出现下滑，表示苹果的隐私新规当年将使广告收入减少约 100 亿美元，并公布了元宇宙业务的巨额亏损。股价下跌 26.4%，创下当时美股单日市值损失纪录，扎克伯格的身家一天缩水约 290 亿美元。"
+      },
+      "why": {
+        "en": "The start of the worst year of his career as a public-company CEO. Everything here is priced by the market, so rep = 0 to avoid double counting.",
+        "zh": "这是他担任上市公司 CEO 以来最糟糕一年的开端。所有影响都已由市场定价，为避免重复计算，rep = 0。"
+      },
+      "src": [
+        {
+          "name": "The Irish Times · Zuckerberg loses $29bn in a day",
+          "url": "https://www.irishtimes.com/business/technology/zuckerberg-loses-29bn-in-a-day-as-meta-shares-crash-1.4793138",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · META price history",
+          "url": "https://finance.yahoo.com/quote/META/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2022-11-09",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 4,
+      "rep": -0.03,
+      "s": {
+        "en": "11,000 laid off",
+        "zh": "裁员 1.1 万人"
+      },
+      "t": {
+        "en": "Cuts 11,000 jobs, the first mass layoff in company history",
+        "zh": "裁员 1.1 万人，公司史上首次大规模裁员"
+      },
+      "summary": {
+        "en": "With the stock down about three quarters from its 2021 peak (it closed at $88.91 on November 3), Zuckerberg announced that about 13% of staff would lose their jobs. He wrote that he had over-hired and took responsibility for the mistake.",
+        "zh": "股价较 2021 年高点已跌去约四分之三（11 月 3 日收于 88.91 美元），扎克伯格宣布约 13% 的员工将被裁。他在公开信中承认自己招人过多，并表示为这一错误负责。"
+      },
+      "why": {
+        "en": "The low point of the chart. The fall in the stake is in the stock; the -3% on the reputation coefficient is for the widely shared view that the metaverse bet had been a costly misjudgment.",
+        "zh": "整条曲线的最低点。持股缩水由股价反映；口碑系数 -3% 来自当时普遍的看法：元宇宙这一赌注是一次代价高昂的误判。"
+      },
+      "src": [
+        {
+          "name": "Meta Newsroom · Mark Zuckerberg's message to employees",
+          "url": "https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message/",
+          "type": "filing"
+        },
+        {
+          "name": "Yahoo Finance · META price history",
+          "url": "https://finance.yahoo.com/quote/META/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2023-02-01",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 5,
+      "rep": 0.04,
+      "s": {
+        "en": "Year of Efficiency",
+        "zh": "效率之年"
+      },
+      "t": {
+        "en": "Declares a \"Year of Efficiency\"; shares jump 23% the next day",
+        "zh": "宣布“效率之年”，次日股价大涨 23%"
+      },
+      "summary": {
+        "en": "Alongside fourth-quarter results, he said 2023 would be a year of efficiency, with flatter management, lower spending and a $40 billion share buyback. The stock rose 23.3% on February 2 and nearly tripled over the year. A second round of about 10,000 job cuts followed in March.",
+        "zh": "在发布四季度财报的同时，他表示 2023 年将是“效率之年”：压缩管理层级、削减开支，并回购 400 亿美元股票。2 月 2 日股价上涨 23.3%，全年涨了近两倍。3 月又进行了约 1 万人的第二轮裁员。"
+      },
+      "why": {
+        "en": "The turnaround that rebuilt his standing with investors. The rally is in the stock; the +4% on the reputation coefficient is for showing he could reverse course after a public mistake.",
+        "zh": "这次转身重建了他在投资者心中的地位。上涨行情由股价反映；口碑系数 +4% 是因为他证明了自己能在公开犯错后调头。"
+      },
+      "src": [
+        {
+          "name": "Meta Investor Relations · Q4 and full-year 2022 results",
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2023/Meta-Reports-Fourth-Quarter-and-Full-Year-2022-Results/default.aspx",
+          "type": "filing"
+        },
+        {
+          "name": "Meta Newsroom · Update on Meta's Year of Efficiency",
+          "url": "https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/",
+          "type": "filing"
+        },
+        {
+          "name": "Yahoo Finance · META price history",
+          "url": "https://finance.yahoo.com/quote/META/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2023-07-05",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.02,
+      "s": {
+        "en": "Threads launch",
+        "zh": "Threads 上线"
+      },
+      "t": {
+        "en": "Launches Threads, which reaches 100 million sign-ups in five days",
+        "zh": "推出 Threads，五天注册用户破 1 亿"
+      },
+      "summary": {
+        "en": "Meta released Threads, a text-based app built on Instagram accounts and aimed at users unhappy with Twitter. It passed 100 million sign-ups in five days, then the fastest start of any consumer app.",
+        "zh": "Meta 推出基于 Instagram 账号的文字社交应用 Threads，瞄准对推特不满的用户。五天内注册用户突破 1 亿，是当时起步最快的消费级应用。"
+      },
+      "why": {
+        "en": "Little immediate revenue, so the stock impact was small. The +2% is for a visible product win, and his own audience grew with the new platform.",
+        "zh": "短期内几乎不带来收入，对股价影响有限。口碑系数 +2% 来自一次看得见的产品胜利，他个人的受众也随新平台增长。"
+      },
+      "src": [
+        {
+          "name": "Meta Newsroom · Introducing Threads",
+          "url": "https://about.fb.com/news/2023/07/introducing-threads-new-app-text-sharing/",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Threads",
+          "url": "https://en.wikipedia.org/wiki/Threads_(social_network)",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2024-01-31",
+      "p": "day",
+      "cat": "reputation",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.02,
+      "s": {
+        "en": "Senate apology",
+        "zh": "参议院道歉"
+      },
+      "t": {
+        "en": "Apologizes to families at a Senate hearing on child safety",
+        "zh": "在参议院儿童安全听证会上向受害家庭道歉"
+      },
+      "summary": {
+        "en": "At a Senate Judiciary Committee hearing on the online exploitation of children, a senator pressed him to address the parents in the room. He stood, turned to them and said he was sorry for what their families had gone through.",
+        "zh": "在参议院司法委员会关于儿童网络侵害的听证会上，一名参议员要求他对在场的家长说点什么。他起身转向他们，为这些家庭所经历的一切道歉。"
+      },
+      "why": {
+        "en": "The image was replayed worldwide and the child-safety issue later turned into costly lawsuits. The stock did not react, so the effect is taken as -2% on the reputation coefficient.",
+        "zh": "这一画面在全球反复播放，儿童安全问题后来演变成代价高昂的诉讼。当时股价没有反应，因此影响记为口碑系数 -2%。"
+      },
+      "src": [
+        {
+          "name": "U.S. Senate Judiciary Committee · Hearing record (2024-01-31)",
+          "url": "https://www.judiciary.senate.gov/committee-activity/hearings/big-tech-and-the-online-child-sexual-exploitation-crisis",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Mark Zuckerberg",
+          "url": "https://en.wikipedia.org/wiki/Mark_Zuckerberg",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2024-02-02",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0,
+      "s": {
+        "en": "+20%, 1st dividend",
+        "zh": "大涨 20%"
+      },
+      "t": {
+        "en": "Shares jump 20% after the first-ever dividend, a record one-day gain",
+        "zh": "首次派息后股价大涨 20%，创单日市值增幅纪录"
+      },
+      "summary": {
+        "en": "Meta reported strong results, announced its first dividend of $0.50 a share per quarter and added $50 billion to its buyback. The stock rose 20.3% to a record close, adding about $197 billion in market value, the largest one-day gain for any company up to then.",
+        "zh": "Meta 公布强劲业绩，宣布首次派发每股 0.50 美元的季度股息，并追加 500 亿美元回购。股价上涨 20.3% 创收盘新高，市值增加约 1970 亿美元，是当时所有公司中最大的单日增幅。"
+      },
+      "why": {
+        "en": "Fully priced by the market (rep = 0). His stake gained roughly $28 billion in a day, and the dividend now pays him several hundred million dollars a year in cash.",
+        "zh": "完全由市场定价（rep = 0）。他的持股一天增值约 280 亿美元，此后股息每年还为他带来数亿美元现金。"
+      },
+      "src": [
+        {
+          "name": "Meta Investor Relations · Q4 2023 results, initiates quarterly dividend",
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2024/Meta-Reports-Fourth-Quarter-and-Full-Year-2023-Results-Initiates-Quarterly-Dividend/default.aspx",
+          "type": "filing"
+        },
+        {
+          "name": "The Globe and Mail · Meta surges with record gain",
+          "url": "https://www.theglobeandmail.com/business/article-meta-surges-with-record-196-billion-gain-in-stock-market-value/",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · META price history",
+          "url": "https://finance.yahoo.com/quote/META/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2025-01-07",
+      "p": "day",
+      "cat": "reputation",
+      "dir": 0,
+      "mag": 3,
+      "rep": -0.02,
+      "s": {
+        "en": "Ends fact-checking",
+        "zh": "取消事实核查"
+      },
+      "t": {
+        "en": "Ends third-party fact-checking in the U.S. and loosens content rules",
+        "zh": "在美国终止第三方事实核查，放宽内容规则"
+      },
+      "summary": {
+        "en": "Two weeks before the presidential inauguration, he announced that Meta would replace outside fact-checkers in the United States with user-written community notes and lift some restrictions on political topics, saying moderation had gone too far.",
+        "zh": "在美国总统就职前两周，他宣布 Meta 将在美国用用户撰写的“社区笔记”取代外部事实核查机构，并取消对部分政治话题的限制，称此前的内容审核做过了头。"
+      },
+      "why": {
+        "en": "Scored as mixed: supporters saw a defence of free expression, critics saw a political favour. Opinion split sharply, and the net effect on the reputation coefficient is set at -2%.",
+        "zh": "记为好坏参半：支持者认为这是捍卫言论自由，批评者认为是政治示好。舆论分歧严重，口碑系数净影响定为 -2%。"
+      },
+      "src": [
+        {
+          "name": "Meta Newsroom · More speech and fewer mistakes",
+          "url": "https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/",
+          "type": "filing"
+        },
+        {
+          "name": "Wikipedia · Meta Platforms",
+          "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2025-06-30",
+      "p": "day",
+      "cat": "career",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "Superintelligence",
+        "zh": "超级智能实验室"
+      },
+      "t": {
+        "en": "Creates Meta Superintelligence Labs after a $14.3 billion Scale AI deal",
+        "zh": "斥资 143 亿美元入股 Scale AI 后，成立 Meta 超级智能实验室"
+      },
+      "summary": {
+        "en": "He told staff that all of Meta's AI work would move into a new unit, Meta Superintelligence Labs, led by Alexandr Wang. Wang joined after Meta paid $14.3 billion for 49% of his company Scale AI, and Zuckerberg personally recruited researchers from rival labs with very large pay offers.",
+        "zh": "他通知员工，Meta 所有的 AI 工作将并入新成立的 Meta 超级智能实验室，由汪滔（Alexandr Wang）领导。此前 Meta 以 143 亿美元买下汪滔创办的 Scale AI 49% 的股份；扎克伯格还亲自出面，用极高的薪酬从竞争对手那里挖研究员。"
+      },
+      "why": {
+        "en": "His second all-in bet after the metaverse. The cost and any payoff run through the share price; a +2% on the reputation coefficient reflects the attention the hiring campaign drew.",
+        "zh": "这是他继元宇宙之后的第二次全力押注。成本和回报都会经由股价体现；这场挖人大战吸引的关注带来口碑系数 +2%。"
+      },
+      "src": [
+        {
+          "name": "Fortune · Zuckerberg overhauls Meta's AI organization",
+          "url": "https://fortune.com/2025/06/30/mark-zuckerberg-overhauled-meta-ai-org-superintelligence-alexandr-wang/",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · Meta Superintelligence Labs",
+          "url": "https://en.wikipedia.org/wiki/Meta_Superintelligence_Labs",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2025-10-30",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": 0,
+      "s": {
+        "en": "-11% on AI costs",
+        "zh": "AI 开支吓跌"
+      },
+      "t": {
+        "en": "Shares drop 11% as investors balk at AI spending plans",
+        "zh": "AI 开支计划吓退投资者，股价下跌 11%"
+      },
+      "summary": {
+        "en": "After third-quarter results, Meta said its spending on data centers would grow much faster in 2026. The stock fell 11.3% the next day, its worst session in three years, and Zuckerberg slipped two places on Bloomberg's wealth ranking.",
+        "zh": "三季度财报发布后，Meta 表示 2026 年数据中心投入的增速将明显加快。次日股价下跌 11.3%，是三年来最差的一天，扎克伯格在彭博富豪榜上的排名下滑两位。"
+      },
+      "why": {
+        "en": "Fully priced by the market (rep = 0). The stock had set its record close of $790 only weeks earlier, in August 2025.",
+        "zh": "完全由市场定价（rep = 0）。就在几周前的 2025 年 8 月，股价刚创下 790 美元的收盘纪录。"
+      },
+      "src": [
+        {
+          "name": "Bloomberg · Zuckerberg drops two spots in billionaire ranks",
+          "url": "https://www.bloomberg.com/news/articles/2025-10-30/zuckerberg-falls-two-spots-as-tech-earnings-reshuffle-rich-ranks",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · META price history",
+          "url": "https://finance.yahoo.com/quote/META/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2025-11-18",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 4,
+      "rep": 0.02,
+      "s": {
+        "en": "Beats the FTC",
+        "zh": "反垄断案胜诉"
+      },
+      "t": {
+        "en": "Wins the FTC antitrust case over Instagram and WhatsApp",
+        "zh": "赢下 FTC 针对 Instagram 和 WhatsApp 的反垄断案"
+      },
+      "summary": {
+        "en": "A federal judge ruled that Meta does not hold an illegal monopoly in social networking, pointing to competition from TikTok and YouTube. The decision ended a five-year effort by the Federal Trade Commission to force the sale of Instagram and WhatsApp. Zuckerberg had testified at the trial in April.",
+        "zh": "联邦法官裁定 Meta 在社交网络领域并不构成非法垄断，理由之一是来自 TikTok 和 YouTube 的竞争。这一判决结束了联邦贸易委员会长达五年、试图迫使其出售 Instagram 和 WhatsApp 的努力。扎克伯格曾在 4 月出庭作证。"
+      },
+      "why": {
+        "en": "It removed the largest structural threat to the company he built. The stock barely moved that day, so the model adds +2% to the reputation coefficient for the vindication of his two signature deals.",
+        "zh": "这消除了他一手建立的公司面临的最大结构性威胁。当天股价几乎没动，因此模型以口碑系数 +2% 体现他两笔代表性收购得到的“平反”。"
+      },
+      "src": [
+        {
+          "name": "NPR · Judge sides with Meta in antitrust trial",
+          "url": "https://www.npr.org/2025/11/18/nx-s1-5495626/meta-ftc-instagram-whatsapp-antitrust-ruling",
+          "type": "news"
+        },
+        {
+          "name": "Wikipedia · FTC v. Meta",
+          "url": "https://en.wikipedia.org/wiki/FTC_v._Meta",
+          "type": "wiki"
+        }
+      ]
+    },
+    {
+      "d": "2026-03-25",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.03,
+      "s": {
+        "en": "Jury finds harm",
+        "zh": "陪审团判担责"
+      },
+      "t": {
+        "en": "A Los Angeles jury finds Meta negligent in a landmark youth-harm trial",
+        "zh": "洛杉矶陪审团在标志性的青少年伤害案中认定 Meta 存在过失"
+      },
+      "summary": {
+        "en": "In a test case for about 2,000 similar lawsuits, jurors found Meta and YouTube negligent toward a young user and awarded $6 million, with Meta responsible for 70%. Zuckerberg had testified in February. A day earlier a New Mexico jury had ordered Meta to pay $375 million in a child-safety case. The stock fell 8% on March 26.",
+        "zh": "这是约 2000 起同类诉讼中的一起试验性案件：陪审团认定 Meta 和 YouTube 对一名年轻用户存在过失，判赔 600 万美元，其中 Meta 承担 70%。扎克伯格曾在 2 月出庭作证。前一天，新墨西哥州的陪审团刚在一起儿童安全案中判 Meta 支付 3.75 亿美元。3 月 26 日股价下跌 8%。"
+      },
+      "why": {
+        "en": "The sums were small, but the verdicts opened the door to far larger claims. The price drop is in the stock; -3% on the reputation coefficient because he was the face of the defence on the stand. Meta said it would appeal.",
+        "zh": "金额不大，但这些裁决为规模大得多的索赔打开了大门。股价下跌由股票反映；他作为辩方出庭的代表人物，口碑系数 -3%。Meta 表示将上诉。"
+      },
+      "src": [
+        {
+          "name": "NPR · Jury finds Meta and Google negligent",
+          "url": "https://www.npr.org/2026/03/25/nx-s1-5746125/meta-youtube-social-media-trial-verdict",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · META price history",
+          "url": "https://finance.yahoo.com/quote/META/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2026-04-08",
+      "p": "day",
+      "cat": "milestone",
+      "dir": 1,
+      "mag": 3,
+      "rep": 0.01,
+      "s": {
+        "en": "Muse Spark",
+        "zh": "Muse Spark 发布"
+      },
+      "t": {
+        "en": "Releases Muse Spark, the first model from Meta Superintelligence Labs",
+        "zh": "发布超级智能实验室的首个模型 Muse Spark"
+      },
+      "summary": {
+        "en": "Nine months after the lab was formed, Meta released Muse Spark, a new AI model built from scratch and offered through the Meta AI app. Reviewers described it as competitive with rival models but not ahead of them. The stock rose 6.5% that day.",
+        "zh": "实验室成立九个月后，Meta 发布了从零打造的新 AI 模型 Muse Spark，并通过 Meta AI 应用提供。评测普遍认为它与对手的模型有一战之力，但并未领先。当天股价上涨 6.5%。"
+      },
+      "why": {
+        "en": "First visible output of the superintelligence spending. The market reaction is in the stock; a small +1% for delivering on schedule.",
+        "zh": "这是超级智能投入的第一个看得见的成果。市场反应已在股价里；按时交付，口碑系数小幅 +1%。"
+      },
+      "src": [
+        {
+          "name": "Meta Newsroom · Introducing Muse Spark",
+          "url": "https://about.fb.com/news/2026/04/introducing-muse-spark-meta-superintelligence-labs/",
+          "type": "filing"
+        },
+        {
+          "name": "Yahoo Finance · META price history",
+          "url": "https://finance.yahoo.com/quote/META/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2026-05-20",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 3,
+      "rep": -0.02,
+      "s": {
+        "en": "8,000 jobs cut",
+        "zh": "裁员 8000 人"
+      },
+      "t": {
+        "en": "Cuts about 8,000 jobs while raising AI spending to as much as $145 billion",
+        "zh": "裁员约 8000 人，同时把 AI 投入上调至最高 1450 亿美元"
+      },
+      "summary": {
+        "en": "Meta laid off about 10% of its workforce, a move first announced in April, and cancelled plans to fill thousands of open roles. Three weeks earlier it had raised its 2026 capital-spending forecast to between $125 billion and $145 billion, and the stock fell 8.6% the following day. Zuckerberg told staff he expected no further company-wide layoffs that year.",
+        "zh": "Meta 裁掉约 10% 的员工（4 月已预告），并取消数千个空缺岗位的招聘计划。三周前，公司把 2026 年资本开支预期上调到 1250 亿至 1450 亿美元，次日股价下跌 8.6%。扎克伯格对员工表示，预计年内不会再有全公司范围的裁员。"
+      },
+      "why": {
+        "en": "Investors' worry about the size of the AI bill is in the stock. The -2% on the reputation coefficient is for cutting staff to pay for data centers, which drew criticism inside and outside the company.",
+        "zh": "投资者对 AI 账单规模的担忧已体现在股价里。口碑系数 -2% 来自“裁人给数据中心腾钱”在公司内外引发的批评。"
+      },
+      "src": [
+        {
+          "name": "Fortune · Meta lays off 10% of its workforce",
+          "url": "https://fortune.com/2026/05/21/meta-10-percent-workforce-layoffs-ai-tech-success-is-not-a-given-8-thousand-employees-mark-zuckerberg/",
+          "type": "news"
+        },
+        {
+          "name": "Fortune · Meta raises 2026 capex forecast to as much as $145 billion",
+          "url": "https://fortune.com/2026/04/29/meta-zuckerberg-145-billion-ai-spending-roi/",
+          "type": "news"
+        },
+        {
+          "name": "NPR · Meta will lay off 10% of its staff",
+          "url": "https://www.npr.org/2026/04/23/nx-s1-5797855/meta-layoffs-10-percent-staff",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "d": "2026-08-26",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 4,
+      "rep": -0.03,
+      "s": {
+        "en": "$17B settlement",
+        "zh": "170 亿和解"
+      },
+      "t": {
+        "en": "Agrees to pay up to $17.1 billion to settle states' child-safety claims",
+        "zh": "同意支付最高 171 亿美元，了结各州的儿童安全诉讼"
+      },
+      "summary": {
+        "en": "Partway through a trial, Meta reached a settlement with a coalition of state attorneys general who accused it of designing Instagram and Facebook in ways that harmed teenagers. It will pay at least $12.1 billion over ten years, with up to $5 billion more depending on other companies, and must change product features under an independent auditor. Meta denied wrongdoing.",
+        "zh": "庭审进行到一半时，Meta 与多州总检察长联盟达成和解；这些州指控 Instagram 和 Facebook 的产品设计伤害了青少年。Meta 将在十年内支付至少 121 亿美元，另有最高 50 亿美元视其他公司的情况而定，并须在独立审计方监督下修改产品功能。Meta 否认存在不当行为。"
+      },
+      "why": {
+        "en": "One of the largest settlements ever paid by a technology company; Meta booked a $9.89 billion charge for it in the third quarter. The stock moved little on the day, so the model records -3% on the reputation coefficient.",
+        "zh": "这是科技公司有史以来最大的和解之一；Meta 为此在三季度计提了 98.9 亿美元费用。当天股价波动不大，因此模型记口碑系数 -3%。"
+      },
+      "src": [
+        {
+          "name": "NPR · Meta, states agree to $17 billion settlement",
+          "url": "https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit",
+          "type": "news"
+        },
+        {
+          "name": "SEC EDGAR · Meta Q3 2026 results (8-K exhibit 99.1)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001326801/000162828026066700/meta-09302026xexhibit991.htm",
+          "type": "filing"
+        }
+      ]
+    },
+    {
+      "d": "2026-10-21",
+      "p": "day",
+      "cat": "crisis",
+      "dir": -1,
+      "mag": 4,
+      "rep": -0.03,
+      "s": {
+        "en": "$25B penalty",
+        "zh": "被判罚 250 亿"
+      },
+      "t": {
+        "en": "A New Mexico judge orders Meta to pay $25 billion over privacy deception",
+        "zh": "新墨西哥州法官判令 Meta 就隐私欺骗支付 250 亿美元"
+      },
+      "summary": {
+        "en": "In a case that grew out of the Cambridge Analytica scandal, a state judge found that Facebook had intentionally misled users about how their data was handled and set a civil penalty of $25 billion. Meta said it would appeal. The ruling landed on the same day as third-quarter results, and the stock fell 7% the next day.",
+        "zh": "在一起由剑桥分析丑闻引出的案件中，州法官认定 Facebook 在用户数据的处理方式上故意误导用户，开出 250 亿美元的民事罚款。Meta 表示将上诉。判决与三季度财报同日公布，次日股价下跌 7%。"
+      },
+      "why": {
+        "en": "The price drop is in the stock, and it cannot be separated from the earnings report and share plan announced the same day. The -3% on the reputation coefficient is for a court finding of intentional deception going back to 2018. The penalty is under appeal and may change.",
+        "zh": "股价下跌已由股票反映，而且无法与同日发布的财报和股权方案区分开。口碑系数 -3% 来自法院认定其自 2018 年以来存在故意欺骗。罚款仍在上诉中，结果可能改变。"
+      },
+      "src": [
+        {
+          "name": "Anchorage Daily News · Meta ordered to pay New Mexico $25 billion",
+          "url": "https://www.adn.com/nation-world/2026/10/21/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/",
+          "type": "news"
+        },
+        {
+          "name": "CNBC · Meta Q3 2026 earnings",
+          "url": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
+          "type": "news"
+        },
+        {
+          "name": "Yahoo Finance · META price history",
+          "url": "https://finance.yahoo.com/quote/META/history",
+          "type": "market"
+        }
+      ]
+    },
+    {
+      "d": "2026-10-21",
+      "p": "day",
+      "cat": "wealth",
+      "dir": 0,
+      "mag": 3,
+      "rep": -0.01,
+      "s": {
+        "en": "Class C share plan",
+        "zh": "C 类股方案"
+      },
+      "t": {
+        "en": "Meta creates non-voting Class C shares; shareholders sue",
+        "zh": "Meta 设立无投票权的 C 类股，股东提起诉讼"
+      },
+      "summary": {
+        "en": "Meta said every share would receive one new non-voting Class C share in January 2027, in effect a two-for-one split. Under a side agreement, Zuckerberg may sell a fifth of his new shares without giving up votes, and he committed to remain a California resident for eight years. Shareholders sued in Delaware days later, and in November Meta agreed not to issue the shares while the case is heard.",
+        "zh": "Meta 宣布，2027 年 1 月每股将获派一股新的无投票权 C 类股，效果相当于一拆二。按照一份附带协议，扎克伯格可以在不减少投票权的情况下卖出新获股份的五分之一，并承诺未来八年保持加州居民身份。几天后股东在特拉华州起诉，11 月 Meta 同意在案件审理期间暂不发行这些股份。"
+      },
+      "why": {
+        "en": "Mixed: it gives him a way to raise cash while keeping about 61% of the votes on about 13% of the shares, but the governance criticism is real. Nothing has been issued yet, so share counts in this file are unchanged. A small -1% on the reputation coefficient.",
+        "zh": "好坏参半：这让他能在只持有约 13% 股份的情况下保住约 61% 的投票权并套现，但治理方面的批评确实存在。目前尚未发行任何股份，本文件中的股本数据不变。口碑系数小幅 -1%。"
+      },
+      "src": [
+        {
+          "name": "Fortune · Zuckerberg, Meta and the Class C stock",
+          "url": "https://fortune.com/2026/10/21/zuckerberg-meta-california-wealth-tax-billions-class-c-stock/",
+          "type": "news"
+        },
+        {
+          "name": "SEC EDGAR · Meta Q3 2026 results (8-K exhibit 99.1)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001326801/000162828026066700/meta-09302026xexhibit991.htm",
+          "type": "filing"
+        },
+        {
+          "name": "The Next Web · Meta shareholders sue Zuckerberg over Class C shares",
+          "url": "https://thenextweb.com/news/meta-shareholders-sue-zuckerberg-class-c-shares",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}
